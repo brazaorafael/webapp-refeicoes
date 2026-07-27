@@ -60,6 +60,58 @@
         "equilibrado"
       ],
       "titulo": "Bife de Alcatra Grelhado com Purê de Batata Cremoso e Brócolis no Vapor"
+    },
+    {
+      "entrada": {
+        "ingredientes": [
+          "alface crespa",
+          "tomate",
+          "azeite",
+          "vinagre",
+          "sal"
+        ],
+        "nome": "Salada de Alface e Tomate",
+        "preparo": [
+          "Lave bem as folhas de alface e o tomate. Corte o tomate em rodelas. Monte a salada e tempere com azeite, vinagre e sal a gosto."
+        ]
+      },
+      "fonte": "ana maria braga",
+      "id": "bife-acebolado-com-tomate-a05174",
+      "porque": "Um clássico prato com carne vermelha, rápido e fácil de preparar, ideal para começar a semana.",
+      "principal": {
+        "ingredientes": [
+          "bifes (contrafilé ou alcatra)",
+          "cebola",
+          "tomate",
+          "alho",
+          "azeite",
+          "sal",
+          "pimenta-do-reino",
+          "arroz branco",
+          "feijão"
+        ],
+        "nome": "Bife Acebolado com Tomate",
+        "preparo": [
+          "Tempere os bifes com sal e pimenta. Em uma frigideira quente com azeite, grelhe os bifes até o ponto desejado. Retire os bifes e, na mesma frigideira, refogue a cebola fatiada e o alho picado. Adicione o tomate picado e cozinhe rapidamente. Volte os bifes para a frigideira, misture com o molho e sirva com arroz branco e feijão."
+        ]
+      },
+      "rende_sobra": true,
+      "sobremesa": {
+        "ingredientes": [
+          "fruta fresca (ex: banana, maçã, mamão)"
+        ],
+        "nome": "Fruta da Estação",
+        "preparo": [
+          "Lave e corte a fruta de sua preferência."
+        ]
+      },
+      "tags": [
+        "carne_vermelha",
+        "grelhado",
+        "rapido",
+        "equilibrio"
+      ],
+      "titulo": "Bife Acebolado com Tomate"
     }
   ]
 }

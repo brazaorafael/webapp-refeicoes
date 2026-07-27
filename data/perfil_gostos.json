@@ -10,14 +10,26 @@
         "equilibrado"
       ],
       "data": "27/07/2026"
+    },
+    {
+      "id": "bife-acebolado-com-tomate-a05174",
+      "titulo": "Bife Acebolado com Tomate",
+      "tags": [
+        "carne_vermelha",
+        "grelhado",
+        "rapido",
+        "equilibrio"
+      ],
+      "data": "27/07/2026"
     }
   ],
   "rejeitadas": [],
   "contadores": {
-    "carne_vermelha": 1,
-    "grelhado": 1,
-    "rapido": 1,
-    "equilibrado": 1
+    "carne_vermelha": 2,
+    "grelhado": 2,
+    "rapido": 2,
+    "equilibrado": 1,
+    "equilibrio": 1
   },
-  "resumo": "curtem: rapido, grelhado, equilibrado, carne vermelha"
+  "resumo": "curtem: rapido, grelhado, carne vermelha, equilibrio, equilibrado"
 }
