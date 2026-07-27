@@ -1,0 +1,143 @@
+/* ---------- Paleta e base (visual leve, quente e minimalista) ---------- */
+:root{
+  --fundo:#f4f1ea;        /* creme quente */
+  --cartao:#fbf9f4;
+  --tinta:#2a2622;        /* quase preto quente */
+  --tinta-suave:#6f685e;
+  --linha:#e4ddcf;
+  --acento:#8a7a5c;       /* argila/oliva suave */
+  --acento-forte:#5f5540;
+  --gostei:#4a6b4f;       /* verde discreto */
+  --naogostei:#a75d4f;    /* terracota discreto */
+  --raio:14px;
+  --sombra:0 1px 2px rgba(40,34,26,.05), 0 6px 20px rgba(40,34,26,.05);
+}
+
+*{box-sizing:border-box}
+html,body{margin:0}
+body{
+  background:var(--fundo);
+  color:var(--tinta);
+  font-family:"Inter",-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+  line-height:1.55;
+  -webkit-font-smoothing:antialiased;
+  padding-bottom:48px;
+}
+
+/* ---------- Cabeçalho ---------- */
+.topo{max-width:680px;margin:0 auto;padding:28px 20px 6px}
+.topo-inner{display:flex;align-items:baseline;justify-content:space-between}
+.topo h1{
+  font-family:"Fraunces",Georgia,serif;
+  font-weight:500;font-size:34px;letter-spacing:-.01em;margin:0;
+}
+.subtitulo{margin:2px 0 0;color:var(--tinta-suave);font-size:14px;letter-spacing:.04em;text-transform:uppercase}
+
+/* ---------- Abas ---------- */
+.abas{
+  position:sticky;top:0;z-index:5;background:var(--fundo);
+  max-width:680px;margin:14px auto 0;padding:8px 12px;
+  display:flex;gap:4px;border-bottom:1px solid var(--linha);
+}
+.aba{
+  flex:1;background:none;border:none;cursor:pointer;
+  font:inherit;font-size:14px;color:var(--tinta-suave);
+  padding:10px 6px;border-radius:10px;transition:.15s;
+}
+.aba:hover{color:var(--tinta)}
+.aba.ativa{color:var(--tinta);font-weight:600;background:var(--cartao);box-shadow:var(--sombra)}
+
+/* ---------- Painéis ---------- */
+main{max-width:680px;margin:0 auto;padding:18px 20px}
+.painel{display:none}
+.painel.ativo{display:block;animation:aparece .25s ease}
+@keyframes aparece{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:none}}
+
+.secao-titulo{
+  font-family:"Fraunces",Georgia,serif;font-weight:500;font-size:22px;
+  margin:6px 0 16px;letter-spacing:-.01em;
+}
+.dia-titulo{
+  font-family:"Fraunces",Georgia,serif;font-weight:600;font-size:17px;
+  margin:26px 0 10px;padding-bottom:6px;border-bottom:1px solid var(--linha);
+}
+
+/* ---------- Cartão de receita ---------- */
+.cartao{
+  background:var(--cartao);border:1px solid var(--linha);border-radius:var(--raio);
+  box-shadow:var(--sombra);padding:18px;margin:0 0 16px;
+}
+.cartao h3{
+  font-family:"Fraunces",Georgia,serif;font-weight:600;font-size:19px;
+  margin:0 0 4px;letter-spacing:-.01em;
+}
+.cartao .porque{color:var(--tinta-suave);font-size:14px;margin:0 0 8px;font-style:italic}
+.tags{display:flex;flex-wrap:wrap;gap:6px;margin:8px 0 4px}
+.tag{
+  font-size:11px;letter-spacing:.03em;color:var(--acento-forte);
+  background:#efe9dc;border-radius:999px;padding:3px 9px;
+}
+.sobra{font-size:12px;color:var(--gostei);font-weight:500}
+
+/* Blocos entrada/principal/sobremesa */
+.prato{margin-top:12px}
+.prato-rotulo{
+  font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--acento);
+  font-weight:600;margin:0 0 2px;
+}
+.prato-nome{font-weight:600;font-size:15px;margin:0 0 6px}
+details{border-top:1px dashed var(--linha);margin-top:8px;padding-top:8px}
+details summary{cursor:pointer;font-size:13px;color:var(--tinta-suave);list-style:none}
+details summary::-webkit-details-marker{display:none}
+details summary::before{content:"▸ ";color:var(--acento)}
+details[open] summary::before{content:"▾ "}
+.prato ul,.prato ol{margin:8px 0 0;padding-left:20px;font-size:14px}
+.prato li{margin-bottom:4px}
+
+/* Botões de voto */
+.votos{display:flex;gap:10px;margin-top:16px}
+.voto{
+  flex:1;border:1px solid var(--linha);background:var(--fundo);cursor:pointer;
+  font:inherit;font-size:14px;padding:10px;border-radius:10px;transition:.15s;color:var(--tinta);
+}
+.voto:hover{border-color:var(--acento)}
+.voto.sel-gostei{background:var(--gostei);color:#fff;border-color:var(--gostei)}
+.voto.sel-naogostei{background:var(--naogostei);color:#fff;border-color:var(--naogostei)}
+
+/* ---------- Lista de compras ---------- */
+.compras li{margin-bottom:6px;font-size:15px}
+.compras input{margin-right:8px;accent-color:var(--acento)}
+.btn{
+  background:var(--acento-forte);color:#fff;border:none;cursor:pointer;
+  font:inherit;font-size:14px;font-weight:500;padding:11px 16px;border-radius:10px;transition:.15s;
+}
+.btn:hover{background:var(--acento)}
+.btn-linha{display:flex;gap:10px;flex-wrap:wrap;margin:8px 0 20px}
+
+/* ---------- Perfil ---------- */
+.chip-grid{display:flex;flex-wrap:wrap;gap:8px;margin:10px 0}
+.chip{font-size:13px;padding:5px 11px;border-radius:999px;border:1px solid var(--linha);background:var(--cartao)}
+.chip.pos{color:var(--gostei);border-color:#cfe0d1}
+.chip.neg{color:var(--naogostei);border-color:#e8cfc8}
+
+/* ---------- Vazio / ajuda ---------- */
+.vazio{color:var(--tinta-suave);font-size:15px;text-align:center;padding:40px 10px}
+
+/* ---------- Modal ---------- */
+.modal{position:fixed;inset:0;background:rgba(40,34,26,.35);display:flex;align-items:flex-end;justify-content:center;z-index:20}
+.modal.escondido{display:none}
+.modal-caixa{background:var(--cartao);width:100%;max-width:520px;border-radius:18px 18px 0 0;padding:22px 20px 28px;box-shadow:var(--sombra)}
+.modal-caixa h2{font-family:"Fraunces",Georgia,serif;font-weight:500;margin:0 0 8px}
+.modal-caixa label{display:block;font-size:13px;color:var(--tinta-suave);margin:14px 0 0}
+.modal-caixa input{width:100%;margin-top:5px;padding:11px;border:1px solid var(--linha);border-radius:10px;font:inherit;background:var(--fundo)}
+.modal-acoes{display:flex;align-items:center;gap:14px;margin-top:20px}
+.ajuda{font-size:13px;color:var(--tinta-suave);margin:6px 0}
+.link-sutil{background:none;border:none;color:var(--acento-forte);cursor:pointer;font:inherit;font-size:14px;text-decoration:underline}
+
+/* ---------- Rodapé ---------- */
+.rodape{max-width:680px;margin:24px auto 0;padding:0 20px;color:var(--tinta-suave);font-size:12px;text-align:center}
+
+@media(min-width:560px){
+  .modal{align-items:center}
+  .modal-caixa{border-radius:18px}
+}
