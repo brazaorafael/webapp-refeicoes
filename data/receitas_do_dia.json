@@ -2,65 +2,189 @@
   "gerado_em": "27/07/2026",
   "diario": {
     "tipo": "diario",
-    "data": "exemplo",
-    "dia_semana": "",
+    "data": "27/07/2026",
+    "dia_semana": "segunda",
     "receitas": [
       {
-        "id": "exemplo-file-mignon-airfryer",
-        "titulo": "Filé mignon ao molho de mostarda (airfryer) com arroz e brócolis",
-        "porque": "Carne vermelha, boa proteína e pronto em ~35 min, sem fritura.",
-        "fonte": "exemplo",
+        "titulo": "Bife de Alcatra Grelhado com Purê de Batata Cremoso e Brócolis no Vapor",
+        "porque": "Este menu oferece carne vermelha grelhada, um clássico prático e saboroso, com acompanhamentos equilibrados e de preparo rápido.",
+        "fonte": "outro",
         "tags": [
           "carne_vermelha",
-          "airfryer",
-          "rapido"
+          "grelhado",
+          "rapido",
+          "equilibrado"
         ],
         "rende_sobra": true,
         "entrada": {
-          "nome": "Salada de folhas com tomate",
+          "nome": "Salada de Folhas com Queijo Minas e Tomate Cereja",
           "ingredientes": [
-            "Mix de folhas",
-            "Tomate",
-            "Azeite",
-            "Sal",
-            "Limão"
+            "Mix de folhas verdes",
+            "queijo minas frescal em cubos",
+            "tomate cereja",
+            "azeite",
+            "sal",
+            "pimenta-do-reino"
           ],
           "preparo": [
-            "Lave as folhas",
-            "Corte o tomate",
-            "Tempere com azeite, sal e limão"
+            "Lave e seque as folhas verdes.",
+            "Corte o queijo minas em cubos e os tomates cereja ao meio.",
+            "Misture todos os ingredientes e tempere com azeite, sal e pimenta-do-reino a gosto."
           ]
         },
         "principal": {
-          "nome": "Filé mignon ao molho de mostarda no airfryer",
+          "nome": "Bife de Alcatra Grelhado com Purê de Batata Cremoso e Brócolis no Vapor",
           "ingredientes": [
-            "Medalhões de filé mignon",
-            "Mostarda",
-            "Creme de leite",
-            "Arroz",
-            "Brócolis",
-            "Alho",
-            "Sal"
+            "Bife de alcatra",
+            "batatas",
+            "leite",
+            "manteiga",
+            "brócolis",
+            "alho",
+            "azeite",
+            "sal",
+            "pimenta-do-reino"
           ],
           "preparo": [
-            "Tempere a carne",
-            "Airfryer 200°C por ~12 min",
-            "Faça o molho de mostarda com creme de leite",
-            "Cozinhe arroz e brócolis"
+            "Cozinhe as batatas em água com sal até ficarem macias. Escorra e amasse-as, adicionando leite, manteiga e sal para fazer um purê cremoso.",
+            "Cozinhe o brócolis no vapor até ficar al dente. Se desejar, refogue rapidamente com um dente de alho picado e azeite.",
+            "Tempere os bifes de alcatra com sal e pimenta-do-reino.",
+            "Aqueça uma frigideira ou chapa com um fio de azeite e grelhe os bifes por 3-4 minutos de cada lado, ou até o ponto desejado."
           ]
         },
         "sobremesa": {
-          "nome": "Banana com canela",
+          "nome": "Mousse de Maracujá Rápida",
           "ingredientes": [
-            "Banana",
-            "Canela"
+            "Leite condensado",
+            "creme de leite",
+            "suco concentrado de maracujá"
           ],
           "preparo": [
-            "Corte a banana",
-            "Polvilhe canela",
-            "Sirva"
+            "No liquidificador, bata o leite condensado, o creme de leite e o suco concentrado de maracujá até obter uma mistura homogênea.",
+            "Despeje em taças individuais ou em um refratário e leve à geladeira por pelo menos 30 minutos para firmar."
           ]
-        }
+        },
+        "id": "bife-de-alcatra-grelhado-com-pur-de-bata-a27be7"
+      },
+      {
+        "titulo": "Carne Moída Refogada com Abobrinha e Cenoura, acompanhada de Cuscuz Marroquino",
+        "porque": "Uma opção de carne moída rápida e versátil, com muitos vegetais e um carboidrato de preparo instantâneo, ideal para o dia a dia.",
+        "fonte": "panelinha",
+        "tags": [
+          "carne_vermelha",
+          "rapido",
+          "equilibrado",
+          "refogado"
+        ],
+        "rende_sobra": true,
+        "entrada": {
+          "nome": "Mini Pães de Queijo de Forno",
+          "ingredientes": [
+            "Massa pronta de pão de queijo ou polvilho",
+            "queijo",
+            "leite",
+            "ovos"
+          ],
+          "preparo": [
+            "Se usar massa pronta, disponha os pães de queijo em uma assadeira ou cesto da airfryer.",
+            "Asse em forno pré-aquecido a 180°C ou na airfryer a 160°C pelo tempo indicado na embalagem, até dourarem."
+          ]
+        },
+        "principal": {
+          "nome": "Carne Moída Refogada com Abobrinha e Cenoura, acompanhada de Cuscuz Marroquino",
+          "ingredientes": [
+            "Carne moída",
+            "abobrinha",
+            "cenoura",
+            "cebola",
+            "alho",
+            "tomate",
+            "cuscuz marroquino",
+            "azeite",
+            "sal",
+            "pimenta-do-reino"
+          ],
+          "preparo": [
+            "Em uma panela, refogue a cebola picada e o alho em azeite.",
+            "Adicione a carne moída e refogue até dourar e soltar. Tempere com sal e pimenta-do-reino.",
+            "Acrescente a abobrinha e a cenoura picadas e o tomate picado. Cozinhe até os vegetais ficarem macios.",
+            "Prepare o cuscuz marroquino seguindo as instruções da embalagem (geralmente hidratando com água quente e um fio de azeite por 5 minutos)."
+          ]
+        },
+        "sobremesa": {
+          "nome": "Gelatina Colorida com Creme de Leite",
+          "ingredientes": [
+            "Sachês de gelatina de sabores variados",
+            "creme de leite"
+          ],
+          "preparo": [
+            "Prepare cada sabor de gelatina separadamente, seguindo as instruções da embalagem. Leve à geladeira até firmar.",
+            "Corte as gelatinas firmes em cubos e misture delicadamente com creme de leite antes de servir."
+          ]
+        },
+        "id": "carne-mo-da-refogada-com-abobrinha-e-cen-054adf"
+      },
+      {
+        "titulo": "Filé Mignon Suíno na Airfryer com Batata Doce Assada e Espinafre Refogado",
+        "porque": "Uma alternativa saborosa à carne vermelha, com preparo rápido na airfryer e acompanhamentos saudáveis e equilibrados.",
+        "fonte": "panelinha",
+        "tags": [
+          "porco",
+          "airfryer",
+          "rapido",
+          "equilibrado"
+        ],
+        "rende_sobra": true,
+        "entrada": {
+          "nome": "Palitos de Cenoura e Pepino com Molho de Iogurte e Hortelã",
+          "ingredientes": [
+            "Cenoura",
+            "pepino",
+            "iogurte natural",
+            "hortelã fresca",
+            "limão",
+            "azeite",
+            "sal"
+          ],
+          "preparo": [
+            "Lave e corte a cenoura e o pepino em formato de palitos.",
+            "Para o molho, misture o iogurte natural com hortelã picada, suco de limão, azeite e sal a gosto.",
+            "Sirva os palitos de vegetais com o molho de iogurte."
+          ]
+        },
+        "principal": {
+          "nome": "Filé Mignon Suíno na Airfryer com Batata Doce Assada e Espinafre Refogado",
+          "ingredientes": [
+            "Filé mignon suíno",
+            "batata doce",
+            "espinafre",
+            "alho",
+            "azeite",
+            "sal",
+            "pimenta-do-reino",
+            "temperos a gosto"
+          ],
+          "preparo": [
+            "Corte a batata doce em rodelas ou cubos, tempere com azeite, sal e pimenta. Asse na airfryer a 200°C por 15-20 minutos, virando na metade do tempo, ou até ficar macia e dourada.",
+            "Tempere o filé mignon suíno com sal, pimenta e outros temperos de sua preferência. Leve à airfryer a 180°C por 15-20 minutos, virando na metade, até que esteja cozido e dourado.",
+            "Em uma frigideira, refogue o alho picado em azeite e adicione o espinafre. Cozinhe até murchar, tempere com sal."
+          ]
+        },
+        "sobremesa": {
+          "nome": "Banana Assada com Canela e Mel",
+          "ingredientes": [
+            "Banana",
+            "canela em pó",
+            "mel"
+          ],
+          "preparo": [
+            "Corte as bananas ao meio, no sentido do comprimento, ou em rodelas grossas.",
+            "Disponha as bananas em uma assadeira ou no cesto da airfryer.",
+            "Polvilhe canela em pó e regue com mel.",
+            "Asse no forno pré-aquecido a 180°C ou na airfryer a 160°C por cerca de 10-15 minutos, até as bananas ficarem macias e levemente douradas."
+          ]
+        },
+        "id": "fil-mignon-su-no-na-airfryer-com-batata--d878c8"
       }
     ]
   },

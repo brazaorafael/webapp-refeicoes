@@ -163,5 +163,38 @@
       "rapido"
     ],
     "data": "27/07/2026"
+  },
+  {
+    "id": "bife-de-alcatra-grelhado-com-pur-de-bata-a27be7",
+    "titulo": "Bife de Alcatra Grelhado com Purê de Batata Cremoso e Brócolis no Vapor",
+    "tags": [
+      "carne_vermelha",
+      "grelhado",
+      "rapido",
+      "equilibrado"
+    ],
+    "data": "27/07/2026"
+  },
+  {
+    "id": "carne-mo-da-refogada-com-abobrinha-e-cen-054adf",
+    "titulo": "Carne Moída Refogada com Abobrinha e Cenoura, acompanhada de Cuscuz Marroquino",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "equilibrado",
+      "refogado"
+    ],
+    "data": "27/07/2026"
+  },
+  {
+    "id": "fil-mignon-su-no-na-airfryer-com-batata--d878c8",
+    "titulo": "Filé Mignon Suíno na Airfryer com Batata Doce Assada e Espinafre Refogado",
+    "tags": [
+      "porco",
+      "airfryer",
+      "rapido",
+      "equilibrado"
+    ],
+    "data": "27/07/2026"
   }
 ]
