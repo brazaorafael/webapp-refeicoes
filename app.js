@@ -6,6 +6,11 @@
      aprenda os gostos (via workflow "registrar-gosto").
    ========================================================================= */
 
+/* >>> DEPOIS DE CRIAR O WORKER, cole a URL dele aqui entre as aspas <<<
+   Ex.: "https://cozinha-app.SEU-USUARIO.workers.dev"
+   Enquanto estiver vazio, os votos ficam salvos só no aparelho.        */
+const WORKER_URL = "https://cozinha-app.brazaorafael.workers.dev";
+
 const LS = {
   get: (k, d) => { try { return JSON.parse(localStorage.getItem(k)) ?? d; } catch { return d; } },
   set: (k, v) => localStorage.setItem(k, JSON.stringify(v)),
@@ -205,22 +210,23 @@ async function votar(receita, voto) {
   // re-render rápido
   renderHoje(); renderSemana(); renderLista();
 
-  // envia ao GitHub (se houver token) para o agente aprender
-  if (VOTOS[receita.id]) enviarVotoGitHub(voto, receita);
+  // envia ao mini-servidor (Worker) para o agente aprender
+  if (VOTOS[receita.id]) enviarVoto(voto, receita);
 }
 
-async function enviarVotoGitHub(voto, receita) {
+function urlDoWorker() {
   const cfg = LS.get("cfg", {});
-  if (!cfg.repo || !cfg.token) return; // sem config -> fica só local
+  return (cfg.worker || WORKER_URL || "").trim();
+}
+
+async function enviarVoto(voto, receita) {
+  const url = urlDoWorker();
+  if (!url) return; // sem servidor configurado -> fica só local
   try {
-    const r = await fetch(`https://api.github.com/repos/${cfg.repo}/dispatches`, {
+    const r = await fetch(url, {
       method: "POST",
-      headers: {
-        "Authorization": `Bearer ${cfg.token}`,
-        "Accept": "application/vnd.github+json",
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify({ event_type: "gosto", client_payload: { voto, receita } }),
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ voto, receita }),
     });
     if (!r.ok) console.warn("Falha ao sincronizar voto:", r.status);
   } catch (e) { console.warn("Sem rede para sincronizar:", e); }
@@ -241,17 +247,15 @@ document.querySelectorAll(".aba").forEach(btn => {
 const modal = document.getElementById("modal-config");
 document.getElementById("btn-config").onclick = () => {
   const cfg = LS.get("cfg", {});
-  document.getElementById("cfg-repo").value = cfg.repo || "";
-  document.getElementById("cfg-token").value = cfg.token || "";
+  document.getElementById("cfg-worker").value = cfg.worker || "";
   document.getElementById("cfg-status").textContent =
-    cfg.token ? "Sincronização ativa neste aparelho." : "Sem sincronização (votos ficam só aqui).";
+    urlDoWorker() ? "Sincronização ativa." : "Sem sincronização (votos ficam só neste aparelho).";
   modal.classList.remove("escondido");
 };
 document.getElementById("cfg-fechar").onclick = () => modal.classList.add("escondido");
 document.getElementById("cfg-salvar").onclick = () => {
-  const repo = document.getElementById("cfg-repo").value.trim();
-  const token = document.getElementById("cfg-token").value.trim();
-  LS.set("cfg", { repo, token });
+  const worker = document.getElementById("cfg-worker").value.trim();
+  LS.set("cfg", { worker });
   modal.classList.add("escondido");
 };
 
