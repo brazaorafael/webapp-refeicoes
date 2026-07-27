@@ -1,0 +1,42 @@
+name: registrar-gosto
+
+on:
+  repository_dispatch:
+    types: [gosto]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: registrar-gosto
+  cancel-in-progress: false
+
+jobs:
+  registrar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar o codigo
+        uses: actions/checkout@v4
+
+      - name: Instalar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Registrar o voto
+        env:
+          PAYLOAD: ${{ toJSON(github.event.client_payload) }}
+        run: python registrar_gosto.py
+
+      - name: Salvar (se mudou)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase --autostash || true
+          git add data/
+          if git diff --staged --quiet; then
+            echo "Sem mudancas."
+          else
+            git commit -m "Registra voto do app"
+            git push
+          fi
