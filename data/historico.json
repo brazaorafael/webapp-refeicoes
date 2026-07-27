@@ -1,1 +1,167 @@
-[]
+[
+  {
+    "id": "bife-acebolado-com-tomate-a05174",
+    "titulo": "Bife Acebolado com Tomate",
+    "tags": [
+      "carne_vermelha",
+      "grelhado",
+      "rapido",
+      "equilibrio"
+    ],
+    "data": "27/07/2026"
+  },
+  {
+    "id": "picadinho-de-carne-com-legumes-e78ab4",
+    "titulo": "Picadinho de Carne com Legumes",
+    "tags": [
+      "carne_vermelha",
+      "refogado",
+      "rapido",
+      "equilibrio"
+    ],
+    "data": "27/07/2026"
+  },
+  {
+    "id": "strogonoff-de-carne-cremoso-fb0db4",
+    "titulo": "Strogonoff de Carne Cremoso",
+    "tags": [
+      "carne_vermelha",
+      "refogado",
+      "rapido",
+      "rende_sobra"
+    ],
+    "data": "27/07/2026"
+  },
+  {
+    "id": "bife-milanesa-na-airfryer-d19241",
+    "titulo": "Bife à Milanesa na Airfryer",
+    "tags": [
+      "carne_vermelha",
+      "airfryer",
+      "rapido",
+      "pratico"
+    ],
+    "data": "27/07/2026"
+  },
+  {
+    "id": "alm-ndegas-caseiras-ao-molho-618afd",
+    "titulo": "Almôndegas Caseiras ao Molho",
+    "tags": [
+      "carne_vermelha",
+      "refogado",
+      "rende_sobra",
+      "pratico"
+    ],
+    "data": "27/07/2026"
+  },
+  {
+    "id": "bife-grelhado-com-legumes-salteados-407d0c",
+    "titulo": "Bife Grelhado com Legumes Salteados",
+    "tags": [
+      "carne_vermelha",
+      "grelhado",
+      "low_carb",
+      "rapido"
+    ],
+    "data": "27/07/2026"
+  },
+  {
+    "id": "picadinho-de-carne-com-quiabo-aca50c",
+    "titulo": "Picadinho de Carne com Quiabo",
+    "tags": [
+      "carne_vermelha",
+      "refogado",
+      "rende_sobra",
+      "equilibrio"
+    ],
+    "data": "27/07/2026"
+  },
+  {
+    "id": "rocambole-de-carne-mo-da-recheado-f76b9e",
+    "titulo": "Rocambole de Carne Moída Recheado",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "rende_sobra",
+      "pratico"
+    ],
+    "data": "27/07/2026"
+  },
+  {
+    "id": "escondidinho-de-carne-seca-c78c61",
+    "titulo": "Escondidinho de Carne Seca",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "rende_sobra",
+      "pratico"
+    ],
+    "data": "27/07/2026"
+  },
+  {
+    "id": "hamb-rguer-caseiro-no-forno-com-batata-r-c3ea74",
+    "titulo": "Hambúrguer Caseiro no Forno com Batata Rústica",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "rapido",
+      "pratico"
+    ],
+    "data": "27/07/2026"
+  },
+  {
+    "id": "picanha-no-forno-com-batatas-eca30a",
+    "titulo": "Picanha no Forno com Batatas",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "rende_sobra",
+      "grelhado"
+    ],
+    "data": "27/07/2026"
+  },
+  {
+    "id": "nhoque-de-batata-com-ragu-de-carne-mo-da-76f7b9",
+    "titulo": "Nhoque de Batata com Ragu de Carne Moída",
+    "tags": [
+      "carne_vermelha",
+      "massa",
+      "rende_sobra",
+      "pratico"
+    ],
+    "data": "27/07/2026"
+  },
+  {
+    "id": "carne-assada-de-panela-com-legumes-d43291",
+    "titulo": "Carne Assada de Panela com Legumes",
+    "tags": [
+      "carne_vermelha",
+      "refogado",
+      "rende_sobra",
+      "pratico"
+    ],
+    "data": "27/07/2026"
+  },
+  {
+    "id": "risoto-de-carne-seca-com-queijo-coalho-5cd8cd",
+    "titulo": "Risoto de Carne Seca com Queijo Coalho",
+    "tags": [
+      "carne_vermelha",
+      "risoto",
+      "rende_sobra",
+      "pratico"
+    ],
+    "data": "27/07/2026"
+  },
+  {
+    "id": "salm-o-grelhado-com-aspargos-9d3071",
+    "titulo": "Salmão Grelhado com Aspargos",
+    "tags": [
+      "peixe",
+      "grelhado",
+      "low_carb",
+      "rapido"
+    ],
+    "data": "27/07/2026"
+  }
+]
