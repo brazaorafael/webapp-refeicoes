@@ -1,0 +1,34 @@
+{
+  "gerado_em": "exemplo",
+  "diario": {
+    "tipo": "diario",
+    "data": "exemplo",
+    "dia_semana": "",
+    "receitas": [
+      {
+        "id": "exemplo-file-mignon-airfryer",
+        "titulo": "Filé mignon ao molho de mostarda (airfryer) com arroz e brócolis",
+        "porque": "Carne vermelha, boa proteína e pronto em ~35 min, sem fritura.",
+        "fonte": "exemplo",
+        "tags": ["carne_vermelha", "airfryer", "rapido"],
+        "rende_sobra": true,
+        "entrada": {
+          "nome": "Salada de folhas com tomate",
+          "ingredientes": ["Mix de folhas", "Tomate", "Azeite", "Sal", "Limão"],
+          "preparo": ["Lave as folhas", "Corte o tomate", "Tempere com azeite, sal e limão"]
+        },
+        "principal": {
+          "nome": "Filé mignon ao molho de mostarda no airfryer",
+          "ingredientes": ["Medalhões de filé mignon", "Mostarda", "Creme de leite", "Arroz", "Brócolis", "Alho", "Sal"],
+          "preparo": ["Tempere a carne", "Airfryer 200°C por ~12 min", "Faça o molho de mostarda com creme de leite", "Cozinhe arroz e brócolis"]
+        },
+        "sobremesa": {
+          "nome": "Banana com canela",
+          "ingredientes": ["Banana", "Canela"],
+          "preparo": ["Corte a banana", "Polvilhe canela", "Sirva"]
+        }
+      }
+    ]
+  },
+  "semanal": null
+}
