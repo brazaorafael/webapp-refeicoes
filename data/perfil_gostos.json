@@ -1,6 +1,23 @@
 {
-  "curtidas": [],
+  "curtidas": [
+    {
+      "id": "bife-de-alcatra-grelhado-com-pur-de-bata-a27be7",
+      "titulo": "Bife de Alcatra Grelhado com Purê de Batata Cremoso e Brócolis no Vapor",
+      "tags": [
+        "carne_vermelha",
+        "grelhado",
+        "rapido",
+        "equilibrado"
+      ],
+      "data": "27/07/2026"
+    }
+  ],
   "rejeitadas": [],
-  "contadores": {},
-  "resumo": ""
+  "contadores": {
+    "carne_vermelha": 1,
+    "grelhado": 1,
+    "rapido": 1,
+    "equilibrado": 1
+  },
+  "resumo": "curtem: rapido, grelhado, equilibrado, carne vermelha"
 }

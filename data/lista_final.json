@@ -1,3 +1,65 @@
 {
-  "itens": []
+  "itens": [
+    {
+      "entrada": {
+        "ingredientes": [
+          "Mix de folhas verdes",
+          "queijo minas frescal em cubos",
+          "tomate cereja",
+          "azeite",
+          "sal",
+          "pimenta-do-reino"
+        ],
+        "nome": "Salada de Folhas com Queijo Minas e Tomate Cereja",
+        "preparo": [
+          "Lave e seque as folhas verdes.",
+          "Corte o queijo minas em cubos e os tomates cereja ao meio.",
+          "Misture todos os ingredientes e tempere com azeite, sal e pimenta-do-reino a gosto."
+        ]
+      },
+      "fonte": "outro",
+      "id": "bife-de-alcatra-grelhado-com-pur-de-bata-a27be7",
+      "porque": "Este menu oferece carne vermelha grelhada, um clássico prático e saboroso, com acompanhamentos equilibrados e de preparo rápido.",
+      "principal": {
+        "ingredientes": [
+          "Bife de alcatra",
+          "batatas",
+          "leite",
+          "manteiga",
+          "brócolis",
+          "alho",
+          "azeite",
+          "sal",
+          "pimenta-do-reino"
+        ],
+        "nome": "Bife de Alcatra Grelhado com Purê de Batata Cremoso e Brócolis no Vapor",
+        "preparo": [
+          "Cozinhe as batatas em água com sal até ficarem macias. Escorra e amasse-as, adicionando leite, manteiga e sal para fazer um purê cremoso.",
+          "Cozinhe o brócolis no vapor até ficar al dente. Se desejar, refogue rapidamente com um dente de alho picado e azeite.",
+          "Tempere os bifes de alcatra com sal e pimenta-do-reino.",
+          "Aqueça uma frigideira ou chapa com um fio de azeite e grelhe os bifes por 3-4 minutos de cada lado, ou até o ponto desejado."
+        ]
+      },
+      "rende_sobra": true,
+      "sobremesa": {
+        "ingredientes": [
+          "Leite condensado",
+          "creme de leite",
+          "suco concentrado de maracujá"
+        ],
+        "nome": "Mousse de Maracujá Rápida",
+        "preparo": [
+          "No liquidificador, bata o leite condensado, o creme de leite e o suco concentrado de maracujá até obter uma mistura homogênea.",
+          "Despeje em taças individuais ou em um refratário e leve à geladeira por pelo menos 30 minutos para firmar."
+        ]
+      },
+      "tags": [
+        "carne_vermelha",
+        "grelhado",
+        "rapido",
+        "equilibrado"
+      ],
+      "titulo": "Bife de Alcatra Grelhado com Purê de Batata Cremoso e Brócolis no Vapor"
+    }
+  ]
 }
