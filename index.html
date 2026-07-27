@@ -36,13 +36,10 @@
   <div id="modal-config" class="modal escondido">
     <div class="modal-caixa">
       <h2>Sincronização</h2>
-      <p class="ajuda">Para que seus 👍/👎 sejam salvos e o app aprenda seus gostos,
-        informe o repositório e um token pessoal do GitHub. Fica guardado só neste aparelho.</p>
-      <label>Repositório (usuário/nome)
-        <input id="cfg-repo" type="text" placeholder="ex.: rafael/webapp-refeicoes" autocomplete="off">
-      </label>
-      <label>Token do GitHub (fine-grained, permissão Contents: read/write)
-        <input id="cfg-token" type="password" placeholder="github_pat_..." autocomplete="off">
+      <p class="ajuda">Normalmente não é preciso mexer aqui: a sincronização já vem configurada
+        no app. Este campo é só para casos avançados (trocar o endereço do mini-servidor).</p>
+      <label>URL de sincronização (opcional)
+        <input id="cfg-worker" type="text" placeholder="https://....workers.dev" autocomplete="off">
       </label>
       <p class="ajuda" id="cfg-status"></p>
       <div class="modal-acoes">
