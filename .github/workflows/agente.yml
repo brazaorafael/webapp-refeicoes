@@ -1,0 +1,57 @@
+name: agente-refeicoes
+
+on:
+  schedule:
+    - cron: "0 11 * * *"    # todo dia 08:00 (SP) -> receitas do dia (diario)
+    - cron: "30 22 * * 0"   # domingo 19:30 (SP) -> cardapio da proxima semana (semanal)
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "Modo de execucao"
+        type: choice
+        default: diario
+        options:
+          - diario
+          - semanal
+
+permissions:
+  contents: write
+
+jobs:
+  rodar-agente:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar o codigo
+        uses: actions/checkout@v4
+
+      - name: Instalar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Rodar o agente (gera receitas + envia e-mail)
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+          APP_URL: ${{ vars.APP_URL }}
+          AGENT_MODE: ${{ github.event.inputs.mode || (github.event.schedule == '30 22 * * 0' && 'semanal' || 'diario') }}
+        run: python refeicoes_agent.py
+
+      - name: Salvar os dados no repositorio (se mudou)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "Sem mudancas."
+          else
+            git commit -m "Atualiza receitas ($AGENT_MODE)"
+            git push
+          fi
+        env:
+          AGENT_MODE: ${{ github.event.inputs.mode || (github.event.schedule == '30 22 * * 0' && 'semanal' || 'diario') }}
