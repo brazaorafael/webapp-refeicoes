@@ -1,25 +1,24 @@
 #!/usr/bin/env python3
 """
-Agente de Refeições (Gemini + Google Search) — versão WebApp.
+Agente de Refeições (Gemini + Google Search) — versão WebApp (pratos à la carte).
 
-Gera receitas em JSON estruturado que servem para DUAS coisas:
-  1) montar o e-mail (como antes);
-  2) alimentar o WebApp no GitHub Pages (arquivos em data/).
+Gera receitas em JSON estruturado que servem para o e-mail E para o WebApp.
+Agora cada PRATO é uma unidade independente (like por prato):
+  - por dia: 2 a 3 pratos PRINCIPAIS + 1 ENTRADA + 1 SOBREMESA
+  - o casal pode curtir o principal de um e a sobremesa de outro, à vontade.
 
 Modos:
   - AGENT_MODE=semanal  -> cardápio da próxima semana (domingo 19h30)
   - AGENT_MODE=diario   -> receitas do dia (todo dia 08h)
 
 Aprendizado e anti-repetição:
-  - lê data/perfil_gostos.json  (o que o casal curtiu/rejeitou)
-  - lê data/historico.json      (o que já foi sugerido)
-  - injeta essas preferências e a lista de bloqueio na curadoria
-  - grava as novidades em data/receitas_do_dia.json e atualiza data/historico.json
+  - lê data/perfil_gostos.json e data/historico.json
+  - injeta preferências e bloqueios na curadoria
+  - grava data/receitas_do_dia.json e atualiza data/historico.json
 
-Secrets/variáveis de ambiente:
+Secrets/variáveis:
   GEMINI_API_KEY, GMAIL_ADDRESS, GMAIL_APP_PASSWORD,
-  MAIL_TO (opcional), GEMINI_MODEL (opcional), AGENT_MODE (opcional),
-  APP_URL (opcional, link do app para o rodapé do e-mail)
+  MAIL_TO (opcional), GEMINI_MODEL (opcional), AGENT_MODE (opcional), APP_URL (opcional)
 """
 
 import os
@@ -74,11 +73,11 @@ SITES = [
 ]
 
 # ---------------------------------------------------------------------------
-# Perfil, dieta e critérios de curadoria
+# Perfil, dieta e critérios
 # ---------------------------------------------------------------------------
 PERFIL = f"""PERFIL DE QUEM VAI COMER:
 - Casal jovem (Ana e Rafael), jantar para 2 pessoas.
-- Sempre que fizer sentido, porções que rendam SOBRA para o almoço de 1 pessoa no dia seguinte.
+- Quando fizer sentido, porções que rendam SOBRA para o almoço de 1 pessoa no dia seguinte.
 - Prioridade ALTA em proteína, com equilíbrio entre carboidrato, legumes/verduras e demais macros.
 - Receitas, na maioria, FÁCEIS e PRÁTICAS (poucos ingredientes acessíveis no Brasil, preparo rápido).
 
@@ -88,25 +87,39 @@ Não copie textos; escreva as receitas com suas próprias palavras."""
 
 DIETA = """REGRAS DE DIETA (OBRIGATÓRIAS):
 - POUCA FRITURA: evite fritar em óleo. Prefira AIRFRYER, forno, grelha ou refogado.
-  (Pode indicar "no airfryer" à vontade.)
 - CARNE VERMELHA é a preferida do casal: use com boa frequência.
-- PEIXE é pouco apreciado: NO MÁXIMO 1 sugestão de peixe por semana (idealmente nenhuma no dia a dia).
-- Boas fontes de proteína sempre no prato principal."""
+- PEIXE é pouco apreciado: NO MÁXIMO 1 prato de peixe por semana.
+- Boas fontes de proteína nos pratos principais."""
 
 CRITERIOS = """CRITÉRIOS DE APROVAÇÃO (reprove o que não atende bem):
-1. PRATICIDADE: preparo simples, sem técnicas difíceis, tempo total de até ~45 min.
+1. PRATICIDADE: preparo simples, sem técnicas difíceis, até ~45 min.
 2. INGREDIENTES: acessíveis em supermercado brasileiro; poucos itens.
 3. PROTEÍNA: boa fonte de proteína no prato principal.
 4. EQUILÍBRIO: proteína + carboidrato + legumes/verduras.
 5. SABOR/QUALIDADE: receita reconhecida/bem avaliada, nada experimental."""
 
-TAGS_INFO = """Use tags curtas e padronizadas (minúsculas, sem acento) entre estas quando aplicável:
+TAGS_INFO = """Use tags curtas e padronizadas (minúsculas, sem acento):
 carne_vermelha, frango, porco, ovos, vegetariano, peixe, massa, salada, sopa, grelhado,
-airfryer, forno, rapido, low_carb. Liste 2 a 4 tags por receita."""
+airfryer, forno, rapido, low_carb. Liste 2 a 3 tags por prato."""
+
+# Como cada PRATO deve vir (preparo um pouco mais detalhado, mas claro)
+ESQUEMA_PRATO = """Cada PRATO é um objeto independente:
+{
+  "nome": "Nome do prato",
+  "curso": "principal" | "entrada" | "sobremesa",
+  "porque": "1 frase de por que encaixa no perfil",
+  "tags": ["carne_vermelha","grelhado"],
+  "rende_sobra": true,
+  "ingredientes": ["2 bifes de alcatra (~180g cada)", "2 batatas médias", "..."],
+  "preparo": ["Passo 1 claro...", "Passo 2...", "Passo 3...", "Passo 4..."]
+}
+REGRAS DO PRATO:
+- ingredientes com quantidade aproximada quando possível.
+- preparo com 4 a 6 passos, curtos e claros (nem uma linha só, nem um textão)."""
 
 
 # ---------------------------------------------------------------------------
-# Utilitários de arquivo
+# Arquivos
 # ---------------------------------------------------------------------------
 def carregar_json(caminho, padrao):
     try:
@@ -122,73 +135,56 @@ def salvar_json(caminho, obj):
         json.dump(obj, f, ensure_ascii=False, indent=2)
 
 
-def gerar_id(titulo):
-    base = re.sub(r"[^a-z0-9]+", "-", titulo.lower()).strip("-")
-    h = hashlib.sha1(titulo.encode("utf-8")).hexdigest()[:6]
+def gerar_id(nome):
+    base = re.sub(r"[^a-z0-9]+", "-", nome.lower()).strip("-")
+    h = hashlib.sha1(nome.encode("utf-8")).hexdigest()[:6]
     return f"{base[:40]}-{h}"
 
 
 # ---------------------------------------------------------------------------
-# Preferências aprendidas (para injetar na curadoria)
+# Preferências aprendidas
 # ---------------------------------------------------------------------------
 def montar_contexto_preferencias():
     perfil = carregar_json(FILE_PERFIL, {})
     historico = carregar_json(FILE_HIST, [])
-
     resumo = perfil.get("resumo", "").strip()
     rejeitadas = [r.get("titulo", "") for r in perfil.get("rejeitadas", []) if r.get("titulo")]
-    ja_sugeridas = [h.get("titulo", "") for h in historico][-60:]  # evita repetir as últimas
-
+    ja = [h.get("titulo", "") for h in historico][-80:]
     partes = []
     if resumo:
         partes.append(f"PREFERÊNCIAS APRENDIDAS DO CASAL: {resumo}")
     if rejeitadas:
-        partes.append("NUNCA sugerir estas receitas (foram rejeitadas): "
-                      + "; ".join(rejeitadas[:40]))
-    if ja_sugeridas:
-        partes.append("EVITE repetir receitas já sugeridas recentemente: "
-                      + "; ".join(ja_sugeridas))
+        partes.append("NUNCA sugerir estes pratos (foram rejeitados): " + "; ".join(rejeitadas[:50]))
+    if ja:
+        partes.append("EVITE repetir pratos já sugeridos recentemente: " + "; ".join(ja))
     return "\n".join(partes) if partes else "Ainda não há preferências registradas."
 
 
 # ---------------------------------------------------------------------------
-# Prompts (2 passadas: candidatos -> curador que devolve JSON)
+# Prompts
 # ---------------------------------------------------------------------------
 def prompt_candidatos(tema, quantidade):
     return f"""Você é um pesquisador de receitas. Hoje é {DIA_SEMANA}, {DATA_STR}.
 
 TAREFA: {tema}
 Gere uma LISTA AMPLA de candidatos ({quantidade}) para depois passarem por curadoria.
+Inclua pratos PRINCIPAIS, ENTRADAS e SOBREMESAS.
 
 {PERFIL}
 
 {DIETA}
 
-Para cada candidato, escreva em texto simples (sem JSON e sem HTML ainda):
-- Nome do prato e se é entrada, principal ou sobremesa
-- 1 linha de por que é prático e encaixa no perfil
+Para cada candidato, escreva em texto simples (sem JSON, sem HTML):
+- Nome e se é principal, entrada ou sobremesa
+- Por que é prático e encaixa no perfil
 - Ingredientes principais
-- Fonte/site de inspiração
-Traga MAIS opções do que o necessário."""
-
-
-ESQUEMA_RECEITA = """Cada RECEITA é um objeto:
-{
-  "titulo": "Nome do prato principal do menu",
-  "porque": "1 frase de por que encaixa no perfil",
-  "fonte": "panelinha / cozinha pratica / ana maria braga / outro",
-  "tags": ["carne_vermelha","airfryer"],
-  "rende_sobra": true,
-  "entrada":   {"nome":"...", "ingredientes":["..."], "preparo":["passo 1","passo 2"]},
-  "principal": {"nome":"...", "ingredientes":["..."], "preparo":["passo 1","passo 2"]},
-  "sobremesa": {"nome":"...", "ingredientes":["..."], "preparo":["passo 1","passo 2"]}
-}"""
+- Fonte/site de inspiração"""
 
 
 def prompt_curador_diario(candidatos):
     return f"""Você é um CURADOR de cardápio criterioso. Hoje é {DIA_SEMANA}, {DATA_STR}.
 
-Avalie os candidatos e selecione as MELHORES para hoje, montando de 1 a 3 menus completos.
+Selecione os melhores pratos para hoje: de 2 a 3 PRINCIPAIS, 1 ENTRADA e 1 SOBREMESA.
 
 {CRITERIOS}
 
@@ -201,27 +197,28 @@ Avalie os candidatos e selecione as MELHORES para hoje, montando de 1 a 3 menus 
 CANDIDATOS:
 {candidatos}
 
-RESPONDA APENAS COM JSON VÁLIDO (sem crases, sem texto fora do JSON), neste formato:
+RESPONDA APENAS COM JSON VÁLIDO (sem crases, sem texto fora do JSON):
 {{
   "tipo": "diario",
   "data": "{DATA_STR}",
   "dia_semana": "{DIA_SEMANA}",
-  "receitas": [ RECEITA, RECEITA, RECEITA ]   // de 1 a 3 itens
+  "pratos": [ PRATO, PRATO, PRATO, PRATO ]
 }}
+Inclua de 2 a 3 pratos com curso "principal", exatamente 1 "entrada" e 1 "sobremesa".
 
-{ESQUEMA_RECEITA}"""
+{ESQUEMA_PRATO}"""
 
 
 def prompt_curador_semanal(candidatos):
     return f"""Você é um CURADOR de cardápio criterioso. Hoje é {DIA_SEMANA}, {DATA_STR}.
 
-Monte o cardápio de jantares da PRÓXIMA semana ({PERIODO_SEMANA}), de segunda a domingo,
-com 2 a 3 OPÇÕES de menu completo por dia, para o casal escolher.
+Monte o cardápio da PRÓXIMA semana ({PERIODO_SEMANA}), de segunda a domingo.
+Para CADA dia: 2 a 3 pratos PRINCIPAIS + 1 ENTRADA + 1 SOBREMESA.
 
 {CRITERIOS}
 
 {DIETA}
-- Lembre: no MÁXIMO 1 opção com peixe na semana inteira; bastante carne vermelha.
+- Lembre: no MÁXIMO 1 prato de peixe na semana inteira; bastante carne vermelha.
 
 {montar_contexto_preferencias()}
 
@@ -230,14 +227,13 @@ com 2 a 3 OPÇÕES de menu completo por dia, para o casal escolher.
 CANDIDATOS:
 {candidatos}
 
-RESPONDA APENAS COM JSON VÁLIDO (sem crases, sem texto fora do JSON), neste formato:
+RESPONDA APENAS COM JSON VÁLIDO (sem crases, sem texto fora do JSON):
 {{
   "tipo": "semanal",
   "periodo": "{PERIODO_SEMANA}",
   "dias": [
-    {{"dia": "Segunda", "opcoes": [ RECEITA, RECEITA ]}},
-    {{"dia": "Terça",   "opcoes": [ RECEITA, RECEITA ]}}
-    // ... até Domingo (7 dias)
+    {{"dia": "Segunda", "pratos": [ PRATO, PRATO, PRATO, PRATO ]}}
+    // ... até Domingo (7 dias), cada um com 2-3 principais + 1 entrada + 1 sobremesa
   ],
   "lista_compras": {{
     "Proteínas": ["..."],
@@ -247,11 +243,11 @@ RESPONDA APENAS COM JSON VÁLIDO (sem crases, sem texto fora do JSON), neste for
   }}
 }}
 
-{ESQUEMA_RECEITA}"""
+{ESQUEMA_PRATO}"""
 
 
 # ---------------------------------------------------------------------------
-# Chamadas ao Gemini
+# Gemini
 # ---------------------------------------------------------------------------
 def _chamar(prompt):
     client = genai.Client(api_key=GEMINI_API_KEY)
@@ -277,52 +273,52 @@ def _extrair_json(texto):
         raise
 
 
-def _adicionar_ids(receita):
-    receita["id"] = gerar_id(receita.get("titulo", "receita"))
-    return receita
+def _prep_prato(p):
+    p["id"] = gerar_id(p.get("nome", "prato"))
+    p["curso"] = (p.get("curso") or "principal").lower()
+    return p
 
 
 def gerar_diario():
-    tema = "Sugira jantares completos para hoje (entrada, principal e sobremesa)."
-    cand = _chamar(prompt_candidatos(tema, "cerca de 8 candidatos"))
+    tema = "Sugira pratos para o jantar de hoje (2-3 principais, 1 entrada, 1 sobremesa)."
+    cand = _chamar(prompt_candidatos(tema, "cerca de 10 candidatos"))
     print(f"  Candidatos ({len(cand)} chars). Curando...", flush=True)
     data = _extrair_json(_chamar(prompt_curador_diario(cand)))
-    data["receitas"] = [_adicionar_ids(r) for r in data.get("receitas", [])][:3]
+    data["pratos"] = [_prep_prato(p) for p in data.get("pratos", [])]
     return data
 
 
 def gerar_semanal():
-    tema = f"Cardápio de jantares da próxima semana ({PERIODO_SEMANA}), 2-3 opções por dia."
-    cand = _chamar(prompt_candidatos(tema, "muitas opções (4-5 por dia)"))
+    tema = f"Cardápio da próxima semana ({PERIODO_SEMANA}): por dia, 2-3 principais, 1 entrada, 1 sobremesa."
+    cand = _chamar(prompt_candidatos(tema, "muitos candidatos (vários por dia)"))
     print(f"  Candidatos ({len(cand)} chars). Curando...", flush=True)
     data = _extrair_json(_chamar(prompt_curador_semanal(cand)))
     for dia in data.get("dias", []):
-        dia["opcoes"] = [_adicionar_ids(r) for r in dia.get("opcoes", [])]
+        dia["pratos"] = [_prep_prato(p) for p in dia.get("pratos", [])]
     return data
 
 
 # ---------------------------------------------------------------------------
-# Histórico (anti-repetição)
+# Histórico
 # ---------------------------------------------------------------------------
-def _chaves_de(data):
-    itens = []
+def _todos_pratos(data):
     if data.get("tipo") == "diario":
-        itens = data.get("receitas", [])
-    else:
-        for dia in data.get("dias", []):
-            itens += dia.get("opcoes", [])
-    return itens
+        return data.get("pratos", [])
+    pratos = []
+    for dia in data.get("dias", []):
+        pratos += dia.get("pratos", [])
+    return pratos
 
 
 def atualizar_historico(data):
     hist = carregar_json(FILE_HIST, [])
     conhecidos = {h.get("id") for h in hist}
-    for r in _chaves_de(data):
-        if r.get("id") and r["id"] not in conhecidos:
-            hist.append({"id": r["id"], "titulo": r.get("titulo", ""),
-                         "tags": r.get("tags", []), "data": DATA_STR})
-            conhecidos.add(r["id"])
-    salvar_json(FILE_HIST, hist[-400:])  # mantém histórico enxuto
+    for p in _todos_pratos(data):
+        if p.get("id") and p["id"] not in conhecidos:
+            hist.append({"id": p["id"], "titulo": p.get("nome", ""),
+                         "tags": p.get("tags", []), "data": DATA_STR})
+            conhecidos.add(p["id"])
+    salvar_json(FILE_HIST, hist[-500:])
 
 
 def gravar_receitas_app(data):
@@ -336,48 +332,52 @@ def gravar_receitas_app(data):
 
 
 # ---------------------------------------------------------------------------
-# Render do e-mail (a partir do JSON)
+# E-mail
 # ---------------------------------------------------------------------------
 def _esc(s):
     return html.escape(str(s or ""))
 
 
-def _render_prato(rotulo, prato):
-    if not prato:
-        return ""
-    ings = "".join(f"<li>{_esc(i)}</li>" for i in prato.get("ingredientes", []))
-    passos = "".join(f"<li>{_esc(p)}</li>" for p in prato.get("preparo", []))
-    return (f"<h4>{_esc(rotulo)}: {_esc(prato.get('nome',''))}</h4>"
-            f"<p><strong>Ingredientes</strong></p><ul>{ings}</ul>"
-            f"<p><strong>Modo de preparo</strong></p><ol>{passos}</ol>")
+ROTULO = {"principal": "Prato principal", "entrada": "Entrada", "sobremesa": "Sobremesa"}
+ORDEM = {"principal": 0, "entrada": 1, "sobremesa": 2}
 
 
-def _render_receita(r):
-    sobra = " <em>(rende sobra para o almoço de amanhã)</em>" if r.get("rende_sobra") else ""
-    tags = " · ".join(_esc(t) for t in r.get("tags", []))
-    bloco = f"<h3>{_esc(r.get('titulo',''))}{sobra}</h3>"
-    if r.get("porque"):
-        bloco += f"<p><em>{_esc(r['porque'])}</em></p>"
-    bloco += _render_prato("Entrada", r.get("entrada"))
-    bloco += _render_prato("Prato principal", r.get("principal"))
-    bloco += _render_prato("Sobremesa", r.get("sobremesa"))
+def _render_prato(p):
+    ings = "".join(f"<li>{_esc(i)}</li>" for i in p.get("ingredientes", []))
+    passos = "".join(f"<li>{_esc(x)}</li>" for x in p.get("preparo", []))
+    sobra = " <em>(rende sobra p/ o almoço)</em>" if p.get("rende_sobra") else ""
+    tags = " · ".join(_esc(t) for t in p.get("tags", []))
+    bloco = f"<h4>{_esc(p.get('nome',''))}{sobra}</h4>"
+    if p.get("porque"):
+        bloco += f"<p><em>{_esc(p['porque'])}</em></p>"
+    bloco += f"<p><strong>Ingredientes</strong></p><ul>{ings}</ul>"
+    bloco += f"<p><strong>Modo de preparo</strong></p><ol>{passos}</ol>"
     if tags:
         bloco += f'<p style="color:#888;font-size:12px">{tags}</p>'
     return bloco
 
 
+def _render_dia(pratos):
+    corpo = ""
+    for curso in ("principal", "entrada", "sobremesa"):
+        do_curso = [p for p in pratos if p.get("curso") == curso]
+        if not do_curso:
+            continue
+        corpo += f"<h3>{_esc(ROTULO[curso])}</h3>"
+        for p in do_curso:
+            corpo += _render_prato(p)
+    return corpo
+
+
 def render_email(data):
     if data.get("tipo") == "diario":
         corpo = f"<h2>Receitas de hoje — {_esc(DIA_SEMANA)}, {_esc(DATA_STR)}</h2>"
-        for r in data.get("receitas", []):
-            corpo += _render_receita(r)
+        corpo += _render_dia(data.get("pratos", []))
         return corpo
-    # semanal
     corpo = f"<h2>Cardápio da semana ({_esc(data.get('periodo',''))})</h2>"
     for dia in data.get("dias", []):
         corpo += f"<h3 style='border-bottom:1px solid #eee'>{_esc(dia.get('dia',''))}</h3>"
-        for r in dia.get("opcoes", []):
-            corpo += _render_receita(r)
+        corpo += _render_dia(dia.get("pratos", []))
     lc = data.get("lista_compras", {})
     if lc:
         corpo += "<h3>Lista de compras da semana</h3>"
@@ -387,9 +387,6 @@ def render_email(data):
     return corpo
 
 
-# ---------------------------------------------------------------------------
-# Envio de e-mail
-# ---------------------------------------------------------------------------
 def enviar_email(assunto, corpo_html):
     link = (f'<p style="margin:0 0 18px"><a href="{_esc(APP_URL)}">Abrir o app de refeições</a></p>'
             if APP_URL else "")
@@ -436,8 +433,8 @@ def main():
         assunto = f"🍽️ Cardápio da semana ({PERIODO_SEMANA}) — Ana e Rafael"
     else:
         data = gerar_diario()
-        if not data.get("receitas"):
-            print("ERRO: receitas vazias.", file=sys.stderr)
+        if not data.get("pratos"):
+            print("ERRO: pratos vazios.", file=sys.stderr)
             return 1
         assunto = f"🍽️ Receitas de hoje — {DIA_SEMANA}, {DATA_STR}"
 
@@ -446,7 +443,6 @@ def main():
 
     corpo = render_email(data)
     if MODE != "semanal":
-        # anexa o cardápio da semana (se já existir) abaixo das receitas do dia
         doc = carregar_json(FILE_DIA, {})
         if doc.get("semanal"):
             corpo += ('\n<hr style="margin:28px 0;border:none;border-top:1px solid #eee">\n'
