@@ -21,15 +21,25 @@
         "equilibrio"
       ],
       "data": "27/07/2026"
+    },
+    {
+      "id": "maminha-na-panela-de-press-o-cf365a",
+      "titulo": "",
+      "tags": [
+        "carne_vermelha",
+        "rapido",
+        "equilibrio"
+      ],
+      "data": "28/07/2026"
     }
   ],
   "rejeitadas": [],
   "contadores": {
-    "carne_vermelha": 2,
+    "carne_vermelha": 3,
     "grelhado": 2,
-    "rapido": 2,
+    "rapido": 3,
     "equilibrado": 1,
-    "equilibrio": 1
+    "equilibrio": 2
   },
-  "resumo": "curtem: rapido, grelhado, carne vermelha, equilibrio, equilibrado"
+  "resumo": "curtem: rapido, carne vermelha, grelhado, equilibrio, equilibrado"
 }

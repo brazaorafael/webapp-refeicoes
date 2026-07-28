@@ -112,6 +112,37 @@
         "equilibrio"
       ],
       "titulo": "Bife Acebolado com Tomate"
+    },
+    {
+      "curso": "principal",
+      "id": "maminha-na-panela-de-press-o-cf365a",
+      "ingredientes": [
+        "1 peça de maminha (~800g a 1kg)",
+        "1 cebola grande picada",
+        "2 dentes de alho picados",
+        "1 pimentão vermelho pequeno picado (opcional)",
+        "1 lata de tomate pelado picado (ou 2 tomates frescos)",
+        "1 xícara de água ou caldo de carne",
+        "1 colher de sopa de azeite",
+        "Sal, pimenta do reino, páprica defumada a gosto",
+        "Salsinha picada para finalizar"
+      ],
+      "nome": "Maminha na Panela de Pressão",
+      "porque": "A panela de pressão torna o preparo da maminha rápido e a carne fica extremamente macia e suculenta, com um molho saboroso, ideal para um jantar prático e com carne vermelha.",
+      "preparo": [
+        "Tempere a maminha com sal, pimenta e páprica.",
+        "Na panela de pressão, doure a carne em azeite por todos os lados. Retire e reserve.",
+        "Na mesma panela, refogue a cebola, o alho e o pimentão até ficarem macios.",
+        "Adicione o tomate pelado e a água (ou caldo). Volte a carne para a panela.",
+        "Feche a panela de pressão e cozinhe por 30-40 minutos após pegar pressão.",
+        "Desligue o fogo, espere a pressão sair naturalmente, fatie a carne e sirva com o molho e salsinha."
+      ],
+      "rende_sobra": true,
+      "tags": [
+        "carne_vermelha",
+        "rapido",
+        "equilibrio"
+      ]
     }
   ]
 }
