@@ -858,5 +858,47 @@
       "rapido"
     ],
     "data": "28/07/2026"
+  },
+  {
+    "id": "bife-de-patinho-grelhado-com-arroz-e-sal-f0489b",
+    "titulo": "Bife de Patinho Grelhado com Arroz e Salada Verde",
+    "tags": [
+      "carne_vermelha",
+      "grelhado",
+      "rapido",
+      "equilibrado"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "frango-refogado-com-legumes-e-molho-de-t-aea3d6",
+    "titulo": "Frango Refogado com Legumes e Molho de Tomate",
+    "tags": [
+      "frango",
+      "refogado",
+      "equilibrado",
+      "rapido"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "dadinhos-de-tapioca-na-airfryer-5514d1",
+    "titulo": "Dadinhos de Tapioca na Airfryer",
+    "tags": [
+      "rapido",
+      "airfryer",
+      "vegetariano"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "torta-de-lim-o-na-ta-a-sem-forno-f4a814",
+    "titulo": "Torta de Limão na Taça (sem forno)",
+    "tags": [
+      "rapido",
+      "sem_forno",
+      "sobremesa"
+    ],
+    "data": "28/07/2026"
   }
 ]

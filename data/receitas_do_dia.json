@@ -6,117 +6,163 @@
     "dia_semana": "terça",
     "pratos": [
       {
-        "nome": "Rosbife com Batata e Brócolis na Air Fryer",
+        "nome": "Picadinho de Carne com Legumes",
         "curso": "principal",
-        "porque": "Este prato é ideal para o casal, pois utiliza a air fryer, evitando frituras, e combina proteína (carne vermelha) com carboidratos e vegetais de forma balanceada e prática.",
-        "tags": [
-          "carne_vermelha",
-          "airfryer",
-          "rapido"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "1 peça de rosbife (contrafilé ou miolo de alcatra, ~500g)",
-          "2 batatas grandes",
-          "1 maço pequeno de brócolis",
-          "1 colher de sopa de azeite",
-          "Sal e pimenta do reino a gosto",
-          "1 dente de alho picado (opcional)",
-          "Alecrim fresco (opcional)"
-        ],
-        "preparo": [
-          "Tempere a carne com sal, pimenta e, se quiser, alho picado e alecrim.",
-          "Corte as batatas em cubos ou rodelas e o brócolis em floretes. Tempere com azeite, sal e pimenta.",
-          "Pré-aqueça a air fryer a 200°C por 5 minutos.",
-          "Coloque a carne na cesta da air fryer e asse por 15-20 minutos, virando na metade, para um ponto malpassado. Ajuste o tempo para o ponto desejado.",
-          "Adicione as batatas e o brócolis junto com a carne nos últimos 10-15 minutos, ou asse separadamente se preferir, até ficarem macios e levemente dourados.",
-          "Deixe o rosbife descansar por 5 minutos antes de fatiar e sirva com as batatas e brócolis."
-        ],
-        "id": "rosbife-com-batata-e-br-colis-na-air-fry-a27d78"
-      },
-      {
-        "nome": "Maminha na Panela de Pressão",
-        "curso": "principal",
-        "porque": "A panela de pressão torna o preparo da maminha rápido e a carne fica extremamente macia e suculenta, com um molho saboroso, ideal para um jantar prático e com carne vermelha.",
+        "tempo": "45 min",
+        "porque": "É um prato clássico, fácil de preparar em uma única panela, com carne vermelha e legumes, garantindo equilíbrio nutricional e pouca fritura.",
         "tags": [
           "carne_vermelha",
           "rapido",
-          "equilibrio"
+          "refogado",
+          "equilibrado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "1 peça de maminha (~800g a 1kg)",
-          "1 cebola grande picada",
+          "500g de patinho ou miolo da alcatra em cubos",
+          "1 cebola média picada",
           "2 dentes de alho picados",
-          "1 pimentão vermelho pequeno picado (opcional)",
-          "1 lata de tomate pelado picado (ou 2 tomates frescos)",
-          "1 xícara de água ou caldo de carne",
-          "1 colher de sopa de azeite",
-          "Sal, pimenta do reino, páprica defumada a gosto",
+          "1 tomate maduro picado",
+          "1 cenoura média em rodelas",
+          "2 batatas médias em cubos",
+          "1/2 xícara de vagem picada (opcional)",
+          "1 xícara de caldo de carne (ou água)",
+          "2 colheres de sopa de azeite",
+          "Sal e pimenta do reino a gosto",
           "Salsinha picada para finalizar"
         ],
         "preparo": [
-          "Tempere a maminha com sal, pimenta e páprica.",
-          "Na panela de pressão, doure a carne em azeite por todos os lados. Retire e reserve.",
-          "Na mesma panela, refogue a cebola, o alho e o pimentão até ficarem macios.",
-          "Adicione o tomate pelado e a água (ou caldo). Volte a carne para a panela.",
-          "Feche a panela de pressão e cozinhe por 30-40 minutos após pegar pressão.",
-          "Desligue o fogo, espere a pressão sair naturalmente, fatie a carne e sirva com o molho e salsinha."
+          "Tempere a carne com sal e pimenta do reino.",
+          "Em uma panela grande, aqueça o azeite e doure a carne em fogo alto. Retire a carne e reserve.",
+          "Na mesma panela, refogue a cebola e o alho até ficarem translúcidos. Adicione o tomate e cozinhe por alguns minutos.",
+          "Retorne a carne à panela, adicione a cenoura, as batatas, a vagem (se usar) e o caldo de carne. Misture bem.",
+          "Tampe a panela e cozinhe em fogo baixo por cerca de 25-30 minutos, ou até a carne e os legumes ficarem macios.",
+          "Verifique o tempero, finalize com salsinha picada e sirva com arroz branco."
         ],
-        "id": "maminha-na-panela-de-press-o-cf365a"
+        "id": "picadinho-de-carne-com-legumes-e78ab4"
       },
       {
-        "nome": "Salada Colorida com Ovos de Codorna",
-        "curso": "entrada",
-        "porque": "Uma entrada leve, fresca e visualmente atraente, fácil de montar e que adiciona vegetais variados e proteína dos ovos de codorna, perfeita para um início de refeição equilibrado.",
+        "nome": "Bife de Patinho Grelhado com Arroz e Salada Verde",
+        "curso": "principal",
+        "tempo": "30 min",
+        "porque": "Prato rápido e equilibrado, com carne vermelha preferida do casal e preparo grelhado, sem fritura profunda.",
         "tags": [
-          "vegetariano",
-          "salada",
-          "rapido"
+          "carne_vermelha",
+          "grelhado",
+          "rapido",
+          "equilibrado"
         ],
         "rende_sobra": false,
         "ingredientes": [
-          "1 maço de alface (americana ou crespa)",
-          "1 cenoura média ralada",
-          "1 pepino japonês fatiado",
-          "1/2 beterraba pequena ralada ou em cubos (opcional, para cor)",
-          "10 tomates cereja cortados ao meio",
-          "6-8 ovos de codorna cozidos e cortados ao meio",
-          "Azeite, vinagre (ou limão), sal e pimenta do reino para o molho"
+          "2 bifes de patinho (aprox. 150g cada)",
+          "1 xícara de arroz branco",
+          "2 xícaras de água",
+          "1/2 cebola pequena picada",
+          "1 dente de alho picado",
+          "2 colheres de sopa de azeite (para o arroz e grelhar)",
+          "Sal e pimenta do reino a gosto",
+          "Folhas verdes variadas (alface, rúcula)",
+          "1/2 tomate médio fatiado",
+          "1/4 pepino fatiado"
         ],
         "preparo": [
-          "Lave bem as folhas de alface e seque. Arrume-as em uma travessa.",
-          "Distribua a cenoura ralada, o pepino fatiado, a beterraba e os tomates cereja sobre as folhas.",
-          "Adicione os ovos de codorna cozidos e cortados ao meio.",
-          "Em um pote pequeno, misture azeite, vinagre (ou limão), sal e pimenta para o molho.",
-          "Sirva a salada com o molho à parte."
+          "Tempere os bifes de patinho com sal e pimenta do reino a gosto.",
+          "Em uma panela, refogue a cebola e o alho em 1 colher de sopa de azeite. Adicione o arroz, refogue por 1 minuto e acrescente a água e sal. Cozinhe até secar.",
+          "Aqueça uma grelha ou frigideira antiaderente em fogo médio-alto com 1 colher de sopa de azeite. Grelhe os bifes por 3-4 minutos de cada lado para médio, ou a gosto.",
+          "Lave e prepare as folhas verdes, corte o tomate e o pepino. Monte uma salada simples com azeite, sal e limão a gosto.",
+          "Sirva os bifes grelhados imediatamente, acompanhados do arroz soltinho e da salada verde fresca."
         ],
-        "id": "salada-colorida-com-ovos-de-codorna-75de1b"
+        "id": "bife-de-patinho-grelhado-com-arroz-e-sal-f0489b"
       },
       {
-        "nome": "Mousse de Chocolate com Água",
-        "curso": "sobremesa",
-        "porque": "Uma sobremesa de chocolate incrivelmente simples e rápida, que surpreende pela facilidade de preparo e sabor, ideal para finalizar o jantar sem complicação.",
+        "nome": "Frango Refogado com Legumes e Molho de Tomate",
+        "curso": "principal",
+        "tempo": "40 min",
+        "porque": "Prato completo e saboroso, com frango e legumes refogados, sem fritura profunda, ideal para uma refeição equilibrada.",
         "tags": [
-          "sobremesa",
-          "rapido",
-          "vegetariano"
+          "frango",
+          "refogado",
+          "equilibrado",
+          "rapido"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "200g de chocolate meio amargo de boa qualidade (barra)",
-          "150ml de água quente",
-          "Opcional: frutas vermelhas para decorar"
+          "2 filés de peito de frango (aprox. 400g) cortados em cubos",
+          "1 cebola média picada",
+          "2 dentes de alho picados",
+          "1 cenoura pequena em rodelas",
+          "1 abobrinha pequena em cubos",
+          "1/2 pimentão verde em cubos (opcional)",
+          "1 lata de tomate pelado picado (ou 1 xícara de molho de tomate caseiro)",
+          "1/2 xícara de água ou caldo de frango",
+          "2 colheres de sopa de azeite",
+          "Sal e pimenta do reino a gosto",
+          "Salsinha picada para finalizar"
         ],
         "preparo": [
-          "Pique o chocolate em pedaços pequenos e coloque em uma tigela resistente ao calor.",
-          "Ferva a água e despeje sobre o chocolate picado.",
-          "Mexa vigorosamente com um fouet ou espátula até o chocolate derreter completamente e a mistura ficar homogênea e brilhante.",
-          "Leve a tigela para uma bacia com gelo (banho-maria invertido) e continue batendo até a mousse encorpar e ficar aerada.",
-          "Distribua em taças individuais e leve à geladeira por pelo menos 1 hora antes de servir.",
-          "Decore com frutas vermelhas, se desejar."
+          "Tempere o frango em cubos com sal e pimenta do reino.",
+          "Em uma panela grande, aqueça um fio de azeite e doure o frango em etapas para não juntar água. Retire e reserve.",
+          "Na mesma panela, adicione mais um fio de azeite e refogue a cebola e o alho até ficarem translúcidos.",
+          "Acrescente a cenoura, abobrinha e pimentão. Refogue por 5-7 minutos, até começarem a amaciar.",
+          "Retorne o frango à panela, adicione o tomate pelado (ou molho) e a água/caldo. Misture bem.",
+          "Cozinhe em fogo baixo por 15-20 minutos, até os legumes ficarem macios e o molho encorpado. Finalize com salsinha picada e sirva."
         ],
-        "id": "mousse-de-chocolate-com-gua-945f5d"
+        "id": "frango-refogado-com-legumes-e-molho-de-t-aea3d6"
+      },
+      {
+        "nome": "Dadinhos de Tapioca na Airfryer",
+        "curso": "entrada",
+        "tempo": "30 min",
+        "porque": "Entrada prática e saborosa, preparada na airfryer para uma versão mais saudável, evitando fritura em óleo.",
+        "tags": [
+          "rapido",
+          "airfryer",
+          "vegetariano"
+        ],
+        "rende_sobra": false,
+        "ingredientes": [
+          "250g de tapioca granulada",
+          "250g de queijo coalho ralado (ou mussarela)",
+          "500ml de leite integral quente",
+          "1 colher de chá de sal",
+          "Molho agridoce para acompanhar (opcional)"
+        ],
+        "preparo": [
+          "Em uma tigela, misture a tapioca granulada, o queijo ralado e o sal.",
+          "Despeje o leite quente sobre a mistura, mexendo bem até incorporar e formar uma massa homogênea.",
+          "Espalhe a massa em uma forma untada (ou forrada com papel manteiga) de aproximadamente 20x20cm, nivelando bem. Leve à geladeira por pelo menos 30 minutos (ou até firmar completamente).",
+          "Desenforme a massa e corte em cubos de aproximadamente 2x2cm.",
+          "Preaqueça a airfryer a 180°C. Distribua os dadinhos na cesta sem sobrepor e asse por 15-20 minutos, virando na metade do tempo, até ficarem dourados e crocantes.",
+          "Sirva os dadinhos de tapioca quentes, acompanhados de molho agridoce se desejar."
+        ],
+        "id": "dadinhos-de-tapioca-na-airfryer-5514d1"
+      },
+      {
+        "nome": "Torta de Limão na Taça (sem forno)",
+        "curso": "sobremesa",
+        "tempo": "20 min",
+        "porque": "Sobremesa refrescante e prática, montada em taças individuais sem necessidade de forno, ideal para um preparo rápido.",
+        "tags": [
+          "rapido",
+          "sem_forno",
+          "sobremesa"
+        ],
+        "rende_sobra": false,
+        "ingredientes": [
+          "1 lata de leite condensado",
+          "1 lata de creme de leite (sem soro)",
+          "Suco de 3-4 limões (aprox. 1/2 xícara)",
+          "1 pacote de biscoito maisena triturado (aprox. 200g)",
+          "2 colheres de sopa de manteiga derretida",
+          "Raspas de limão para decorar"
+        ],
+        "preparo": [
+          "Em uma tigela, misture o biscoito triturado com a manteiga derretida até formar uma farofa úmida.",
+          "No liquidificador, bata o leite condensado, o creme de leite e o suco de limão até obter um creme homogêneo e espesso.",
+          "Em taças individuais, faça camadas alternadas de farofa de biscoito e creme de limão, começando e terminando com o creme.",
+          "Leve à geladeira por pelo menos 2 horas para firmar bem.",
+          "Decore com raspas de limão antes de servir."
+        ],
+        "id": "torta-de-lim-o-na-ta-a-sem-forno-f4a814"
       }
     ]
   },
