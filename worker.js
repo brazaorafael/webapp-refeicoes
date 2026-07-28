@@ -24,9 +24,11 @@ const MODEL = "gemini-2.5-flash";
 const PERFIL = "Perfil: casal jovem, jantar para 2. Prioridade em proteína (carne vermelha "
   + "é a preferida; peixe no máximo 1x por semana). Pouca fritura (prefira airfryer, forno, "
   + "grelha ou refogado). Receitas fáceis e práticas, até ~45 min. Sites preferidos: "
-  + "panelinha.com.br, panelinha.com.br/home/cozinha-pratica, receitas.globo.com/ana-maria-braga.";
+  + "panelinha.com.br, panelinha.com.br/home/cozinha-pratica, receitas.globo.com/ana-maria-braga, "
+  + "tudogostoso.com.br.";
 
 const ESQUEMA = "Cada receita é um objeto: { \"nome\", \"curso\" (\"principal\"|\"entrada\"|\"sobremesa\"), "
+  + "\"tempo\" (tempo estimado de preparo, ex: \"35 min\"), "
   + "\"porque\" (1 frase), \"tags\" (array curto, ex: [\"carne_vermelha\",\"airfryer\"]), "
   + "\"rende_sobra\" (true/false), \"ingredientes\" (array, com quantidades), "
   + "\"preparo\" (array de 4 a 6 passos claros) }.";
@@ -72,6 +74,19 @@ export default {
       const action = body.action || "voto";
       const precisaGemini = ["foto", "consolidar", "buscar", "com_ingredientes"].includes(action);
       if (precisaGemini && !env.GEMINI_API_KEY) return json({ error: "config", detalhe: "GEMINI_API_KEY ausente" }, 200);
+
+      // ---- Buscar foto do prato (Pexels) ----
+      if (action === "imagem") {
+        const q = (body.consulta || "").trim();
+        if (!q || !env.PEXELS_KEY) return json({ url: null }, 200);
+        try {
+          const u = "https://api.pexels.com/v1/search?per_page=1&orientation=landscape&query="
+            + encodeURIComponent(q + " food dish");
+          const rp = await fetch(u, { headers: { Authorization: env.PEXELS_KEY } });
+          const jp = await rp.json();
+          return json({ url: jp?.photos?.[0]?.src?.medium || null }, 200);
+        } catch { return json({ url: null }, 200); }
+      }
 
       // ---- Foto -> ingredientes ----
       if (action === "foto") {
