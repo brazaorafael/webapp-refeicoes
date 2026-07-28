@@ -1,190 +1,72 @@
 {
-  "gerado_em": "27/07/2026",
+  "gerado_em": "28/07/2026",
   "diario": {
     "tipo": "diario",
-    "data": "27/07/2026",
-    "dia_semana": "segunda",
+    "data": "28/07/2026",
+    "dia_semana": "terça",
     "receitas": [
       {
-        "titulo": "Bife de Alcatra Grelhado com Purê de Batata Cremoso e Brócolis no Vapor",
-        "porque": "Este menu oferece carne vermelha grelhada, um clássico prático e saboroso, com acompanhamentos equilibrados e de preparo rápido.",
-        "fonte": "outro",
+        "titulo": "Bife com Molho de Limão e Grão-de-Bico",
+        "porque": "Um menu prático e rápido, com carne vermelha grelhada e acompanhamentos equilibrados que utilizam a mesma frigideira para otimizar o preparo, ideal para o casal.",
+        "fonte": "panelinha",
         "tags": [
           "carne_vermelha",
           "grelhado",
           "rapido",
-          "equilibrado"
+          "salada"
         ],
         "rende_sobra": true,
         "entrada": {
-          "nome": "Salada de Folhas com Queijo Minas e Tomate Cereja",
+          "nome": "Salada Refrescante de Trigo, Nozes e Hortelã",
           "ingredientes": [
-            "Mix de folhas verdes",
-            "queijo minas frescal em cubos",
-            "tomate cereja",
-            "azeite",
-            "sal",
-            "pimenta-do-reino"
+            "1/2 xícara de trigo para quibe",
+            "1/4 xícara de nozes picadas",
+            "2 colheres de sopa de uvas-passas",
+            "1/4 xícara de hortelã fresca picada",
+            "Suco de 1/2 limão",
+            "2 colheres de sopa de azeite",
+            "Sal e pimenta-do-reino a gosto"
           ],
           "preparo": [
-            "Lave e seque as folhas verdes.",
-            "Corte o queijo minas em cubos e os tomates cereja ao meio.",
-            "Misture todos os ingredientes e tempere com azeite, sal e pimenta-do-reino a gosto."
+            "Lave o trigo para quibe e deixe de molho em água quente por 15 minutos. Escorra bem, apertando para retirar o excesso de água.",
+            "Em uma tigela, misture o trigo hidratado com as nozes, uvas-passas e hortelã.",
+            "Tempere com suco de limão, azeite, sal e pimenta-do-reino. Misture bem e reserve."
           ]
         },
         "principal": {
-          "nome": "Bife de Alcatra Grelhado com Purê de Batata Cremoso e Brócolis no Vapor",
+          "nome": "Bife com Molho de Limão e Grão-de-Bico (na mesma frigideira)",
           "ingredientes": [
-            "Bife de alcatra",
-            "batatas",
-            "leite",
-            "manteiga",
-            "brócolis",
-            "alho",
-            "azeite",
-            "sal",
-            "pimenta-do-reino"
+            "2 bifes de contrafilé (cerca de 180g cada)",
+            "1 lata de grão-de-bico cozido e escorrido",
+            "1 cebola roxa pequena fatiada finamente",
+            "1 limão siciliano (suco e raspas)",
+            "2 colheres de sopa de azeite",
+            "Sal e pimenta-do-reino a gosto",
+            "Salsinha fresca picada para finalizar"
           ],
           "preparo": [
-            "Cozinhe as batatas em água com sal até ficarem macias. Escorra e amasse-as, adicionando leite, manteiga e sal para fazer um purê cremoso.",
-            "Cozinhe o brócolis no vapor até ficar al dente. Se desejar, refogue rapidamente com um dente de alho picado e azeite.",
-            "Tempere os bifes de alcatra com sal e pimenta-do-reino.",
-            "Aqueça uma frigideira ou chapa com um fio de azeite e grelhe os bifes por 3-4 minutos de cada lado, ou até o ponto desejado."
+            "Tempere os bifes com sal e pimenta-do-reino a gosto.",
+            "Aqueça uma frigideira grande em fogo médio-alto com 1 colher de sopa de azeite.",
+            "Grelhe os bifes por 3-4 minutos de cada lado, ou até o ponto desejado. Retire os bifes da frigideira e reserve em um prato, cobrindo com papel alumínio para manter aquecido.",
+            "Na mesma frigideira, adicione o azeite restante e refogue a cebola roxa fatiada por 2-3 minutos, até ficar macia.",
+            "Adicione o grão-de-bico escorrido e o suco e raspas do limão siciliano. Misture e cozinhe por mais 2 minutos, aquecendo o grão-de-bico.",
+            "Sirva os bifes com o molho de grão-de-bico por cima e finalize com salsinha fresca picada."
           ]
         },
         "sobremesa": {
-          "nome": "Mousse de Maracujá Rápida",
+          "nome": "Salada de Frutas com Iogurte Natural e Granola",
           "ingredientes": [
-            "Leite condensado",
-            "creme de leite",
-            "suco concentrado de maracujá"
+            "1 xícara de frutas variadas picadas (ex: mamão, banana, maçã, morango)",
+            "1 pote de iogurte natural",
+            "2 colheres de sopa de granola"
           ],
           "preparo": [
-            "No liquidificador, bata o leite condensado, o creme de leite e o suco concentrado de maracujá até obter uma mistura homogênea.",
-            "Despeje em taças individuais ou em um refratário e leve à geladeira por pelo menos 30 minutos para firmar."
+            "Pique as frutas de sua preferência em pedaços pequenos.",
+            "Em taças individuais, distribua as frutas picadas.",
+            "Cubra com iogurte natural e finalize com granola por cima."
           ]
         },
-        "id": "bife-de-alcatra-grelhado-com-pur-de-bata-a27be7"
-      },
-      {
-        "titulo": "Carne Moída Refogada com Abobrinha e Cenoura, acompanhada de Cuscuz Marroquino",
-        "porque": "Uma opção de carne moída rápida e versátil, com muitos vegetais e um carboidrato de preparo instantâneo, ideal para o dia a dia.",
-        "fonte": "panelinha",
-        "tags": [
-          "carne_vermelha",
-          "rapido",
-          "equilibrado",
-          "refogado"
-        ],
-        "rende_sobra": true,
-        "entrada": {
-          "nome": "Mini Pães de Queijo de Forno",
-          "ingredientes": [
-            "Massa pronta de pão de queijo ou polvilho",
-            "queijo",
-            "leite",
-            "ovos"
-          ],
-          "preparo": [
-            "Se usar massa pronta, disponha os pães de queijo em uma assadeira ou cesto da airfryer.",
-            "Asse em forno pré-aquecido a 180°C ou na airfryer a 160°C pelo tempo indicado na embalagem, até dourarem."
-          ]
-        },
-        "principal": {
-          "nome": "Carne Moída Refogada com Abobrinha e Cenoura, acompanhada de Cuscuz Marroquino",
-          "ingredientes": [
-            "Carne moída",
-            "abobrinha",
-            "cenoura",
-            "cebola",
-            "alho",
-            "tomate",
-            "cuscuz marroquino",
-            "azeite",
-            "sal",
-            "pimenta-do-reino"
-          ],
-          "preparo": [
-            "Em uma panela, refogue a cebola picada e o alho em azeite.",
-            "Adicione a carne moída e refogue até dourar e soltar. Tempere com sal e pimenta-do-reino.",
-            "Acrescente a abobrinha e a cenoura picadas e o tomate picado. Cozinhe até os vegetais ficarem macios.",
-            "Prepare o cuscuz marroquino seguindo as instruções da embalagem (geralmente hidratando com água quente e um fio de azeite por 5 minutos)."
-          ]
-        },
-        "sobremesa": {
-          "nome": "Gelatina Colorida com Creme de Leite",
-          "ingredientes": [
-            "Sachês de gelatina de sabores variados",
-            "creme de leite"
-          ],
-          "preparo": [
-            "Prepare cada sabor de gelatina separadamente, seguindo as instruções da embalagem. Leve à geladeira até firmar.",
-            "Corte as gelatinas firmes em cubos e misture delicadamente com creme de leite antes de servir."
-          ]
-        },
-        "id": "carne-mo-da-refogada-com-abobrinha-e-cen-054adf"
-      },
-      {
-        "titulo": "Filé Mignon Suíno na Airfryer com Batata Doce Assada e Espinafre Refogado",
-        "porque": "Uma alternativa saborosa à carne vermelha, com preparo rápido na airfryer e acompanhamentos saudáveis e equilibrados.",
-        "fonte": "panelinha",
-        "tags": [
-          "porco",
-          "airfryer",
-          "rapido",
-          "equilibrado"
-        ],
-        "rende_sobra": true,
-        "entrada": {
-          "nome": "Palitos de Cenoura e Pepino com Molho de Iogurte e Hortelã",
-          "ingredientes": [
-            "Cenoura",
-            "pepino",
-            "iogurte natural",
-            "hortelã fresca",
-            "limão",
-            "azeite",
-            "sal"
-          ],
-          "preparo": [
-            "Lave e corte a cenoura e o pepino em formato de palitos.",
-            "Para o molho, misture o iogurte natural com hortelã picada, suco de limão, azeite e sal a gosto.",
-            "Sirva os palitos de vegetais com o molho de iogurte."
-          ]
-        },
-        "principal": {
-          "nome": "Filé Mignon Suíno na Airfryer com Batata Doce Assada e Espinafre Refogado",
-          "ingredientes": [
-            "Filé mignon suíno",
-            "batata doce",
-            "espinafre",
-            "alho",
-            "azeite",
-            "sal",
-            "pimenta-do-reino",
-            "temperos a gosto"
-          ],
-          "preparo": [
-            "Corte a batata doce em rodelas ou cubos, tempere com azeite, sal e pimenta. Asse na airfryer a 200°C por 15-20 minutos, virando na metade do tempo, ou até ficar macia e dourada.",
-            "Tempere o filé mignon suíno com sal, pimenta e outros temperos de sua preferência. Leve à airfryer a 180°C por 15-20 minutos, virando na metade, até que esteja cozido e dourado.",
-            "Em uma frigideira, refogue o alho picado em azeite e adicione o espinafre. Cozinhe até murchar, tempere com sal."
-          ]
-        },
-        "sobremesa": {
-          "nome": "Banana Assada com Canela e Mel",
-          "ingredientes": [
-            "Banana",
-            "canela em pó",
-            "mel"
-          ],
-          "preparo": [
-            "Corte as bananas ao meio, no sentido do comprimento, ou em rodelas grossas.",
-            "Disponha as bananas em uma assadeira ou no cesto da airfryer.",
-            "Polvilhe canela em pó e regue com mel.",
-            "Asse no forno pré-aquecido a 180°C ou na airfryer a 160°C por cerca de 10-15 minutos, até as bananas ficarem macias e levemente douradas."
-          ]
-        },
-        "id": "fil-mignon-su-no-na-airfryer-com-batata--d878c8"
+        "id": "bife-com-molho-de-lim-o-e-gr-o-de-bico-7832e3"
       }
     ]
   },
