@@ -23,16 +23,6 @@
       "data": "27/07/2026"
     },
     {
-      "id": "maminha-na-panela-de-press-o-cf365a",
-      "titulo": "",
-      "tags": [
-        "carne_vermelha",
-        "rapido",
-        "equilibrio"
-      ],
-      "data": "28/07/2026"
-    },
-    {
       "id": "frango-grelhado-com-legumes-coloridos-c82de9",
       "titulo": "",
       "tags": [
@@ -43,14 +33,25 @@
       "data": "28/07/2026"
     }
   ],
-  "rejeitadas": [],
+  "rejeitadas": [
+    {
+      "id": "maminha-na-panela-de-press-o-cf365a",
+      "titulo": "",
+      "tags": [
+        "carne_vermelha",
+        "rapido",
+        "equilibrio"
+      ],
+      "data": "28/07/2026"
+    }
+  ],
   "contadores": {
-    "carne_vermelha": 3,
+    "carne_vermelha": 2,
     "grelhado": 3,
-    "rapido": 3,
+    "rapido": 2,
     "equilibrado": 1,
-    "equilibrio": 3,
+    "equilibrio": 2,
     "frango": 1
   },
-  "resumo": "curtem: rapido, grelhado, equilibrio, carne vermelha, frango, equilibrado"
+  "resumo": "curtem: grelhado, rapido, equilibrio, carne vermelha, frango, equilibrado"
 }
