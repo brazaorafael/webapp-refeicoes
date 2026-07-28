@@ -4,69 +4,119 @@
     "tipo": "diario",
     "data": "28/07/2026",
     "dia_semana": "terça",
-    "receitas": [
+    "pratos": [
       {
-        "titulo": "Bife com Molho de Limão e Grão-de-Bico",
-        "porque": "Um menu prático e rápido, com carne vermelha grelhada e acompanhamentos equilibrados que utilizam a mesma frigideira para otimizar o preparo, ideal para o casal.",
-        "fonte": "panelinha",
+        "nome": "Rosbife com Batata e Brócolis na Air Fryer",
+        "curso": "principal",
+        "porque": "Este prato é ideal para o casal, pois utiliza a air fryer, evitando frituras, e combina proteína (carne vermelha) com carboidratos e vegetais de forma balanceada e prática.",
         "tags": [
           "carne_vermelha",
-          "grelhado",
-          "rapido",
-          "salada"
+          "airfryer",
+          "rapido"
         ],
         "rende_sobra": true,
-        "entrada": {
-          "nome": "Salada Refrescante de Trigo, Nozes e Hortelã",
-          "ingredientes": [
-            "1/2 xícara de trigo para quibe",
-            "1/4 xícara de nozes picadas",
-            "2 colheres de sopa de uvas-passas",
-            "1/4 xícara de hortelã fresca picada",
-            "Suco de 1/2 limão",
-            "2 colheres de sopa de azeite",
-            "Sal e pimenta-do-reino a gosto"
-          ],
-          "preparo": [
-            "Lave o trigo para quibe e deixe de molho em água quente por 15 minutos. Escorra bem, apertando para retirar o excesso de água.",
-            "Em uma tigela, misture o trigo hidratado com as nozes, uvas-passas e hortelã.",
-            "Tempere com suco de limão, azeite, sal e pimenta-do-reino. Misture bem e reserve."
-          ]
-        },
-        "principal": {
-          "nome": "Bife com Molho de Limão e Grão-de-Bico (na mesma frigideira)",
-          "ingredientes": [
-            "2 bifes de contrafilé (cerca de 180g cada)",
-            "1 lata de grão-de-bico cozido e escorrido",
-            "1 cebola roxa pequena fatiada finamente",
-            "1 limão siciliano (suco e raspas)",
-            "2 colheres de sopa de azeite",
-            "Sal e pimenta-do-reino a gosto",
-            "Salsinha fresca picada para finalizar"
-          ],
-          "preparo": [
-            "Tempere os bifes com sal e pimenta-do-reino a gosto.",
-            "Aqueça uma frigideira grande em fogo médio-alto com 1 colher de sopa de azeite.",
-            "Grelhe os bifes por 3-4 minutos de cada lado, ou até o ponto desejado. Retire os bifes da frigideira e reserve em um prato, cobrindo com papel alumínio para manter aquecido.",
-            "Na mesma frigideira, adicione o azeite restante e refogue a cebola roxa fatiada por 2-3 minutos, até ficar macia.",
-            "Adicione o grão-de-bico escorrido e o suco e raspas do limão siciliano. Misture e cozinhe por mais 2 minutos, aquecendo o grão-de-bico.",
-            "Sirva os bifes com o molho de grão-de-bico por cima e finalize com salsinha fresca picada."
-          ]
-        },
-        "sobremesa": {
-          "nome": "Salada de Frutas com Iogurte Natural e Granola",
-          "ingredientes": [
-            "1 xícara de frutas variadas picadas (ex: mamão, banana, maçã, morango)",
-            "1 pote de iogurte natural",
-            "2 colheres de sopa de granola"
-          ],
-          "preparo": [
-            "Pique as frutas de sua preferência em pedaços pequenos.",
-            "Em taças individuais, distribua as frutas picadas.",
-            "Cubra com iogurte natural e finalize com granola por cima."
-          ]
-        },
-        "id": "bife-com-molho-de-lim-o-e-gr-o-de-bico-7832e3"
+        "ingredientes": [
+          "1 peça de rosbife (contrafilé ou miolo de alcatra, ~500g)",
+          "2 batatas grandes",
+          "1 maço pequeno de brócolis",
+          "1 colher de sopa de azeite",
+          "Sal e pimenta do reino a gosto",
+          "1 dente de alho picado (opcional)",
+          "Alecrim fresco (opcional)"
+        ],
+        "preparo": [
+          "Tempere a carne com sal, pimenta e, se quiser, alho picado e alecrim.",
+          "Corte as batatas em cubos ou rodelas e o brócolis em floretes. Tempere com azeite, sal e pimenta.",
+          "Pré-aqueça a air fryer a 200°C por 5 minutos.",
+          "Coloque a carne na cesta da air fryer e asse por 15-20 minutos, virando na metade, para um ponto malpassado. Ajuste o tempo para o ponto desejado.",
+          "Adicione as batatas e o brócolis junto com a carne nos últimos 10-15 minutos, ou asse separadamente se preferir, até ficarem macios e levemente dourados.",
+          "Deixe o rosbife descansar por 5 minutos antes de fatiar e sirva com as batatas e brócolis."
+        ],
+        "id": "rosbife-com-batata-e-br-colis-na-air-fry-a27d78"
+      },
+      {
+        "nome": "Maminha na Panela de Pressão",
+        "curso": "principal",
+        "porque": "A panela de pressão torna o preparo da maminha rápido e a carne fica extremamente macia e suculenta, com um molho saboroso, ideal para um jantar prático e com carne vermelha.",
+        "tags": [
+          "carne_vermelha",
+          "rapido",
+          "equilibrio"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "1 peça de maminha (~800g a 1kg)",
+          "1 cebola grande picada",
+          "2 dentes de alho picados",
+          "1 pimentão vermelho pequeno picado (opcional)",
+          "1 lata de tomate pelado picado (ou 2 tomates frescos)",
+          "1 xícara de água ou caldo de carne",
+          "1 colher de sopa de azeite",
+          "Sal, pimenta do reino, páprica defumada a gosto",
+          "Salsinha picada para finalizar"
+        ],
+        "preparo": [
+          "Tempere a maminha com sal, pimenta e páprica.",
+          "Na panela de pressão, doure a carne em azeite por todos os lados. Retire e reserve.",
+          "Na mesma panela, refogue a cebola, o alho e o pimentão até ficarem macios.",
+          "Adicione o tomate pelado e a água (ou caldo). Volte a carne para a panela.",
+          "Feche a panela de pressão e cozinhe por 30-40 minutos após pegar pressão.",
+          "Desligue o fogo, espere a pressão sair naturalmente, fatie a carne e sirva com o molho e salsinha."
+        ],
+        "id": "maminha-na-panela-de-press-o-cf365a"
+      },
+      {
+        "nome": "Salada Colorida com Ovos de Codorna",
+        "curso": "entrada",
+        "porque": "Uma entrada leve, fresca e visualmente atraente, fácil de montar e que adiciona vegetais variados e proteína dos ovos de codorna, perfeita para um início de refeição equilibrado.",
+        "tags": [
+          "vegetariano",
+          "salada",
+          "rapido"
+        ],
+        "rende_sobra": false,
+        "ingredientes": [
+          "1 maço de alface (americana ou crespa)",
+          "1 cenoura média ralada",
+          "1 pepino japonês fatiado",
+          "1/2 beterraba pequena ralada ou em cubos (opcional, para cor)",
+          "10 tomates cereja cortados ao meio",
+          "6-8 ovos de codorna cozidos e cortados ao meio",
+          "Azeite, vinagre (ou limão), sal e pimenta do reino para o molho"
+        ],
+        "preparo": [
+          "Lave bem as folhas de alface e seque. Arrume-as em uma travessa.",
+          "Distribua a cenoura ralada, o pepino fatiado, a beterraba e os tomates cereja sobre as folhas.",
+          "Adicione os ovos de codorna cozidos e cortados ao meio.",
+          "Em um pote pequeno, misture azeite, vinagre (ou limão), sal e pimenta para o molho.",
+          "Sirva a salada com o molho à parte."
+        ],
+        "id": "salada-colorida-com-ovos-de-codorna-75de1b"
+      },
+      {
+        "nome": "Mousse de Chocolate com Água",
+        "curso": "sobremesa",
+        "porque": "Uma sobremesa de chocolate incrivelmente simples e rápida, que surpreende pela facilidade de preparo e sabor, ideal para finalizar o jantar sem complicação.",
+        "tags": [
+          "sobremesa",
+          "rapido",
+          "vegetariano"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "200g de chocolate meio amargo de boa qualidade (barra)",
+          "150ml de água quente",
+          "Opcional: frutas vermelhas para decorar"
+        ],
+        "preparo": [
+          "Pique o chocolate em pedaços pequenos e coloque em uma tigela resistente ao calor.",
+          "Ferva a água e despeje sobre o chocolate picado.",
+          "Mexa vigorosamente com um fouet ou espátula até o chocolate derreter completamente e a mistura ficar homogênea e brilhante.",
+          "Leve a tigela para uma bacia com gelo (banho-maria invertido) e continue batendo até a mousse encorpar e ficar aerada.",
+          "Distribua em taças individuais e leve à geladeira por pelo menos 1 hora antes de servir.",
+          "Decore com frutas vermelhas, se desejar."
+        ],
+        "id": "mousse-de-chocolate-com-gua-945f5d"
       }
     ]
   },

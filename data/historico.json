@@ -479,5 +479,45 @@
       "low_carb"
     ],
     "data": "28/07/2026"
+  },
+  {
+    "id": "rosbife-com-batata-e-br-colis-na-air-fry-a27d78",
+    "titulo": "Rosbife com Batata e Brócolis na Air Fryer",
+    "tags": [
+      "carne_vermelha",
+      "airfryer",
+      "rapido"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "maminha-na-panela-de-press-o-cf365a",
+    "titulo": "Maminha na Panela de Pressão",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "equilibrio"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "salada-colorida-com-ovos-de-codorna-75de1b",
+    "titulo": "Salada Colorida com Ovos de Codorna",
+    "tags": [
+      "vegetariano",
+      "salada",
+      "rapido"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "mousse-de-chocolate-com-gua-945f5d",
+    "titulo": "Mousse de Chocolate com Água",
+    "tags": [
+      "sobremesa",
+      "rapido",
+      "vegetariano"
+    ],
+    "data": "28/07/2026"
   }
 ]
