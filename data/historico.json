@@ -1229,5 +1229,35 @@
       "vegetariano"
     ],
     "data": "28/07/2026"
+  },
+  {
+    "id": "carne-mo-da-refogada-com-abobrinha-e-cen-ff2377",
+    "titulo": "Carne Moída Refogada com Abobrinha e Cenoura",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "equilibrado"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "escondidinho-de-carne-seca-na-moranga-ff8c21",
+    "titulo": "Escondidinho de Carne Seca na Moranga",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "equilibrado"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "salada-de-frutas-com-iogurte-e-granola-7137af",
+    "titulo": "Salada de Frutas com Iogurte e Granola",
+    "tags": [
+      "rapido",
+      "low_carb",
+      "vegetariano"
+    ],
+    "data": "28/07/2026"
   }
 ]

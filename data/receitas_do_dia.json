@@ -6,163 +6,126 @@
     "dia_semana": "terça",
     "pratos": [
       {
-        "nome": "Picadinho de Carne com Legumes",
+        "nome": "Carne Moída Refogada com Abobrinha e Cenoura",
         "curso": "principal",
-        "tempo": "45 min",
-        "porque": "É um prato clássico, fácil de preparar em uma única panela, com carne vermelha e legumes, garantindo equilíbrio nutricional e pouca fritura.",
+        "tempo": "30 min",
+        "url": "https://www.tudoreceitas.com/receita-de-carne-moida-com-abobrinha-6916.html",
+        "porque": "Extremamente versátil e rápida, a carne moída refogada é uma excelente fonte de proteína. Adicionar legumes como abobrinha e cenoura picados aumenta o valor nutricional e a torna uma refeição balanceada. É feita na panela, sem fritura profunda, e a porção pode ser facilmente ajustada para sobrar.",
         "tags": [
           "carne_vermelha",
           "rapido",
-          "refogado",
           "equilibrado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "500g de patinho ou miolo da alcatra em cubos",
-          "1 cebola média picada",
-          "2 dentes de alho picados",
-          "1 tomate maduro picado",
-          "1 cenoura média em rodelas",
-          "2 batatas médias em cubos",
-          "1/2 xícara de vagem picada (opcional)",
-          "1 xícara de caldo de carne (ou água)",
-          "2 colheres de sopa de azeite",
-          "Sal e pimenta do reino a gosto",
-          "Salsinha picada para finalizar"
+          "500g de carne moída (patinho ou acém)",
+          "1 abobrinha média",
+          "1 cenoura média",
+          "1/2 cebola picada",
+          "2 dentes de alho amassados",
+          "2 colheres (sopa) de extrato de tomate ou molho de tomate",
+          "Azeite a gosto",
+          "Sal, pimenta-do-reino e cheiro-verde a gosto"
         ],
         "preparo": [
-          "Tempere a carne com sal e pimenta do reino.",
-          "Em uma panela grande, aqueça o azeite e doure a carne em fogo alto. Retire a carne e reserve.",
-          "Na mesma panela, refogue a cebola e o alho até ficarem translúcidos. Adicione o tomate e cozinhe por alguns minutos.",
-          "Retorne a carne à panela, adicione a cenoura, as batatas, a vagem (se usar) e o caldo de carne. Misture bem.",
-          "Tampe a panela e cozinhe em fogo baixo por cerca de 25-30 minutos, ou até a carne e os legumes ficarem macios.",
-          "Verifique o tempero, finalize com salsinha picada e sirva com arroz branco."
+          "Em uma panela, aqueça um fio de azeite em fogo médio e refogue a cebola e o alho picados até dourarem.",
+          "Adicione a carne moída e refogue, desfazendo-a com uma colher, até que esteja bem dourada e cozida. Tempere com sal e pimenta-do-reino a gosto.",
+          "Acrescente o extrato de tomate (ou molho), a abobrinha e a cenoura picadas (ou raladas). Misture bem.",
+          "Se necessário, adicione um pouco de água para não secar e cozinhe em fogo médio por cerca de 10-15 minutos, ou até os legumes ficarem macios.",
+          "Finalize com cheiro-verde picado a gosto. Sirva quente."
         ],
-        "id": "picadinho-de-carne-com-legumes-e78ab4"
+        "id": "carne-mo-da-refogada-com-abobrinha-e-cen-ff2377"
       },
       {
-        "nome": "Bife de Patinho Grelhado com Arroz e Salada Verde",
+        "nome": "Escondidinho de Carne Seca na Moranga",
         "curso": "principal",
-        "tempo": "30 min",
-        "porque": "Prato rápido e equilibrado, com carne vermelha preferida do casal e preparo grelhado, sem fritura profunda.",
+        "tempo": "45 min",
+        "url": "https://paladar.estadao.com.br/receitas/escondidinho-de-carne-seca-na-moranga,10000088037",
+        "porque": "Embora possa parecer mais elaborado, o escondidinho é prático porque a carne seca pode ser cozida e desfiada com antecedência. A moranga (ou abóbora cabotiá) pode ser cozida no micro-ondas ou forno, e o prato é montado e gratinado no forno, sem fritura. É rico em proteína e carboidrato complexo, perfeito para uma refeição substanciosa.",
         "tags": [
           "carne_vermelha",
-          "grelhado",
-          "rapido",
+          "forno",
           "equilibrado"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "1 moranga pequena (ou 500g de abóbora cabotiá em cubos)",
+          "300g de carne seca dessalgada e desfiada",
+          "1/2 cebola picada",
+          "2 dentes de alho picados",
+          "2 colheres (sopa) de requeijão cremoso",
+          "50g de queijo muçarela ralado para gratinar",
+          "Azeite, sal e pimenta-do-reino a gosto",
+          "Cheiro-verde picado a gosto"
+        ],
+        "preparo": [
+          "Se a carne seca não estiver pronta, cozinhe-a na panela de pressão por 30 minutos após a fervura. Desfie e reserve.",
+          "Corte a moranga ao meio, retire as sementes e cozinhe no micro-ondas (10-15 min) ou forno (20-30 min) até ficar macia. Retire a polpa e amasse para formar um purê (se usar abóbora cabotiá, cozinhe os cubos e amasse).",
+          "Em uma panela, refogue a cebola e o alho no azeite. Adicione a carne seca desfiada e refogue por alguns minutos. Acrescente o cheiro-verde.",
+          "Misture o purê de moranga (ou abóbora) com o requeijão cremoso. Tempere com sal e pimenta-do-reino a gosto.",
+          "Em um refratário (ou dentro da moranga, se for mini), faça uma camada de purê de abóbora, adicione a carne seca refogada e cubra com o restante do purê.",
+          "Polvilhe com queijo muçarela ralado e leve ao forno pré-aquecido a 180°C por 15-20 minutos, ou até gratinar."
+        ],
+        "id": "escondidinho-de-carne-seca-na-moranga-ff8c21"
+      },
+      {
+        "nome": "Bruschetta de Tomate e Manjericão",
+        "curso": "entrada",
+        "tempo": "15 min",
+        "url": "https://www.knorr.com/br/receitas/bruschettas-de-tomate-e-manjericao.html",
+        "porque": "Uma entrada clássica, leve e muito fácil de fazer. O pão é levemente tostado no forno ou na torradeira (evitando fritura) e coberto com uma mistura fresca de tomate e manjericão. Rápido e saboroso.",
+        "tags": [
+          "rapido",
+          "vegetariano",
+          "entrada"
         ],
         "rende_sobra": false,
         "ingredientes": [
-          "2 bifes de patinho (aprox. 150g cada)",
-          "1 xícara de arroz branco",
-          "2 xícaras de água",
-          "1/2 cebola pequena picada",
-          "1 dente de alho picado",
-          "2 colheres de sopa de azeite (para o arroz e grelhar)",
-          "Sal e pimenta do reino a gosto",
-          "Folhas verdes variadas (alface, rúcula)",
-          "1/2 tomate médio fatiado",
-          "1/4 pepino fatiado"
+          "6-8 fatias de pão italiano ou baguete",
+          "3 tomates maduros (italiano ou cereja), picados sem sementes",
+          "1 dente de alho",
+          "Folhas de manjericão fresco a gosto",
+          "Azeite de oliva extra virgem",
+          "Sal e pimenta-do-reino a gosto"
         ],
         "preparo": [
-          "Tempere os bifes de patinho com sal e pimenta do reino a gosto.",
-          "Em uma panela, refogue a cebola e o alho em 1 colher de sopa de azeite. Adicione o arroz, refogue por 1 minuto e acrescente a água e sal. Cozinhe até secar.",
-          "Aqueça uma grelha ou frigideira antiaderente em fogo médio-alto com 1 colher de sopa de azeite. Grelhe os bifes por 3-4 minutos de cada lado para médio, ou a gosto.",
-          "Lave e prepare as folhas verdes, corte o tomate e o pepino. Monte uma salada simples com azeite, sal e limão a gosto.",
-          "Sirva os bifes grelhados imediatamente, acompanhados do arroz soltinho e da salada verde fresca."
+          "Corte o pão em fatias de cerca de 1 cm de espessura. Leve ao forno pré-aquecido a 180°C ou toste em uma frigideira/torradeira até ficarem levemente douradas.",
+          "Enquanto o pão tosta, pique os tomates em cubos pequenos e as folhas de manjericão grosseiramente.",
+          "Em uma tigela, misture o tomate picado com o manjericão. Tempere com sal, pimenta-do-reino e um bom fio de azeite de oliva.",
+          "Retire o pão do forno e, ainda quente, esfregue o dente de alho descascado sobre a superfície de cada fatia.",
+          "Distribua a mistura de tomate e manjericão sobre as fatias de pão torradas. Sirva imediatamente."
         ],
-        "id": "bife-de-patinho-grelhado-com-arroz-e-sal-f0489b"
+        "id": "bruschetta-de-tomate-e-manjeric-o-8a2342"
       },
       {
-        "nome": "Frango Refogado com Legumes e Molho de Tomate",
-        "curso": "principal",
-        "tempo": "40 min",
-        "porque": "Prato completo e saboroso, com frango e legumes refogados, sem fritura profunda, ideal para uma refeição equilibrada.",
-        "tags": [
-          "frango",
-          "refogado",
-          "equilibrado",
-          "rapido"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "2 filés de peito de frango (aprox. 400g) cortados em cubos",
-          "1 cebola média picada",
-          "2 dentes de alho picados",
-          "1 cenoura pequena em rodelas",
-          "1 abobrinha pequena em cubos",
-          "1/2 pimentão verde em cubos (opcional)",
-          "1 lata de tomate pelado picado (ou 1 xícara de molho de tomate caseiro)",
-          "1/2 xícara de água ou caldo de frango",
-          "2 colheres de sopa de azeite",
-          "Sal e pimenta do reino a gosto",
-          "Salsinha picada para finalizar"
-        ],
-        "preparo": [
-          "Tempere o frango em cubos com sal e pimenta do reino.",
-          "Em uma panela grande, aqueça um fio de azeite e doure o frango em etapas para não juntar água. Retire e reserve.",
-          "Na mesma panela, adicione mais um fio de azeite e refogue a cebola e o alho até ficarem translúcidos.",
-          "Acrescente a cenoura, abobrinha e pimentão. Refogue por 5-7 minutos, até começarem a amaciar.",
-          "Retorne o frango à panela, adicione o tomate pelado (ou molho) e a água/caldo. Misture bem.",
-          "Cozinhe em fogo baixo por 15-20 minutos, até os legumes ficarem macios e o molho encorpado. Finalize com salsinha picada e sirva."
-        ],
-        "id": "frango-refogado-com-legumes-e-molho-de-t-aea3d6"
-      },
-      {
-        "nome": "Dadinhos de Tapioca na Airfryer",
-        "curso": "entrada",
-        "tempo": "30 min",
-        "porque": "Entrada prática e saborosa, preparada na airfryer para uma versão mais saudável, evitando fritura em óleo.",
+        "nome": "Salada de Frutas com Iogurte e Granola",
+        "curso": "sobremesa",
+        "tempo": "10 min",
+        "url": "https://www.sumerbol.com.br/receita/salada-de-frutas-com-granola-e-mel",
+        "porque": "A opção mais prática e saudável para sobremesa. Basta picar as frutas favoritas do casal e servir com iogurte natural e um pouco de granola para adicionar crocância e fibras.",
         "tags": [
           "rapido",
-          "airfryer",
+          "low_carb",
           "vegetariano"
         ],
         "rende_sobra": false,
         "ingredientes": [
-          "250g de tapioca granulada",
-          "250g de queijo coalho ralado (ou mussarela)",
-          "500ml de leite integral quente",
-          "1 colher de chá de sal",
-          "Molho agridoce para acompanhar (opcional)"
+          "1 pera",
+          "2 bananas médias",
+          "1 xícara (chá) de morangos picados",
+          "1/2 mamão papaia pequeno, picado",
+          "2 potes (170g cada) de iogurte natural desnatado",
+          "1/2 xícara (chá) de granola sem açúcar",
+          "Mel a gosto (opcional)"
         ],
         "preparo": [
-          "Em uma tigela, misture a tapioca granulada, o queijo ralado e o sal.",
-          "Despeje o leite quente sobre a mistura, mexendo bem até incorporar e formar uma massa homogênea.",
-          "Espalhe a massa em uma forma untada (ou forrada com papel manteiga) de aproximadamente 20x20cm, nivelando bem. Leve à geladeira por pelo menos 30 minutos (ou até firmar completamente).",
-          "Desenforme a massa e corte em cubos de aproximadamente 2x2cm.",
-          "Preaqueça a airfryer a 180°C. Distribua os dadinhos na cesta sem sobrepor e asse por 15-20 minutos, virando na metade do tempo, até ficarem dourados e crocantes.",
-          "Sirva os dadinhos de tapioca quentes, acompanhados de molho agridoce se desejar."
+          "Lave e higienize todas as frutas. Descasque as bananas e o mamão.",
+          "Corte todas as frutas em cubos ou fatias, conforme preferir.",
+          "Distribua as frutas picadas em duas taças ou um recipiente de sobremesa.",
+          "Acrescente o iogurte natural por cima das frutas.",
+          "Finalize com a granola e, se desejar, um fio de mel. Sirva gelado."
         ],
-        "id": "dadinhos-de-tapioca-na-airfryer-5514d1"
-      },
-      {
-        "nome": "Torta de Limão na Taça (sem forno)",
-        "curso": "sobremesa",
-        "tempo": "20 min",
-        "porque": "Sobremesa refrescante e prática, montada em taças individuais sem necessidade de forno, ideal para um preparo rápido.",
-        "tags": [
-          "rapido",
-          "sem_forno",
-          "sobremesa"
-        ],
-        "rende_sobra": false,
-        "ingredientes": [
-          "1 lata de leite condensado",
-          "1 lata de creme de leite (sem soro)",
-          "Suco de 3-4 limões (aprox. 1/2 xícara)",
-          "1 pacote de biscoito maisena triturado (aprox. 200g)",
-          "2 colheres de sopa de manteiga derretida",
-          "Raspas de limão para decorar"
-        ],
-        "preparo": [
-          "Em uma tigela, misture o biscoito triturado com a manteiga derretida até formar uma farofa úmida.",
-          "No liquidificador, bata o leite condensado, o creme de leite e o suco de limão até obter um creme homogêneo e espesso.",
-          "Em taças individuais, faça camadas alternadas de farofa de biscoito e creme de limão, começando e terminando com o creme.",
-          "Leve à geladeira por pelo menos 2 horas para firmar bem.",
-          "Decore com raspas de limão antes de servir."
-        ],
-        "id": "torta-de-lim-o-na-ta-a-sem-forno-f4a814"
+        "id": "salada-de-frutas-com-iogurte-e-granola-7137af"
       }
     ]
   },
