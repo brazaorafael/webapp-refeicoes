@@ -143,6 +143,36 @@
         "rapido",
         "equilibrio"
       ]
+    },
+    {
+      "curso": "principal",
+      "id": "frango-grelhado-com-legumes-coloridos-c82de9",
+      "ingredientes": [
+        "2 filés de peito de frango (aprox. 150g cada)",
+        "1 cenoura média",
+        "1 abobrinha pequena",
+        "1/2 pimentão (qualquer cor)",
+        "1/2 brócolis pequeno",
+        "2 colheres de sopa de azeite de oliva",
+        "1 dente de alho amassado",
+        "Suco de 1/2 limão",
+        "Sal e pimenta-do-reino a gosto"
+      ],
+      "nome": "Frango Grelhado com Legumes Coloridos",
+      "porque": "Uma opção leve e rica em proteínas, preparada rapidamente na grelha ou frigideira antiaderente, sem fritura em óleo.",
+      "preparo": [
+        "Tempere os filés de frango com sal, pimenta, alho e suco de limão.",
+        "Corte os legumes em tiras ou cubos e cozinhe no vapor ou branquear rapidamente.",
+        "Aqueça 1 colher de azeite em uma frigideira ou grelha e grelhe o frango por 5-7 minutos de cada lado, até dourar e cozinhar por completo.",
+        "Na mesma frigideira, adicione o azeite restante e salteie os legumes por 3-5 minutos, temperando com sal e pimenta.",
+        "Sirva o frango grelhado com os legumes coloridos."
+      ],
+      "rende_sobra": true,
+      "tags": [
+        "frango",
+        "grelhado",
+        "equilibrio"
+      ]
     }
   ]
 }

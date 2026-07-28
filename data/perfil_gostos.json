@@ -31,15 +31,26 @@
         "equilibrio"
       ],
       "data": "28/07/2026"
+    },
+    {
+      "id": "frango-grelhado-com-legumes-coloridos-c82de9",
+      "titulo": "",
+      "tags": [
+        "frango",
+        "grelhado",
+        "equilibrio"
+      ],
+      "data": "28/07/2026"
     }
   ],
   "rejeitadas": [],
   "contadores": {
     "carne_vermelha": 3,
-    "grelhado": 2,
+    "grelhado": 3,
     "rapido": 3,
     "equilibrado": 1,
-    "equilibrio": 2
+    "equilibrio": 3,
+    "frango": 1
   },
-  "resumo": "curtem: rapido, carne vermelha, grelhado, equilibrio, equilibrado"
+  "resumo": "curtem: rapido, grelhado, equilibrio, carne vermelha, frango, equilibrado"
 }
