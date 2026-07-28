@@ -16,7 +16,7 @@ let DADOS = { dia: null, lista: null, perfil: null };
 let INDICE = {};                           // { id: prato } (todos conhecidos)
 let BUSCA = [];                            // resultados da aba Buscar
 let LISTA_CACHE = LS.get("lista_cache", { sig: "", lista: null });
-let IMG_CACHE = LS.get("img_cache", {});   // { slug: url|"none" } fotos dos pratos
+let IMG_CACHE = LS.get("img_cache2", {});   // { slug: url|"none" } fotos dos pratos
 
 const CURSOS = ["principal", "entrada", "sobremesa"];
 const ROTULO = { principal: "Prato principal", entrada: "Entrada", sobremesa: "Sobremesa" };
@@ -75,7 +75,7 @@ function cardPrato(p) {
   const sobra = p.rende_sobra ? " · rende sobra" : "";
   const tempo = p.tempo ? `<span class="card-tempo">⏱ ${esc(p.tempo)}</span>` : "";
   return `<article class="card" data-id="${esc(p.id)}">
-    <button class="card-img carregando" data-abrir="${esc(p.id)}" data-img="${esc(slug(p.nome))}" data-q="${esc(p.nome)}" aria-label="Ver receita: ${esc(p.nome)}">${tempo}</button>
+    <button class="card-img carregando" data-abrir="${esc(p.id)}" data-img="${esc(slug(p.nome))}" data-q="${esc(p.nome)}" data-url="${esc(p.url || "")}" aria-label="Ver receita: ${esc(p.nome)}">${tempo}</button>
     <div class="card-body">
       <button class="card-titulo" data-abrir="${esc(p.id)}">
         <span class="card-nome">${esc(p.nome)}</span>
@@ -101,23 +101,31 @@ function blocosPorCurso(pratos, comCard) {
   return html;
 }
 
-// Carrega as fotos dos pratos (Pexels via Worker), com cache local
+function preload(u) { return new Promise((res, rej) => { const im = new Image(); im.onload = () => res(u); im.onerror = rej; im.src = u; }); }
+
+// Tenta a foto do site primeiro; se falhar, o banco de imagens; senão, placeholder.
+async function pintar(el, key, candidatos) {
+  for (const u of candidatos) {
+    if (!u) continue;
+    try { await preload(u); el.style.backgroundImage = `url("${u}")`; el.classList.remove("carregando"); IMG_CACHE[key] = u; LS.set("img_cache2", IMG_CACHE); return; } catch {}
+  }
+  el.classList.remove("carregando"); IMG_CACHE[key] = "none"; LS.set("img_cache2", IMG_CACHE);
+}
+
+// Carrega as fotos dos pratos (capa do site + banco via Worker), com cache local
 function carregarImagens(container) {
-  const url = urlDoWorker();
+  const wurl = urlDoWorker();
   container.querySelectorAll("[data-img]").forEach(el => {
     const key = el.getAttribute("data-img");
     const q = el.getAttribute("data-q");
+    const pageUrl = el.getAttribute("data-url") || "";
     const cached = IMG_CACHE[key];
     if (cached === "none") { el.classList.remove("carregando"); return; }
     if (cached) { el.style.backgroundImage = `url("${cached}")`; el.classList.remove("carregando"); return; }
-    if (!url) { el.classList.remove("carregando"); return; }
-    fetch(url, { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ action: "imagem", consulta: q }) })
-      .then(r => r.json()).then(j => {
-        if (j && j.url) { IMG_CACHE[key] = j.url; el.style.backgroundImage = `url("${j.url}")`; }
-        else IMG_CACHE[key] = "none";
-        LS.set("img_cache", IMG_CACHE);
-        el.classList.remove("carregando");
-      }).catch(() => el.classList.remove("carregando"));
+    if (!wurl) { el.classList.remove("carregando"); return; }
+    fetch(wurl, { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ action: "imagem", consulta: q, url: pageUrl }) })
+      .then(r => r.json()).then(j => pintar(el, key, [j.site, j.banco]))
+      .catch(() => el.classList.remove("carregando"));
   });
 }
 
@@ -351,10 +359,11 @@ function abrirReceita(id) {
     <div class="receita-topo"><button class="btn-voltar" id="rec-voltar">‹ Voltar</button></div>
     <h2 class="receita-titulo">${esc(p.nome)}</h2>
     <p class="receita-meta">${p.tempo ? `<span class="receita-tempo">⏱ ${esc(p.tempo)}</span>` : ""}${tags ? `<span class="receita-tags">${tags}</span>` : ""}</p>
-    <div class="receita-img carregando" data-img="${esc(slug(p.nome))}" data-q="${esc(p.nome)}"></div>
+    <div class="receita-img carregando" data-img="${esc(slug(p.nome))}" data-q="${esc(p.nome)}" data-url="${esc(p.url || "")}"></div>
     ${p.porque ? `<p class="porque">${esc(p.porque)}</p>` : ""}
     <p class="curso-rot">Ingredientes</p><div class="ingredientes">${ings}</div>
     <p class="curso-rot">Modo de preparo</p><div class="preparo">${passos}</div>
+    ${p.url ? `<p class="receita-link-site"><a href="${esc(p.url)}" target="_blank" rel="noopener">Ver receita completa no site ↗</a></p>` : ""}
     <p class="ajuda" style="text-align:center">Ao votar, você volta para a lista automaticamente.</p>
     <div class="votos">
       <button class="voto ${voto === "like" ? "sel-gostei" : ""}" data-voto="like" data-p="${esc(id)}">👍 Gostei</button>
