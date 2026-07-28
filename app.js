@@ -16,6 +16,7 @@ let DADOS = { dia: null, lista: null, perfil: null };
 let INDICE = {};                           // { id: prato } (todos conhecidos)
 let BUSCA = [];                            // resultados da aba Buscar
 let LISTA_CACHE = LS.get("lista_cache", { sig: "", lista: null });
+let IMG_CACHE = LS.get("img_cache", {});   // { slug: url|"none" } fotos dos pratos
 
 const CURSOS = ["principal", "entrada", "sobremesa"];
 const ROTULO = { principal: "Prato principal", entrada: "Entrada", sobremesa: "Sobremesa" };
@@ -68,15 +69,56 @@ function linhaPrato(p) {
   </div>`;
 }
 
-function blocosPorCurso(pratos) {
+function cardPrato(p) {
+  const voto = VOTOS[p.id];
+  const tags = (p.tags || []).map(t => esc(t).replace(/_/g, " ")).join(" · ");
+  const sobra = p.rende_sobra ? " · rende sobra" : "";
+  const tempo = p.tempo ? `<span class="card-tempo">⏱ ${esc(p.tempo)}</span>` : "";
+  return `<article class="card" data-id="${esc(p.id)}">
+    <button class="card-img carregando" data-abrir="${esc(p.id)}" data-img="${esc(slug(p.nome))}" data-q="${esc(p.nome)}" aria-label="Ver receita: ${esc(p.nome)}">${tempo}</button>
+    <div class="card-body">
+      <button class="card-titulo" data-abrir="${esc(p.id)}">
+        <span class="card-nome">${esc(p.nome)}</span>
+        <span class="card-tags">${tags}${sobra}</span>
+      </button>
+      <div class="votos-card">
+        <button class="votinho ${voto === "like" ? "sel-gostei" : ""}" data-voto="like" data-p="${esc(p.id)}" aria-label="Gostei">👍</button>
+        <button class="votinho ${voto === "dislike" ? "sel-naogostei" : ""}" data-voto="dislike" data-p="${esc(p.id)}" aria-label="Não curti">👎</button>
+      </div>
+    </div>
+  </article>`;
+}
+
+function blocosPorCurso(pratos, comCard) {
+  const render = comCard ? cardPrato : linhaPrato;
   let html = "";
   CURSOS.forEach(curso => {
     const doCurso = pratos.filter(p => (p.curso || "principal") === curso);
     if (!doCurso.length) return;
     const rot = curso !== "principal" ? " · opcional" : (doCurso.length > 1 ? " · escolha" : "");
-    html += `<p class="curso-rot">${esc(ROTULO[curso])}${rot}</p>` + doCurso.map(linhaPrato).join("");
+    html += `<p class="curso-rot">${esc(ROTULO[curso])}${rot}</p>` + doCurso.map(render).join("");
   });
   return html;
+}
+
+// Carrega as fotos dos pratos (Pexels via Worker), com cache local
+function carregarImagens(container) {
+  const url = urlDoWorker();
+  container.querySelectorAll("[data-img]").forEach(el => {
+    const key = el.getAttribute("data-img");
+    const q = el.getAttribute("data-q");
+    const cached = IMG_CACHE[key];
+    if (cached === "none") { el.classList.remove("carregando"); return; }
+    if (cached) { el.style.backgroundImage = `url("${cached}")`; el.classList.remove("carregando"); return; }
+    if (!url) { el.classList.remove("carregando"); return; }
+    fetch(url, { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ action: "imagem", consulta: q }) })
+      .then(r => r.json()).then(j => {
+        if (j && j.url) { IMG_CACHE[key] = j.url; el.style.backgroundImage = `url("${j.url}")`; }
+        else IMG_CACHE[key] = "none";
+        LS.set("img_cache", IMG_CACHE);
+        el.classList.remove("carregando");
+      }).catch(() => el.classList.remove("carregando"));
+  });
 }
 
 function ligarInteracoes(container) {
@@ -91,8 +133,8 @@ function renderHoje() {
   const alvo = document.getElementById("hoje");
   const pratos = DADOS.dia?.diario?.pratos || [];
   if (!pratos.length) { alvo.innerHTML = `<p class="vazio">Ainda não há receitas de hoje.</p>`; return; }
-  alvo.innerHTML = `<h2 class="secao-titulo">Receitas de hoje</h2>` + blocosPorCurso(pratos);
-  ligarInteracoes(alvo);
+  alvo.innerHTML = `<h2 class="secao-titulo">Receitas de hoje</h2>` + blocosPorCurso(pratos, true);
+  ligarInteracoes(alvo); carregarImagens(alvo);
 }
 
 function renderSemana() {
@@ -100,9 +142,9 @@ function renderSemana() {
   const dias = DADOS.dia?.semanal?.dias || [];
   if (!dias.length) { alvo.innerHTML = `<p class="vazio">O cardápio da semana chega no domingo à noite.</p>`; return; }
   let html = `<h2 class="secao-titulo">Cardápio da semana</h2>`;
-  dias.forEach(d => { html += `<h3 class="dia-titulo">${esc(d.dia)}</h3>` + blocosPorCurso(d.pratos || []); });
+  dias.forEach(d => { html += `<h3 class="dia-titulo">${esc(d.dia)}</h3>` + blocosPorCurso(d.pratos || [], true); });
   alvo.innerHTML = html;
-  ligarInteracoes(alvo);
+  ligarInteracoes(alvo); carregarImagens(alvo);
 }
 
 // -------------------------------------------------------------------------
@@ -123,9 +165,9 @@ function renderBuscar() {
       <button class="btn" id="busca-ingr-btn">Montar</button>
     </div>
     <p class="ajuda" id="busca-status"></p>
-    <div id="busca-resultados">${BUSCA.length ? blocosPorCurso(BUSCA) : ""}</div>`;
+    <div id="busca-resultados">${BUSCA.length ? blocosPorCurso(BUSCA, true) : ""}</div>`;
   const res = document.getElementById("busca-resultados");
-  if (BUSCA.length) ligarInteracoes(res);
+  if (BUSCA.length) { ligarInteracoes(res); carregarImagens(res); }
 
   const rodar = async (acao, payload) => {
     const st = document.getElementById("busca-status");
@@ -306,19 +348,23 @@ function abrirReceita(id) {
   const passos = (p.preparo || []).map((x, n) => `<div class="passo"><b>${n + 1}.</b> ${esc(x)}</div>`).join("");
   const tela = document.getElementById("tela-receita");
   tela.innerHTML = `
-    <div class="receita-topo"><button class="link-sutil" id="rec-voltar">‹ voltar</button></div>
+    <div class="receita-topo"><button class="btn-voltar" id="rec-voltar">‹ Voltar</button></div>
     <h2 class="receita-titulo">${esc(p.nome)}</h2>
-    ${tags ? `<p class="receita-tags">${tags}</p>` : ""}
+    <p class="receita-meta">${p.tempo ? `<span class="receita-tempo">⏱ ${esc(p.tempo)}</span>` : ""}${tags ? `<span class="receita-tags">${tags}</span>` : ""}</p>
+    <div class="receita-img carregando" data-img="${esc(slug(p.nome))}" data-q="${esc(p.nome)}"></div>
     ${p.porque ? `<p class="porque">${esc(p.porque)}</p>` : ""}
     <p class="curso-rot">Ingredientes</p><div class="ingredientes">${ings}</div>
     <p class="curso-rot">Modo de preparo</p><div class="preparo">${passos}</div>
+    <p class="ajuda" style="text-align:center">Ao votar, você volta para a lista automaticamente.</p>
     <div class="votos">
       <button class="voto ${voto === "like" ? "sel-gostei" : ""}" data-voto="like" data-p="${esc(id)}">👍 Gostei</button>
       <button class="voto ${voto === "dislike" ? "sel-naogostei" : ""}" data-voto="dislike" data-p="${esc(id)}">👎 Não curti</button>
     </div>`;
   tela.querySelector("#rec-voltar").onclick = fecharReceita;
-  tela.querySelectorAll("[data-voto]").forEach(b => b.addEventListener("click", () => { votar(b.dataset.p, b.dataset.voto); abrirReceita(id); }));
+  // Votar já fecha e volta — sem precisar clicar em "Voltar"
+  tela.querySelectorAll("[data-voto]").forEach(b => b.addEventListener("click", () => { votar(b.dataset.p, b.dataset.voto); fecharReceita(); }));
   tela.classList.remove("escondida");
+  carregarImagens(tela);
   window.scrollTo(0, 0);
 }
 function fecharReceita() { document.getElementById("tela-receita").classList.add("escondida"); }
