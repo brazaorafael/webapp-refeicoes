@@ -29,6 +29,7 @@ const PERFIL = "Perfil: casal jovem, jantar para 2. Prioridade em proteína (car
 
 const ESQUEMA = "Cada receita é um objeto: { \"nome\", \"curso\" (\"principal\"|\"entrada\"|\"sobremesa\"), "
   + "\"tempo\" (tempo estimado de preparo, ex: \"35 min\"), "
+  + "\"url\" (link direto e real da receita no site onde foi encontrada), "
   + "\"porque\" (1 frase), \"tags\" (array curto, ex: [\"carne_vermelha\",\"airfryer\"]), "
   + "\"rende_sobra\" (true/false), \"ingredientes\" (array, com quantidades), "
   + "\"preparo\" (array de 4 a 6 passos claros) }.";
@@ -46,6 +47,26 @@ async function gemini(env, parts, useSearch) {
   });
   const j = await r.json();
   return (j?.candidates?.[0]?.content?.parts || []).map(p => p.text).filter(Boolean).join("");
+}
+
+async function ogImage(pageUrl) {
+  const r = await fetch(pageUrl, { headers: { "User-Agent": "Mozilla/5.0 (compatible; CozinhaBot/1.0)" } });
+  if (!r.ok) return null;
+  const html = await r.text();
+  const m = html.match(/<meta[^>]+(?:property|name)=["'](?:og:image|twitter:image)["'][^>]+content=["']([^"']+)["']/i)
+    || html.match(/<meta[^>]+content=["']([^"']+)["'][^>]+(?:property|name)=["'](?:og:image|twitter:image)["']/i);
+  let u = m ? m[1] : null;
+  if (u && u.startsWith("//")) u = "https:" + u;
+  else if (u && u.startsWith("/")) { try { u = new URL(pageUrl).origin + u; } catch {} }
+  return u;
+}
+
+async function pexels(env, q) {
+  if (!env.PEXELS_KEY || !q) return null;
+  const u = "https://api.pexels.com/v1/search?per_page=1&orientation=landscape&query=" + encodeURIComponent(q + " food dish");
+  const r = await fetch(u, { headers: { Authorization: env.PEXELS_KEY } });
+  const j = await r.json();
+  return j?.photos?.[0]?.src?.medium || null;
 }
 
 function extrairJson(txt) {
@@ -75,17 +96,14 @@ export default {
       const precisaGemini = ["foto", "consolidar", "buscar", "com_ingredientes"].includes(action);
       if (precisaGemini && !env.GEMINI_API_KEY) return json({ error: "config", detalhe: "GEMINI_API_KEY ausente" }, 200);
 
-      // ---- Buscar foto do prato (Pexels) ----
+      // ---- Foto do prato: capa do site (og:image) + banco de imagens como plano B ----
       if (action === "imagem") {
         const q = (body.consulta || "").trim();
-        if (!q || !env.PEXELS_KEY) return json({ url: null }, 200);
-        try {
-          const u = "https://api.pexels.com/v1/search?per_page=1&orientation=landscape&query="
-            + encodeURIComponent(q + " food dish");
-          const rp = await fetch(u, { headers: { Authorization: env.PEXELS_KEY } });
-          const jp = await rp.json();
-          return json({ url: jp?.photos?.[0]?.src?.medium || null }, 200);
-        } catch { return json({ url: null }, 200); }
+        const pageUrl = (body.url || "").trim();
+        let site = null, banco = null;
+        if (pageUrl) { try { site = await ogImage(pageUrl); } catch {} }
+        try { banco = await pexels(env, q); } catch {}
+        return json({ site, banco }, 200);
       }
 
       // ---- Foto -> ingredientes ----
