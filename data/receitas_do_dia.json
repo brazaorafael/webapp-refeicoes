@@ -76,945 +76,888 @@
     "dias": [
       {
         "dia": "Segunda",
-        "opcoes": [
+        "pratos": [
           {
-            "titulo": "Bife Acebolado com Tomate",
-            "porque": "Um clássico prato com carne vermelha, rápido e fácil de preparar, ideal para começar a semana.",
-            "fonte": "ana maria braga",
+            "nome": "Bolo de Carne Recheado com Queijo (forno)",
+            "curso": "principal",
+            "porque": "É uma opção de carne vermelha assada no forno, prática de montar e que rende bem para sobras.",
             "tags": [
               "carne_vermelha",
-              "grelhado",
-              "rapido",
-              "equilibrio"
+              "forno",
+              "rapido"
             ],
             "rende_sobra": true,
-            "entrada": {
-              "nome": "Salada de Alface e Tomate",
-              "ingredientes": [
-                "alface crespa",
-                "tomate",
-                "azeite",
-                "vinagre",
-                "sal"
-              ],
-              "preparo": [
-                "Lave bem as folhas de alface e o tomate. Corte o tomate em rodelas. Monte a salada e tempere com azeite, vinagre e sal a gosto."
-              ]
-            },
-            "principal": {
-              "nome": "Bife Acebolado com Tomate",
-              "ingredientes": [
-                "bifes (contrafilé ou alcatra)",
-                "cebola",
-                "tomate",
-                "alho",
-                "azeite",
-                "sal",
-                "pimenta-do-reino",
-                "arroz branco",
-                "feijão"
-              ],
-              "preparo": [
-                "Tempere os bifes com sal e pimenta. Em uma frigideira quente com azeite, grelhe os bifes até o ponto desejado. Retire os bifes e, na mesma frigideira, refogue a cebola fatiada e o alho picado. Adicione o tomate picado e cozinhe rapidamente. Volte os bifes para a frigideira, misture com o molho e sirva com arroz branco e feijão."
-              ]
-            },
-            "sobremesa": {
-              "nome": "Fruta da Estação",
-              "ingredientes": [
-                "fruta fresca (ex: banana, maçã, mamão)"
-              ],
-              "preparo": [
-                "Lave e corte a fruta de sua preferência."
-              ]
-            },
-            "id": "bife-acebolado-com-tomate-a05174"
+            "ingredientes": [
+              "500g de carne moída (patinho ou acém)",
+              "1 ovo",
+              "1/2 xícara de farinha de rosca",
+              "1/2 cebola picada",
+              "2 dentes de alho amassados",
+              "Sal e pimenta-do-reino a gosto",
+              "100g de muçarela fatiada",
+              "2 colheres de sopa de cheiro-verde picado"
+            ],
+            "preparo": [
+              "Em uma tigela, misture a carne moída, ovo, farinha de rosca, cebola, alho, sal, pimenta e cheiro-verde.",
+              "Divida a massa ao meio e abra uma parte em formato retangular sobre papel manteiga.",
+              "Distribua as fatias de muçarela sobre a carne e cubra com a outra parte da massa, modelando o bolo.",
+              "Transfira para uma assadeira e leve ao forno pré-aquecido a 180°C por 30-40 minutos.",
+              "Sirva fatiado, acompanhado de seu molho preferido ou legumes."
+            ],
+            "id": "bolo-de-carne-recheado-com-queijo-forno-fa2e42"
           },
           {
-            "titulo": "Picadinho de Carne com Legumes",
-            "porque": "Refeição completa e nutritiva, com carne vermelha e vegetais, que rende bem para sobras.",
-            "fonte": "receitas claudia",
+            "nome": "Frango Grelhado com Legumes Coloridos",
+            "curso": "principal",
+            "porque": "Uma opção leve e rica em proteínas, preparada rapidamente na grelha ou frigideira antiaderente, sem fritura em óleo.",
             "tags": [
-              "carne_vermelha",
-              "refogado",
-              "rapido",
+              "frango",
+              "grelhado",
               "equilibrio"
             ],
             "rende_sobra": true,
-            "entrada": {
-              "nome": "Caldo de Legumes Leve",
-              "ingredientes": [
-                "legumes variados (cenoura, batata, salsão)",
-                "água",
-                "sal",
-                "cheiro-verde"
-              ],
-              "preparo": [
-                "Cozinhe os legumes em água com sal. Bata uma parte no liquidificador para engrossar, se desejar. Sirva com cheiro-verde picado."
-              ]
-            },
-            "principal": {
-              "nome": "Picadinho de Carne com Legumes",
-              "ingredientes": [
-                "miolo de alcatra em cubos",
-                "cebola",
-                "alho",
-                "tomate",
-                "cenoura",
-                "chuchu",
-                "vagem",
-                "batata",
-                "milho verde (opcional)",
-                "cheiro-verde",
-                "arroz branco"
-              ],
-              "preparo": [
-                "Tempere a carne em cubos com sal e pimenta. Refogue a cebola e o alho em azeite. Adicione a carne e doure. Junte os legumes picados (cenoura, chuchu, vagem, batata) e um pouco de água. Cozinhe até os legumes ficarem macios. Adicione o tomate e o milho verde. Finalize com cheiro-verde picado. Sirva com arroz branco."
-              ]
-            },
-            "sobremesa": {
-              "nome": "Iogurte Natural com Mel",
-              "ingredientes": [
-                "iogurte natural",
-                "mel"
-              ],
-              "preparo": [
-                "Sirva o iogurte natural com um fio de mel."
-              ]
-            },
-            "id": "picadinho-de-carne-com-legumes-e78ab4"
+            "ingredientes": [
+              "2 filés de peito de frango (aprox. 150g cada)",
+              "1 cenoura média",
+              "1 abobrinha pequena",
+              "1/2 pimentão (qualquer cor)",
+              "1/2 brócolis pequeno",
+              "2 colheres de sopa de azeite de oliva",
+              "1 dente de alho amassado",
+              "Suco de 1/2 limão",
+              "Sal e pimenta-do-reino a gosto"
+            ],
+            "preparo": [
+              "Tempere os filés de frango com sal, pimenta, alho e suco de limão.",
+              "Corte os legumes em tiras ou cubos e cozinhe no vapor ou branquear rapidamente.",
+              "Aqueça 1 colher de azeite em uma frigideira ou grelha e grelhe o frango por 5-7 minutos de cada lado, até dourar e cozinhar por completo.",
+              "Na mesma frigideira, adicione o azeite restante e salteie os legumes por 3-5 minutos, temperando com sal e pimenta.",
+              "Sirva o frango grelhado com os legumes coloridos."
+            ],
+            "id": "frango-grelhado-com-legumes-coloridos-c82de9"
+          },
+          {
+            "nome": "Salada de Folhas Verdes com Tomate Cereja",
+            "curso": "entrada",
+            "porque": "Extremamente rápida e refrescante, requer apenas a lavagem e montagem dos ingredientes com um molho simples.",
+            "tags": [
+              "salada",
+              "rapido",
+              "low_carb"
+            ],
+            "rende_sobra": false,
+            "ingredientes": [
+              "1 maço de mix de folhas verdes (alface, rúcula)",
+              "1 xícara de tomate cereja",
+              "2 colheres de sopa de azeite de oliva extra virgem",
+              "1 colher de sopa de suco de limão",
+              "Sal a gosto"
+            ],
+            "preparo": [
+              "Lave bem as folhas verdes e os tomates cereja.",
+              "Corte os tomates cereja ao meio.",
+              "Em uma saladeira, junte as folhas e os tomates.",
+              "Prepare o molho misturando azeite, suco de limão e sal.",
+              "Regue a salada com o molho e sirva imediatamente."
+            ],
+            "id": "salada-de-folhas-verdes-com-tomate-cerej-eb8618"
+          },
+          {
+            "nome": "Mousse de Maracujá Rápida",
+            "curso": "sobremesa",
+            "porque": "Uma sobremesa tropical, leve e refrescante, que fica pronta em poucos minutos no liquidificador.",
+            "tags": [
+              "rapido",
+              "sobremesa"
+            ],
+            "rende_sobra": true,
+            "ingredientes": [
+              "1 lata de leite condensado (395g)",
+              "1 lata de creme de leite (200g)",
+              "1 xícara de suco concentrado de maracujá"
+            ],
+            "preparo": [
+              "No liquidificador, bata o leite condensado e o creme de leite por 2 minutos.",
+              "Adicione o suco de maracujá e bata novamente até a mistura ficar homogênea e cremosa.",
+              "Despeje a mousse em um refratário ou em taças individuais.",
+              "Leve à geladeira por no mínimo 3 horas antes de servir."
+            ],
+            "id": "mousse-de-maracuj-r-pida-6a18d0"
           }
         ]
       },
       {
         "dia": "Terça",
-        "opcoes": [
+        "pratos": [
           {
-            "titulo": "Strogonoff de Carne Cremoso",
-            "porque": "Um clássico que agrada a muitos, fácil de fazer e com molho cremoso, ideal para render sobras.",
-            "fonte": "sabores ajinomoto",
+            "nome": "Fraldinha Assada com Batatas Rústicas",
+            "curso": "principal",
+            "porque": "Uma refeição completa de carne vermelha e carboidratos, assada no forno para praticidade e sabor, evitando frituras.",
             "tags": [
               "carne_vermelha",
-              "refogado",
-              "rapido",
-              "rende_sobra"
+              "forno",
+              "equilibrio"
             ],
             "rende_sobra": true,
-            "entrada": {
-              "nome": "Salada de Folhas Verdes",
-              "ingredientes": [
-                "mix de folhas verdes",
-                "azeite",
-                "vinagre balsâmico",
-                "sal"
-              ],
-              "preparo": [
-                "Lave e seque as folhas. Tempere com azeite, vinagre balsâmico e sal."
-              ]
-            },
-            "principal": {
-              "nome": "Strogonoff de Carne Cremoso",
-              "ingredientes": [
-                "carne bovina em tiras (filé mignon, alcatra)",
-                "cebola",
-                "alho",
-                "manteiga",
-                "caldo de carne",
-                "ketchup",
-                "mostarda",
-                "creme de leite",
-                "champignon (opcional)",
-                "arroz branco",
-                "batata palha (opcional)"
-              ],
-              "preparo": [
-                "Tempere a carne. Em uma panela, doure a carne na manteiga. Adicione cebola e alho, refogue. Junte o caldo de carne, ketchup e mostarda. Deixe ferver. Desligue o fogo e adicione o creme de leite e champignon. Sirva com arroz branco e batata palha."
-              ]
-            },
-            "sobremesa": {
-              "nome": "Mousse Rápida de Maracujá",
-              "ingredientes": [
-                "leite condensado",
-                "creme de leite",
-                "suco concentrado de maracujá"
-              ],
-              "preparo": [
-                "Bata todos os ingredientes no liquidificador até ficar homogêneo. Leve à geladeira por pelo menos 1 hora."
-              ]
-            },
-            "id": "strogonoff-de-carne-cremoso-fb0db4"
+            "ingredientes": [
+              "700g de fraldinha",
+              "4 batatas médias",
+              "3 colheres de sopa de azeite de oliva",
+              "2 dentes de alho amassados",
+              "1 ramo de alecrim fresco",
+              "Sal e pimenta-do-reino a gosto"
+            ],
+            "preparo": [
+              "Corte as batatas em gomos, tempere com 1 colher de azeite, sal, pimenta e alecrim. Reserve.",
+              "Tempere a fraldinha com sal, pimenta, alho e 2 colheres de azeite, massageando bem a carne.",
+              "Em uma assadeira, disponha a fraldinha e as batatas em volta.",
+              "Leve ao forno pré-aquecido a 200°C por cerca de 30-40 minutos, virando as batatas na metade do tempo.",
+              "Deixe a carne descansar por 5 minutos antes de fatiar e servir com as batatas."
+            ],
+            "id": "fraldinha-assada-com-batatas-r-sticas-f4f9d5"
           },
           {
-            "titulo": "Bife à Milanesa na Airfryer",
-            "porque": "Versão mais saudável e crocante do bife à milanesa, sem imersão em óleo, perfeito para pouca fritura.",
-            "fonte": "receitas wap",
+            "nome": "Macarrão com Brócolis e Frango ao Molho Leve",
+            "curso": "principal",
+            "porque": "Refeição completa e nutritiva, com carboidratos, proteínas e vegetais, prática para o dia a dia.",
             "tags": [
-              "carne_vermelha",
-              "airfryer",
+              "frango",
+              "massa",
+              "equilibrio"
+            ],
+            "rende_sobra": true,
+            "ingredientes": [
+              "200g de macarrão (parafuso ou penne)",
+              "1 peito de frango cozido e desfiado (aprox. 200g)",
+              "1 maço pequeno de brócolis",
+              "1 cebola pequena picada",
+              "2 dentes de alho amassados",
+              "2 colheres de sopa de azeite de oliva",
+              "1 tomate picado",
+              "Sal e pimenta-do-reino a gosto",
+              "1/4 xícara de queijo parmesão ralado (opcional)"
+            ],
+            "preparo": [
+              "Cozinhe o macarrão conforme as instruções da embalagem. Cozinhe o brócolis no vapor ou em água fervente por 3-5 minutos.",
+              "Em uma panela grande, aqueça o azeite e refogue a cebola e o alho até dourarem.",
+              "Adicione o tomate picado e refogue por mais alguns minutos.",
+              "Acrescente o frango desfiado e o brócolis, misture bem e tempere com sal e pimenta.",
+              "Junte o macarrão cozido ao molho, misture e sirva imediatamente, polvilhando queijo parmesão se desejar."
+            ],
+            "id": "macarr-o-com-br-colis-e-frango-ao-molho--4a2983"
+          },
+          {
+            "nome": "Bruschetta de Tomate e Manjericão",
+            "curso": "entrada",
+            "porque": "Um aperitivo italiano simples e saboroso, onde o pão é tostado e coberto com ingredientes frescos.",
+            "tags": [
               "rapido",
-              "pratico"
+              "vegetariano"
             ],
             "rende_sobra": false,
-            "entrada": {
-              "nome": "Salada de Tomate e Pepino",
-              "ingredientes": [
-                "tomate",
-                "pepino",
-                "cebola roxa (opcional)",
-                "azeite",
-                "limão",
-                "sal"
-              ],
-              "preparo": [
-                "Corte o tomate e o pepino em rodelas ou cubos. Fatie a cebola roxa finamente. Misture e tempere com azeite, limão e sal."
-              ]
-            },
-            "principal": {
-              "nome": "Bife à Milanesa na Airfryer",
-              "ingredientes": [
-                "bifes finos (patinho, coxão mole)",
-                "ovo",
-                "farinha de rosca (ou panko)",
-                "sal",
-                "pimenta-do-reino",
-                "azeite em spray",
-                "purê de batatas"
-              ],
-              "preparo": [
-                "Tempere os bifes. Passe cada bife no ovo batido e depois na farinha de rosca, pressionando bem. Pincele ou borrife azeite nos bifes. Leve à airfryer a 200°C por cerca de 15-20 minutos, virando na metade do tempo, até ficarem dourados e crocantes. Sirva com purê de batatas."
-              ]
-            },
-            "sobremesa": {
-              "nome": "Fruta Picada",
-              "ingredientes": [
-                "frutas variadas (ex: morango, uva, kiwi)"
-              ],
-              "preparo": [
-                "Lave, pique e misture as frutas de sua preferência."
-              ]
-            },
-            "id": "bife-milanesa-na-airfryer-d19241"
+            "ingredientes": [
+              "4 fatias de pão italiano (ou baguete)",
+              "2 tomates maduros",
+              "1 dente de alho",
+              "1/4 xícara de folhas de manjericão fresco",
+              "2 colheres de sopa de azeite extra virgem",
+              "Sal e pimenta-do-reino a gosto"
+            ],
+            "preparo": [
+              "Corte o pão em fatias e torre-as levemente no forno ou frigideira até ficarem crocantes.",
+              "Esfregue o dente de alho nas fatias de pão tostadas.",
+              "Pique os tomates em cubos pequenos e misture com o manjericão picado, azeite, sal e pimenta.",
+              "Distribua a mistura de tomate sobre as fatias de pão.",
+              "Sirva as bruschettas imediatamente como entrada."
+            ],
+            "id": "bruschetta-de-tomate-e-manjeric-o-8a2342"
+          },
+          {
+            "nome": "Brigadeiro de Colher Cremoso",
+            "curso": "sobremesa",
+            "porque": "Uma sobremesa clássica brasileira, fácil de preparar em uma única panela e perfeita para satisfazer a vontade de doce.",
+            "tags": [
+              "rapido",
+              "sobremesa"
+            ],
+            "rende_sobra": true,
+            "ingredientes": [
+              "1 lata de leite condensado (395g)",
+              "3 colheres de sopa de chocolate em pó 50% cacau",
+              "1 colher de sopa de manteiga sem sal",
+              "1/4 xícara de creme de leite (opcional para maior cremosidade)"
+            ],
+            "preparo": [
+              "Em uma panela de fundo grosso, misture o leite condensado, o chocolate em pó e a manteiga.",
+              "Leve ao fogo baixo, mexendo sempre para não grudar no fundo.",
+              "Cozinhe até a mistura começar a desgrudar do fundo da panela e ficar cremosa (ponto de brigadeiro mole).",
+              "Se usar, adicione o creme de leite e misture bem até incorporar.",
+              "Retire do fogo e transfira para um recipiente. Sirva quente ou frio, de colher."
+            ],
+            "id": "brigadeiro-de-colher-cremoso-7937b3"
           }
         ]
       },
       {
         "dia": "Quarta",
-        "opcoes": [
+        "pratos": [
           {
-            "titulo": "Almôndegas Caseiras ao Molho",
-            "porque": "Almôndegas preparadas sem fritura excessiva, cozidas no molho de tomate, ideais para render e serem acompanhadas.",
-            "fonte": "revista ana maria",
+            "nome": "Bife à Rolê Prático na Panela de Pressão Elétrica",
+            "curso": "principal",
+            "porque": "Uma receita reconfortante de carne vermelha que se torna prática e rápida com o uso da panela de pressão, garantindo bifes macios em pouco tempo.",
             "tags": [
               "carne_vermelha",
-              "refogado",
-              "rende_sobra",
-              "pratico"
+              "rapido",
+              "refogado"
             ],
             "rende_sobra": true,
-            "entrada": {
-              "nome": "Salada de Agrião",
-              "ingredientes": [
-                "maço de agrião",
-                "azeite",
-                "vinagre",
-                "sal"
-              ],
-              "preparo": [
-                "Lave o agrião, tempere com azeite, vinagre e sal."
-              ]
-            },
-            "principal": {
-              "nome": "Almôndegas Caseiras ao Molho",
-              "ingredientes": [
-                "carne moída",
-                "ovo",
-                "farinha de rosca",
-                "cebola",
-                "alho",
-                "salsinha",
-                "sal",
-                "pimenta",
-                "molho de tomate pronto",
-                "arroz branco",
-                "brócolis cozido no vapor"
-              ],
-              "preparo": [
-                "Em uma tigela, misture a carne moída, ovo, farinha de rosca, cebola e alho picados, salsinha, sal e pimenta. Modele as almôndegas. Em uma panela, aqueça o molho de tomate e adicione as almôndegas. Cozinhe em fogo baixo por cerca de 20-25 minutos. Sirva com arroz branco e brócolis cozido no vapor."
-              ]
-            },
-            "sobremesa": {
-              "nome": "Pudim de Leite Condensado Rápido",
-              "ingredientes": [
-                "pudim de caixinha ou pronto"
-              ],
-              "preparo": [
-                "Prepare o pudim de caixinha conforme as instruções ou sirva um pudim pronto."
-              ]
-            },
-            "id": "alm-ndegas-caseiras-ao-molho-618afd"
+            "ingredientes": [
+              "4 bifes finos de carne bovina (alcatra ou patinho)",
+              "4 tiras de cenoura",
+              "4 fatias de bacon (ou calabresa)",
+              "1/2 cebola picada",
+              "2 dentes de alho amassados",
+              "1 lata de molho de tomate (340g)",
+              "1/2 xícara de água",
+              "Sal e pimenta-do-reino a gosto",
+              "Palitos de dente"
+            ],
+            "preparo": [
+              "Tempere os bifes com sal e pimenta. Em cada bife, coloque uma tira de cenoura e uma fatia de bacon.",
+              "Enrole os bifes e prenda com palitos de dente.",
+              "Na panela de pressão elétrica (ou comum), sele os bifes em um fio de azeite até dourarem.",
+              "Adicione a cebola e o alho, refogue, depois acrescente o molho de tomate e a água.",
+              "Feche a panela e cozinhe por 15-20 minutos após pegar pressão. Sirva com o molho."
+            ],
+            "id": "bife-rol-pr-tico-na-panela-de-press-o-el-0a71e5"
           },
           {
-            "titulo": "Bife Grelhado com Legumes Salteados",
-            "porque": "Um jantar clássico e saudável, com a carne no ponto desejado e legumes frescos salteados para acompanhar.",
-            "fonte": "panelinha",
+            "nome": "Risoto de Abobrinha e Queijo",
+            "curso": "principal",
+            "porque": "Uma opção vegetariana sofisticada, mas fácil de fazer em uma panela só, minimizando a louça.",
             "tags": [
-              "carne_vermelha",
-              "grelhado",
-              "low_carb",
+              "vegetariano",
+              "massa",
               "rapido"
             ],
             "rende_sobra": false,
-            "entrada": {
-              "nome": "Sopa Creme de Abóbora",
-              "ingredientes": [
-                "abóbora",
-                "cebola",
-                "alho",
-                "caldo de legumes",
-                "creme de leite (opcional)",
-                "azeite",
-                "sal"
-              ],
-              "preparo": [
-                "Refogue cebola e alho no azeite. Adicione a abóbora picada e o caldo de legumes. Cozinhe até a abóbora ficar macia. Bata no liquidificador, volte à panela, tempere e adicione creme de leite se desejar."
-              ]
-            },
-            "principal": {
-              "nome": "Bife Grelhado com Legumes Salteados",
-              "ingredientes": [
-                "bifes (contrafilé, alcatra)",
-                "sal",
-                "pimenta-do-reino",
-                "azeite",
-                "brócolis",
-                "cenoura",
-                "abobrinha",
-                "alho"
-              ],
-              "preparo": [
-                "Tempere os bifes com sal e pimenta. Grelhe em frigideira bem quente com um fio de azeite até o ponto desejado. Em outra frigideira, salteie os legumes picados (brócolis, cenoura em rodelas, abobrinha em cubos) com alho e azeite até ficarem al dente. Sirva os bifes com os legumes."
-              ]
-            },
-            "sobremesa": {
-              "nome": "Fruta Assada com Canela",
-              "ingredientes": [
-                "maçã ou banana",
-                "canela em pó",
-                "mel (opcional)"
-              ],
-              "preparo": [
-                "Corte a fruta, polvilhe canela e asse no forno ou airfryer por alguns minutos. Sirva com mel se desejar."
-              ]
-            },
-            "id": "bife-grelhado-com-legumes-salteados-407d0c"
+            "ingredientes": [
+              "1 xícara de arroz arbóreo",
+              "1 abobrinha pequena ralada",
+              "1/2 cebola picada",
+              "1 dente de alho amassado",
+              "1/2 xícara de vinho branco seco (opcional)",
+              "3 xícaras de caldo de legumes quente",
+              "2 colheres de sopa de azeite de oliva",
+              "50g de queijo parmesão ralado",
+              "2 colheres de sopa de queijo brie em cubos (ou outro cremoso)",
+              "Sal e pimenta-do-reino a gosto"
+            ],
+            "preparo": [
+              "Em uma panela, aqueça o azeite e refogue a cebola e o alho até ficarem transparentes.",
+              "Adicione o arroz arbóreo e refogue por 1 minuto. Se usar, adicione o vinho branco e mexa até evaporar.",
+              "Comece a adicionar o caldo de legumes quente, uma concha por vez, mexendo sempre até o líquido ser absorvido antes de adicionar a próxima.",
+              "Quando o arroz estiver quase cozido (al dente), adicione a abobrinha ralada, o queijo parmesão e o queijo brie. Mexa até derreter.",
+              "Acerte o sal e a pimenta e sirva imediatamente."
+            ],
+            "id": "risoto-de-abobrinha-e-queijo-eeb6d1"
+          },
+          {
+            "nome": "Aperitivo de Massa Folhada com Queijo e Tomate",
+            "curso": "entrada",
+            "porque": "Pode ser preparado com antecedência e assado na hora de servir no forno ou airfryer, evitando fritura.",
+            "tags": [
+              "vegetariano",
+              "forno",
+              "rapido"
+            ],
+            "rende_sobra": false,
+            "ingredientes": [
+              "1 rolo de massa folhada pronta",
+              "100g de queijo (muçarela, feta ou outro de sua preferência) ralado ou em cubos",
+              "1 tomate médio em rodelas finas",
+              "Orégano a gosto",
+              "Azeite de oliva"
+            ],
+            "preparo": [
+              "Abra a massa folhada e corte em quadrados ou retângulos pequenos.",
+              "Distribua o queijo sobre metade dos pedaços de massa.",
+              "Coloque uma rodela de tomate sobre o queijo e polvilhe orégano.",
+              "Leve ao forno pré-aquecido a 180°C por 15-20 minutos ou até dourar e a massa folhar.",
+              "Sirva os aperitivos quentes, regados com um fio de azeite."
+            ],
+            "id": "aperitivo-de-massa-folhada-com-queijo-e--5c92c7"
+          },
+          {
+            "nome": "Creme de Papaia com Cassis",
+            "curso": "sobremesa",
+            "porque": "Uma sobremesa leve, refrescante e muito fácil de preparar no liquidificador.",
+            "tags": [
+              "rapido",
+              "sobremesa"
+            ],
+            "rende_sobra": false,
+            "ingredientes": [
+              "1 mamão papaia médio",
+              "2 bolas de sorvete de creme",
+              "2 colheres de sopa de licor de cassis (opcional)"
+            ],
+            "preparo": [
+              "Corte o mamão papaia ao meio, retire as sementes e descasque.",
+              "Pique o mamão em pedaços e coloque no liquidificador.",
+              "Adicione o sorvete de creme ao liquidificador.",
+              "Bata tudo até obter um creme homogêneo e liso.",
+              "Despeje em taças, regue com o licor de cassis (se usar) e sirva imediatamente."
+            ],
+            "id": "creme-de-papaia-com-cassis-446b9f"
           }
         ]
       },
       {
         "dia": "Quinta",
-        "opcoes": [
+        "pratos": [
           {
-            "titulo": "Picadinho de Carne com Quiabo",
-            "porque": "Uma variação do picadinho, adicionando quiabo para um toque brasileiro e nutritivo.",
-            "fonte": "panelinha",
+            "nome": "Frango Assado com Batatas e Especiarias",
+            "curso": "principal",
+            "porque": "Uma refeição completa e saborosa, assada no forno, o que dispensa frituras em óleo.",
             "tags": [
-              "carne_vermelha",
-              "refogado",
-              "rende_sobra",
+              "frango",
+              "forno",
               "equilibrio"
             ],
             "rende_sobra": true,
-            "entrada": {
-              "nome": "Salada de Folhas Verdes com Molho de Mostarda",
-              "ingredientes": [
-                "mix de folhas verdes",
-                "azeite",
-                "mostarda dijon",
-                "mel",
-                "vinagre de vinho branco",
-                "sal",
-                "pimenta"
-              ],
-              "preparo": [
-                "Misture os ingredientes do molho. Lave as folhas e tempere."
-              ]
-            },
-            "principal": {
-              "nome": "Picadinho de Carne com Quiabo",
-              "ingredientes": [
-                "carne bovina em cubos (alcatra, patinho)",
-                "quiabo",
-                "cebola",
-                "alho",
-                "tomate",
-                "pimentão (opcional)",
-                "cheiro-verde",
-                "arroz branco"
-              ],
-              "preparo": [
-                "Tempere a carne. Refogue cebola e alho em azeite. Adicione a carne e doure. Junte o tomate e o pimentão. Adicione água e cozinhe até a carne ficar macia. Acrescente o quiabo fatiado e cozinhe até ficar macio, sem baba. Finalize com cheiro-verde. Sirva com arroz branco."
-              ]
-            },
-            "sobremesa": {
-              "nome": "Doce de Abóbora com Coco (pronto)",
-              "ingredientes": [
-                "doce de abóbora com coco (comprado)"
-              ],
-              "preparo": [
-                "Sirva o doce de abóbora com coco."
-              ]
-            },
-            "id": "picadinho-de-carne-com-quiabo-aca50c"
+            "ingredientes": [
+              "4 coxas e/ou sobrecoxas de frango",
+              "4 batatas médias",
+              "1 cebola média em rodelas",
+              "1 pimentão em tiras",
+              "2 colheres de sopa de extrato de tomate",
+              "1 colher de chá de curry em pó",
+              "1 colher de chá de orégano",
+              "3 colheres de sopa de azeite de oliva",
+              "Sal e pimenta-do-reino a gosto"
+            ],
+            "preparo": [
+              "Descasque as batatas e corte-as em pedaços grandes.",
+              "Em uma tigela grande, misture o frango, as batatas, cebola, pimentão, extrato de tomate, curry, orégano, azeite, sal e pimenta.",
+              "Transfira tudo para uma assadeira, espalhando bem os ingredientes.",
+              "Cubra a assadeira com papel alumínio e leve ao forno pré-aquecido a 200°C por 30 minutos.",
+              "Retire o papel alumínio e asse por mais 20-30 minutos, ou até o frango dourar e as batatas ficarem macias."
+            ],
+            "id": "frango-assado-com-batatas-e-especiarias-547d68"
           },
           {
-            "titulo": "Rocambole de Carne Moída Recheado",
-            "porque": "Uma forma diferente e saborosa de preparar carne moída, que pode ser recheado com queijo e presunto.",
-            "fonte": "três em casa",
+            "nome": "Torta de Carne Moída com Purê de Batata (forno)",
+            "curso": "principal",
+            "porque": "Uma opção reconfortante e nutritiva de carne vermelha, preparada no forno para uma refeição completa e prática.",
             "tags": [
               "carne_vermelha",
               "forno",
-              "rende_sobra",
-              "pratico"
+              "massa"
             ],
             "rende_sobra": true,
-            "entrada": {
-              "nome": "Sopa de Tomate",
-              "ingredientes": [
-                "tomates maduros",
-                "cebola",
-                "alho",
-                "caldo de legumes",
-                "manjericão fresco",
-                "azeite",
-                "sal",
-                "pimenta"
-              ],
-              "preparo": [
-                "Refogue cebola e alho no azeite. Adicione os tomates picados e o caldo. Cozinhe, bata no liquidificador, coe e tempere. Sirva com manjericão."
-              ]
-            },
-            "principal": {
-              "nome": "Rocambole de Carne Moída Recheado",
-              "ingredientes": [
-                "carne moída",
-                "ovo",
-                "farinha de rosca",
-                "alho",
-                "cebola",
-                "salsinha",
-                "sal",
-                "pimenta",
-                "queijo muçarela em fatias",
-                "presunto em fatias",
-                "purê de batatas"
-              ],
-              "preparo": [
-                "Misture a carne moída com ovo, farinha de rosca, alho, cebola, salsinha, sal e pimenta. Abra a massa sobre um plástico filme, recheie com queijo e presunto. Enrole cuidadosamente. Leve ao forno pré-aquecido a 180°C por cerca de 30-40 minutos. Sirva fatiado com purê de batatas."
-              ]
-            },
-            "sobremesa": {
-              "nome": "Fruta Fresca",
-              "ingredientes": [
-                "fruta variada (ex: uva, manga)"
-              ],
-              "preparo": [
-                "Lave e sirva a fruta."
-              ]
-            },
-            "id": "rocambole-de-carne-mo-da-recheado-f76b9e"
+            "ingredientes": [
+              "500g de carne moída",
+              "1 cebola picada",
+              "2 dentes de alho amassados",
+              "1 lata de molho de tomate (340g)",
+              "Sal e pimenta-do-reino a gosto",
+              "4 batatas grandes",
+              "1/2 xícara de leite",
+              "2 colheres de sopa de manteiga",
+              "50g de queijo parmesão ralado (opcional)"
+            ],
+            "preparo": [
+              "Cozinhe as batatas até ficarem macias, escorra e amasse para fazer um purê com leite, manteiga, sal e pimenta.",
+              "Refogue a carne moída com cebola e alho até dourar, adicione o molho de tomate, sal e pimenta, cozinhando por 10 minutos.",
+              "Em um refratário, espalhe a carne moída refogada no fundo.",
+              "Cubra a carne com o purê de batatas e polvilhe queijo parmesão, se desejar.",
+              "Leve ao forno pré-aquecido a 180°C por 20-25 minutos ou até dourar."
+            ],
+            "id": "torta-de-carne-mo-da-com-pur-de-batata-f-2c2c4b"
+          },
+          {
+            "nome": "Salada Caprese Simples",
+            "curso": "entrada",
+            "porque": "Uma salada fresca, colorida e muito fácil de montar, que não requer cozimento e utiliza poucos ingredientes.",
+            "tags": [
+              "salada",
+              "vegetariano",
+              "low_carb"
+            ],
+            "rende_sobra": false,
+            "ingredientes": [
+              "2 tomates médios (italiano ou caqui)",
+              "150g de muçarela de búfala (bolinhas ou fatiada)",
+              "1/4 xícara de folhas de manjericão fresco",
+              "2 colheres de sopa de azeite extra virgem",
+              "Sal e pimenta-do-reino a gosto"
+            ],
+            "preparo": [
+              "Fatie os tomates e a muçarela de búfala (se não for em bolinhas).",
+              "Em um prato de servir, intercale as fatias de tomate, muçarela e folhas de manjericão.",
+              "Regue a salada com azeite extra virgem.",
+              "Tempere com sal e pimenta-do-reino moída na hora.",
+              "Sirva imediatamente como entrada refrescante."
+            ],
+            "id": "salada-caprese-simples-83a6c1"
+          },
+          {
+            "nome": "Bolo de Caneca de Chocolate (Micro-ondas)",
+            "curso": "sobremesa",
+            "porque": "A opção mais rápida para uma sobremesa individual, ficando pronta em 1 a 2 minutos no micro-ondas.",
+            "tags": [
+              "rapido",
+              "sobremesa"
+            ],
+            "rende_sobra": false,
+            "ingredientes": [
+              "4 colheres de sopa de farinha de trigo",
+              "4 colheres de sopa de açúcar",
+              "2 colheres de sopa de chocolate em pó",
+              "1 ovo pequeno",
+              "3 colheres de sopa de leite",
+              "3 colheres de sopa de óleo",
+              "1 colher de café de fermento em pó"
+            ],
+            "preparo": [
+              "Em uma caneca grande (própria para micro-ondas), misture a farinha, açúcar e chocolate em pó.",
+              "Adicione o ovo, o leite e o óleo, misturando bem até obter uma massa homogênea.",
+              "Por último, incorpore o fermento em pó delicadamente.",
+              "Leve ao micro-ondas em potência alta por 1 a 2 minutos (o tempo pode variar conforme a potência do seu aparelho).",
+              "Sirva quente, opcionalmente com sorvete ou chantilly."
+            ],
+            "id": "bolo-de-caneca-de-chocolate-micro-ondas-cd0f74"
           }
         ]
       },
       {
         "dia": "Sexta",
-        "opcoes": [
+        "pratos": [
           {
-            "titulo": "Escondidinho de Carne Seca",
-            "porque": "Um clássico da culinária brasileira, que rende muito e é perfeito para ter sobras, com a cremosidade do purê de mandioca.",
-            "fonte": "ana maria braga",
+            "nome": "Salmão Assado Fácil com Ervas e Limão",
+            "curso": "principal",
+            "porque": "Saudável, rico em proteína e ômega 3, preparado no forno ou airfryer com pouco azeite, sendo rápido e prático.",
             "tags": [
-              "carne_vermelha",
+              "peixe",
               "forno",
-              "rende_sobra",
-              "pratico"
-            ],
-            "rende_sobra": true,
-            "entrada": {
-              "nome": "Salada de Couve Refogada",
-              "ingredientes": [
-                "couve fatiada",
-                "alho",
-                "azeite",
-                "sal"
-              ],
-              "preparo": [
-                "Refogue o alho no azeite, adicione a couve e refogue rapidamente até murchar. Tempere com sal."
-              ]
-            },
-            "principal": {
-              "nome": "Escondidinho de Carne Seca",
-              "ingredientes": [
-                "carne seca dessalgada e desfiada",
-                "mandioca (aipim)",
-                "cebola",
-                "alho",
-                "azeite",
-                "leite",
-                "manteiga",
-                "queijo coalho ou muçarela ralado",
-                "cheiro-verde"
-              ],
-              "preparo": [
-                "Cozinhe a mandioca até ficar macia, amasse e faça um purê com leite e manteiga. Refogue a carne seca desfiada com cebola e alho. Em um refratário, faça uma camada de purê, uma de carne seca e cubra com o restante do purê. Polvilhe queijo e leve ao forno para gratinar."
-              ]
-            },
-            "sobremesa": {
-              "nome": "Bolo de Rolo (comprado)",
-              "ingredientes": [
-                "bolo de rolo pronto"
-              ],
-              "preparo": [
-                "Sirva fatias de bolo de rolo."
-              ]
-            },
-            "id": "escondidinho-de-carne-seca-c78c61"
-          },
-          {
-            "titulo": "Hambúrguer Caseiro no Forno com Batata Rústica",
-            "porque": "Uma opção de 'fast food' saudável, com hambúrgueres feitos em casa e assados no forno, acompanhados de batatas rústicas.",
-            "fonte": "panelinha",
-            "tags": [
-              "carne_vermelha",
-              "forno",
-              "rapido",
-              "pratico"
+              "low_carb"
             ],
             "rende_sobra": false,
-            "entrada": {
-              "nome": "Mini Salada Coleslaw",
-              "ingredientes": [
-                "repolho roxo e branco fatiado",
-                "cenoura ralada",
-                "maionese",
-                "mostarda",
-                "vinagre de maçã",
-                "açúcar (pitada)",
-                "sal",
-                "pimenta"
-              ],
-              "preparo": [
-                "Misture os vegetais e prepare o molho. Misture tudo."
-              ]
-            },
-            "principal": {
-              "nome": "Hambúrguer Caseiro no Forno com Batata Rústica",
-              "ingredientes": [
-                "carne moída (patinho)",
-                "ovo",
-                "farinha de rosca",
-                "cebola picada",
-                "alho picado",
-                "salsinha",
-                "sal",
-                "pimenta",
-                "pães de hambúrguer",
-                "queijo prato ou muçarela",
-                "alface",
-                "tomate",
-                "batatas médias",
-                "azeite",
-                "páprica",
-                "alecrim"
-              ],
-              "preparo": [
-                "Tempere a carne moída com ovo, farinha de rosca, cebola, alho, salsinha, sal e pimenta. Modele os hambúrgueres. Lave as batatas, corte em gomos, tempere com azeite, páprica, alecrim, sal e pimenta. Leve os hambúrgueres e as batatas ao forno pré-aquecido a 200°C por cerca de 20-25 minutos, virando na metade. Monte os hambúrgueres nos pães com queijo, alface e tomate. Sirva com as batatas."
-              ]
-            },
-            "sobremesa": {
-              "nome": "Milkshake Simples",
-              "ingredientes": [
-                "sorvete de creme",
-                "leite",
-                "calda de chocolate (opcional)"
-              ],
-              "preparo": [
-                "Bata o sorvete com o leite no liquidificador. Sirva com calda de chocolate se desejar."
-              ]
-            },
-            "id": "hamb-rguer-caseiro-no-forno-com-batata-r-c3ea74"
+            "ingredientes": [
+              "2 filés de salmão (aprox. 180g cada)",
+              "2 colheres de sopa de azeite de oliva",
+              "Suco de 1 limão",
+              "1 dente de alho picado",
+              "1 colher de sopa de ervas finas (tomilho, alecrim)",
+              "Sal e pimenta-do-reino a gosto"
+            ],
+            "preparo": [
+              "Tempere os filés de salmão com sal, pimenta, alho, suco de limão e as ervas finas.",
+              "Regue uma assadeira pequena ou o cesto da airfryer com 1 colher de azeite.",
+              "Disponha os filés na assadeira/cesto e regue com o azeite restante.",
+              "Asse no forno pré-aquecido a 180°C por 15-20 minutos, ou na airfryer por 12-15 minutos (virando na metade), até o salmão estar cozido e dourado.",
+              "Sirva imediatamente, acompanhado de legumes no vapor ou salada."
+            ],
+            "id": "salm-o-assado-f-cil-com-ervas-e-lim-o-ee4391"
+          },
+          {
+            "nome": "Macarrão com Brócolis e Frango Cremoso",
+            "curso": "principal",
+            "porque": "Uma variação mais cremosa do macarrão com frango e brócolis, adicionando requeijão para uma textura mais rica e saborosa.",
+            "tags": [
+              "frango",
+              "massa",
+              "rapido"
+            ],
+            "rende_sobra": true,
+            "ingredientes": [
+              "200g de macarrão (parafuso ou penne)",
+              "1 peito de frango cozido e desfiado (aprox. 200g)",
+              "1 maço pequeno de brócolis",
+              "1 cebola pequena picada",
+              "2 dentes de alho amassados",
+              "2 colheres de sopa de azeite de oliva",
+              "1/2 xícara de requeijão cremoso",
+              "Sal e pimenta-do-reino a gosto"
+            ],
+            "preparo": [
+              "Cozinhe o macarrão conforme as instruções da embalagem. Cozinhe o brócolis no vapor ou em água fervente por 3-5 minutos.",
+              "Em uma panela grande, aqueça o azeite e refogue a cebola e o alho até dourarem.",
+              "Adicione o frango desfiado e o brócolis, misture bem e tempere com sal e pimenta.",
+              "Acrescente o requeijão cremoso e misture até incorporar e formar um molho homogêneo.",
+              "Junte o macarrão cozido ao molho cremoso, misture e sirva imediatamente."
+            ],
+            "id": "macarr-o-com-br-colis-e-frango-cremoso-d70284"
+          },
+          {
+            "nome": "Copinhos Salgados sem Forno (com queijo e tomate seco)",
+            "curso": "entrada",
+            "porque": "Um aperitivo rápido e elegante que não requer uso do forno, perfeito para um jantar mais especial.",
+            "tags": [
+              "rapido",
+              "vegetariano"
+            ],
+            "rende_sobra": false,
+            "ingredientes": [
+              "1 pacote de biscoitos salgados (tipo cream cracker ou taralli)",
+              "150g de ricota fresca ou cream cheese",
+              "50g de tomate seco picado",
+              "1 colher de sopa de azeite de oliva",
+              "Folhas de manjericão fresco para decorar"
+            ],
+            "preparo": [
+              "Em uma tigela, amasse a ricota (ou use o cream cheese) e misture com o tomate seco picado e o azeite.",
+              "Tempere a pasta com sal e pimenta a gosto.",
+              "Com uma colher pequena, disponha uma porção da pasta sobre cada biscoito salgado.",
+              "Decore com uma folhinha de manjericão fresco.",
+              "Sirva os copinhos salgados como entrada ou petisco."
+            ],
+            "id": "copinhos-salgados-sem-forno-com-queijo-e-3dd4b6"
+          },
+          {
+            "nome": "Gelatina com Frutas da Estação",
+            "curso": "sobremesa",
+            "porque": "Uma sobremesa leve, colorida e refrescante, muito fácil de preparar e que pode ser adaptada com frutas frescas.",
+            "tags": [
+              "rapido",
+              "sobremesa",
+              "low_carb"
+            ],
+            "rende_sobra": true,
+            "ingredientes": [
+              "1 pacote de gelatina sabor morango (ou outro de sua preferência)",
+              "250ml de água quente",
+              "250ml de água fria",
+              "1 xícara de frutas frescas picadas (morango, uva, pêssego)"
+            ],
+            "preparo": [
+              "Em um recipiente, dissolva a gelatina em pó na água quente, mexendo bem.",
+              "Adicione a água fria e misture novamente.",
+              "Distribua as frutas picadas em taças individuais ou em um refratário grande.",
+              "Despeje a gelatina líquida sobre as frutas.",
+              "Leve à geladeira por no mínimo 3 horas, ou até firmar completamente."
+            ],
+            "id": "gelatina-com-frutas-da-esta-o-9466f1"
           }
         ]
       },
       {
         "dia": "Sábado",
-        "opcoes": [
+        "pratos": [
           {
-            "titulo": "Picanha no Forno com Batatas",
-            "porque": "Uma picanha suculenta e assada no forno, com batatas, para um jantar mais elaborado, mas ainda assim prático.",
-            "fonte": "panelinha",
+            "nome": "Carne Louca com Pão Francês",
+            "curso": "principal",
+            "porque": "Uma receita clássica de carne vermelha, prática de fazer na panela de pressão e ideal para servir com pão, rendendo muitas porções.",
             "tags": [
               "carne_vermelha",
-              "forno",
-              "rende_sobra",
-              "grelhado"
+              "rapido",
+              "refogado"
             ],
             "rende_sobra": true,
-            "entrada": {
-              "nome": "Salada Caprese Simples",
-              "ingredientes": [
-                "tomate",
-                "muçarela de búfala",
-                "manjericão fresco",
-                "azeite extra virgem",
-                "sal",
-                "pimenta-do-reino"
-              ],
-              "preparo": [
-                "Fatie o tomate e a muçarela. Intercale com folhas de manjericão. Tempere com azeite, sal e pimenta."
-              ]
-            },
-            "principal": {
-              "nome": "Picanha no Forno com Batatas",
-              "ingredientes": [
-                "picanha",
-                "sal grosso",
-                "batatas médias",
-                "alho",
-                "alecrim",
-                "azeite",
-                "arroz à grega"
-              ],
-              "preparo": [
-                "Faça cortes na gordura da picanha, tempere com sal grosso. Leve ao forno pré-aquecido a 200°C. Depois de 20 minutos, adicione as batatas cortadas em gomos e temperadas com alho, alecrim e azeite. Asse por mais 30-40 minutos ou até a picanha e as batatas estarem prontas. Sirva fatiada com arroz à grega."
-              ]
-            },
-            "sobremesa": {
-              "nome": "Pavê de Chocolate Rápido",
-              "ingredientes": [
-                "biscoito maisena",
-                "leite",
-                "leite condensado",
-                "creme de leite",
-                "chocolate em pó",
-                "chocolate granulado (opcional)"
-              ],
-              "preparo": [
-                "Faça um creme com leite condensado, creme de leite e chocolate em pó. Molhe os biscoitos no leite. Monte camadas de biscoito e creme. Leve à geladeira. Decore com granulado."
-              ]
-            },
-            "id": "picanha-no-forno-com-batatas-eca30a"
+            "ingredientes": [
+              "1 kg de carne bovina (paleta ou acém)",
+              "1 cebola grande em rodelas",
+              "2 pimentões coloridos em tiras",
+              "2 tomates sem sementes em cubos",
+              "1/2 xícara de vinagre de vinho tinto",
+              "1/4 xícara de azeite",
+              "2 dentes de alho amassados",
+              "Sal, pimenta-do-reino e cheiro-verde a gosto",
+              "Pães franceses"
+            ],
+            "preparo": [
+              "Cozinhe a carne na panela de pressão com água e sal por 40 minutos após pegar pressão. Desfie e reserve o caldo.",
+              "Em uma panela grande, aqueça o azeite e refogue a cebola e o alho até ficarem macios.",
+              "Adicione os pimentões e os tomates, refogando por mais 5 minutos.",
+              "Acrescente a carne desfiada, o vinagre, um pouco do caldo do cozimento, sal e pimenta. Cozinhe por 10 minutos.",
+              "Finalize com cheiro-verde e sirva a carne louca dentro de pães franceses."
+            ],
+            "id": "carne-louca-com-p-o-franc-s-50fe6d"
           },
           {
-            "titulo": "Nhoque de Batata com Ragu de Carne Moída",
-            "porque": "Comfort food com carne vermelha, o ragu é fácil e pode ser feito em maior quantidade, harmonizando bem.",
-            "fonte": "panelinha",
+            "nome": "Espetinhos de Carne e Legumes (grelha/airfryer)",
+            "curso": "principal",
+            "porque": "Uma opção rápida e divertida de carne vermelha, perfeita para grelhar ou usar a airfryer, com legumes para um prato equilibrado.",
             "tags": [
               "carne_vermelha",
-              "massa",
-              "rende_sobra",
-              "pratico"
+              "grelhado",
+              "airfryer"
             ],
             "rende_sobra": true,
-            "entrada": {
-              "nome": "Antipasto de Berinjela",
-              "ingredientes": [
-                "berinjela",
-                "pimentões coloridos",
-                "cebola",
-                "azeitonas",
-                "azeite",
-                "vinagre",
-                "orégano",
-                "sal",
-                "pimenta"
-              ],
-              "preparo": [
-                "Corte os vegetais em cubos. Refogue no azeite, adicione vinagre e temperos. Cozinhe até amaciar. Sirva frio com pão."
-              ]
-            },
-            "principal": {
-              "nome": "Nhoque de Batata com Ragu de Carne Moída",
-              "ingredientes": [
-                "nhoque de batata (pronto)",
-                "carne moída",
-                "cebola",
-                "alho",
-                "cenoura (ralada opcional)",
-                "molho de tomate",
-                "vinho tinto (opcional)",
-                "azeite",
-                "sal",
-                "pimenta",
-                "queijo parmesão ralado"
-              ],
-              "preparo": [
-                "Refogue a cebola, alho e cenoura ralada em azeite. Adicione a carne moída e doure. Junte o vinho tinto (se usar) e deixe evaporar. Adicione o molho de tomate e um pouco de água. Cozinhe em fogo baixo por pelo menos 30 minutos. Cozinhe o nhoque conforme instruções da embalagem. Sirva o nhoque com o ragu e queijo parmesão ralado."
-              ]
-            },
-            "sobremesa": {
-              "nome": "Tiramisu Rápido (comprado)",
-              "ingredientes": [
-                "tiramisu pronto"
-              ],
-              "preparo": [
-                "Sirva o tiramisu pronto."
-              ]
-            },
-            "id": "nhoque-de-batata-com-ragu-de-carne-mo-da-76f7b9"
+            "ingredientes": [
+              "500g de alcatra em cubos",
+              "1 pimentão vermelho em cubos",
+              "1 pimentão verde em cubos",
+              "1 cebola roxa em pétalas",
+              "1 abobrinha em rodelas grossas",
+              "2 colheres de sopa de azeite de oliva",
+              "Sal e pimenta-do-reino a gosto",
+              "Espetos de madeira (hidratados)"
+            ],
+            "preparo": [
+              "Em uma tigela, tempere os cubos de carne com sal, pimenta e 1 colher de azeite.",
+              "Monte os espetos intercalando carne, pimentões, cebola e abobrinha.",
+              "Pincele os espetos com o azeite restante e tempere com mais sal e pimenta.",
+              "Grelhe em uma chapa quente, airfryer (180°C por 15-20 min, virando na metade) ou forno até a carne estar no ponto desejado e os legumes macios.",
+              "Sirva imediatamente, acompanhado de arroz ou salada."
+            ],
+            "id": "espetinhos-de-carne-e-legumes-grelha-air-568e6e"
+          },
+          {
+            "nome": "Bruschetta de Queijo com Orégano",
+            "curso": "entrada",
+            "porque": "Uma variação da bruschetta, focando no queijo derretido sobre o pão tostado, simples e rápido.",
+            "tags": [
+              "rapido",
+              "vegetariano"
+            ],
+            "rende_sobra": false,
+            "ingredientes": [
+              "4 fatias de pão italiano (ou baguete)",
+              "100g de queijo muçarela ralado ou fatiado",
+              "1 colher de chá de orégano",
+              "1 colher de sopa de azeite de oliva"
+            ],
+            "preparo": [
+              "Corte o pão em fatias e torre-as levemente no forno ou frigideira até ficarem crocantes.",
+              "Distribua o queijo muçarela sobre cada fatia de pão tostado.",
+              "Polvilhe orégano por cima do queijo.",
+              "Leve ao forno pré-aquecido a 180°C ou na airfryer por 5-7 minutos, até o queijo derreter e dourar.",
+              "Regue com um fio de azeite e sirva as bruschettas quentes."
+            ],
+            "id": "bruschetta-de-queijo-com-or-gano-61baff"
+          },
+          {
+            "nome": "Bolo de Caneca de Banana e Canela (Micro-ondas)",
+            "curso": "sobremesa",
+            "porque": "Uma alternativa ao bolo de chocolate, utilizando banana para um sabor diferente e natural, pronta em minutos no micro-ondas.",
+            "tags": [
+              "rapido",
+              "sobremesa"
+            ],
+            "rende_sobra": false,
+            "ingredientes": [
+              "1 banana pequena amassada",
+              "4 colheres de sopa de farinha de trigo",
+              "3 colheres de sopa de açúcar",
+              "1/2 colher de chá de canela em pó",
+              "1 ovo pequeno",
+              "2 colheres de sopa de leite",
+              "2 colheres de sopa de óleo",
+              "1 colher de café de fermento em pó"
+            ],
+            "preparo": [
+              "Em uma caneca grande, misture a banana amassada, farinha, açúcar e canela.",
+              "Adicione o ovo, o leite e o óleo, misturando bem até obter uma massa homogênea.",
+              "Por último, incorpore o fermento em pó delicadamente.",
+              "Leve ao micro-ondas em potência alta por 1 a 2 minutos (o tempo pode variar).",
+              "Sirva quente, opcionalmente com uma pitada extra de canela."
+            ],
+            "id": "bolo-de-caneca-de-banana-e-canela-micro--9dd13b"
           }
         ]
       },
       {
         "dia": "Domingo",
-        "opcoes": [
+        "pratos": [
           {
-            "titulo": "Carne Assada de Panela com Legumes",
-            "porque": "Uma carne assada lentamente na panela, que fica desmanchando e absorve o sabor dos legumes, ideal para um almoço de domingo com sobras.",
-            "fonte": "receiteria",
+            "nome": "Lagarto Assado Fatiado com Molho Madeira Rápido",
+            "curso": "principal",
+            "porque": "Um prato elegante de carne vermelha para o domingo, macio e saboroso, com um molho prático para realçar o sabor.",
             "tags": [
               "carne_vermelha",
-              "refogado",
-              "rende_sobra",
-              "pratico"
+              "forno",
+              "equilibrio"
             ],
             "rende_sobra": true,
-            "entrada": {
-              "nome": "Caldo Verde",
-              "ingredientes": [
-                "batatas",
-                "couve fatiada",
-                "linguiça calabresa (opcional)",
-                "cebola",
-                "alho",
-                "azeite",
-                "sal"
-              ],
-              "preparo": [
-                "Cozinhe as batatas, amasse e reserve. Refogue cebola, alho e linguiça (se usar) no azeite. Adicione a couve e refogue. Junte a batata amassada e água, ferva. Tempere e sirva."
-              ]
-            },
-            "principal": {
-              "nome": "Carne Assada de Panela com Legumes",
-              "ingredientes": [
-                "lagarto ou patinho em peça",
-                "batatas",
-                "cenouras",
-                "cebolas",
-                "alho",
-                "caldo de carne",
-                "molho de tomate",
-                "azeite",
-                "sal",
-                "pimenta"
-              ],
-              "preparo": [
-                "Tempere a carne. Doure a carne em uma panela de pressão com azeite. Adicione cebola, alho, caldo de carne e molho de tomate. Cozinhe na pressão por cerca de 40-50 minutos. Abra a panela, adicione as batatas e cenouras em pedaços grandes. Cozinhe até os legumes ficarem macios e o molho encorpado. Fatie a carne e sirva com os legumes e o molho."
-              ]
-            },
-            "sobremesa": {
-              "nome": "Bolo de Fubá Cremoso",
-              "ingredientes": [
-                "bolo de fubá cremoso (pronto ou receita simples)"
-              ],
-              "preparo": [
-                "Sirva uma fatia de bolo de fubá cremoso."
-              ]
-            },
-            "id": "carne-assada-de-panela-com-legumes-d43291"
-          },
-          {
-            "titulo": "Risoto de Carne Seca com Queijo Coalho",
-            "porque": "Um risoto cremoso e saboroso, com a combinação da carne seca e o queijo coalho, para um toque especial de domingo.",
-            "fonte": "panelinha",
-            "tags": [
-              "carne_vermelha",
-              "risoto",
-              "rende_sobra",
-              "pratico"
+            "ingredientes": [
+              "1 peça de lagarto (~1 kg)",
+              "1 cebola grande picada",
+              "2 dentes de alho amassados",
+              "1 xícara de caldo de carne",
+              "1/2 xícara de vinho tinto seco (opcional)",
+              "1 colher de sopa de amido de milho",
+              "1 colher de sopa de manteiga",
+              "Sal e pimenta-do-reino a gosto",
+              "Azeite para selar"
             ],
-            "rende_sobra": true,
-            "entrada": {
-              "nome": "Salada de Rúcula com Tomate Seco",
-              "ingredientes": [
-                "rúcula",
-                "tomate seco",
-                "queijo parmesão em lascas (opcional)",
-                "azeite",
-                "vinagre balsâmico"
-              ],
-              "preparo": [
-                "Lave a rúcula. Misture com tomate seco e lascas de parmesão. Tempere com azeite e vinagre balsâmico."
-              ]
-            },
-            "principal": {
-              "nome": "Risoto de Carne Seca com Queijo Coalho",
-              "ingredientes": [
-                "arroz arbóreo",
-                "carne seca dessalgada e desfiada",
-                "cebola",
-                "alho",
-                "caldo de legumes (caseiro ou pronto)",
-                "queijo coalho em cubos",
-                "manteiga",
-                "queijo parmesão ralado",
-                "azeite",
-                "sal",
-                "pimenta"
-              ],
-              "preparo": [
-                "Refogue cebola e alho em azeite. Adicione o arroz e refogue por 1 minuto. Junte a carne seca desfiada e comece a adicionar o caldo de legumes quente, concha a concha, mexendo sempre até o arroz cozinhar e ficar cremoso. Adicione o queijo coalho, a manteiga e o queijo parmesão. Mexa bem e sirva imediatamente."
-              ]
-            },
-            "sobremesa": {
-              "nome": "Brigadeiro de Colher",
-              "ingredientes": [
-                "leite condensado",
-                "chocolate em pó",
-                "manteiga",
-                "granulado (opcional)"
-              ],
-              "preparo": [
-                "Misture leite condensado, chocolate em pó e manteiga em uma panela. Cozinhe em fogo baixo, mexendo sempre, até desgrudar do fundo da panela. Sirva morno ou frio. Adicione granulado se desejar."
-              ]
-            },
-            "id": "risoto-de-carne-seca-com-queijo-coalho-5cd8cd"
+            "preparo": [
+              "Tempere o lagarto com sal e pimenta. Em uma panela de pressão, sele a carne em um fio de azeite por todos os lados.",
+              "Adicione a cebola e o alho na panela, refogando por alguns minutos. Acrescente o caldo de carne e o vinho (se usar).",
+              "Cozinhe na pressão por 40-50 minutos após pegar pressão. Deixe a pressão sair naturalmente.",
+              "Retire a carne, fatie e reserve. Coe o caldo. Dissolva o amido de milho em um pouco de água fria e adicione ao caldo coado, levando ao fogo com a manteiga até engrossar.",
+              "Sirva o lagarto fatiado regado com o molho madeira."
+            ],
+            "id": "lagarto-assado-fatiado-com-molho-madeira-55d158"
           },
           {
-            "titulo": "Salmão Grelhado com Aspargos",
-            "porque": "Única opção de peixe da semana, preparada de forma simples e saudável na grelha, acompanhada de aspargos.",
-            "fonte": "panelinha",
+            "nome": "Frango Grelhado com Quinoa e Legumes Salteados",
+            "curso": "principal",
+            "porque": "Uma opção muito saudável, rica em proteínas e fibras, com o frango grelhado e legumes salteados para evitar frituras.",
             "tags": [
-              "peixe",
+              "frango",
               "grelhado",
-              "low_carb",
-              "rapido"
+              "low_carb"
+            ],
+            "rende_sobra": true,
+            "ingredientes": [
+              "2 filés de peito de frango (aprox. 150g cada)",
+              "1/2 xícara de quinoa",
+              "1 xícara de legumes variados (brócolis, cenoura em cubos, vagem)",
+              "2 colheres de sopa de azeite de oliva",
+              "1 dente de alho amassado",
+              "Suco de 1/2 limão",
+              "Sal e pimenta-do-reino a gosto"
+            ],
+            "preparo": [
+              "Cozinhe a quinoa conforme as instruções da embalagem (geralmente 1 parte de quinoa para 2 de água, por 15 minutos).",
+              "Tempere os filés de frango com sal, pimenta, alho e suco de limão.",
+              "Cozinhe os legumes no vapor ou branquear.",
+              "Aqueça 1 colher de azeite em uma frigideira ou grelha e grelhe o frango por 5-7 minutos de cada lado.",
+              "Na mesma frigideira, adicione o azeite restante e salteie os legumes por 3-5 minutos, temperando com sal e pimenta. Sirva o frango com a quinoa e os legumes."
+            ],
+            "id": "frango-grelhado-com-quinoa-e-legumes-sal-de7284"
+          },
+          {
+            "nome": "Patê de Grão de Bico (Homus) com Torradinhas",
+            "curso": "entrada",
+            "porque": "Um patê cremoso e saudável, fácil de fazer no processador de alimentos e ideal para um petisco leve.",
+            "tags": [
+              "vegetariano",
+              "rapido",
+              "low_carb"
+            ],
+            "rende_sobra": true,
+            "ingredientes": [
+              "1 lata de grão de bico cozido (240g escorrido)",
+              "2 colheres de sopa de tahine (pasta de gergelim, opcional)",
+              "2 colheres de sopa de suco de limão",
+              "1 dente de alho pequeno",
+              "3 colheres de sopa de azeite de oliva extra virgem",
+              "1/2 colher de chá de cominho em pó",
+              "Sal a gosto",
+              "Torradinhas ou pão sírio para acompanhar"
+            ],
+            "preparo": [
+              "Escorra o grão de bico e reserve um pouco da água do cozimento (ou da lata).",
+              "No processador de alimentos, junte o grão de bico, tahine, suco de limão, alho, azeite, cominho e sal.",
+              "Processe até obter uma pasta homogênea e cremosa, adicionando um pouco da água reservada se necessário para ajustar a consistência.",
+              "Transfira o homus para um recipiente e regue com um fio de azeite.",
+              "Sirva com torradinhas, pão sírio ou vegetais crus."
+            ],
+            "id": "pat-de-gr-o-de-bico-homus-com-torradinha-240924"
+          },
+          {
+            "nome": "Creme de Papaia com Cassis Light",
+            "curso": "sobremesa",
+            "porque": "Uma versão mais leve e saudável do creme de papaia, mantendo a praticidade e o frescor, ideal para um almoço de domingo.",
+            "tags": [
+              "rapido",
+              "sobremesa",
+              "low_carb"
             ],
             "rende_sobra": false,
-            "entrada": {
-              "nome": "Salada de Folhas Verdes",
-              "ingredientes": [
-                "mix de folhas verdes",
-                "azeite",
-                "limão",
-                "sal"
-              ],
-              "preparo": [
-                "Lave as folhas e tempere com azeite, limão e sal."
-              ]
-            },
-            "principal": {
-              "nome": "Salmão Grelhado com Aspargos",
-              "ingredientes": [
-                "filés de salmão",
-                "aspargos frescos",
-                "azeite",
-                "limão",
-                "sal",
-                "pimenta-do-reino"
-              ],
-              "preparo": [
-                "Tempere os filés de salmão com sal, pimenta e um pouco de limão. Lave os aspargos e tempere com azeite, sal e pimenta. Grelhe o salmão em frigideira ou grelha por cerca de 4-5 minutos de cada lado, dependendo da espessura. Grelhe os aspargos até ficarem al dente. Sirva o salmão com os aspargos."
-              ]
-            },
-            "sobremesa": {
-              "nome": "Sorvete de Creme com Calda de Frutas Vermelhas",
-              "ingredientes": [
-                "sorvete de creme",
-                "calda de frutas vermelhas (pronta)"
-              ],
-              "preparo": [
-                "Sirva o sorvete de creme com calda de frutas vermelhas."
-              ]
-            },
-            "id": "salm-o-grelhado-com-aspargos-9d3071"
+            "ingredientes": [
+              "1 mamão papaia médio",
+              "1 pote de iogurte natural desnatado (170g)",
+              "1 colher de sopa de licor de cassis (opcional e em menor quantidade)",
+              "Adoçante a gosto (opcional)"
+            ],
+            "preparo": [
+              "Corte o mamão papaia ao meio, retire as sementes e descasque.",
+              "Pique o mamão em pedaços e coloque no liquidificador.",
+              "Adicione o iogurte natural desnatado e o adoçante (se usar) ao liquidificador.",
+              "Bata tudo até obter um creme homogêneo e liso.",
+              "Despeje em taças, regue com o licor de cassis (se usar) e sirva imediatamente."
+            ],
+            "id": "creme-de-papaia-com-cassis-light-4d7323"
           }
         ]
       }
     ],
     "lista_compras": {
       "Proteínas": [
-        "Bifes (contrafilé, alcatra, patinho, coxão mole)",
-        "Miolo de alcatra em cubos",
-        "Carne bovina em tiras (filé mignon, alcatra)",
-        "Carne moída",
-        "Carne seca dessalgada",
-        "Picanha",
-        "Lagarto ou patinho em peça",
-        "Filés de salmão",
-        "Ovos",
-        "Queijo muçarela (em fatias e ralado)",
-        "Queijo coalho",
-        "Queijo parmesão ralado",
-        "Presunto em fatias",
-        "Linguiça calabresa (opcional para caldo verde)"
+        "Carne moída (patinho ou acém): ~1.5 kg (500g para Segunda, 500g para Quinta, 500g para Sábado)",
+        "Filé de peito de frango: ~1 kg (2 filés para Segunda, 1 peito para Terça, 2 filés para Sexta, 2 filés para Domingo)",
+        "Fraldinha: ~700g (para Terça)",
+        "Bifes finos (alcatra ou patinho): 4 unidades (para Quarta)",
+        "Alcatra em cubos: ~500g (para Sábado)",
+        "Lagarto: 1 peça (~1 kg para Domingo)",
+        "Filés de salmão: 2 unidades (para Sexta)",
+        "Bacon ou calabresa: 4 fatias (para Quarta)",
+        "Queijo muçarela (fatiada ou ralada): ~200g (100g para Segunda, 100g para Sábado)",
+        "Queijo parmesão ralado: ~100g (para Terça, Quinta, opcional para Quarta)",
+        "Queijo brie em cubos (ou outro cremoso): 2 colheres de sopa (para Quarta)",
+        "Muçarela de búfala: 150g (para Quinta)",
+        "Ricota fresca ou cream cheese: 150g (para Sexta)",
+        "Requeijão cremoso: 1/2 xícara (para Sexta)",
+        "Ovos: 3 unidades (1 para Segunda, 1 para Quinta, 1 para Sábado)",
+        "Iogurte natural desnatado: 1 pote (para Domingo)"
       ],
       "Legumes e verduras": [
-        "Cebola (branca e roxa)",
-        "Alho",
-        "Tomate",
-        "Alface crespa",
-        "Cenoura",
-        "Chuchu",
-        "Vagem",
-        "Batata",
-        "Milho verde (em lata ou fresco)",
-        "Cheiro-verde (salsinha, cebolinha)",
-        "Mix de folhas verdes (alface, rúcula, agrião)",
-        "Pepino",
-        "Brócolis",
-        "Abobrinha",
-        "Quiabo",
-        "Repolho (roxo e branco)",
-        "Aspargos frescos",
-        "Manjericão fresco",
-        "Couve fatiada",
-        "Abóbora (para sopa)",
-        "Mandioca (aipim)",
-        "Pimentões coloridos",
-        "Azeitonas"
+        "Cebola: ~7-8 unidades médias (1/2 Seg, 1 Ter, 1/2 Qua, 1 Qui, 1 Sex, 1 Sab, 1 Dom)",
+        "Alho: ~15-20 dentes (para a semana toda)",
+        "Tomate: ~8-10 unidades médias (1 Ter, 2 Qua, 1 Qui, 2 Sex, 2 Sab)",
+        "Tomate cereja: 1 xícara (para Segunda)",
+        "Manjericão fresco: 2-3 maços pequenos (para Terça, Quinta, Sexta)",
+        "Cenoura: ~3-4 unidades médias (1 Seg, para Bife à Rolê Qua, para Frango Assado Qui, para Quinoa e Legumes Dom)",
+        "Abobrinha: 3 pequenas (1 Seg, 1 Qua, 1 Sab)",
+        "Pimentão (colorido): ~4-5 unidades (1/2 Seg, 2 Ter, 1 Qui, 2 Sab)",
+        "Brócolis: 3 maços pequenos (1/2 Seg, 1 Ter, 1 Sex, para Quinoa e Legumes Dom)",
+        "Mix de folhas verdes (alface, rúcula): 1 maço (para Segunda)",
+        "Alecrim fresco: 1 ramo (para Terça)",
+        "Cheiro-verde (salsinha e cebolinha): 1-2 maços (para Segunda, Sábado)",
+        "Batatas: 8 unidades médias/grandes (4 para Terça, 4 para Quinta, 4 para Torta de Carne Qui)",
+        "Quinoa: 1/2 xícara (para Domingo)",
+        "Grão de bico cozido: 1 lata (para Domingo)"
       ],
       "Hortifruti": [
-        "Limão",
-        "Frutas da estação (banana, maçã, mamão, morango, uva, kiwi, manga)",
-        "Tomate seco"
+        "Maracujá (para suco concentrado): 1 xícara (para Segunda)",
+        "Mamão papaia: 2 unidades médias (1 para Quarta, 1 para Domingo)",
+        "Limão: ~4-5 unidades (1/2 Seg, 1/2 Ter, 1 Sex, 1/2 Dom, para Homus Dom)",
+        "Banana: 1 pequena (para Sábado)",
+        "Frutas frescas picadas (morango, uva, pêssego): 1 xícara (para Sexta)"
       ],
       "Mercearia e despensa": [
-        "Azeite (comum e em spray)",
-        "Vinagre (de vinho, balsâmico, de maçã)",
-        "Sal (fino e grosso)",
-        "Pimenta-do-reino",
-        "Arroz branco",
-        "Feijão",
-        "Manteiga",
-        "Caldo de carne (em cubo ou caseiro)",
-        "Ketchup",
-        "Mostarda (dijon)",
-        "Creme de leite",
-        "Champignon (opcional)",
-        "Farinha de rosca (ou panko)",
-        "Leite",
-        "Iogurte natural",
-        "Mel",
-        "Suco concentrado de maracujá",
-        "Molho de tomate (pronto)",
-        "Biscoito maisena",
-        "Chocolate em pó",
-        "Chocolate granulado (opcional)",
-        "Pudim de caixinha ou pronto",
-        "Doce de abóbora com coco (comprado)",
-        "Pães de hambúrguer",
-        "Páprica",
-        "Alecrim",
-        "Orégano",
-        "Pimenta calabresa",
-        "Vinho tinto (opcional)",
-        "Nhoque de batata (pronto)",
-        "Sorvete de creme",
-        "Calda de frutas vermelhas (pronta)",
-        "Bolo de rolo (comprado)",
-        "Bolo de fubá cremoso (pronto ou ingredientes)",
-        "Maionese",
-        "Açúcar",
-        "Arroz arbóreo"
+        "Azeite de oliva (extra virgem): essencial para a semana toda",
+        "Sal: para a semana toda",
+        "Pimenta-do-reino: para a semana toda",
+        "Farinha de rosca: 1/2 xícara (para Segunda)",
+        "Leite condensado: 2 latas (1 para Segunda, 1 para Terça)",
+        "Creme de leite: 1 lata (para Segunda, opcional para Terça)",
+        "Suco concentrado de maracujá: 1 xícara (para Segunda)",
+        "Chocolate em pó 50% cacau: 3 colheres de sopa (para Terça)",
+        "Manteiga sem sal: 1 colher de sopa (para Terça), 2 colheres de sopa (para Quinta), 1 colher de sopa (para Domingo)",
+        "Macarrão (parafuso ou penne): 400g (200g para Terça, 200g para Sexta)",
+        "Pão italiano (ou baguete): ~1 unidade (4 fatias para Terça, 4 fatias para Sábado)",
+        "Arroz arbóreo: 1 xícara (para Quarta)",
+        "Vinho branco seco (opcional): 1/2 xícara (para Quarta)",
+        "Caldo de legumes (em pó ou tablete): 3 xícaras (para Quarta)",
+        "Massa folhada pronta: 1 rolo (para Quarta)",
+        "Sorvete de creme: 2 bolas (para Quarta)",
+        "Licor de cassis (opcional): 3 colheres de sopa (2 para Quarta, 1 para Domingo)",
+        "Extrato de tomate: 2 colheres de sopa (para Quinta)",
+        "Curry em pó: 1 colher de chá (para Quinta)",
+        "Orégano: 1 colher de chá (para Quinta), 1 colher de chá (para Sábado)",
+        "Farinha de trigo: 8 colheres de sopa (4 para Quinta, 4 para Sábado)",
+        "Açúcar: 7 colheres de sopa (4 para Quinta, 3 para Sábado)",
+        "Chocolate em pó: 2 colheres de sopa (para Quinta)",
+        "Óleo (vegetal): 5 colheres de sopa (3 para Quinta, 2 para Sábado)",
+        "Fermento em pó: 2 colheres de café (1 para Quinta, 1 para Sábado)",
+        "Refrigerante ou água: (para acompanhar as refeições)",
+        "Biscoitos salgados (tipo cream cracker ou taralli): 1 pacote (para Sexta)",
+        "Tomate seco picado: 50g (para Sexta)",
+        "Gelatina sabor morango (ou outro): 1 pacote (para Sexta)",
+        "Caldo de carne (em pó ou tablete): 1 xícara (para Domingo)",
+        "Amido de milho: 1 colher de sopa (para Domingo)",
+        "Molho de tomate (lata): 2 latas (1 para Quarta, 1 para Quinta)",
+        "Pães franceses: para Sábado",
+        "Vinagre de vinho tinto: 1/2 xícara (para Sábado)",
+        "Canela em pó: 1/2 colher de chá (para Sábado)",
+        "Tahine (pasta de gergelim, opcional): 2 colheres de sopa (para Domingo)",
+        "Cominho em pó: 1/2 colher de chá (para Domingo)",
+        "Adoçante (opcional): para Domingo"
       ]
     }
   }

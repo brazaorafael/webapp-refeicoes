@@ -207,5 +207,277 @@
       "salada"
     ],
     "data": "28/07/2026"
+  },
+  {
+    "id": "bolo-de-carne-recheado-com-queijo-forno-fa2e42",
+    "titulo": "Bolo de Carne Recheado com Queijo (forno)",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "rapido"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "frango-grelhado-com-legumes-coloridos-c82de9",
+    "titulo": "Frango Grelhado com Legumes Coloridos",
+    "tags": [
+      "frango",
+      "grelhado",
+      "equilibrio"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "salada-de-folhas-verdes-com-tomate-cerej-eb8618",
+    "titulo": "Salada de Folhas Verdes com Tomate Cereja",
+    "tags": [
+      "salada",
+      "rapido",
+      "low_carb"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "mousse-de-maracuj-r-pida-6a18d0",
+    "titulo": "Mousse de Maracujá Rápida",
+    "tags": [
+      "rapido",
+      "sobremesa"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "fraldinha-assada-com-batatas-r-sticas-f4f9d5",
+    "titulo": "Fraldinha Assada com Batatas Rústicas",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "equilibrio"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "macarr-o-com-br-colis-e-frango-ao-molho--4a2983",
+    "titulo": "Macarrão com Brócolis e Frango ao Molho Leve",
+    "tags": [
+      "frango",
+      "massa",
+      "equilibrio"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "bruschetta-de-tomate-e-manjeric-o-8a2342",
+    "titulo": "Bruschetta de Tomate e Manjericão",
+    "tags": [
+      "rapido",
+      "vegetariano"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "brigadeiro-de-colher-cremoso-7937b3",
+    "titulo": "Brigadeiro de Colher Cremoso",
+    "tags": [
+      "rapido",
+      "sobremesa"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "bife-rol-pr-tico-na-panela-de-press-o-el-0a71e5",
+    "titulo": "Bife à Rolê Prático na Panela de Pressão Elétrica",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "refogado"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "risoto-de-abobrinha-e-queijo-eeb6d1",
+    "titulo": "Risoto de Abobrinha e Queijo",
+    "tags": [
+      "vegetariano",
+      "massa",
+      "rapido"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "aperitivo-de-massa-folhada-com-queijo-e--5c92c7",
+    "titulo": "Aperitivo de Massa Folhada com Queijo e Tomate",
+    "tags": [
+      "vegetariano",
+      "forno",
+      "rapido"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "creme-de-papaia-com-cassis-446b9f",
+    "titulo": "Creme de Papaia com Cassis",
+    "tags": [
+      "rapido",
+      "sobremesa"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "frango-assado-com-batatas-e-especiarias-547d68",
+    "titulo": "Frango Assado com Batatas e Especiarias",
+    "tags": [
+      "frango",
+      "forno",
+      "equilibrio"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "torta-de-carne-mo-da-com-pur-de-batata-f-2c2c4b",
+    "titulo": "Torta de Carne Moída com Purê de Batata (forno)",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "massa"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "salada-caprese-simples-83a6c1",
+    "titulo": "Salada Caprese Simples",
+    "tags": [
+      "salada",
+      "vegetariano",
+      "low_carb"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "bolo-de-caneca-de-chocolate-micro-ondas-cd0f74",
+    "titulo": "Bolo de Caneca de Chocolate (Micro-ondas)",
+    "tags": [
+      "rapido",
+      "sobremesa"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "salm-o-assado-f-cil-com-ervas-e-lim-o-ee4391",
+    "titulo": "Salmão Assado Fácil com Ervas e Limão",
+    "tags": [
+      "peixe",
+      "forno",
+      "low_carb"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "macarr-o-com-br-colis-e-frango-cremoso-d70284",
+    "titulo": "Macarrão com Brócolis e Frango Cremoso",
+    "tags": [
+      "frango",
+      "massa",
+      "rapido"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "copinhos-salgados-sem-forno-com-queijo-e-3dd4b6",
+    "titulo": "Copinhos Salgados sem Forno (com queijo e tomate seco)",
+    "tags": [
+      "rapido",
+      "vegetariano"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "gelatina-com-frutas-da-esta-o-9466f1",
+    "titulo": "Gelatina com Frutas da Estação",
+    "tags": [
+      "rapido",
+      "sobremesa",
+      "low_carb"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "carne-louca-com-p-o-franc-s-50fe6d",
+    "titulo": "Carne Louca com Pão Francês",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "refogado"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "espetinhos-de-carne-e-legumes-grelha-air-568e6e",
+    "titulo": "Espetinhos de Carne e Legumes (grelha/airfryer)",
+    "tags": [
+      "carne_vermelha",
+      "grelhado",
+      "airfryer"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "bruschetta-de-queijo-com-or-gano-61baff",
+    "titulo": "Bruschetta de Queijo com Orégano",
+    "tags": [
+      "rapido",
+      "vegetariano"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "bolo-de-caneca-de-banana-e-canela-micro--9dd13b",
+    "titulo": "Bolo de Caneca de Banana e Canela (Micro-ondas)",
+    "tags": [
+      "rapido",
+      "sobremesa"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "lagarto-assado-fatiado-com-molho-madeira-55d158",
+    "titulo": "Lagarto Assado Fatiado com Molho Madeira Rápido",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "equilibrio"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "frango-grelhado-com-quinoa-e-legumes-sal-de7284",
+    "titulo": "Frango Grelhado com Quinoa e Legumes Salteados",
+    "tags": [
+      "frango",
+      "grelhado",
+      "low_carb"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "pat-de-gr-o-de-bico-homus-com-torradinha-240924",
+    "titulo": "Patê de Grão de Bico (Homus) com Torradinhas",
+    "tags": [
+      "vegetariano",
+      "rapido",
+      "low_carb"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "creme-de-papaia-com-cassis-light-4d7323",
+    "titulo": "Creme de Papaia com Cassis Light",
+    "tags": [
+      "rapido",
+      "sobremesa",
+      "low_carb"
+    ],
+    "data": "28/07/2026"
   }
 ]
