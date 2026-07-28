@@ -1,0 +1,8 @@
+name = "cozinha-app"
+main = "worker.js"
+compatibility_date = "2024-11-01"
+
+# Variável comum (não é segredo). Os segredos GITHUB_TOKEN e GEMINI_API_KEY
+# continuam no painel da Cloudflare (Configurações → Variáveis e segredos).
+[vars]
+REPO = "brazaorafael/webapp-refeicoes"
