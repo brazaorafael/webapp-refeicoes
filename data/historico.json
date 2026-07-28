@@ -900,5 +900,334 @@
       "sobremesa"
     ],
     "data": "28/07/2026"
+  },
+  {
+    "id": "bife-acebolado-8e2e74",
+    "titulo": "Bife Acebolado",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "grelhado"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "estrogonofe-de-carne-r-pido-8d128a",
+    "titulo": "Estrogonofe de Carne Rápido",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "refogado"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "torradinha-de-alho-b38c0c",
+    "titulo": "Torradinha de Alho",
+    "tags": [
+      "rapido",
+      "forno",
+      "vegetariano"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "creme-de-manga-com-iogurte-42b2c2",
+    "titulo": "Creme de Manga com Iogurte",
+    "tags": [
+      "rapido",
+      "vegetariano",
+      "low_carb"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "frango-assado-r-pido-e-f-cil-643566",
+    "titulo": "Frango Assado Rápido e Fácil",
+    "tags": [
+      "frango",
+      "forno",
+      "rapido"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "lombo-de-porco-na-airfryer-c8e932",
+    "titulo": "Lombo de Porco na Airfryer",
+    "tags": [
+      "porco",
+      "airfryer",
+      "rapido"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "pat-de-frango-f-cil-a2047d",
+    "titulo": "Patê de Frango Fácil",
+    "tags": [
+      "frango",
+      "rapido",
+      "entrada"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "pudim-de-caneca-no-micro-ondas-79565b",
+    "titulo": "Pudim de Caneca no Micro-ondas",
+    "tags": [
+      "rapido",
+      "sobremesa"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "macarr-o-bolonhesa-r-pido-416e9e",
+    "titulo": "Macarrão à Bolonhesa Rápido",
+    "tags": [
+      "massa",
+      "carne_vermelha",
+      "rapido"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "carne-de-panela-com-batata-doce-5c79a7",
+    "titulo": "Carne de Panela com Batata Doce",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "panela_pressao"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "bife-de-fil-mignon-ao-molho-madeira-r-pi-888d53",
+    "titulo": "Bife de Filé Mignon ao Molho Madeira Rápido",
+    "tags": [
+      "carne_vermelha",
+      "grelhado",
+      "rapido"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "mini-espetinhos-caprese-1bb22a",
+    "titulo": "Mini Espetinhos Caprese",
+    "tags": [
+      "vegetariano",
+      "rapido",
+      "salada"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "creme-de-abacate-com-chocolate-6dbb5e",
+    "titulo": "Creme de Abacate com Chocolate",
+    "tags": [
+      "rapido",
+      "vegetariano",
+      "low_carb"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "frango-com-legumes-assado-16d315",
+    "titulo": "Frango com Legumes Assado",
+    "tags": [
+      "frango",
+      "forno",
+      "equilibrado"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "bife-parmegiana-na-airfryer-a3c801",
+    "titulo": "Bife à Parmegiana na Airfryer",
+    "tags": [
+      "carne_vermelha",
+      "airfryer",
+      "rapido"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "gr-o-de-bico-refogado-proteico-0e2cc1",
+    "titulo": "Grão de Bico Refogado Proteico",
+    "tags": [
+      "vegetariano",
+      "rapido",
+      "low_carb"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "sopa-creme-de-ab-bora-r-pida-d01cff",
+    "titulo": "Sopa Creme de Abóbora Rápida",
+    "tags": [
+      "sopa",
+      "vegetariano",
+      "rapido"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "doce-de-ab-bora-com-coco-cremoso-22e8f8",
+    "titulo": "Doce de Abóbora com Coco Cremoso",
+    "tags": [
+      "rapido",
+      "vegetariano",
+      "sobremesa"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "bacalhau-cremoso-de-forno-r-pido-7d9cc5",
+    "titulo": "Bacalhau Cremoso de Forno (Rápido)",
+    "tags": [
+      "peixe",
+      "forno",
+      "rapido"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "maminha-grelhada-com-molho-chimichurri-593c90",
+    "titulo": "Maminha Grelhada com Molho Chimichurri",
+    "tags": [
+      "carne_vermelha",
+      "grelhado",
+      "rapido"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "bife-de-contrafil-com-alho-e-ervas-na-fr-182e23",
+    "titulo": "Bife de Contrafilé com Alho e Ervas na Frigideira",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "grelhado"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "bruschetta-de-queijo-coalho-com-geleia-d-0eac2d",
+    "titulo": "Bruschetta de Queijo Coalho com Geleia de Pimenta",
+    "tags": [
+      "vegetariano",
+      "rapido",
+      "entrada"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "ma-assada-com-canela-e-aveia-39788d",
+    "titulo": "Maçã Assada com Canela e Aveia",
+    "tags": [
+      "vegetariano",
+      "rapido",
+      "low_carb"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "feijoada-light-eb6c05",
+    "titulo": "Feijoada Light",
+    "tags": [
+      "carne_vermelha",
+      "porco",
+      "substancioso"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "frango-recheado-no-forno-2f887f",
+    "titulo": "Frango Recheado no Forno",
+    "tags": [
+      "frango",
+      "forno",
+      "equilibrado"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "lasanha-bolonhesa-r-pida-56455d",
+    "titulo": "Lasanha à Bolonhesa Rápida",
+    "tags": [
+      "massa",
+      "carne_vermelha",
+      "forno"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "tortinhas-salgadas-de-massa-folhada-com--27468f",
+    "titulo": "Tortinhas Salgadas de Massa Folhada com Recheio de Frango",
+    "tags": [
+      "frango",
+      "forno",
+      "rapido"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "creme-de-abacaxi-com-coco-8b586d",
+    "titulo": "Creme de Abacaxi com Coco",
+    "tags": [
+      "rapido",
+      "vegetariano",
+      "sobremesa"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "costelinha-de-porco-na-airfryer-d704c4",
+    "titulo": "Costelinha de Porco na Airfryer",
+    "tags": [
+      "porco",
+      "airfryer",
+      "substancioso"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "fil-de-frango-grelhado-com-molho-de-most-daf2e3",
+    "titulo": "Filé de Frango Grelhado com Molho de Mostarda e Mel",
+    "tags": [
+      "frango",
+      "grelhado",
+      "rapido"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "empad-o-de-frango-pr-tico-626262",
+    "titulo": "Empadão de Frango Prático",
+    "tags": [
+      "frango",
+      "forno",
+      "substancioso"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "caldo-verde-r-pido-40a34f",
+    "titulo": "Caldo Verde Rápido",
+    "tags": [
+      "sopa",
+      "vegetariano",
+      "rapido"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "creme-de-iogurte-com-calda-de-frutas-ver-05fa5b",
+    "titulo": "Creme de Iogurte com Calda de Frutas Vermelhas",
+    "tags": [
+      "rapido",
+      "low_carb",
+      "vegetariano"
+    ],
+    "data": "28/07/2026"
   }
 ]
