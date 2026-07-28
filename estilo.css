@@ -12,7 +12,7 @@
   --raio:14px;
   --sombra:0 1px 2px rgba(40,34,26,.05), 0 6px 20px rgba(40,34,26,.05);
 }
-
+ 
 *{box-sizing:border-box}
 html,body{margin:0}
 body{
@@ -23,7 +23,7 @@ body{
   -webkit-font-smoothing:antialiased;
   padding-bottom:48px;
 }
-
+ 
 /* ---------- Cabeçalho ---------- */
 .topo{max-width:680px;margin:0 auto;padding:28px 20px 6px}
 .topo-inner{display:flex;align-items:baseline;justify-content:space-between}
@@ -32,7 +32,7 @@ body{
   font-weight:500;font-size:34px;letter-spacing:-.01em;margin:0;
 }
 .subtitulo{margin:2px 0 0;color:var(--tinta-suave);font-size:14px;letter-spacing:.04em;text-transform:uppercase}
-
+ 
 /* ---------- Abas ---------- */
 .abas{
   position:sticky;top:0;z-index:5;background:var(--fundo);
@@ -46,13 +46,13 @@ body{
 }
 .aba:hover{color:var(--tinta)}
 .aba.ativa{color:var(--tinta);font-weight:600;background:var(--cartao);box-shadow:var(--sombra)}
-
+ 
 /* ---------- Painéis ---------- */
 main{max-width:680px;margin:0 auto;padding:18px 20px}
 .painel{display:none}
 .painel.ativo{display:block;animation:aparece .25s ease}
 @keyframes aparece{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:none}}
-
+ 
 .secao-titulo{
   font-family:"Fraunces",Georgia,serif;font-weight:500;font-size:22px;
   margin:6px 0 16px;letter-spacing:-.01em;
@@ -61,7 +61,7 @@ main{max-width:680px;margin:0 auto;padding:18px 20px}
   font-family:"Fraunces",Georgia,serif;font-weight:600;font-size:17px;
   margin:26px 0 10px;padding-bottom:6px;border-bottom:1px solid var(--linha);
 }
-
+ 
 /* ---------- Cartão de receita ---------- */
 .cartao{
   background:var(--cartao);border:1px solid var(--linha);border-radius:var(--raio);
@@ -78,7 +78,7 @@ main{max-width:680px;margin:0 auto;padding:18px 20px}
   background:#efe9dc;border-radius:999px;padding:3px 9px;
 }
 .sobra{font-size:12px;color:var(--gostei);font-weight:500}
-
+ 
 /* Blocos entrada/principal/sobremesa */
 .prato{margin-top:12px}
 .prato-rotulo{
@@ -93,7 +93,7 @@ details summary::before{content:"▸ ";color:var(--acento)}
 details[open] summary::before{content:"▾ "}
 .prato ul,.prato ol{margin:8px 0 0;padding-left:20px;font-size:14px}
 .prato li{margin-bottom:4px}
-
+ 
 /* Botões de voto */
 .votos{display:flex;gap:10px;margin-top:16px}
 .voto{
@@ -103,26 +103,27 @@ details[open] summary::before{content:"▾ "}
 .voto:hover{border-color:var(--acento)}
 .voto.sel-gostei{background:var(--gostei);color:#fff;border-color:var(--gostei)}
 .voto.sel-naogostei{background:var(--naogostei);color:#fff;border-color:var(--naogostei)}
-
+ 
 /* ---------- Lista de compras ---------- */
 .compras li{margin-bottom:6px;font-size:15px}
 .compras input{margin-right:8px;accent-color:var(--acento)}
 .btn{
   background:var(--acento-forte);color:#fff;border:none;cursor:pointer;
   font:inherit;font-size:14px;font-weight:500;padding:11px 16px;border-radius:10px;transition:.15s;
+  display:inline-flex;align-items:center;justify-content:center;gap:6px;
 }
 .btn:hover{background:var(--acento)}
 .btn-linha{display:flex;gap:10px;flex-wrap:wrap;margin:8px 0 20px}
-
+ 
 /* ---------- Perfil ---------- */
 .chip-grid{display:flex;flex-wrap:wrap;gap:8px;margin:10px 0}
 .chip{font-size:13px;padding:5px 11px;border-radius:999px;border:1px solid var(--linha);background:var(--cartao)}
 .chip.pos{color:var(--gostei);border-color:#cfe0d1}
 .chip.neg{color:var(--naogostei);border-color:#e8cfc8}
-
+ 
 /* ---------- Vazio / ajuda ---------- */
 .vazio{color:var(--tinta-suave);font-size:15px;text-align:center;padding:40px 10px}
-
+ 
 /* ---------- Modal ---------- */
 .modal{position:fixed;inset:0;background:rgba(40,34,26,.35);display:flex;align-items:flex-end;justify-content:center;z-index:20}
 .modal.escondido{display:none}
@@ -133,11 +134,61 @@ details[open] summary::before{content:"▾ "}
 .modal-acoes{display:flex;align-items:center;gap:14px;margin-top:20px}
 .ajuda{font-size:13px;color:var(--tinta-suave);margin:6px 0}
 .link-sutil{background:none;border:none;color:var(--acento-forte);cursor:pointer;font:inherit;font-size:14px;text-decoration:underline}
-
+ 
 /* ---------- Rodapé ---------- */
 .rodape{max-width:680px;margin:24px auto 0;padding:0 20px;color:var(--tinta-suave);font-size:12px;text-align:center}
-
+ 
 @media(min-width:560px){
   .modal{align-items:center}
   .modal-caixa{border-radius:18px}
 }
+ 
+/* ---------- Cardápio à la carte: rótulo de curso e linhas de prato ---------- */
+.curso-rot{
+  font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--acento);
+  font-weight:600;margin:18px 0 8px;
+}
+.prato-linha{
+  display:flex;align-items:stretch;gap:8px;
+  background:var(--cartao);border:1px solid var(--linha);border-radius:12px;
+  box-shadow:var(--sombra);margin:0 0 8px;overflow:hidden;
+}
+.prato-linha.compacto{box-shadow:none}
+.prato-abrir{
+  flex:1;text-align:left;background:none;border:none;cursor:pointer;font:inherit;color:var(--tinta);
+  padding:12px 14px;display:flex;flex-direction:column;gap:3px;
+}
+.prato-abrir:hover{background:#f6f2e9}
+.prato-nome{font-weight:600;font-size:15px}
+.prato-tags{font-size:12px;color:var(--tinta-suave)}
+.prato-link{font-size:12px;color:var(--acento-forte);margin-top:2px}
+.sobra{color:var(--gostei);font-weight:500}
+ 
+.votos-mini{display:flex;flex-direction:column;border-left:1px solid var(--linha)}
+.votinho{
+  flex:1;min-width:52px;background:var(--fundo);border:none;border-bottom:1px solid var(--linha);
+  cursor:pointer;font-size:16px;padding:6px;transition:.15s;
+}
+.votos-mini .votinho:last-child{border-bottom:none}
+.votinho:hover{background:#efe9dc}
+.votinho.sel-gostei{background:var(--gostei)}
+.votinho.sel-naogostei{background:var(--naogostei)}
+ 
+/* ---------- Tela da receita ---------- */
+.tela-receita{
+  position:fixed;inset:0;background:var(--fundo);z-index:15;overflow-y:auto;
+  max-width:680px;margin:0 auto;padding:16px 20px 48px;
+}
+.tela-receita.escondida{display:none}
+.receita-topo{position:sticky;top:0;background:var(--fundo);padding:6px 0 10px}
+.receita-titulo{
+  font-family:"Fraunces",Georgia,serif;font-weight:600;font-size:24px;line-height:1.2;
+  letter-spacing:-.01em;margin:2px 0 4px;
+}
+.receita-tags{font-size:12px;color:var(--acento);margin:0 0 12px}
+.ingredientes{margin-bottom:20px}
+.check{display:block;font-size:15px;padding:6px 0;border-bottom:1px solid var(--linha)}
+.check input{margin-right:10px;accent-color:var(--acento)}
+.preparo{margin-bottom:24px}
+.passo{font-size:15px;line-height:1.55;margin-bottom:10px;color:var(--tinta)}
+.passo b{color:var(--acento-forte);margin-right:4px}
