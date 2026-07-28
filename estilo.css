@@ -49,8 +49,10 @@ body{
 .aba{
   flex:1;background:none;border:none;cursor:pointer;
   font:inherit;font-size:14px;color:var(--tinta-suave);
-  padding:10px 6px;border-radius:10px;transition:.15s;
+  padding:10px 6px;border-radius:12px;transition:.15s;
+  display:flex;flex-direction:column;align-items:center;gap:4px;
 }
+.aba-ic{width:20px;height:20px;fill:none;stroke:currentColor;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round}
 .aba:hover{color:var(--tinta)}
 .aba.ativa{color:#fff;font-weight:600;background:var(--acento-forte);box-shadow:var(--sombra-azul)}
  
@@ -215,7 +217,13 @@ details[open] summary::before{content:"▾ "}
 .busca-linha .btn{flex-shrink:0}
  
 /* 5 abas: fonte um pouco menor para caber no celular */
-.abas .aba{font-size:13px;padding:10px 3px}
+.abas .aba{font-size:11px;padding:8px 2px}
+ 
+/* Link para a receita no site + meta na tela da receita */
+.receita-meta{margin:0 0 4px}
+.receita-link-site{margin:18px 0 4px}
+.receita-link-site a{color:var(--acento-forte);font-weight:500;text-decoration:none}
+.receita-link-site a:hover{text-decoration:underline}
  
 /* ---------- Cards com foto (Hoje / Semana / Buscar) ---------- */
 .card{
