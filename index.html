@@ -2,8 +2,15 @@
 <html lang="pt-BR">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <title>Cozinha · Ana & Rafael</title>
+  <link rel="manifest" href="manifest.json">
+  <link rel="apple-touch-icon" href="apple-touch-icon.png">
+  <link rel="icon" href="icon-192.png">
+  <meta name="theme-color" content="#f4f1ea">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="Cozinha">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
@@ -17,21 +24,24 @@
     </div>
     <p class="subtitulo">Ana &amp; Rafael</p>
   </header>
-
+ 
   <nav class="abas" role="tablist">
     <button class="aba ativa" data-aba="hoje">Hoje</button>
     <button class="aba" data-aba="semana">Semana</button>
     <button class="aba" data-aba="lista">Minha lista</button>
     <button class="aba" data-aba="perfil">Perfil</button>
   </nav>
-
+ 
   <main id="conteudo">
     <section id="hoje" class="painel ativo"></section>
     <section id="semana" class="painel"></section>
     <section id="lista" class="painel"></section>
     <section id="perfil" class="painel"></section>
   </main>
-
+ 
+  <!-- Tela da receita (abre ao tocar num prato) -->
+  <section id="tela-receita" class="tela-receita escondida"></section>
+ 
   <!-- Modal de configuração (sincronização com o GitHub) -->
   <div id="modal-config" class="modal escondido">
     <div class="modal-caixa">
@@ -48,11 +58,11 @@
       </div>
     </div>
   </div>
-
+ 
   <footer class="rodape">
     <span id="rodape-atualizado"></span>
   </footer>
-
+ 
   <script src="app.js"></script>
 </body>
 </html>
