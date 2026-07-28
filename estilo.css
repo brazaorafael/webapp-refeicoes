@@ -1,16 +1,17 @@
 /* ---------- Paleta e base (visual leve, quente e minimalista) ---------- */
 :root{
-  --fundo:#f4f1ea;        /* creme quente */
-  --cartao:#fbf9f4;
-  --tinta:#2a2622;        /* quase preto quente */
-  --tinta-suave:#6f685e;
-  --linha:#e4ddcf;
-  --acento:#8a7a5c;       /* argila/oliva suave */
-  --acento-forte:#5f5540;
-  --gostei:#4a6b4f;       /* verde discreto */
-  --naogostei:#a75d4f;    /* terracota discreto */
+  --fundo:#f4f6fb;        /* off-white frio */
+  --cartao:#ffffff;
+  --tinta:#1f2430;        /* slate escuro */
+  --tinta-suave:#6b7280;
+  --linha:#e3e8f2;
+  --acento:#3a5bd0;       /* azul royal médio */
+  --acento-forte:#1f3fb5; /* azul royal forte */
+  --gostei:#1f3fb5;       /* curtir = azul */
+  --naogostei:#b23b3b;    /* não curtir = vermelho */
   --raio:14px;
-  --sombra:0 1px 2px rgba(40,34,26,.05), 0 6px 20px rgba(40,34,26,.05);
+  --sombra:0 1px 2px rgba(20,30,60,.05), 0 10px 24px rgba(20,30,60,.08);
+  --sombra-azul:0 6px 16px rgba(31,63,181,.30);
 }
  
 *{box-sizing:border-box}
@@ -25,13 +26,19 @@ body{
 }
  
 /* ---------- Cabeçalho ---------- */
-.topo{max-width:680px;margin:0 auto;padding:28px 20px 6px}
-.topo-inner{display:flex;align-items:baseline;justify-content:space-between}
+.topo{max-width:680px;margin:0 auto;padding:26px 20px 6px}
+.topo-inner{display:flex;align-items:center;justify-content:space-between;gap:12px}
+.marca{display:flex;align-items:center;gap:11px}
+.emblema{
+  width:42px;height:42px;border-radius:12px;flex-shrink:0;
+  background:var(--acento-forte);display:inline-flex;align-items:center;justify-content:center;
+  box-shadow:var(--sombra-azul);
+}
 .topo h1{
   font-family:"Fraunces",Georgia,serif;
-  font-weight:500;font-size:34px;letter-spacing:-.01em;margin:0;
+  font-weight:500;font-size:26px;letter-spacing:-.01em;margin:0;line-height:1.05;
 }
-.subtitulo{margin:2px 0 0;color:var(--tinta-suave);font-size:14px;letter-spacing:.04em;text-transform:uppercase}
+.subtitulo{margin:1px 0 0;color:var(--tinta-suave);font-size:11px;letter-spacing:.08em;text-transform:uppercase}
  
 /* ---------- Abas ---------- */
 .abas{
@@ -45,7 +52,7 @@ body{
   padding:10px 6px;border-radius:10px;transition:.15s;
 }
 .aba:hover{color:var(--tinta)}
-.aba.ativa{color:var(--tinta);font-weight:600;background:var(--cartao);box-shadow:var(--sombra)}
+.aba.ativa{color:#fff;font-weight:600;background:var(--acento-forte);box-shadow:var(--sombra-azul)}
  
 /* ---------- Painéis ---------- */
 main{max-width:680px;margin:0 auto;padding:18px 20px}
@@ -180,7 +187,12 @@ details[open] summary::before{content:"▾ "}
   max-width:680px;margin:0 auto;padding:16px 20px 48px;
 }
 .tela-receita.escondida{display:none}
-.receita-topo{position:sticky;top:0;background:var(--fundo);padding:6px 0 10px}
+.receita-topo{position:sticky;top:0;background:var(--fundo);padding:8px 0 12px;z-index:1}
+.btn-voltar{
+  background:var(--cartao);border:1px solid var(--linha);cursor:pointer;font:inherit;
+  font-size:15px;font-weight:500;color:var(--acento-forte);padding:8px 14px;border-radius:10px;
+}
+.btn-voltar:hover{border-color:var(--acento)}
 .receita-titulo{
   font-family:"Fraunces",Georgia,serif;font-weight:600;font-size:24px;line-height:1.2;
   letter-spacing:-.01em;margin:2px 0 4px;
@@ -204,3 +216,48 @@ details[open] summary::before{content:"▾ "}
  
 /* 5 abas: fonte um pouco menor para caber no celular */
 .abas .aba{font-size:13px;padding:10px 3px}
+ 
+/* ---------- Cards com foto (Hoje / Semana / Buscar) ---------- */
+.card{
+  background:var(--cartao);border:1px solid var(--linha);border-radius:16px;overflow:hidden;
+  box-shadow:var(--sombra);margin:0 0 14px;
+  transition:transform .16s ease, box-shadow .16s ease;
+  animation:sobe .28s ease both;
+}
+.card:active{transform:scale(.99)}
+@media(hover:hover){ .card:hover{transform:translateY(-2px);box-shadow:0 14px 30px rgba(20,30,60,.12)} }
+.card-img{
+  display:block;width:100%;height:150px;border:none;cursor:pointer;padding:0;position:relative;
+  background:#dfe6f5 center/cover no-repeat;
+}
+.card-img.carregando{background:linear-gradient(100deg,#e6ecf7 30%,#eef2fb 50%,#e6ecf7 70%);background-size:200% 100%;animation:brilho 1.2s infinite}
+.card-tempo{
+  position:absolute;top:10px;right:10px;background:var(--acento-forte);color:#fff;
+  font-size:11px;font-weight:500;padding:4px 9px;border-radius:999px;box-shadow:var(--sombra-azul);
+}
+.card-body{display:flex;align-items:stretch;gap:8px}
+.card-titulo{
+  flex:1;text-align:left;background:none;border:none;cursor:pointer;font:inherit;color:var(--tinta);
+  padding:12px 14px;display:flex;flex-direction:column;gap:3px;
+}
+.card-titulo:hover{background:#f6f8fd}
+.card-nome{font-family:"Fraunces",Georgia,serif;font-weight:600;font-size:17px;line-height:1.2}
+.card-tags{font-size:12px;color:var(--tinta-suave)}
+.votos-card{display:flex;flex-direction:column;border-left:1px solid var(--linha)}
+ 
+/* ---------- Animações ---------- */
+@keyframes sobe{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+@keyframes brilho{from{background-position:200% 0}to{background-position:-200% 0}}
+.votinho{transition:background .15s, transform .1s}
+.votinho:active{transform:scale(.88)}
+.voto{transition:background .15s, transform .1s}
+.voto:active{transform:scale(.97)}
+.tela-receita:not(.escondida){animation:sobeTela .3s cubic-bezier(.2,.7,.2,1) both}
+@keyframes sobeTela{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
+ 
+/* ---------- Foto na tela da receita ---------- */
+.receita-img{
+  width:100%;height:200px;border-radius:14px;margin:6px 0 12px;
+  background:#dfe6f5 center/cover no-repeat;box-shadow:var(--sombra);
+}
+.receita-tempo{display:inline-block;background:var(--acento-forte);color:#fff;font-size:12px;font-weight:500;padding:4px 10px;border-radius:999px;margin:0 8px 4px 0}
