@@ -519,5 +519,344 @@
       "vegetariano"
     ],
     "data": "28/07/2026"
+  },
+  {
+    "id": "carne-mo-da-refogada-com-pur-de-mandioca-3ca327",
+    "titulo": "Carne Moída Refogada com Purê de Mandioca e Brócolis no Vapor",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "equilibrado"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "frango-xadrez-light-8e58bc",
+    "titulo": "Frango Xadrez Light",
+    "tags": [
+      "frango",
+      "rapido",
+      "refogado"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "mini-wraps-de-frango-com-requeij-o-light-8c01e2",
+    "titulo": "Mini Wraps de Frango com Requeijão Light e Cenoura Ralada",
+    "tags": [
+      "frango",
+      "rapido",
+      "low_carb"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "mousse-de-lim-o-r-pida-de62c5",
+    "titulo": "Mousse de Limão Rápida",
+    "tags": [
+      "rapido",
+      "doce"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "lombo-assado-com-tomates-e-ervas-e69cc1",
+    "titulo": "Lombo Assado com Tomates e Ervas",
+    "tags": [
+      "porco",
+      "forno",
+      "equilibrado"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "frango-del-cia-de-requeij-o-d53b42",
+    "titulo": "Frango Delícia de Requeijão",
+    "tags": [
+      "frango",
+      "forno",
+      "cremoso"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "panqueca-de-carne-mo-da-gratinada-99a941",
+    "titulo": "Panqueca de Carne Moída Gratinada",
+    "tags": [
+      "carne_vermelha",
+      "massa",
+      "forno"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "tomates-recheados-com-ricota-e-ervas-fin-90b10d",
+    "titulo": "Tomates Recheados com Ricota e Ervas Finas",
+    "tags": [
+      "vegetariano",
+      "rapido",
+      "low_carb"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "salada-de-frutas-frescas-com-calda-de-ho-d9f5c0",
+    "titulo": "Salada de Frutas Frescas com Calda de Hortelã",
+    "tags": [
+      "rapido",
+      "frutas",
+      "light"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "feij-o-branco-com-lingui-a-e-carne-seca-6f81ea",
+    "titulo": "Feijão Branco com Linguiça e Carne Seca",
+    "tags": [
+      "carne_vermelha",
+      "leguminosa",
+      "cozido"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "estrogonofe-de-frango-light-0601b9",
+    "titulo": "Estrogonofe de Frango Light",
+    "tags": [
+      "frango",
+      "rapido",
+      "cremoso"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "macarr-o-com-carne-mo-da-gratinado-e016a1",
+    "titulo": "Macarrão com Carne Moída Gratinado",
+    "tags": [
+      "carne_vermelha",
+      "massa",
+      "forno"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "mini-piment-es-recheados-com-cuscuz-marr-6a348c",
+    "titulo": "Mini Pimentões Recheados com Cuscuz Marroquino e Vegetais",
+    "tags": [
+      "vegetariano",
+      "rapido",
+      "low_carb"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "banana-assada-com-canela-ad5879",
+    "titulo": "Banana Assada com Canela",
+    "tags": [
+      "frutas",
+      "rapido",
+      "light"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "alm-ndegas-de-carne-assadas-ao-sugo-com--bb7e33",
+    "titulo": "Almôndegas de Carne Assadas ao Sugo com Penne Integral",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "massa"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "fil-de-frango-parmegiana-na-airfryer-c81a3e",
+    "titulo": "Filé de Frango à Parmegiana na Airfryer",
+    "tags": [
+      "frango",
+      "airfryer",
+      "cremoso"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "carne-assada-fatiada-com-cebola-carameli-b165b3",
+    "titulo": "Carne Assada Fatiada com Cebola Caramelizada (no forno)",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "equilibrio"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "cesta-de-queijo-coalho-grelhado-com-gele-376974",
+    "titulo": "Cesta de Queijo Coalho Grelhado com Geleia de Pimenta",
+    "tags": [
+      "vegetariano",
+      "grelhado",
+      "rapido"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "pav-de-chocolate-com-biscoito-fb9219",
+    "titulo": "Pavê de Chocolate com Biscoito",
+    "tags": [
+      "doce",
+      "gelado",
+      "rapido"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "til-pia-assada-com-batatas-e-tomates-cer-357a00",
+    "titulo": "Tilápia Assada com Batatas e Tomates Cereja",
+    "tags": [
+      "peixe",
+      "forno",
+      "equilibrio"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "bife-de-contrafil-na-grelha-com-pur-de-a-16139e",
+    "titulo": "Bife de Contrafilé na Grelha com Purê de Abóbora e Couve Refogada",
+    "tags": [
+      "carne_vermelha",
+      "grelhado",
+      "equilibrio"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "batata-recheada-com-carne-seca-fabebe",
+    "titulo": "Batata Recheada com Carne Seca",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "conforto"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "bolinho-de-carne-assado-f856a1",
+    "titulo": "Bolinho de Carne Assado",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "rapido"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "pudim-de-leite-condensado-tradicional-no-c7b7ca",
+    "titulo": "Pudim de Leite Condensado (tradicional, no vapor)",
+    "tags": [
+      "doce",
+      "cremoso",
+      "tradicional"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "costela-de-boi-assada-no-forno-3a405d",
+    "titulo": "Costela de Boi Assada no Forno",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "conforto"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "frango-cremoso-com-milho-e-queijo-no-for-71bacb",
+    "titulo": "Frango Cremoso com Milho e Queijo (no forno)",
+    "tags": [
+      "frango",
+      "forno",
+      "cremoso"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "lasanha-de-frango-com-queijo-e69617",
+    "titulo": "Lasanha de Frango com Queijo",
+    "tags": [
+      "frango",
+      "massa",
+      "forno"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "mini-past-is-assados-de-queijo-e-or-gano-05328e",
+    "titulo": "Mini Pastéis Assados de Queijo e Orégano",
+    "tags": [
+      "vegetariano",
+      "forno",
+      "rapido"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "cheesecake-de-morango-sem-forno-85ca39",
+    "titulo": "Cheesecake de Morango sem Forno",
+    "tags": [
+      "doce",
+      "gelado",
+      "cremoso"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "maminha-recheada-com-queijo-e-bacon-no-f-1db355",
+    "titulo": "Maminha Recheada com Queijo e Bacon (no forno)",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "conforto"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "frango-passarinho-na-airfryer-188fe1",
+    "titulo": "Frango à Passarinho na Airfryer",
+    "tags": [
+      "frango",
+      "airfryer",
+      "rapido"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "feij-o-tropeiro-pr-tico-e90445",
+    "titulo": "Feijão Tropeiro Prático",
+    "tags": [
+      "carne_vermelha",
+      "leguminosa",
+      "cozido"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "salada-de-gr-os-com-miniagri-o-81768a",
+    "titulo": "Salada de Grãos com Miniagrião",
+    "tags": [
+      "vegetariano",
+      "rapido",
+      "low_carb"
+    ],
+    "data": "28/07/2026"
+  },
+  {
+    "id": "romeu-e-julieta-na-travessa-sem-forno-81da6c",
+    "titulo": "Romeu e Julieta na Travessa (sem forno)",
+    "tags": [
+      "doce",
+      "gelado",
+      "rapido"
+    ],
+    "data": "28/07/2026"
   }
 ]
