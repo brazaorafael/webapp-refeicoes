@@ -192,3 +192,15 @@ details[open] summary::before{content:"▾ "}
 .preparo{margin-bottom:24px}
 .passo{font-size:15px;line-height:1.55;margin-bottom:10px;color:var(--tinta)}
 .passo b{color:var(--acento-forte);margin-right:4px}
+ 
+/* ---------- Aba Buscar ---------- */
+.busca-linha{display:flex;gap:8px;margin-bottom:12px}
+.busca-linha input{
+  flex:1;min-width:0;padding:11px;border:1px solid var(--linha);border-radius:10px;
+  font:inherit;background:var(--cartao);color:var(--tinta);
+}
+.busca-linha input:focus{outline:none;border-color:var(--acento)}
+.busca-linha .btn{flex-shrink:0}
+ 
+/* 5 abas: fonte um pouco menor para caber no celular */
+.abas .aba{font-size:13px;padding:10px 3px}
