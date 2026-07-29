@@ -49,16 +49,31 @@ async function gemini(env, parts, useSearch) {
   return (j?.candidates?.[0]?.content?.parts || []).map(p => p.text).filter(Boolean).join("");
 }
 
-async function ogImage(pageUrl) {
+function normaliza(s) {
+  return (s || "").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/[^a-z0-9 ]/g, " ");
+}
+// A página realmente é sobre este prato? (evita usar foto/link de outra receita)
+function combina(nome, titulo) {
+  const stop = new Set(["com", "de", "da", "do", "dos", "das", "e", "receita", "facil", "rapida", "rapido", "caseiro", "caseira"]);
+  const words = normaliza(nome).split(/\s+/).filter(w => w.length > 3 && !stop.has(w));
+  if (!words.length) return false;
+  const t = normaliza(titulo);
+  const hits = words.filter(w => t.includes(w)).length;
+  return hits >= Math.min(2, words.length);
+}
+// Busca og:image e og:title da página da receita
+async function fetchPagina(pageUrl) {
   const r = await fetch(pageUrl, { headers: { "User-Agent": "Mozilla/5.0 (compatible; CozinhaBot/1.0)" } });
   if (!r.ok) return null;
   const html = await r.text();
-  const m = html.match(/<meta[^>]+(?:property|name)=["'](?:og:image|twitter:image)["'][^>]+content=["']([^"']+)["']/i)
+  const mi = html.match(/<meta[^>]+(?:property|name)=["'](?:og:image|twitter:image)["'][^>]+content=["']([^"']+)["']/i)
     || html.match(/<meta[^>]+content=["']([^"']+)["'][^>]+(?:property|name)=["'](?:og:image|twitter:image)["']/i);
-  let u = m ? m[1] : null;
-  if (u && u.startsWith("//")) u = "https:" + u;
-  else if (u && u.startsWith("/")) { try { u = new URL(pageUrl).origin + u; } catch {} }
-  return u;
+  let img = mi ? mi[1] : null;
+  if (img && img.startsWith("//")) img = "https:" + img;
+  else if (img && img.startsWith("/")) { try { img = new URL(pageUrl).origin + img; } catch {} }
+  const mt = html.match(/<meta[^>]+(?:property|name)=["']og:title["'][^>]+content=["']([^"']+)["']/i)
+    || html.match(/<title[^>]*>([^<]+)<\/title>/i);
+  return { img, titulo: mt ? mt[1] : "" };
 }
 
 async function pexels(env, q) {
@@ -93,15 +108,20 @@ export default {
       let body;
       try { body = await request.json(); } catch { return json({ error: "json invalido" }, 400); }
       const action = body.action || "voto";
-      const precisaGemini = ["foto", "consolidar", "buscar", "com_ingredientes"].includes(action);
+      const precisaGemini = ["foto", "consolidar", "buscar", "com_ingredientes", "acompanhar"].includes(action);
       if (precisaGemini && !env.GEMINI_API_KEY) return json({ error: "config", detalhe: "GEMINI_API_KEY ausente" }, 200);
 
-      // ---- Foto do prato: capa do site (og:image) + banco de imagens como plano B ----
+      // ---- Foto do prato: capa do site (só se o título bater) + banco como plano B ----
       if (action === "imagem") {
         const q = (body.consulta || "").trim();
         const pageUrl = (body.url || "").trim();
         let site = null, banco = null;
-        if (pageUrl) { try { site = await ogImage(pageUrl); } catch {} }
+        if (pageUrl && q) {
+          try {
+            const pg = await fetchPagina(pageUrl);
+            if (pg && pg.img && combina(q, pg.titulo)) site = pg.img;
+          } catch {}
+        }
         try { banco = await pexels(env, q); } catch {}
         return json({ site, banco }, 200);
       }
@@ -154,6 +174,17 @@ export default {
           + "e bem avaliadas. Responda SÓ com JSON: um array de receitas. " + ESQUEMA;
         const arr = comoArray(extrairJson(await gemini(env, [{ text: prompt }], true)));
         return json({ pratos: arr.slice(0, 3) }, 200);
+      }
+
+      // ---- Sugestão de acompanhamentos (o que servir junto) ----
+      if (action === "acompanhar") {
+        const prato = (body.prato || "").trim();
+        if (!prato) return json({ acompanhamentos: [] }, 200);
+        const prompt = "Para o prato principal \"" + prato + "\", sugira de 2 a 4 ACOMPANHAMENTOS simples "
+          + "que combinam bem (ex.: um arroz, uma salada, um legume assado ou no airfryer). " + PERFIL
+          + "\nResponda SÓ com JSON: um array de objetos { \"nome\", \"dica\" (1 frase curta de como fazer ou servir) }.";
+        const arr = comoArray(extrairJson(await gemini(env, [{ text: prompt }])));
+        return json({ acompanhamentos: arr.slice(0, 4) }, 200);
       }
 
       // ---- Voto (padrão) ----
