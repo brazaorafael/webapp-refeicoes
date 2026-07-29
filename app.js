@@ -15,8 +15,13 @@ let FOTOS = LS.get("foto_extras", []);    // [{ id, nome, ingredientes:[] }]
 let DADOS = { dia: null, lista: null, perfil: null };
 let INDICE = {};                           // { id: prato } (todos conhecidos)
 let BUSCA = [];                            // resultados da aba Buscar
+let BUSCANDO = false;                       // busca em andamento (persiste entre re-renders)
+let BUSCA_TXT = "";                         // texto do campo "busque uma ideia"
+let BUSCA_ING = "";                         // texto do campo "o que tenho"
+let BUSCA_MSG = "";                         // mensagem de status/erro
 let LISTA_CACHE = LS.get("lista_cache", { sig: "", lista: null });
-let IMG_CACHE = LS.get("img_cache2", {});   // { slug: url|"none" } fotos dos pratos
+let IMG_CACHE = LS.get("img_cache3", {});   // { slug: url|"none" } fotos dos pratos
+let ACOMP_CACHE = LS.get("acomp_cache", {}); // { slug: [{nome,dica}] } acompanhamentos
 
 const CURSOS = ["principal", "entrada", "sobremesa"];
 const ROTULO = { principal: "Prato principal", entrada: "Entrada", sobremesa: "Sobremesa" };
@@ -107,9 +112,9 @@ function preload(u) { return new Promise((res, rej) => { const im = new Image();
 async function pintar(el, key, candidatos) {
   for (const u of candidatos) {
     if (!u) continue;
-    try { await preload(u); el.style.backgroundImage = `url("${u}")`; el.classList.remove("carregando"); IMG_CACHE[key] = u; LS.set("img_cache2", IMG_CACHE); return; } catch {}
+    try { await preload(u); el.style.backgroundImage = `url("${u}")`; el.classList.remove("carregando"); IMG_CACHE[key] = u; LS.set("img_cache3", IMG_CACHE); return; } catch {}
   }
-  el.classList.remove("carregando"); IMG_CACHE[key] = "none"; LS.set("img_cache2", IMG_CACHE);
+  el.classList.remove("carregando"); IMG_CACHE[key] = "none"; LS.set("img_cache3", IMG_CACHE);
 }
 
 // Carrega as fotos dos pratos (capa do site + banco via Worker), com cache local
@@ -160,47 +165,54 @@ function renderSemana() {
 // -------------------------------------------------------------------------
 function renderBuscar() {
   const alvo = document.getElementById("buscar");
+  const spinner = BUSCANDO ? `<div class="buscando"><span class="spin"></span> Buscando receitas na web… isso pode levar alguns segundos. Pode ficar tranquilo, não precisa esperar parado.</div>` : "";
   alvo.innerHTML = `
     <h2 class="secao-titulo">Buscar receitas</h2>
     <p class="curso-rot">Busque uma ideia</p>
     <div class="busca-linha">
-      <input id="busca-texto" type="text" placeholder="ex.: frango rápido, algo com abóbora">
-      <button class="btn" id="busca-btn">Buscar</button>
+      <input id="busca-texto" type="text" placeholder="ex.: frango rápido, algo com abóbora" value="${esc(BUSCA_TXT)}" ${BUSCANDO ? "disabled" : ""}>
+      <button class="btn" id="busca-btn" ${BUSCANDO ? "disabled" : ""}>Buscar</button>
     </div>
     <p class="curso-rot">Cozinhar com o que tenho</p>
     <div class="busca-linha">
-      <input id="busca-ingr" type="text" placeholder="ex.: ovos, batata, queijo">
-      <button class="btn" id="busca-ingr-btn">Montar</button>
+      <input id="busca-ingr" type="text" placeholder="ex.: ovos, batata, queijo" value="${esc(BUSCA_ING)}" ${BUSCANDO ? "disabled" : ""}>
+      <button class="btn" id="busca-ingr-btn" ${BUSCANDO ? "disabled" : ""}>Montar</button>
     </div>
-    <p class="ajuda" id="busca-status"></p>
+    ${spinner}
+    ${BUSCA_MSG ? `<p class="ajuda">${esc(BUSCA_MSG)}</p>` : ""}
     <div id="busca-resultados">${BUSCA.length ? blocosPorCurso(BUSCA, true) : ""}</div>`;
+
+  const tx = document.getElementById("busca-texto"); tx.oninput = e => BUSCA_TXT = e.target.value;
+  const ig = document.getElementById("busca-ingr"); ig.oninput = e => BUSCA_ING = e.target.value;
   const res = document.getElementById("busca-resultados");
   if (BUSCA.length) { ligarInteracoes(res); carregarImagens(res); }
 
-  const rodar = async (acao, payload) => {
-    const st = document.getElementById("busca-status");
-    st.textContent = "Buscando receitas…";
-    const url = urlDoWorker();
-    if (!url) { st.textContent = "Sincronização não configurada (Ajustes)."; return; }
-    try {
-      const r = await fetch(url, { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(payload) });
-      const j = await r.json();
-      const pratos = (j.pratos || []).map(p => { p.id = idNovo(p.nome); p.curso = (p.curso || "principal").toLowerCase(); return p; });
-      pratos.forEach(p => INDICE[p.id] = p);
-      BUSCA = pratos;
-      st.textContent = pratos.length ? "" : "Não encontrei receitas para isso. Tente outras palavras.";
-      renderBuscar();
-    } catch (e) { st.textContent = "Erro na busca. Tente de novo."; }
-  };
-
-  document.getElementById("busca-btn").onclick = () => {
-    const t = document.getElementById("busca-texto").value.trim();
-    if (t) rodar("buscar", { action: "buscar", texto: t });
-  };
+  document.getElementById("busca-btn").onclick = () => { if (BUSCA_TXT.trim()) rodarBusca({ action: "buscar", texto: BUSCA_TXT.trim() }); };
   document.getElementById("busca-ingr-btn").onclick = () => {
-    const t = document.getElementById("busca-ingr").value.trim();
-    if (t) rodar("com_ingredientes", { action: "com_ingredientes", ingredientes: t.split(",").map(s => s.trim()).filter(Boolean) });
+    const t = BUSCA_ING.trim();
+    if (t) rodarBusca({ action: "com_ingredientes", ingredientes: t.split(",").map(s => s.trim()).filter(Boolean) });
   };
+}
+
+// Busca resiliente: guarda o estado, mostra spinner e não morre em silêncio.
+async function rodarBusca(payload) {
+  const url = urlDoWorker();
+  if (!url) { BUSCA_MSG = "Sincronização não configurada (veja Ajustes)."; renderBuscar(); return; }
+  BUSCANDO = true; BUSCA_MSG = ""; BUSCA = []; renderBuscar();
+  const ctrl = new AbortController();
+  const to = setTimeout(() => ctrl.abort(), 45000);
+  try {
+    const r = await fetch(url, { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(payload), signal: ctrl.signal });
+    const j = await r.json();
+    const pratos = (j.pratos || []).map(p => { p.id = idNovo(p.nome); p.curso = (p.curso || "principal").toLowerCase(); return p; });
+    pratos.forEach(p => INDICE[p.id] = p);
+    BUSCA = pratos;
+    BUSCA_MSG = pratos.length ? "" : "Não encontrei receitas para isso. Tente outras palavras.";
+  } catch (e) {
+    BUSCA_MSG = (e && e.name === "AbortError") ? "A busca demorou demais. Toque em Buscar para tentar de novo." : "Não consegui buscar agora. Toque para tentar de novo.";
+  } finally {
+    clearTimeout(to); BUSCANDO = false; renderBuscar();
+  }
 }
 
 // -------------------------------------------------------------------------
@@ -363,7 +375,8 @@ function abrirReceita(id) {
     ${p.porque ? `<p class="porque">${esc(p.porque)}</p>` : ""}
     <p class="curso-rot">Ingredientes</p><div class="ingredientes">${ings}</div>
     <p class="curso-rot">Modo de preparo</p><div class="preparo">${passos}</div>
-    ${p.url ? `<p class="receita-link-site"><a href="${esc(p.url)}" target="_blank" rel="noopener">Ver receita completa no site ↗</a></p>` : ""}
+    <p class="receita-link-site"><a href="https://www.google.com/search?q=${encodeURIComponent(p.nome + " receita")}" target="_blank" rel="noopener">Ver a receita e vídeos no Google ↗</a></p>
+    ${(p.curso || "principal") === "principal" ? `<div id="acompanhamentos"></div>` : ""}
     <p class="ajuda" style="text-align:center">Ao votar, você volta para a lista automaticamente.</p>
     <div class="votos">
       <button class="voto ${voto === "like" ? "sel-gostei" : ""}" data-voto="like" data-p="${esc(id)}">👍 Gostei</button>
@@ -374,7 +387,31 @@ function abrirReceita(id) {
   tela.querySelectorAll("[data-voto]").forEach(b => b.addEventListener("click", () => { votar(b.dataset.p, b.dataset.voto); fecharReceita(); }));
   tela.classList.remove("escondida");
   carregarImagens(tela);
+  if ((p.curso || "principal") === "principal") carregarAcompanhamentos(p);
   window.scrollTo(0, 0);
+}
+
+// "Para servir junto" — sugestões de acompanhamento (com cache)
+async function carregarAcompanhamentos(p) {
+  const alvo = document.getElementById("acompanhamentos");
+  if (!alvo) return;
+  const key = slug(p.nome);
+  const render = (arr) => {
+    if (!arr || !arr.length) { alvo.innerHTML = ""; return; }
+    alvo.innerHTML = `<p class="curso-rot">Para servir junto</p>` +
+      arr.map(a => `<div class="acomp"><b>${esc(a.nome)}</b>${a.dica ? ` — <span>${esc(a.dica)}</span>` : ""}</div>`).join("");
+  };
+  if (ACOMP_CACHE[key]) { render(ACOMP_CACHE[key]); return; }
+  const url = urlDoWorker();
+  if (!url) return;
+  alvo.innerHTML = `<p class="curso-rot">Para servir junto</p><div class="buscando"><span class="spin"></span> Pensando no que combina…</div>`;
+  try {
+    const r = await fetch(url, { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ action: "acompanhar", prato: p.nome }) });
+    const j = await r.json();
+    const arr = j.acompanhamentos || [];
+    ACOMP_CACHE[key] = arr; LS.set("acomp_cache", ACOMP_CACHE);
+    render(arr);
+  } catch (e) { alvo.innerHTML = ""; }
 }
 function fecharReceita() { document.getElementById("tela-receita").classList.add("escondida"); }
 
