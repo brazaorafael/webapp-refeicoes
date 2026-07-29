@@ -160,121 +160,119 @@
         "dia": "Segunda",
         "pratos": [
           {
-            "nome": "Bife Acebolado",
+            "nome": "Bife de Panela com Batatas",
             "curso": "principal",
-            "tempo": "20 min",
-            "url": "https://www.panelinha.com.br/receita/Bife-acebolado",
-            "porque": "Preparo rápido na frigideira, alto teor de proteína (carne vermelha) e a cebola adiciona sabor.",
+            "tempo": "40 min",
+            "url": "https://www.saboresajinomoto.com.br/receita/bife-de-panela",
+            "porque": "É um prato único e reconfortante, com carne vermelha e carboidratos, de preparo simples na panela.",
             "tags": [
               "carne_vermelha",
               "rapido",
-              "grelhado"
+              "panela"
             ],
             "rende_sobra": true,
             "ingredientes": [
-              "2 bifes de contrafilé (ou alcatra, ~180g cada)",
-              "1 cebola média",
-              "2 dentes de alho",
-              "2 colheres (sopa) de azeite",
-              "1 colher (sopa) de manteiga",
-              "1/4 xícara (chá) de vinagre de vinho tinto",
-              "Sal e pimenta-do-reino a gosto"
+              "4 bifes (coxão duro ou acém, ~150g cada)",
+              "1 colher (sopa) de óleo vegetal",
+              "1 sachê de Tempero SAZÓN® Vermelho (ou sal e pimenta a gosto)",
+              "1 colher (chá) de sal",
+              "2 batatas médias, em cubos",
+              "1 cebola média, em rodelas",
+              "1 xícara (chá) de repolho picado (opcional)",
+              "1/2 xícara (chá) de polpa de tomate",
+              "1/4 xícara (chá) de azeitonas verdes fatiadas",
+              "1 xícara (chá) de água"
             ],
             "preparo": [
-              "Tempere os bifes com sal e pimenta-do-reino dos dois lados.",
-              "Descasque e corte a cebola em rodelas finas, e o alho em lâminas.",
-              "Em uma frigideira grande, aqueça o azeite e doure os bifes por 2-3 minutos de cada lado. Retire e reserve.",
-              "Na mesma frigideira, adicione a manteiga, a cebola e o alho. Refogue até a cebola ficar translúcida.",
-              "Regue com o vinagre, raspe o fundo da frigideira e deixe reduzir por 1 minuto. Sirva a cebola sobre os bifes."
+              "1. Em uma panela de pressão, aqueça o óleo em fogo alto. Junte os bifes, polvilhe com o Tempero SAZÓN® e o sal, e doure-os dos dois lados.",
+              "2. Adicione as batatas, a cebola, o repolho (se usar), a polpa de tomate, as azeitonas e a água.",
+              "3. Tampe a panela e, após pegar pressão, cozinhe em fogo médio por 20 minutos.",
+              "4. Desligue o fogo, espere a pressão ceder completamente e abra a panela. Sirva em seguida."
             ],
-            "id": "bife-acebolado-8e2e74"
+            "id": "bife-de-panela-com-batatas-3ae9a7"
           },
           {
-            "nome": "Estrogonofe de Carne Rápido",
+            "nome": "Frango Assado com Legumes na Airfryer",
             "curso": "principal",
-            "tempo": "30 min",
-            "url": "https://gshow.globo.com/receitas/maisvoce/estrogonofe-rapido-de-carne-5277879e4d3885141900000a.ghtml",
-            "porque": "Receita fácil e rápida, com carne vermelha como proteína principal, ideal para sobras.",
+            "tempo": "35 min",
+            "url": "https://www.receiteria.com.br/receitas/frango-assado-air-fryer/",
+            "porque": "Utiliza a airfryer, evitando fritura, e é uma refeição completa com boa proteína e vegetais.",
             "tags": [
-              "carne_vermelha",
-              "rapido",
-              "refogado"
+              "frango",
+              "airfryer",
+              "equilibrado"
             ],
             "rende_sobra": true,
             "ingredientes": [
-              "500g de filé-mignon (ou alcatra/patinho) em tiras",
-              "1 colher (sopa) de manteiga",
-              "1 cebola picada",
-              "1 dente de alho picado",
-              "1 lata de champignon fatiado",
-              "1/2 xícara (chá) de molho de tomate",
-              "1 colher (sopa) de mostarda",
-              "1 colher (sopa) de ketchup",
-              "1/2 xícara (chá) de água ou caldo de carne",
-              "1 lata de creme de leite",
+              "4 coxas e sobrecoxas de frango desossadas",
+              "1 brócolis pequeno, em floretes",
+              "1 cenoura média, em rodelas grossas",
+              "1 abobrinha pequena, em cubos",
+              "2 colheres (sopa) de azeite de oliva",
+              "1 colher (chá) de páprica doce",
+              "1/2 colher (chá) de alho em pó",
               "Sal e pimenta-do-reino a gosto"
             ],
             "preparo": [
-              "Tempere a carne com sal e pimenta. Aqueça a manteiga em uma panela e doure a carne em porções. Retire e reserve.",
-              "Na mesma panela, refogue a cebola e o alho até ficarem macios.",
-              "Adicione o champignon, molho de tomate, mostarda, ketchup e água/caldo. Misture e deixe ferver por alguns minutos.",
-              "Retorne a carne à panela, misture e cozinhe por mais 5 minutos.",
-              "Desligue o fogo e adicione o creme de leite, misturando delicadamente. Sirva."
+              "1. Tempere o frango com azeite, páprica, alho em pó, sal e pimenta. Misture bem.",
+              "2. Em uma tigela separada, tempere os legumes com um fio de azeite, sal e pimenta.",
+              "3. Pré-aqueça a airfryer a 180°C por 5 minutos. Coloque o frango no cesto e asse por 15 minutos. Vire o frango.",
+              "4. Adicione os legumes ao cesto com o frango e asse por mais 15-20 minutos, ou até o frango estar dourado e os legumes macios."
             ],
-            "id": "estrogonofe-de-carne-r-pido-8d128a"
+            "id": "frango-assado-com-legumes-na-airfryer-c9c5e3"
           },
           {
-            "nome": "Torradinha de Alho",
+            "nome": "Salada Caprese Simples",
             "curso": "entrada",
-            "tempo": "15 min",
-            "url": "https://www.panelinha.com.br/receita/Torradinha-de-alho",
-            "porque": "Super fácil e rápida de fazer no forno, ideal para um petisco leve e saboroso.",
+            "tempo": "10 min",
+            "url": "https://www.panelinha.com.br/receita/salada-caprese-classica",
+            "porque": "Extremamente rápida de montar, fresca e saborosa, adicionando vegetais e um toque de proteína.",
             "tags": [
-              "rapido",
-              "forno",
-              "vegetariano"
+              "salada",
+              "vegetariano",
+              "rapido"
             ],
             "rende_sobra": false,
             "ingredientes": [
-              "1 pão francês amanhecido",
-              "2 dentes de alho",
-              "3 colheres (sopa) de azeite",
-              "Sal a gosto",
-              "Salsinha picada (opcional)"
+              "3 muçarelas de búfala (bolinhas ou fatiadas)",
+              "5 tomates maduros (italiano ou cereja)",
+              "3 ramos de manjericão fresco",
+              "Azeite extravirgem a gosto",
+              "Sal e pimenta-do-reino moída na hora a gosto"
             ],
             "preparo": [
-              "Corte o pão em fatias de cerca de 1 cm de espessura.",
-              "Em um recipiente, amasse o alho e misture com o azeite e o sal.",
-              "Pincele essa mistura nas fatias de pão.",
-              "Leve ao forno pré-aquecido a 180°C por cerca de 10 minutos, ou até ficarem douradas e crocantes."
+              "1. Lave e seque os tomates e o manjericão. Corte os tomates em rodelas ou gomos.",
+              "2. Corte as muçarelas de búfala em rodelas ou ao meio (se forem cerejas).",
+              "3. Em um prato, intercale fatias de tomate, muçarela e folhas de manjericão.",
+              "4. Regue com azeite, tempere com sal e pimenta-do-reino a gosto e sirva imediatamente."
             ],
-            "id": "torradinha-de-alho-b38c0c"
+            "id": "salada-caprese-simples-83a6c1"
           },
           {
-            "nome": "Creme de Manga com Iogurte",
+            "nome": "Brigadeiro de Colher",
             "curso": "sobremesa",
-            "tempo": "10 min",
-            "url": "https://tudogostoso.com.br/receita/114620-creme-de-manga-com-iogurte.html",
-            "porque": "Sobremesa sem forno, de preparo rápido e refrescante, com poucos ingredientes.",
+            "tempo": "15 min",
+            "url": "https://www.receitasnestle.com.br/receitas/brigadeiro-de-colher-tradicional",
+            "porque": "Uma sobremesa clássica brasileira, muito rápida e fácil de preparar, que agrada a todos.",
             "tags": [
+              "sobremesa",
               "rapido",
-              "vegetariano",
-              "low_carb"
+              "doce"
             ],
             "rende_sobra": false,
             "ingredientes": [
-              "2 mangas maduras (tipo Palmer ou Tommy)",
-              "1 pote (170g) de iogurte natural integral",
-              "2 colheres (sopa) de mel (opcional)",
-              "Raspas de limão (opcional)"
+              "1 lata de Leite MOÇA® (leite condensado)",
+              "3 colheres (sopa) de Chocolate em Pó NESTLÉ DOIS FRADES® 50% cacau",
+              "1 colher (sopa) de manteiga",
+              "Chocolate granulado para decorar (opcional)"
             ],
             "preparo": [
-              "Descasque as mangas e corte a polpa em pedaços.",
-              "Leve a polpa da manga ao liquidificador e bata até obter um creme liso.",
-              "Adicione o iogurte natural e o mel (se usar) e bata novamente por alguns segundos.",
-              "Distribua em taças individuais e leve à geladeira por pelo menos 30 minutos antes de servir."
+              "1. Em uma panela, misture o leite condensado, o chocolate em pó e a manteiga.",
+              "2. Leve ao fogo baixo, mexendo sempre com uma espátula, até a mistura desgrudar do fundo da panela (cerca de 10 minutos).",
+              "3. Retire do fogo e transfira para um recipiente. Cubra com plástico filme em contato com o brigadeiro para evitar a formação de película.",
+              "4. Deixe esfriar completamente e sirva de colher, com granulado se desejar."
             ],
-            "id": "creme-de-manga-com-iogurte-42b2c2"
+            "id": "brigadeiro-de-colher-81b63e"
           }
         ]
       },
@@ -282,148 +280,117 @@
         "dia": "Terça",
         "pratos": [
           {
-            "nome": "Frango Assado Rápido e Fácil",
+            "nome": "Carne Moída com Abobrinha Gratinada no Forno",
             "curso": "principal",
             "tempo": "45 min",
-            "url": "https://www.panelinha.com.br/receita/Frango-assado-rapido",
-            "porque": "Frango é uma excelente fonte de proteína e assar no forno é um método saudável e prático.",
-            "tags": [
-              "frango",
-              "forno",
-              "rapido"
-            ],
-            "rende_sobra": true,
-            "ingredientes": [
-              "1 frango inteiro (ou 8 sobrecoxas de frango sem pele)",
-              "4 dentes de alho amassados",
-              "1 limão (suco e raspas)",
-              "2 colheres (sopa) de azeite",
-              "1 colher (chá) de páprica doce",
-              "1/2 colher (chá) de cominho em pó",
-              "Sal e pimenta-do-reino a gosto",
-              "Ramos de alecrim ou tomilho (opcional)"
-            ],
-            "preparo": [
-              "Lave e seque o frango. Faça pequenos cortes na carne para o tempero penetrar.",
-              "Em uma tigela, misture o alho, suco e raspas de limão, azeite, páprica, cominho, sal e pimenta.",
-              "Esfregue o tempero por todo o frango. Se tiver tempo, deixe marinar por 30 minutos.",
-              "Disponha o frango em uma assadeira, adicione os ramos de alecrim/tomilho.",
-              "Leve ao forno pré-aquecido a 200°C por cerca de 35-45 minutos, ou até dourar e ficar cozido por dentro."
-            ],
-            "id": "frango-assado-r-pido-e-f-cil-643566"
-          },
-          {
-            "nome": "Lombo de Porco na Airfryer",
-            "curso": "principal",
-            "tempo": "30 min",
-            "url": "https://tudogostoso.com.br/receita/201200-lombo-suino-na-airfryer.html",
-            "porque": "Carne vermelha alternativa, o preparo na Airfryer é rápido, saudável e rende sobras.",
-            "tags": [
-              "porco",
-              "airfryer",
-              "rapido"
-            ],
-            "rende_sobra": true,
-            "ingredientes": [
-              "500g de lombo suíno (em bifes grossos ou peça pequena)",
-              "2 dentes de alho amassados",
-              "1 colher (sopa) de azeite",
-              "1 colher (sopa) de mostarda",
-              "1/2 limão (suco)",
-              "Sal e pimenta-do-reino a gosto",
-              "Ramos de alecrim (opcional)"
-            ],
-            "preparo": [
-              "Corte o lombo em bifes grossos (2-3 cm) ou mantenha a peça. Tempere com alho, azeite, mostarda, suco de limão, sal e pimenta. Deixe marinar por 15 minutos.",
-              "Pré-aqueça a Airfryer a 180°C por 5 minutos.",
-              "Coloque o lombo na cesta da Airfryer.",
-              "Cozinhe por 20-30 minutos, virando na metade do tempo, até dourar e ficar cozido por dentro (ajuste para bifes ou peça inteira)."
-            ],
-            "id": "lombo-de-porco-na-airfryer-c8e932"
-          },
-          {
-            "nome": "Escondidinho de Carne Seca",
-            "curso": "principal",
-            "tempo": "45 min",
-            "url": "https://tudogostoso.com.br/receita/113142-escondidinho-de-carne-seca-simples.html",
-            "porque": "Prato substancioso com carne vermelha, ideal para refeições completas e rende bastante para sobras.",
+            "url": "https://www.pitadanatural.com.br/receitas/abobrinha-e-carne-moida-gratinada",
+            "porque": "Uma forma fácil e nutritiva de consumir carne vermelha e vegetais, com preparo prático no forno.",
             "tags": [
               "carne_vermelha",
               "forno",
-              "substancioso"
+              "equilibrado"
             ],
             "rende_sobra": true,
             "ingredientes": [
-              "500g de carne seca cozida e desfiada",
-              "1 kg de mandioca (ou batata) cozida e amassada",
-              "1/2 xícara (chá) de leite",
-              "2 colheres (sopa) de manteiga",
-              "1 cebola picada",
-              "2 dentes de alho picados",
-              "1/2 lata de molho de tomate",
-              "1/2 xícara (chá) de requeijão cremoso",
-              "100g de queijo muçarela ralado",
-              "Cheiro-verde picado, sal e pimenta-do-reino a gosto"
+              "2 abobrinhas médias (450g), em rodelas",
+              "1 colher (sopa) de azeite de oliva",
+              "1 cebola média picada",
+              "350g de carne moída",
+              "2 colheres (chá) de Sal com Cebola & Salsa Pitada Natural (ou sal e temperos a gosto)",
+              "1 xícara (chá) de molho de tomate",
+              "1 ½ xícara (chá) de muçarela ralada",
+              "3 colheres (sopa) de queijo parmesão ralado"
             ],
             "preparo": [
-              "Prepare o purê: Amasse a mandioca/batata cozida. Em uma panela, derreta a manteiga, adicione o leite e misture ao purê. Tempere e reserve.",
-              "Prepare o recheio: Refogue a cebola e o alho em azeite. Adicione a carne seca desfiada, molho de tomate e cheiro-verde. Cozinhe por 5 minutos.",
-              "Montagem: Em um refratário, espalhe metade do purê. Cubra com o recheio de carne seca e colheradas de requeijão.",
-              "Cubra com o restante do purê e finalize com o queijo muçarela ralado.",
-              "Leve ao forno pré-aquecido a 180°C por cerca de 20-25 minutos, ou até gratinar."
+              "1. Pré-aqueça o forno a 200°C. Disponha as rodelas de abobrinha em uma forma com papel toalha, salgue e seque bem.",
+              "2. Aqueça o azeite em uma frigideira, refogue a cebola até dourar. Adicione a carne moída e cozinhe por 5 minutos, temperando a gosto.",
+              "3. Em um refratário, intercale camadas de abobrinha, carne moída e molho de tomate. Adicione parte da muçarela.",
+              "4. Leve ao forno por 30 minutos. Retire, cubra com o restante da muçarela e o parmesão, e volte ao forno até gratinar."
             ],
-            "id": "escondidinho-de-carne-seca-c78c61"
+            "id": "carne-mo-da-com-abobrinha-gratinada-no-f-553ffa"
           },
           {
-            "nome": "Patê de Frango Fácil",
+            "nome": "Omelete de Forno com Queijo e Espinafre",
+            "curso": "principal",
+            "tempo": "30 min",
+            "url": "https://www.tudoreceitas.com/receita-de-omelete-de-forno-com-queijo-e-espinafre-1123.html",
+            "porque": "Opção de proteína rápida e econômica, sem fritura, que pode ser adaptada com outros vegetais.",
+            "tags": [
+              "ovos",
+              "vegetariano",
+              "rapido"
+            ],
+            "rende_sobra": false,
+            "ingredientes": [
+              "6 ovos grandes",
+              "1 xícara (chá) de leite",
+              "1/2 xícara (chá) de queijo minas padrão ralado",
+              "1 xícara (chá) de espinafre cozido e picado",
+              "1/4 cebola picada (opcional)",
+              "Sal e pimenta-do-reino a gosto",
+              "1 colher (sopa) de azeite para untar"
+            ],
+            "preparo": [
+              "1. Pré-aqueça o forno a 180°C e unte um refratário médio com azeite.",
+              "2. Em uma tigela, bata os ovos com o leite, sal e pimenta até ficar homogêneo.",
+              "3. Adicione o queijo ralado, o espinafre picado e a cebola (se usar). Misture delicadamente.",
+              "4. Despeje a mistura no refratário untado e leve ao forno por cerca de 20-25 minutos, ou até firmar e dourar levemente. Sirva imediatamente."
+            ],
+            "id": "omelete-de-forno-com-queijo-e-espinafre-478355"
+          },
+          {
+            "nome": "Mini Salada de Pepino com Iogurte",
             "curso": "entrada",
-            "tempo": "15 min",
-            "url": "https://www.panelinha.com.br/receita/Pate-de-frango-com-iogurte",
-            "porque": "Entrada leve e rápida de preparar, ótima com torradas ou pães, com boa proteína.",
+            "tempo": "10 min",
+            "url": "https://www.panelinha.com.br/receita/salada-de-pepino-com-iogurte-e-hortela",
+            "porque": "Leve, refrescante e super simples de montar, adicionando frescor à refeição.",
             "tags": [
-              "frango",
-              "rapido",
-              "entrada"
+              "salada",
+              "vegetariano",
+              "rapido"
             ],
             "rende_sobra": false,
             "ingredientes": [
-              "1 peito de frango cozido e desfiado (~200g)",
-              "1 pote (170g) de iogurte natural integral",
-              "1/4 xícara (chá) de maionese light (opcional)",
-              "1/4 cebola roxa picada finamente",
-              "2 colheres (sopa) de cheiro-verde picado",
-              "Sal e pimenta-do-reino a gosto"
+              "2 pepinos japoneses",
+              "1 pote de iogurte natural sem açúcar (170g)",
+              "1 colher (sopa) de azeite",
+              "20 folhas de hortelã fresca",
+              "Sal a gosto"
             ],
             "preparo": [
-              "Em uma tigela, coloque o frango cozido e desfiado.",
-              "Adicione o iogurte natural, a maionese (se usar), a cebola roxa picada e o cheiro-verde.",
-              "Misture bem todos os ingredientes até obter uma consistência homogênea.",
-              "Tempere com sal e pimenta-do-reino a gosto. Sirva com torradas ou pães."
+              "1. Lave e seque os pepinos. Corte as pontas e fatie-os em rodelas finas (pode usar um fatiador de legumes).",
+              "2. Lave e seque as folhas de hortelã. Pique grosseiramente.",
+              "3. Em uma tigela média, junte o pepino fatiado, as folhas de hortelã e o iogurte.",
+              "4. Tempere com o azeite e sal a gosto. Misture delicadamente e sirva a seguir."
             ],
-            "id": "pat-de-frango-f-cil-a2047d"
+            "id": "mini-salada-de-pepino-com-iogurte-7c5d00"
           },
           {
-            "nome": "Pudim de Caneca no Micro-ondas",
+            "nome": "Compota de Maçã com Canela",
             "curso": "sobremesa",
-            "tempo": "5 min",
-            "url": "https://tudogostoso.com.br/receita/114995-pudim-de-caneca-de-micro-ondas.html",
-            "porque": "Sobremesa individual, extremamente rápida e fácil de fazer no micro-ondas.",
+            "tempo": "45 min",
+            "url": "https://www.pingodoce.pt/receitas/compota-de-maca/",
+            "porque": "Uma sobremesa caseira e reconfortante, fácil de preparar com poucos ingredientes.",
             "tags": [
-              "rapido",
-              "sobremesa"
+              "doce",
+              "frutas",
+              "rapido"
             ],
-            "rende_sobra": false,
+            "rende_sobra": true,
             "ingredientes": [
-              "Para a calda: 2 colheres (sopa) de açúcar, 1 colher (sopa) de água.",
-              "Para o pudim: 1 ovo, 3 colheres (sopa) de leite condensado, 5 colheres (sopa) de leite integral."
+              "1 kg de maçã reineta (ou outra de sua preferência), descascada e picada",
+              "150 g de açúcar",
+              "1 colher (chá) de canela em pó",
+              "50 g de miolo de noz picado (opcional)",
+              "Suco de 1/2 limão (para evitar oxidação)"
             ],
             "preparo": [
-              "Calda: Em uma caneca, misture açúcar e água. Leve ao micro-ondas por 30 segundos, misture e volte por mais 30 segundos, até caramelizar. Reserve.",
-              "Pudim: Em outra caneca, bata o ovo. Adicione leite condensado e leite, misturando bem.",
-              "Despeje a mistura do pudim sobre a calda caramelizada.",
-              "Leve ao micro-ondas em potência alta por 1 minuto e 30 segundos a 2 minutos. Deixe esfriar e leve à geladeira."
+              "1. Descasque e corte as maçãs em pedaços. Regue com o suco de limão para não oxidarem.",
+              "2. Em um tacho, coloque a maçã, o açúcar e a canela em pó. Leve ao fogo médio e mexa até o açúcar dissolver.",
+              "3. Quando levantar fervura, abaixe o fogo e deixe cozinhar por 30-45 minutos, ou até as maçãs ficarem macias e a compota engrossar.",
+              "4. Retire do fogo, adicione o miolo de noz (se usar) e envolva bem. Coloque em frascos esterilizados e guarde."
             ],
-            "id": "pudim-de-caneca-no-micro-ondas-79565b"
+            "id": "compota-de-ma-com-canela-89fbfe"
           }
         ]
       },
@@ -431,155 +398,155 @@
         "dia": "Quarta",
         "pratos": [
           {
-            "nome": "Macarrão à Bolonhesa Rápido",
+            "nome": "Strogonoff de Carne (com iogurte natural)",
             "curso": "principal",
-            "tempo": "40 min",
-            "url": "https://www.panelinha.com.br/receita/Macarrao-a-bolonhesa",
-            "porque": "Prato clássico com carne moída (proteína), rápido de preparar e pode gerar sobras.",
-            "tags": [
-              "massa",
-              "carne_vermelha",
-              "rapido"
-            ],
-            "rende_sobra": true,
-            "ingredientes": [
-              "300g de macarrão (espaguete ou penne)",
-              "400g de carne moída (patinho ou acém)",
-              "1 cebola média picada",
-              "2 dentes de alho picados",
-              "1 lata de tomate pelado picado (ou 1 sachê de molho de tomate)",
-              "1/2 xícara (chá) de água ou caldo de carne",
-              "2 colheres (sopa) de azeite",
-              "Sal, pimenta-do-reino e cheiro-verde a gosto"
-            ],
-            "preparo": [
-              "Cozinhe o macarrão em água fervente com sal, escorra e reserve.",
-              "Em uma panela grande, aqueça o azeite e doure a cebola e o alho.",
-              "Adicione a carne moída e refogue até dourar. Acrescente o tomate pelado (ou molho), a água/caldo, sal e pimenta.",
-              "Deixe cozinhar em fogo baixo por 15-20 minutos, mexendo ocasionalmente.",
-              "Misture o molho à bolonhesa com o macarrão cozido e finalize com cheiro-verde picado."
-            ],
-            "id": "macarr-o-bolonhesa-r-pido-416e9e"
-          },
-          {
-            "nome": "Carne de Panela com Batata Doce",
-            "curso": "principal",
-            "tempo": "45 min",
-            "url": "https://www.panelinha.com.br/receita/Carne-de-panela-com-batata-doce",
-            "porque": "Carne vermelha que fica muito macia e saborosa na panela de pressão, com batata doce para equilíbrio.",
+            "tempo": "35 min",
+            "url": "https://www.receitasja.com.br/receita/strogonoff-de-carne-com-iogurte-natural/",
+            "porque": "Versão mais leve e saudável do clássico Strogonoff, com bastante proteína e preparo rápido.",
             "tags": [
               "carne_vermelha",
               "rapido",
-              "panela_pressao"
+              "molho"
             ],
             "rende_sobra": true,
             "ingredientes": [
-              "500g de carne bovina (paleta, acém ou músculo) em cubos",
-              "1 cebola grande picada",
-              "3 dentes de alho amassados",
-              "2 batatas doces médias em cubos grandes",
-              "1 lata de tomate pelado picado",
-              "1/2 xícara (chá) de vinho tinto seco (opcional)",
-              "2 xícaras (chá) de água ou caldo de carne",
-              "2 colheres (sopa) de azeite",
-              "Sal, pimenta-do-reino e louro a gosto",
-              "Cheiro-verde picado"
+              "500g de carne bovina (patinho ou filé mignon), em tiras",
+              "1 cebola média picada",
+              "2 dentes de alho amassados",
+              "1 colher (sopa) de azeite",
+              "1 xícara (chá) de cogumelos fatiados (champignon)",
+              "1/2 xícara (chá) de extrato de tomate",
+              "1 colher (sopa) de mostarda dijon",
+              "1 pote de iogurte natural integral (170g)",
+              "Sal e pimenta-do-reino a gosto",
+              "Salsinha picada para finalizar"
             ],
             "preparo": [
-              "Tempere a carne com sal, pimenta e alho. Em uma panela de pressão, aqueça o azeite e doure a carne. Retire e reserve.",
-              "Na mesma panela, refogue a cebola. Adicione o tomate pelado e o vinho (se usar).",
-              "Retorne a carne, adicione água/caldo e louro. Tampe e cozinhe por 30 minutos após pegar pressão.",
-              "Após a pressão sair, abra, adicione a batata doce e cozinhe sem pressão por mais 10-15 minutos. Finalize com cheiro-verde."
+              "1. Tempere a carne com sal e pimenta. Em uma panela, aqueça o azeite e doure a carne em porções, reserve.",
+              "2. Na mesma panela, refogue a cebola e o alho. Adicione os cogumelos e refogue por mais alguns minutos.",
+              "3. Junte o extrato de tomate e a mostarda, misture bem. Volte a carne para a panela.",
+              "4. Desligue o fogo e adicione o iogurte natural, misturando rapidamente para não talhar. Reaqueça sem ferver.",
+              "5. Finalize com salsinha picada e sirva com arroz branco."
             ],
-            "id": "carne-de-panela-com-batata-doce-5c79a7"
+            "id": "strogonoff-de-carne-com-iogurte-natural-543da6"
           },
           {
-            "nome": "Bife de Filé Mignon ao Molho Madeira Rápido",
+            "nome": "Filé de Peixe Assado com Ervas e Limão",
+            "curso": "principal",
+            "tempo": "30 min",
+            "url": "https://www.tudogostoso.com.br/receita/114175-file-de-peixe-assado-com-ervas-e-limao.html",
+            "porque": "A única opção de peixe da semana, preparada no forno de forma prática e saudável, rica em ômega-3.",
+            "tags": [
+              "peixe",
+              "forno",
+              "rapido"
+            ],
+            "rende_sobra": false,
+            "ingredientes": [
+              "4 filés de peixe branco (tilápia, merluza ou saint peter, ~150g cada)",
+              "Suco de 1 limão",
+              "2 colheres (sopa) de azeite de oliva",
+              "1 colher (sopa) de ervas finas desidratadas (alecrim, tomilho, orégano)",
+              "Sal e pimenta-do-reino a gosto",
+              "Rodelas de limão para decorar"
+            ],
+            "preparo": [
+              "1. Pré-aqueça o forno a 200°C. Unte uma assadeira com azeite.",
+              "2. Tempere os filés de peixe com suco de limão, azeite, ervas finas, sal e pimenta.",
+              "3. Disponha os filés na assadeira. Se desejar, coloque rodelas de limão por cima.",
+              "4. Leve ao forno por cerca de 15-20 minutos, ou até o peixe ficar cozido e levemente dourado. Sirva imediatamente."
+            ],
+            "id": "fil-de-peixe-assado-com-ervas-e-lim-o-117e5b"
+          },
+          {
+            "nome": "Risoto de Abobrinha e Queijo",
             "curso": "principal",
             "tempo": "25 min",
-            "url": "https://gshow.globo.com/receitas/maisvoce/file-mignon-ao-molho-madeira-rapido-5277879e4d3885141900000d.ghtml",
-            "porque": "Prato elegante e saboroso de carne vermelha, com preparo rápido na frigideira.",
+            "url": "https://www.saboresajinomoto.com.br/receita/risoto-de-abobrinha",
+            "porque": "Opção vegetariana saborosa e proteica com queijo, sendo um prato único e reconfortante.",
             "tags": [
-              "carne_vermelha",
-              "grelhado",
+              "vegetariano",
+              "massa",
               "rapido"
             ],
-            "rende_sobra": false,
+            "rende_sobra": true,
             "ingredientes": [
-              "2 bifes de filé mignon (~180g cada)",
-              "1 colher (sopa) de manteiga",
-              "1 colher (sopa) de azeite",
-              "1 cebola picada finamente",
-              "1 xícara (chá) de caldo de carne",
-              "1/2 xícara (chá) de vinho tinto seco (ou água)",
-              "1 colher (sopa) de amido de milho",
-              "1 colher (sopa) de molho inglês",
-              "Champignon fatiado (opcional)",
-              "Sal e pimenta-do-reino a gosto"
+              "1 colher (sopa) de óleo vegetal",
+              "3 colheres (sopa) de manteiga sem sal",
+              "1 cebola média picada",
+              "1 e meia xícara (chá) de arroz arbóreo cru",
+              "3 colheres (sopa) de vinho branco seco (opcional)",
+              "2 sachês de Tempero SAZÓN® Branco (ou sal e pimenta a gosto)",
+              "4 xícaras (chá) de água fervente (800 ml) ou caldo de legumes",
+              "2 abobrinhas médias raladas no ralo grosso",
+              "3 colheres (sopa) de queijo tipo parmesão ralado"
             ],
             "preparo": [
-              "Tempere os bifes com sal e pimenta. Aqueça manteiga e azeite em frigideira e doure os bifes por 2-3 minutos de cada lado. Retire e reserve.",
-              "Na mesma frigideira, refogue a cebola até ficar macia.",
-              "Dissolva o amido de milho no vinho (ou água). Adicione à frigideira junto com o caldo de carne, molho inglês e champignon (se usar). Mexa até o molho engrossar.",
-              "Retorne os bifes ao molho por 1 minuto para aquecer e sirva."
+              "1. Em uma panela média, aqueça o óleo e metade da manteiga em fogo alto. Junte a cebola e refogue por 3 minutos.",
+              "2. Adicione o arroz e refogue por 2 minutos. Acrescente o vinho (se usar) e cozinhe até evaporar.",
+              "3. Adicione o Tempero SAZÓN® (ou sal e pimenta). Junte a água fervente (ou caldo) aos poucos, mexendo sempre, até o arroz ficar al dente.",
+              "4. Quando o arroz estiver quase pronto, adicione a abobrinha ralada e misture. Retire do fogo.",
+              "5. Adicione a manteiga restante e o queijo parmesão ralado. Misture bem e sirva imediatamente."
             ],
-            "id": "bife-de-fil-mignon-ao-molho-madeira-r-pi-888d53"
+            "id": "risoto-de-abobrinha-e-queijo-eeb6d1"
           },
           {
-            "nome": "Mini Espetinhos Caprese",
+            "nome": "Palitos de Cenoura e Pepino com Patê de Grão de Bico (Homus)",
             "curso": "entrada",
-            "tempo": "10 min",
-            "url": "https://tudogostoso.com.br/receita/201416-espetinho-caprese.html",
-            "porque": "Entrada fresca, colorida e rápida de montar, sem cozimento, com ingredientes simples.",
+            "tempo": "20 min",
+            "url": "https://www.panelinha.com.br/receita/homus-a-jato",
+            "porque": "Entrada saudável, rica em fibras e proteína vegetal, com o homus que pode ser feito com antecedência.",
             "tags": [
               "vegetariano",
-              "rapido",
-              "salada"
-            ],
-            "rende_sobra": false,
-            "ingredientes": [
-              "10 tomates cereja",
-              "10 bolinhas de muçarela de búfala (ou cubos pequenos)",
-              "10 folhas de manjericão fresco",
-              "Azeite extra virgem",
-              "Sal e pimenta-do-reino a gosto",
-              "Palitos de espetinho pequenos"
-            ],
-            "preparo": [
-              "Lave bem os tomates cereja e as folhas de manjericão.",
-              "Em cada palito de espetinho, intercale um tomate cereja, uma folha de manjericão e uma bolinha de muçarela de búfala.",
-              "Arrume os espetinhos em um prato.",
-              "Regue com azeite, tempere com sal e pimenta-do-reino a gosto. Sirva."
-            ],
-            "id": "mini-espetinhos-caprese-1bb22a"
-          },
-          {
-            "nome": "Creme de Abacate com Chocolate",
-            "curso": "sobremesa",
-            "tempo": "10 min",
-            "url": "https://www.panelinha.com.br/receita/Mousse-de-chocolate-com-abacate",
-            "porque": "Sobremesa sem forno, rápida de fazer, saudável e com sabor marcante.",
-            "tags": [
-              "rapido",
-              "vegetariano",
+              "salada",
               "low_carb"
             ],
-            "rende_sobra": false,
+            "rende_sobra": true,
             "ingredientes": [
-              "1 abacate médio maduro",
-              "3 colheres (sopa) de cacau em pó (100%)",
-              "4 colheres (sopa) de adoçante culinário ou açúcar (a gosto)",
-              "1/4 xícara (chá) de leite (vegetal ou comum)",
-              "Essência de baunilha (opcional)"
+              "2 cenouras médias, em palitos",
+              "2 pepinos japoneses, em palitos",
+              "1 lata de grão-de-bico cozido (escorrido)",
+              "3 colheres (sopa) de tahine (pasta de gergelim)",
+              "1 dente de alho descascado",
+              "Caldo de 1/2 limão",
+              "Água filtrada (para dar ponto)",
+              "Sal a gosto",
+              "Azeite e páprica para servir (opcional)"
             ],
             "preparo": [
-              "Corte o abacate ao meio, retire o caroço e a polpa.",
-              "Coloque a polpa do abacate no liquidificador ou processador.",
-              "Adicione o cacau em pó, o adoçante/açúcar, o leite e a essência de baunilha (se usar).",
-              "Bata até obter um creme liso e homogêneo.",
-              "Distribua em taças e leve à geladeira por pelo menos 30 minutos antes de servir."
+              "1. Prepare os vegetais: lave e corte a cenoura e o pepino em palitos e reserve.",
+              "2. Para o homus: no liquidificador, junte o grão-de-bico escorrido, o tahine, o alho, o caldo de limão e o sal.",
+              "3. Comece a bater, adicionando a água filtrada aos poucos, até obter uma pasta lisa e cremosa.",
+              "4. Transfira o homus para uma tigela, regue com um fio de azeite e polvilhe com páprica (se usar).",
+              "5. Sirva o homus com os palitos de cenoura e pepino."
             ],
-            "id": "creme-de-abacate-com-chocolate-6dbb5e"
+            "id": "palitos-de-cenoura-e-pepino-com-pat-de-g-9fe824"
+          },
+          {
+            "nome": "Gelatina Cremosa de Morango",
+            "curso": "sobremesa",
+            "tempo": "15 min",
+            "url": "https://www.oetker.com.br/receitas/r/gelatina-cremosa-de-morango",
+            "porque": "Uma sobremesa leve, refrescante e super fácil de fazer com poucos ingredientes.",
+            "tags": [
+              "sobremesa",
+              "rapido",
+              "doce"
+            ],
+            "rende_sobra": true,
+            "ingredientes": [
+              "2 caixas de gelatina sabor morango",
+              "250ml de água quente",
+              "1 lata de leite condensado",
+              "1 caixa de creme de leite"
+            ],
+            "preparo": [
+              "1. Dissolva as duas caixas de gelatina sabor morango em 250ml de água quente e espere esfriar um pouco.",
+              "2. No liquidificador, bata a gelatina dissolvida, o leite condensado e o creme de leite até obter uma mistura homogênea.",
+              "3. Transfira a mistura para um refratário ou taças individuais.",
+              "4. Leve à geladeira por cerca de 4 horas, ou até firmar completamente."
+            ],
+            "id": "gelatina-cremosa-de-morango-980c79"
           }
         ]
       },
@@ -587,158 +554,122 @@
         "dia": "Quinta",
         "pratos": [
           {
-            "nome": "Frango com Legumes Assado",
+            "nome": "Escondidinho de Carne Seca com Purê de Mandioca",
             "curso": "principal",
             "tempo": "45 min",
-            "url": "https://www.panelinha.com.br/receita/Frango-assado-com-legumes",
-            "porque": "Uma refeição completa e saudável, com proteína (frango) e muitos vegetais, tudo feito no forno para praticidade.",
+            "url": "https://paladar.estadao.com.br/receitas/escondidinho-de-carne-seca,10000028247",
+            "porque": "Prato substancioso com carne vermelha, que rende bem para sobras e pode ser montado com antecedência.",
             "tags": [
-              "frango",
+              "carne_vermelha",
               "forno",
-              "equilibrado"
+              "nordestino"
             ],
             "rende_sobra": true,
             "ingredientes": [
-              "8 sobrecoxas de frango (sem pele)",
-              "2 batatas médias em cubos grandes",
-              "2 cenouras médias em rodelas grossas",
-              "1 abobrinha em cubos grandes",
-              "1 cebola em gomos",
-              "3 dentes de alho amassados",
-              "1/4 xícara (chá) de azeite",
-              "1 limão (suco)",
-              "Sal, pimenta-do-reino, páprica doce e alecrim fresco a gosto"
+              "600g de carne seca (já dessalgada e desfiada)",
+              "1,2 kg de mandioca descascada",
+              "100g de manteiga",
+              "1 cebola média picada",
+              "1 colher (chá) de alho picado",
+              "1 copo de requeijão cremoso (200g)",
+              "Salsa e cebolinha picadas a gosto",
+              "Queijo ralado para gratinar",
+              "Sal e pimenta-do-reino a gosto"
             ],
             "preparo": [
-              "Em uma tigela grande, tempere o frango com alho, suco de limão, azeite, sal, pimenta e páprica. Misture bem.",
-              "Adicione as batatas, cenouras, abobrinha e cebola à tigela. Misture tudo para que os legumes peguem o tempero.",
-              "Transfira o frango e os legumes para uma assadeira, espalhando uniformemente. Adicione ramos de alecrim por cima.",
-              "Leve ao forno pré-aquecido a 200°C por cerca de 40-45 minutos, virando os legumes na metade do tempo, ou até dourar."
+              "1. Cozinhe a mandioca em água e sal até ficar macia. Escorra e amasse-a ainda quente, formando um purê. Junte 50g de manteiga, metade da cebola, o alho e misture. Adicione metade do requeijão e tempere.",
+              "2. Refogue a carne seca desfiada com o restante da manteiga e cebola até dourar. Acrescente o restante do requeijão, salsinha e cebolinha. Tempere a gosto.",
+              "3. Em um refratário, faça uma camada de purê, distribua o recheio de carne seca e cubra com outra camada de purê.",
+              "4. Polvilhe com queijo ralado e leve ao forno pré-aquecido a 200°C para gratinar até ficar dourado."
             ],
-            "id": "frango-com-legumes-assado-16d315"
+            "id": "escondidinho-de-carne-seca-com-pur-de-ma-b30a3f"
           },
           {
-            "nome": "Bife à Parmegiana na Airfryer",
+            "nome": "Frango à Milanesa na Airfryer",
             "curso": "principal",
-            "tempo": "35 min",
-            "url": "https://tudogostoso.com.br/receita/201201-bife-a-parmegiana-na-airfryer.html",
-            "porque": "Clássico com carne vermelha, feito de forma mais saudável e rápida na Airfryer.",
+            "tempo": "25 min",
+            "url": "https://www.receiteria.com.br/receitas/frango-a-milanesa-na-air-fryer/",
+            "porque": "Uma alternativa saudável e crocante para o frango à milanesa, preparada de forma rápida na airfryer.",
             "tags": [
-              "carne_vermelha",
+              "frango",
               "airfryer",
               "rapido"
             ],
-            "rende_sobra": true,
+            "rende_sobra": false,
             "ingredientes": [
-              "2 bifes de coxão mole (ou patinho, ~150g cada)",
+              "4 filés de peito de frango (~150g cada)",
               "1 ovo batido",
-              "1/2 xícara (chá) de farinha de rosca",
-              "1/4 xícara (chá) de queijo parmesão ralado",
-              "1/2 xícara (chá) de molho de tomate pronto",
-              "100g de queijo muçarela fatiado",
+              "1 xícara (chá) de farinha de rosca (ou panko)",
+              "1/2 xícara (chá) de farinha de trigo",
               "Sal e pimenta-do-reino a gosto",
-              "Orégano a gosto"
+              "Azeite em spray (ou pincelar)"
             ],
             "preparo": [
-              "Tempere os bifes com sal e pimenta. Passe no ovo batido e depois na farinha de rosca misturada com parmesão.",
-              "Pré-aqueça a Airfryer a 180°C por 5 minutos.",
-              "Coloque os bifes na cesta da Airfryer e cozinhe por 15-20 minutos, virando na metade do tempo.",
-              "Retire os bifes, cubra cada um com molho de tomate e muçarela. Polvilhe orégano.",
-              "Retorne à Airfryer por mais 5 minutos, ou até o queijo derreter e gratinar. Sirva."
+              "1. Tempere os filés de frango com sal e pimenta-do-reino a gosto.",
+              "2. Prepare três pratos: um com farinha de trigo, outro com o ovo batido e o terceiro com a farinha de rosca (ou panko).",
+              "3. Passe cada filé primeiro na farinha de trigo, depois no ovo e, por último, na farinha de rosca, pressionando bem para empanar.",
+              "4. Pincele ou borrife cada filé empanado com um pouco de azeite. Coloque no cesto da airfryer pré-aquecida a 180°C, sem sobrepor.",
+              "5. Asse por 12 minutos, vire os filés e asse por mais 10-12 minutos, ou até ficarem dourados e crocantes."
             ],
-            "id": "bife-parmegiana-na-airfryer-a3c801"
+            "id": "frango-milanesa-na-airfryer-663c0f"
           },
           {
-            "nome": "Grão de Bico Refogado Proteico",
-            "curso": "principal",
-            "tempo": "25 min",
-            "url": "https://tudogostoso.com.br/receita/113143-grao-de-bico-refogado-com-espinafre.html",
-            "porque": "Opção vegetariana rica em proteína, fácil de preparar e versátil, ideal para um prato leve.",
-            "tags": [
-              "vegetariano",
-              "rapido",
-              "low_carb"
-            ],
-            "rende_sobra": true,
-            "ingredientes": [
-              "2 xícaras (chá) de grão de bico cozido",
-              "1 cebola picada",
-              "2 dentes de alho picados",
-              "1 tomate picado",
-              "1 maço de espinafre lavado e picado",
-              "2 colheres (sopa) de azeite",
-              "1/2 xícara (chá) de água ou caldo de legumes",
-              "Suco de 1/2 limão",
-              "Sal e pimenta-do-reino a gosto",
-              "Cheiro-verde picado"
-            ],
-            "preparo": [
-              "Em uma panela, aqueça o azeite e refogue a cebola e o alho.",
-              "Adicione o tomate picado e cozinhe por 3 minutos.",
-              "Acrescente o grão de bico cozido e a água/caldo de legumes. Deixe ferver por 5 minutos.",
-              "Adicione o espinafre picado e o suco de limão. Cozinhe por mais 3-5 minutos, ou até o espinafre murchar.",
-              "Tempere com sal, pimenta e finalize com cheiro-verde picado. Sirva quente."
-            ],
-            "id": "gr-o-de-bico-refogado-proteico-0e2cc1"
-          },
-          {
-            "nome": "Sopa Creme de Abóbora Rápida",
+            "nome": "Bruschettas de Tomate e Manjericão",
             "curso": "entrada",
-            "tempo": "30 min",
-            "url": "https://www.panelinha.com.br/receita/Sopa-creme-de-abobora",
-            "porque": "Entrada leve e nutritiva, ideal para dias mais frescos e de preparo rápido.",
+            "tempo": "15 min",
+            "url": "https://www.pingodoce.pt/receitas/bruschetta-de-tomate-e-manjericao-facil/",
+            "porque": "Entrada elegante e muito fácil de fazer, com pão torrado e ingredientes frescos.",
             "tags": [
-              "sopa",
+              "entrada",
               "vegetariano",
               "rapido"
             ],
-            "rende_sobra": true,
+            "rende_sobra": false,
             "ingredientes": [
-              "500g de abóbora cabotiá (ou japonesa) em cubos",
-              "1 cebola média picada",
-              "2 dentes de alho amassados",
-              "2 xícaras (chá) de caldo de legumes",
-              "1/2 xícara (chá) de creme de leite fresco (opcional)",
-              "2 colheres (sopa) de azeite",
-              "Sal e pimenta-do-reino a gosto",
-              "Sementes de abóbora torradas (para decorar)"
+              "1 pão italiano ou ciabatta, fatiado (~8 fatias)",
+              "300g de tomate maduro, picado em cubos pequenos",
+              "1 dente de alho (para esfregar no pão)",
+              "Azeite extravirgem a gosto",
+              "Manjericão fresco a gosto",
+              "Sal e pimenta-do-reino moída na hora a gosto"
             ],
             "preparo": [
-              "Em uma panela, aqueça o azeite e refogue a cebola e o alho.",
-              "Adicione a abóbora em cubos e refogue por alguns minutos.",
-              "Acrescente o caldo de legumes e cozinhe até a abóbora ficar bem macia (15-20 minutos).",
-              "Bata a sopa com um mixer ou liquidificador até obter um creme liso. Retorne à panela.",
-              "Se desejar, adicione o creme de leite, tempere com sal e pimenta. Aqueça sem ferver. Sirva com sementes de abóbora torradas."
+              "1. Corte o pão em fatias de cerca de 1 cm de espessura. Toste-as em uma chapa, frigideira ou no forno até ficarem crocantes.",
+              "2. Enquanto o pão ainda está quente, esfregue o dente de alho descascado em cada fatia.",
+              "3. Em uma tigela, misture o tomate picado, o manjericão fresco picado, um fio de azeite, sal e pimenta.",
+              "4. Distribua a mistura de tomate sobre as fatias de pão torradas e sirva imediatamente."
             ],
-            "id": "sopa-creme-de-ab-bora-r-pida-d01cff"
+            "id": "bruschettas-de-tomate-e-manjeric-o-b56174"
           },
           {
-            "nome": "Doce de Abóbora com Coco Cremoso",
+            "nome": "Panna Cotta com Calda de Frutas Vermelhas",
             "curso": "sobremesa",
-            "tempo": "30 min",
-            "url": "https://tudogostoso.com.br/receita/113144-doce-de-abobora-com-coco-cremoso.html",
-            "porque": "Sobremesa clássica brasileira, fácil de fazer e reconfortante para o dia a dia.",
+            "tempo": "20 min",
+            "url": "https://paladar.estadao.com.br/receitas/panna-cotta-com-calda-de-frutas-vermelhas,10000030588",
+            "porque": "Sobremesa sofisticada, mas com preparo simples que exige apenas geladeira, e a calda pode ser feita com frutas congeladas.",
             "tags": [
-              "rapido",
-              "vegetariano",
-              "sobremesa"
+              "sobremesa",
+              "doce",
+              "sem_forno"
             ],
             "rende_sobra": true,
             "ingredientes": [
-              "500g de abóbora (cabotiá ou pescoço) picada sem casca",
-              "1 xícara (chá) de açúcar",
-              "1/2 xícara (chá) de água",
-              "100g de coco ralado (fresco ou desidratado)",
-              "1 canela em pau",
-              "3 cravos-da-índia"
+              "500 ml de creme de leite fresco",
+              "100 ml de leite",
+              "100 g de açúcar",
+              "2 folhas de gelatina (ou 1 colher de sopa de gelatina em pó sem sabor)",
+              "1 colher (chá) de essência de baunilha",
+              "250 g de frutas vermelhas (morango, framboesa, mirtilo)",
+              "50 g de açúcar (para a calda)"
             ],
             "preparo": [
-              "Em uma panela de pressão, coloque a abóbora, açúcar, água, canela e cravos. Cozinhe por 5-7 minutos após pegar pressão.",
-              "Desligue e espere a pressão sair. Abra a panela, retire canela e cravos. Amasse a abóbora.",
-              "Adicione o coco ralado e misture bem.",
-              "Cozinhe em fogo baixo, mexendo sempre, por mais 5-10 minutos, até o doce ficar cremoso. Sirva morno ou gelado."
+              "1. Hidrate a gelatina em água fria. Em uma panela, aqueça o creme de leite fresco, o leite e 100g de açúcar até dissolver, sem ferver.",
+              "2. Retire do fogo, esprema a gelatina e adicione à mistura quente, mexendo até dissolver. Incorpore a essência de baunilha.",
+              "3. Despeje em ramequins ou taças individuais e leve à geladeira por no mínimo 4 horas, ou até firmar.",
+              "4. Para a calda: em uma panela, cozinhe as frutas vermelhas com 50g de açúcar em fogo baixo por uns 10 minutos, amassando algumas frutas. Deixe esfriar.",
+              "5. Desenforme a panna cotta (se desejar) e sirva com a calda de frutas vermelhas."
             ],
-            "id": "doce-de-ab-bora-com-coco-cremoso-22e8f8"
+            "id": "panna-cotta-com-calda-de-frutas-vermelha-00b104"
           }
         ]
       },
@@ -746,147 +677,124 @@
         "dia": "Sexta",
         "pratos": [
           {
-            "nome": "Bacalhau Cremoso de Forno (Rápido)",
+            "nome": "Hambúrguer Caseiro no Forno com Batata Doce Assada",
             "curso": "principal",
             "tempo": "40 min",
-            "url": "https://tudogostoso.com.br/receita/113145-bacalhau-cremoso-de-forno-rapido.html",
-            "porque": "Única opção de peixe da semana, assado é um método saudável e prático, rico em proteínas.",
+            "url": "https://www.tudogostoso.com.br/receita/201476-hamburguer-caseiro-assado.html",
+            "porque": "Uma versão saudável de 'fast food', com hambúrguer assado e batata doce como carboidrato complexo.",
             "tags": [
-              "peixe",
+              "carne_vermelha",
               "forno",
-              "rapido"
+              "low_carb"
             ],
-            "rende_sobra": true,
+            "rende_sobra": false,
             "ingredientes": [
-              "400g de bacalhau dessalgado e desfiado",
-              "3 batatas médias cozidas e amassadas",
-              "1 cebola grande picada",
-              "2 dentes de alho picados",
-              "1/2 xícara (chá) de azeite",
-              "1 lata de creme de leite",
-              "1/2 xícara (chá) de leite",
-              "100g de queijo parmesão ralado",
-              "Azeitonas pretas fatiadas (opcional)",
-              "Cheiro-verde picado, sal e pimenta-do-reino a gosto"
+              "500g de carne moída (patinho)",
+              "1 ovo",
+              "1/2 cebola pequena ralada",
+              "1 colher (sopa) de farinha de rosca (opcional)",
+              "Sal e pimenta-do-reino a gosto",
+              "2 batatas doces médias, em rodelas ou palitos",
+              "2 colheres (sopa) de azeite de oliva",
+              "1 colher (chá) de páprica defumada",
+              "Pães de hambúrguer integrais",
+              "Queijo, alface, tomate para montar"
             ],
             "preparo": [
-              "Em uma panela, aqueça o azeite e refogue a cebola e o alho. Adicione o bacalhau desfiado e refogue por 5 minutos.",
-              "Em um refratário, misture o purê de batatas com o leite e 1/4 do parmesão. Espalhe metade no fundo.",
-              "Misture o creme de leite ao refogado de bacalhau e adicione azeitonas e cheiro-verde. Espalhe sobre o purê.",
-              "Cubra com o restante do purê e finalize com o queijo parmesão restante.",
-              "Leve ao forno pré-aquecido a 180°C por cerca de 20-25 minutos, ou até gratinar."
+              "1. Pré-aqueça o forno a 200°C. Em uma tigela, misture a carne moída, o ovo, a cebola ralada, a farinha de rosca (se usar), sal e pimenta. Modele 4 hambúrgueres.",
+              "2. Em outra tigela, tempere as batatas doces com azeite, páprica, sal e pimenta.",
+              "3. Em uma assadeira, disponha os hambúrgueres e as batatas. Asse por 20 minutos, virando na metade do tempo, ou até dourar e cozinhar a carne.",
+              "4. Monte os hambúrgueres com pão, queijo, alface e tomate. Sirva as batatas doces assadas ao lado."
             ],
-            "id": "bacalhau-cremoso-de-forno-r-pido-7d9cc5"
+            "id": "hamb-rguer-caseiro-no-forno-com-batata-d-813558"
           },
           {
-            "nome": "Maminha Grelhada com Molho Chimichurri",
+            "nome": "Wrap de Carne com Vegetais",
             "curso": "principal",
             "tempo": "30 min",
-            "url": "https://www.panelinha.com.br/receita/Maminha-grelhada-com-chimichurri",
-            "porque": "Carne vermelha nobre, grelhada para um preparo rápido e suculento, com molho saboroso.",
+            "url": "https://www.tudoreceitas.com/receita-de-wrap-de-carne-e-vegetais-1025.html",
+            "porque": "Refeição rápida e versátil, com carne preparada em minutos e vegetais frescos.",
             "tags": [
               "carne_vermelha",
-              "grelhado",
-              "rapido"
-            ],
-            "rende_sobra": true,
-            "ingredientes": [
-              "500g de maminha",
-              "2 colheres (sopa) de azeite",
-              "Sal grosso a gosto.",
-              "Para o chimichurri: 1/4 xícara (chá) de salsinha picada, 2 dentes de alho picados, 1 colher (chá) de orégano seco, 1/2 colher (chá) de pimenta calabresa (opcional), 1/4 xícara (chá) de azeite extra virgem, 2 colheres (sopa) de vinagre de vinho tinto, sal a gosto."
-            ],
-            "preparo": [
-              "Prepare o chimichurri: Em uma tigela, misture salsinha, alho, orégano, pimenta (se usar), azeite, vinagre e sal. Deixe descansar.",
-              "Tempere a maminha com sal grosso.",
-              "Aqueça uma chapa ou frigideira grill em fogo alto com um fio de azeite.",
-              "Grelhe a maminha por cerca de 5-7 minutos de cada lado. Retire e deixe descansar por 5 minutos antes de fatiar. Sirva com o chimichurri."
-            ],
-            "id": "maminha-grelhada-com-molho-chimichurri-593c90"
-          },
-          {
-            "nome": "Bife de Contrafilé com Alho e Ervas na Frigideira",
-            "curso": "principal",
-            "tempo": "20 min",
-            "url": "https://tudogostoso.com.br/receita/113146-bife-de-contrafile-com-alho-e-ervas.html",
-            "porque": "Carne vermelha grelhada na frigideira, rápida e com um toque aromático de alho e ervas.",
-            "tags": [
-              "carne_vermelha",
-              "rapido",
-              "grelhado"
-            ],
-            "rende_sobra": false,
-            "ingredientes": [
-              "2 bifes de contrafilé (~180g cada)",
-              "3 dentes de alho laminados",
-              "2 colheres (sopa) de azeite",
-              "1 colher (sopa) de manteiga",
-              "Ramos de tomilho ou alecrim fresco (opcional)",
-              "Sal e pimenta-do-reino a gosto"
-            ],
-            "preparo": [
-              "Tempere os bifes com sal e pimenta-do-reino dos dois lados.",
-              "Em uma frigideira, aqueça o azeite e a manteiga em fogo médio-alto.",
-              "Adicione os bifes e os ramos de ervas (se usar). Doure por 3-4 minutos de cada lado.",
-              "Nos últimos minutos, adicione o alho laminado na frigideira e deixe dourar levemente, regando os bifes. Sirva."
-            ],
-            "id": "bife-de-contrafil-com-alho-e-ervas-na-fr-182e23"
-          },
-          {
-            "nome": "Bruschetta de Queijo Coalho com Geleia de Pimenta",
-            "curso": "entrada",
-            "tempo": "20 min",
-            "url": "https://www.panelinha.com.br/receita/Bruschetta-de-queijo-coalho-e-geleia-de-pimenta",
-            "porque": "Opção de petisco diferente, fácil de fazer e mais saudável por ser assado.",
-            "tags": [
-              "vegetariano",
-              "rapido",
-              "entrada"
-            ],
-            "rende_sobra": false,
-            "ingredientes": [
-              "1 pão italiano ou baguete",
-              "200g de queijo coalho em fatias finas",
-              "4 colheres (sopa) de geleia de pimenta",
-              "Azeite extra virgem",
-              "Orégano seco (opcional)"
-            ],
-            "preparo": [
-              "Corte o pão em fatias e disponha em uma assadeira. Regue com um fio de azeite.",
-              "Leve ao forno pré-aquecido a 180°C por cerca de 5 minutos para tostar levemente.",
-              "Retire do forno, coloque uma fatia de queijo coalho sobre cada pão. Retorne ao forno por mais 5-7 minutos, ou até o queijo derreter.",
-              "Retire do forno, coloque uma colher (chá) de geleia de pimenta sobre cada bruschetta e polvilhe orégano. Sirva."
-            ],
-            "id": "bruschetta-de-queijo-coalho-com-geleia-d-0eac2d"
-          },
-          {
-            "nome": "Maçã Assada com Canela e Aveia",
-            "curso": "sobremesa",
-            "tempo": "25 min",
-            "url": "https://tudogostoso.com.br/receita/113147-maca-assada-com-canela-e-aveia.html",
-            "porque": "Sobremesa leve, saudável e rápida de preparar, ideal para um doce sem culpa.",
-            "tags": [
-              "vegetariano",
               "rapido",
               "low_carb"
             ],
             "rende_sobra": false,
             "ingredientes": [
-              "2 maçãs médias (Fuji ou Gala)",
-              "2 colheres (sopa) de aveia em flocos",
-              "1 colher (sopa) de açúcar mascavo (ou adoçante culinário)",
-              "1 colher (chá) de canela em pó",
-              "1 colher (sopa) de manteiga (ou azeite)",
-              "1/4 xícara (chá) de água"
+              "4 tortillas integrais grandes",
+              "300g de carne bovina em tiras (alcatra ou patinho)",
+              "1/2 cebola em rodelas finas",
+              "1/2 pimentão verde em tiras",
+              "1/2 pimentão vermelho em tiras",
+              "Folhas de alface crespa",
+              "2 colheres (sopa) de azeite",
+              "Sal e pimenta-do-reino a gosto",
+              "Molho de iogurte (iogurte natural, limão, sal, pimenta, hortelã picada)"
             ],
             "preparo": [
-              "Lave as maçãs, retire o miolo com as sementes (sem cortar até o final).",
-              "Em uma tigela pequena, misture a aveia, o açúcar mascavo e a canela.",
-              "Recheie o centro de cada maçã com essa mistura. Coloque um pedacinho de manteiga (ou azeite) sobre o recheio.",
-              "Disponha as maçãs em um refratário pequeno, adicione a água no fundo.",
-              "Leve ao forno pré-aquecido a 180°C por cerca de 20-25 minutos, ou até as maçãs ficarem macias. Sirva morna."
+              "1. Tempere as tiras de carne com sal e pimenta. Em uma frigideira, aqueça o azeite e doure a carne rapidamente.",
+              "2. Adicione a cebola e os pimentões à frigideira e refogue por 5 minutos, até ficarem macios.",
+              "3. Prepare o molho de iogurte misturando o iogurte natural, suco de limão, sal, pimenta e hortelã picada.",
+              "4. Aqueça as tortillas rapidamente em uma frigideira seca. Distribua as folhas de alface, a carne com vegetais e o molho de iogurte em cada tortilla. Enrole e sirva."
             ],
-            "id": "ma-assada-com-canela-e-aveia-39788d"
+            "id": "wrap-de-carne-com-vegetais-5be3ae"
+          },
+          {
+            "nome": "Chips de Batata Doce na Airfryer com Molho de Mostarda e Mel",
+            "curso": "entrada",
+            "tempo": "25 min",
+            "url": "https://www.tudogostoso.com.br/receita/201297-chips-de-batata-doce-na-airfryer.html",
+            "porque": "Alternativa saudável e sem fritura para chips, crocante na airfryer e com molho fácil de fazer.",
+            "tags": [
+              "airfryer",
+              "vegetariano",
+              "entrada"
+            ],
+            "rende_sobra": false,
+            "ingredientes": [
+              "2 batatas doces médias",
+              "1 colher (sopa) de azeite de oliva",
+              "Sal e pimenta-do-reino a gosto",
+              "Para o molho: 1/2 pote de iogurte natural (85g)",
+              "1 colher (sopa) de mostarda dijon",
+              "1 colher (chá) de mel",
+              "Sal e pimenta a gosto"
+            ],
+            "preparo": [
+              "1. Lave e descasque as batatas doces. Fatie-as bem finas com um mandoline ou faca. Seque bem as fatias.",
+              "2. Em uma tigela, misture as fatias de batata doce com azeite, sal e pimenta.",
+              "3. Pré-aqueça a airfryer a 180°C. Disponha as fatias de batata doce no cesto, sem sobrepor.",
+              "4. Asse por 15-20 minutos, virando na metade do tempo, até ficarem crocantes. Faça em levas se necessário.",
+              "5. Para o molho, misture o iogurte, a mostarda, o mel, sal e pimenta. Sirva os chips com o molho."
+            ],
+            "id": "chips-de-batata-doce-na-airfryer-com-mol-acfedb"
+          },
+          {
+            "nome": "Brownie de Caneca de Chocolate",
+            "curso": "sobremesa",
+            "tempo": "10 min",
+            "url": "https://paladar.estadao.com.br/receitas/brownie-de-caneca,10000030501",
+            "porque": "Uma sobremesa individual e rápida, perfeita para um desejo de chocolate sem muito trabalho.",
+            "tags": [
+              "doce",
+              "microondas",
+              "rapido"
+            ],
+            "rende_sobra": false,
+            "ingredientes": [
+              "2 colheres (sopa) de farinha de trigo",
+              "2 colheres (sopa) de açúcar",
+              "2 colheres (sopa) de chocolate em pó 50% cacau",
+              "1,5 colher (sopa) de manteiga derretida",
+              "2 colheres (sopa) de leite"
+            ],
+            "preparo": [
+              "1. Em uma caneca própria para micro-ondas, misture a farinha de trigo, o açúcar e o chocolate em pó.",
+              "2. Acrescente a manteiga derretida e o leite, misturando bem até obter uma massa homogênea.",
+              "3. Leve a caneca ao micro-ondas em potência alta por cerca de 1 minuto (o tempo pode variar conforme a potência do aparelho).",
+              "4. Sirva imediatamente, pode acompanhar com sorvete ou frutas vermelhas (opcional)."
+            ],
+            "id": "brownie-de-caneca-de-chocolate-f9a2d1"
           }
         ]
       },
@@ -894,162 +802,117 @@
         "dia": "Sábado",
         "pratos": [
           {
-            "nome": "Feijoada Light",
+            "nome": "Churrasco de Picanha na Grelha (ou Forno)",
             "curso": "principal",
             "tempo": "45 min",
-            "url": "https://www.panelinha.com.br/receita/Feijoada-light",
-            "porque": "Versão mais leve de um clássico, rica em proteínas e pode render muitas sobras.",
+            "url": "https://www.tudogostoso.com.br/receita/201298-picanha-na-grelha-simples.html",
+            "porque": "Picanha é a carne vermelha preferida, especial para o fim de semana e pode ser feita na grelha ou assada no forno.",
             "tags": [
               "carne_vermelha",
-              "porco",
-              "substancioso"
+              "grelhado",
+              "churrasco"
             ],
             "rende_sobra": true,
             "ingredientes": [
-              "2 xícaras (chá) de feijão preto cozido",
-              "200g de lombo suíno defumado em cubos",
-              "150g de carne seca magra cozida e desfiada",
-              "1 linguiça calabresa defumada light em rodelas",
-              "1 cebola picada",
-              "3 dentes de alho amassados",
-              "2 colheres (sopa) de azeite",
-              "1 folha de louro",
-              "1 laranja (para servir)",
-              "Couve refogada e arroz branco (para acompanhar)"
+              "1 peça de picanha (~1kg)",
+              "Sal grosso a gosto",
+              "Acompanhamentos: arroz branco, farofa, vinagrete (a gosto)"
             ],
             "preparo": [
-              "Em uma panela grande, aqueça o azeite e refogue a cebola e o alho.",
-              "Adicione o lombo defumado, a carne seca desfiada e a linguiça calabresa. Refogue por cerca de 10 minutos.",
-              "Acrescente o feijão preto cozido (com caldo) e a folha de louro. Cozinhe em fogo baixo por 20 minutos.",
-              "Se necessário, adicione um pouco de água para ajustar a consistência. Tempere com sal a gosto.",
-              "Sirva a feijoada quente, acompanhada de arroz, couve refogada e fatias de laranja."
+              "1. Retire a picanha da geladeira 30 minutos antes para atingir a temperatura ambiente.",
+              "2. Faça cortes superficiais na capa de gordura da picanha, formando losangos, sem atingir a carne.",
+              "3. Tempere a picanha com sal grosso, cobrindo bem todos os lados, incluindo a gordura.",
+              "4. Leve à grelha em fogo médio-alto (ou forno pré-aquecido a 200°C) com a gordura para baixo por 15-20 minutos. Vire e asse por mais 15-20 minutos, ou até o ponto desejado.",
+              "5. Deixe a carne descansar por 5 minutos antes de fatiar contra a fibra. Sirva com os acompanhamentos."
             ],
-            "id": "feijoada-light-eb6c05"
+            "id": "churrasco-de-picanha-na-grelha-ou-forno-007bd4"
           },
           {
-            "nome": "Frango Recheado no Forno",
+            "nome": "Frango Assado com Cerveja",
             "curso": "principal",
-            "tempo": "40 min",
-            "url": "https://gshow.globo.com/receitas/maisvoce/frango-recheado-com-requeijao-e-queijo-5277879e4d38851419000021.ghtml",
-            "porque": "Frango com recheio saboroso, assado no forno para um jantar mais elaborado, mas sem muita complicação.",
+            "tempo": "30 min",
+            "url": "https://anamariabraga.globo.com/receitas/frango-com-cerveja/",
+            "porque": "Um frango assado que fica suculento e saboroso, ideal para o fim de semana e rende bastante.",
             "tags": [
               "frango",
               "forno",
-              "equilibrado"
+              "assado"
             ],
             "rende_sobra": true,
             "ingredientes": [
-              "6 sobrecoxas de frango desossadas",
-              "1/2 pote de requeijão cremoso",
-              "100g de queijo muçarela ralado",
-              "2 dentes de alho amassados",
-              "Suco de 1/2 limão",
-              "2 colheres (sopa) de azeite",
-              "Sal, pimenta-do-reino e orégano a gosto",
-              "Cheiro-verde picado"
+              "1 kg de sobrecoxa de frango (cerca de 6 unidades)",
+              "1 dente de alho amassado",
+              "4 colheres (sopa) de salsa picada",
+              "1 cebola média picada",
+              "1 colher (chá) de páprica doce",
+              "1 xícara (chá) de cerveja clara",
+              "Sal e pimenta a gosto",
+              "Maionese para envolver as sobrecoxas",
+              "1 xícara (chá) de farinha de rosca",
+              "1 xícara (chá) de queijo parmesão ralado",
+              "6 fatias de bacon (opcional)"
             ],
             "preparo": [
-              "Tempere as sobrecoxas de frango com alho, suco de limão, sal e pimenta-do-reino.",
-              "Em uma tigela, misture o requeijão cremoso, o queijo muçarela ralado e o cheiro-verde.",
-              "Abra cada sobrecoxa e coloque uma porção do recheio no centro. Enrole e prenda com um palito (se necessário).",
-              "Disponha os frangos recheados em uma assadeira untada com azeite. Regue com azeite e polvilhe orégano.",
-              "Leve ao forno pré-aquecido a 200°C por cerca de 30-35 minutos, ou até dourar e o frango estar cozido."
+              "1. Em uma tigela, tempere as sobrecoxas com alho, salsa, cebola, páprica, cerveja, sal e pimenta. Deixe marinar por 30 minutos.",
+              "2. Pré-aqueça o forno a 180°C. Retire o frango da marinada e envolva-o em maionese.",
+              "3. Em outro prato, misture a farinha de rosca e o queijo parmesão. Empane o frango nesta mistura.",
+              "4. Disponha o frango em uma assadeira untada. Cubra cada pedaço com uma fatia de bacon (se usar).",
+              "5. Asse por cerca de 40-50 minutos, ou até o frango ficar dourado e cozido, virando na metade do tempo."
             ],
-            "id": "frango-recheado-no-forno-2f887f"
+            "id": "frango-assado-com-cerveja-cd170a"
           },
           {
-            "nome": "Lasanha à Bolonhesa Rápida",
-            "curso": "principal",
-            "tempo": "45 min",
-            "url": "https://tudogostoso.com.br/receita/113148-lasanha-a-bolonhesa-rapida.html",
-            "porque": "Clássico reconfortante com carne vermelha, pode ser feita em menor quantidade para dois e rende sobras.",
-            "tags": [
-              "massa",
-              "carne_vermelha",
-              "forno"
-            ],
-            "rende_sobra": true,
-            "ingredientes": [
-              "1 pacote de massa para lasanha pré-cozida (500g)",
-              "500g de carne moída",
-              "1 cebola picada",
-              "2 dentes de alho picados",
-              "1 lata de molho de tomate (340g)",
-              "1/2 xícara (chá) de água",
-              "200g de presunto fatiado",
-              "300g de queijo muçarela fatiado",
-              "1 pote de requeijão cremoso (200g)",
-              "2 colheres (sopa) de azeite",
-              "Sal, pimenta-do-reino e orégano a gosto"
-            ],
-            "preparo": [
-              "Prepare o molho à bolonhesa: Refogue cebola e alho no azeite. Adicione a carne moída e doure. Acrescente o molho de tomate, água, sal e pimenta. Cozinhe por 10 minutos.",
-              "Montagem: Em um refratário, espalhe uma camada fina de molho. Cubra com massa, presunto, muçarela, requeijão e mais molho.",
-              "Repita as camadas até terminar os ingredientes, finalizando com molho e muçarela. Polvilhe orégano.",
-              "Leve ao forno pré-aquecido a 180°C por cerca de 25-30 minutos, ou até gratinar. Deixe descansar por 5 minutos."
-            ],
-            "id": "lasanha-bolonhesa-r-pida-56455d"
-          },
-          {
-            "nome": "Tortinhas Salgadas de Massa Folhada com Recheio de Frango",
+            "nome": "Linguiça Toscana Assada com Cebola",
             "curso": "entrada",
-            "tempo": "35 min",
-            "url": "https://tudogostoso.com.br/receita/113149-tortinhas-de-massa-folhada-com-recheio-de-frango.html",
-            "porque": "Petisco fácil de fazer e mais saudável por ser assado, com recheio saboroso de frango.",
+            "tempo": "30 min",
+            "url": "https://www.auroraalimentos.com.br/receitas/linguica-toscana-assada-com-batata-cebola-e-ervas-frescas",
+            "porque": "Entrada saborosa e fácil de preparar no forno ou na airfryer, combinando com refeições de fim de semana.",
             "tags": [
-              "frango",
+              "porco",
               "forno",
               "rapido"
             ],
             "rende_sobra": false,
             "ingredientes": [
-              "1 rolo de massa folhada pronta (300g)",
-              "1 peito de frango cozido e desfiado (~200g)",
-              "1/2 cebola picada",
-              "1 dente de alho picado",
-              "1 colher (sopa) de azeite",
-              "1/2 xícara (chá) de molho de tomate",
-              "2 colheres (sopa) de requeijão cremoso",
-              "Cheiro-verde picado",
-              "1 gema para pincelar",
-              "Sal e pimenta-do-reino a gosto"
+              "4 gomos de linguiça toscana",
+              "2 cebolas médias, em rodelas grossas",
+              "1 colher (sopa) de azeite de oliva",
+              "Sal e pimenta-do-reino a gosto",
+              "Ervas frescas picadas (alecrim, tomilho, opcional)"
             ],
             "preparo": [
-              "Prepare o recheio: Refogue cebola e alho no azeite. Adicione o frango desfiado, molho de tomate, requeijão, cheiro-verde, sal e pimenta. Cozinhe por 5 minutos.",
-              "Abra a massa folhada e corte em círculos. Coloque metade dos círculos em forminhas de cupcake ou assadeira.",
-              "Distribua o recheio de frango sobre os círculos. Cubra com os círculos restantes, selando as bordas.",
-              "Pincele a gema batida sobre as tortinhas.",
-              "Leve ao forno pré-aquecido a 180°C por cerca de 20-25 minutos, ou até dourar e crescer."
+              "1. Pré-aqueça o forno a 200°C. Em uma assadeira, disponha as rodelas de cebola.",
+              "2. Sobre as cebolas, coloque os gomos de linguiça. Regue com azeite, sal e pimenta.",
+              "3. Se usar, polvilhe com ervas frescas. Leve ao forno por cerca de 25-30 minutos, ou até a linguiça dourar e as cebolas ficarem macias.",
+              "4. Vire a linguiça na metade do tempo para dourar por igual. Sirva quente."
             ],
-            "id": "tortinhas-salgadas-de-massa-folhada-com--27468f"
+            "id": "lingui-a-toscana-assada-com-cebola-a83f72"
           },
           {
-            "nome": "Creme de Abacaxi com Coco",
+            "nome": "Banana Caramelizada com Sorvete",
             "curso": "sobremesa",
-            "tempo": "25 min",
-            "url": "https://tudogostoso.com.br/receita/113150-creme-de-abacaxi-com-coco.html",
-            "porque": "Sobremesa cremosa e refrescante, fácil de preparar e sem necessidade de forno.",
+            "tempo": "15 min",
+            "url": "https://www.supermarket.com.br/dicas-receitas/banana-caramelizada-com-sorvete",
+            "porque": "Uma sobremesa rápida e deliciosa, combinando o doce da banana caramelizada com a refrescância do sorvete.",
             "tags": [
-              "rapido",
-              "vegetariano",
-              "sobremesa"
+              "doce",
+              "frutas",
+              "rapido"
             ],
             "rende_sobra": false,
             "ingredientes": [
-              "1 abacaxi médio picado",
-              "1 lata de leite condensado",
-              "1 lata de creme de leite",
-              "100g de coco ralado (fresco ou desidratado)",
-              "1 pacote de gelatina sem sabor (12g)",
-              "5 colheres (sopa) de água"
+              "2 xícaras de açúcar",
+              "1 xícara de água fervente",
+              "5 bananas nanicas descascadas e fatiadas ao meio",
+              "Sorvete de creme a gosto"
             ],
             "preparo": [
-              "Em uma panela, cozinhe o abacaxi picado com 1/4 xícara de água por 10 minutos. Deixe esfriar.",
-              "Hidrate a gelatina sem sabor nas 5 colheres de água e leve ao micro-ondas por 15 segundos para dissolver.",
-              "No liquidificador, bata o abacaxi cozido e frio (com o caldo), leite condensado, creme de leite e coco ralado.",
-              "Adicione a gelatina dissolvida e bata novamente. Despeje o creme em um refratário e leve à geladeira por 3 horas, ou até firmar."
+              "1. Em uma panela, coloque o açúcar e leve ao fogo baixo, mexendo ocasionalmente até derreter completamente e formar um caramelo dourado.",
+              "2. Com muito cuidado, adicione a água fervente aos poucos ao caramelo, mexendo bem até a calda ficar lisa e sem grumos.",
+              "3. Adicione as bananas fatiadas na calda e deixe cozinhar por cerca de 3 minutos, virando as bananas uma vez.",
+              "4. Retire do fogo e sirva as bananas caramelizadas quentes ou mornas, acompanhadas de uma bola de sorvete de creme."
             ],
-            "id": "creme-de-abacaxi-com-coco-8b586d"
+            "id": "banana-caramelizada-com-sorvete-a032a0"
           }
         ]
       },
@@ -1057,242 +920,218 @@
         "dia": "Domingo",
         "pratos": [
           {
-            "nome": "Costelinha de Porco na Airfryer",
+            "nome": "Lagarto Recheado no Forno",
             "curso": "principal",
             "tempo": "45 min",
-            "url": "https://tudogostoso.com.br/receita/181216-costelinha-suina-na-airfryer.html",
-            "porque": "Carne vermelha suína saborosa e suculenta, feita de forma rápida e prática na Airfryer.",
+            "url": "https://www.tvgazeta.com.br/receitas/lagarto-recheado-delicioso-e-facil/",
+            "porque": "Prato de carne vermelha mais elaborado para o domingo, mas que pode ser preparado com antecedência e rende muitas porções.",
+            "tags": [
+              "carne_vermelha",
+              "forno",
+              "assado"
+            ],
+            "rende_sobra": true,
+            "ingredientes": [
+              "1 peça de lagarto (~1,5 kg)",
+              "1 gomo de linguiça calabresa (para rechear)",
+              "2 colheres (sopa) de manteiga",
+              "3 cebolas médias, em rodelas",
+              "3 colheres (sopa) de alho triturado",
+              "1 copo (americano) de vinho branco seco (ou caldo de carne)",
+              "Alecrim, manjericão e cebolinha picados a gosto",
+              "Sal e pimenta-do-reino a gosto",
+              "300g de batata bolinha (opcional)"
+            ],
+            "preparo": [
+              "1. Com uma faca, faça um buraco no meio do lagarto no sentido do comprimento. Recheie com a linguiça calabresa.",
+              "2. Em um bowl, misture a manteiga, sal, cebolinha, alho e temperos, formando uma pasta. Espalhe no lagarto e regue com vinho branco (ou caldo).",
+              "3. Em uma assadeira, faça uma cama com rodelas de cebola e as batatas (se usar), tempere. Acomode o lagarto por cima.",
+              "4. Cubra com papel alumínio e leve ao forno pré-aquecido a 220°C por 2 horas, regando ocasionalmente com o molho da assadeira.",
+              "5. Retire o papel alumínio e deixe dourar por mais 20-30 minutos. Sirva fatiado com o molho."
+            ],
+            "id": "lagarto-recheado-no-forno-cf0182"
+          },
+          {
+            "nome": "Costelinha de Porco Assada com Barbecue no Forno",
+            "curso": "principal",
+            "tempo": "30 min",
+            "url": "https://www.tudoreceitas.com/receita-de-costelinha-de-porco-assada-com-molho-barbecue-10776.html",
+            "porque": "Um prato saboroso e reconfortante para o domingo, com preparo simples e cozimento no forno.",
             "tags": [
               "porco",
-              "airfryer",
-              "substancioso"
-            ],
-            "rende_sobra": true,
-            "ingredientes": [
-              "800g de costelinha de porco em pedaços",
-              "2 dentes de alho amassados",
-              "1 colher (sopa) de páprica doce",
-              "1 colher (chá) de cominho",
-              "1 colher (sopa) de azeite",
-              "2 colheres (sopa) de molho barbecue pronto",
-              "Sal e pimenta-do-reino a gosto"
-            ],
-            "preparo": [
-              "Tempere a costelinha com alho, páprica, cominho, azeite, sal e pimenta-do-reino. Deixe marinar por 15 minutos.",
-              "Pré-aqueça a Airfryer a 180°C por 5 minutos.",
-              "Coloque as costelinhas na cesta da Airfryer e cozinhe por 30-35 minutos, virando na metade do tempo.",
-              "Nos últimos 5-10 minutos, pincele o molho barbecue sobre as costelinhas e retorne à Airfryer para caramelizar. Sirva."
-            ],
-            "id": "costelinha-de-porco-na-airfryer-d704c4"
-          },
-          {
-            "nome": "Filé de Frango Grelhado com Molho de Mostarda e Mel",
-            "curso": "principal",
-            "tempo": "25 min",
-            "url": "https://www.panelinha.com.br/receita/File-de-frango-com-molho-de-mostarda-e-mel",
-            "porque": "Refeição rápida e equilibrada, com proteína de frango e molho agridoce delicioso.",
-            "tags": [
-              "frango",
-              "grelhado",
-              "rapido"
-            ],
-            "rende_sobra": false,
-            "ingredientes": [
-              "2 filés de peito de frango (~150g cada)",
-              "1 colher (sopa) de azeite",
-              "Sal e pimenta-do-reino a gosto.",
-              "Para o molho: 2 colheres (sopa) de mostarda dijon (ou amarela), 1 colher (sopa) de mel, 1 colher (sopa) de água, suco de 1/2 limão."
-            ],
-            "preparo": [
-              "Tempere os filés de frango com sal e pimenta.",
-              "Prepare o molho: Em uma tigela pequena, misture a mostarda, o mel, a água e o suco de limão. Reserve.",
-              "Aqueça o azeite em uma frigideira ou chapa grill em fogo médio-alto.",
-              "Grelhe os filés de frango por 5-7 minutos de cada lado, ou até estarem cozidos e dourados.",
-              "Sirva os filés de frango grelhados regados com o molho de mostarda e mel."
-            ],
-            "id": "fil-de-frango-grelhado-com-molho-de-most-daf2e3"
-          },
-          {
-            "nome": "Empadão de Frango Prático",
-            "curso": "principal",
-            "tempo": "45 min",
-            "url": "https://tudogostoso.com.br/receita/113151-empadao-de-frango-pratico.html",
-            "porque": "Prato substancioso com proteína de frango, ideal para um almoço que pode gerar sobras, com massa fácil.",
-            "tags": [
-              "frango",
               "forno",
-              "substancioso"
+              "assado"
             ],
             "rende_sobra": true,
             "ingredientes": [
-              "Para a massa: 2 xícaras (chá) de farinha de trigo, 150g de manteiga gelada em cubos, 1 ovo, 1 colher (chá) de sal.",
-              "Para o recheio: 1 peito de frango cozido e desfiado (~300g), 1/2 cebola picada, 2 dentes de alho picados, 1 colher (sopa) de azeite, 1 lata de milho verde escorrido, 1/2 xícara (chá) de azeitonas picadas, 1/2 xícara (chá) de requeijão cremoso, cheiro-verde picado, 1 gema para pincelar, sal e pimenta-do-reino a gosto."
+              "1 kg de costelinha de porco",
+              "2 colheres (sopa) de molho barbecue",
+              "2 colheres (sopa) de mostarda",
+              "4 colheres (sopa) de mel",
+              "Sal e pimenta a gosto"
             ],
             "preparo": [
-              "Massa: Misture farinha, sal, manteiga e ovo com as pontas dos dedos. Reserve 1/3 da massa.",
-              "Recheio: Refogue cebola e alho no azeite. Adicione frango desfiado, milho, azeitonas, requeijão, cheiro-verde, sal e pimenta. Misture e reserve.",
-              "Montagem: Forre uma forma de aro removível com 2/3 da massa. Despeje o recheio.",
-              "Abra o restante da massa e cubra o empadão. Pincele a gema batida.",
-              "Leve ao forno pré-aquecido a 180°C por cerca de 30-35 minutos, ou até dourar."
+              "1. Tempere a costelinha de porco com sal e pimenta a gosto. Pré-aqueça o forno a 160°C.",
+              "2. Em uma tigela, misture o molho barbecue, a mostarda e o mel para formar a marinada.",
+              "3. Cubra a costelinha com a marinada, envolva-a bem em papel alumínio (sem aberturas) e leve ao forno por 1 hora e 30 minutos.",
+              "4. Retire do forno, remova o papel alumínio e pincele generosamente com o molho restante. Volte ao forno por mais 30-45 minutos, ou até dourar e caramelizar.",
+              "5. Sirva quente, acompanhada de batatas assadas ou purê."
             ],
-            "id": "empad-o-de-frango-pr-tico-626262"
+            "id": "costelinha-de-porco-assada-com-barbecue--03ecce"
           },
           {
-            "nome": "Caldo Verde Rápido",
+            "nome": "Salada de Folhas Verdes com Castanhas e Molho de Mel e Mostarda",
             "curso": "entrada",
-            "tempo": "30 min",
-            "url": "https://www.panelinha.com.br/receita/Caldo-verde-rapido",
-            "porque": "Sopa leve e reconfortante, de preparo rápido, ideal para aquecer antes do prato principal.",
+            "tempo": "15 min",
+            "url": "https://www.tudogostoso.com.br/receita/201299-salada-de-folhas-verdes-com-molho-de-mostarda-e-mel.html",
+            "porque": "Uma entrada leve e saborosa que equilibra a refeição mais pesada de domingo, fácil de montar.",
             "tags": [
-              "sopa",
+              "salada",
               "vegetariano",
-              "rapido"
-            ],
-            "rende_sobra": true,
-            "ingredientes": [
-              "500g de batata em cubos",
-              "1 maço de couve manteiga fatiada finamente",
-              "1 cebola picada",
-              "2 dentes de alho amassados",
-              "1 linguiça calabresa fina em rodelas (opcional)",
-              "2 colheres (sopa) de azeite",
-              "1 litro de água ou caldo de legumes",
-              "Sal e pimenta-do-reino a gosto"
-            ],
-            "preparo": [
-              "Em uma panela, aqueça o azeite e refogue a cebola e o alho. Se usar, adicione a linguiça e frite. Retire e reserve.",
-              "Na mesma panela, adicione as batatas e a água/caldo. Cozinhe até as batatas ficarem macias.",
-              "Bata as batatas com o caldo até obter um creme liso. Retorne à panela.",
-              "Adicione a couve fatiada e cozinhe por 2-3 minutos. Tempere com sal e pimenta.",
-              "Sirva o caldo verde quente, decorado com a linguiça reservada (se usar) e um fio de azeite."
-            ],
-            "id": "caldo-verde-r-pido-40a34f"
-          },
-          {
-            "nome": "Creme de Iogurte com Calda de Frutas Vermelhas",
-            "curso": "sobremesa",
-            "tempo": "20 min",
-            "url": "https://www.panelinha.com.br/receita/Creme-de-iogurte-com-calda-de-frutas-vermelhas",
-            "porque": "Sobremesa leve, saudável e refrescante, fácil de preparar com frutas congeladas.",
-            "tags": [
-              "rapido",
-              "low_carb",
-              "vegetariano"
+              "low_carb"
             ],
             "rende_sobra": false,
             "ingredientes": [
-              "2 potes (170g cada) de iogurte natural integral",
-              "2 colheres (sopa) de mel ou adoçante (opcional)",
-              "Raspas de limão (opcional).",
-              "Para a calda: 1 xícara (chá) de frutas vermelhas congeladas, 2 colheres (sopa) de açúcar (ou adoçante), 1/4 xícara (chá) de água."
+              "1 maço de alface crespa",
+              "1 maço de rúcula",
+              "1/2 xícara (chá) de castanhas picadas (caju, pará ou nozes)",
+              "Para o molho: 3 colheres (sopa) de azeite de oliva",
+              "1 colher (sopa) de vinagre de maçã",
+              "1 colher (sopa) de mostarda dijon",
+              "1 colher (chá) de mel",
+              "Sal e pimenta-do-reino a gosto"
             ],
             "preparo": [
-              "Creme de iogurte: Misture o iogurte natural com mel/adoçante (se usar) e raspas de limão (se usar). Reserve na geladeira.",
-              "Calda: Em uma panela pequena, coloque as frutas vermelhas congeladas, o açúcar/adoçante e a água.",
-              "Leve ao fogo médio e cozinhe por cerca de 10-15 minutos, amassando as frutas, até a calda engrossar levemente. Deixe esfriar.",
-              "Distribua o creme de iogurte em taças e cubra com a calda de frutas vermelhas fria. Sirva."
+              "1. Lave e seque bem as folhas verdes. Rasgue as folhas maiores e reserve em uma saladeira.",
+              "2. Pique grosseiramente as castanhas e reserve.",
+              "3. Para o molho: em um recipiente pequeno, misture o azeite, o vinagre, a mostarda, o mel, sal e pimenta até emulsionar.",
+              "4. Na hora de servir, adicione as castanhas às folhas verdes e regue com o molho. Misture delicadamente e sirva."
             ],
-            "id": "creme-de-iogurte-com-calda-de-frutas-ver-05fa5b"
+            "id": "salada-de-folhas-verdes-com-castanhas-e--9e8d3a"
+          },
+          {
+            "nome": "Bolo de Cenoura com Cobertura de Chocolate",
+            "curso": "sobremesa",
+            "tempo": "45 min",
+            "url": "https://www.panelinha.com.br/receita/bolo-de-cenoura-com-cobertura-de-chocolate",
+            "porque": "Um bolo caseiro clássico e delicioso para o fim de semana, que agrada a todos.",
+            "tags": [
+              "doce",
+              "forno",
+              "caseiro"
+            ],
+            "rende_sobra": true,
+            "ingredientes": [
+              "3 cenouras médias (cerca de 300g)",
+              "4 ovos grandes",
+              "1 xícara (chá) de óleo vegetal",
+              "2 xícaras (chá) de açúcar",
+              "2 xícaras (chá) de farinha de trigo",
+              "1 colher (sopa) de fermento em pó",
+              "Para a cobertura: 1 lata de leite condensado",
+              "3 colheres (sopa) de chocolate em pó 50% cacau",
+              "1 colher (sopa) de manteiga"
+            ],
+            "preparo": [
+              "1. Pré-aqueça o forno a 180°C. Unte e enfarinhe uma forma de furo central ou retangular média.",
+              "2. No liquidificador, bata as cenouras picadas, os ovos e o óleo até obter uma mistura homogênea.",
+              "3. Em uma tigela grande, despeje a mistura do liquidificador. Adicione o açúcar e a farinha de trigo peneirada, misturando bem com um fouet.",
+              "4. Incorpore o fermento em pó delicadamente. Despeje a massa na forma e asse por cerca de 30-40 minutos, ou até dourar e passar no teste do palito.",
+              "5. Para a cobertura: em uma panela, misture o leite condensado, o chocolate em pó e a manteiga. Leve ao fogo baixo, mexendo sempre, até engrossar e desgrudar do fundo da panela. Despeje sobre o bolo ainda morno."
+            ],
+            "id": "bolo-de-cenoura-com-cobertura-de-chocola-7c4e65"
           }
         ]
       }
     ],
     "lista_compras": {
       "Proteínas": [
-        "Bifes de contrafilé (ou alcatra/coxão mole)",
-        "Filé-mignon (ou alcatra/patinho)",
-        "Frango inteiro (ou sobrecoxas de frango sem pele, desossadas)",
-        "Lombo suíno (bifes ou peça)",
-        "Carne seca (já dessalgada e desfiada)",
-        "Carne bovina (paleta, acém ou músculo) em cubos",
-        "Filé mignon",
-        "Carne bovina (coxão mole ou patinho) para bife à parmegiana",
-        "Grão de bico cozido (em lata ou seco)",
-        "Bacalhau (dessalgado e desfiado)",
-        "Maminha",
-        "Costelinha de porco",
-        "Peito de frango cozido e desfiado",
-        "Linguiça calabresa fina (opcional)",
-        "Presunto fatiado",
-        "Ovos"
+        "Carne bovina (coxão duro, acém, patinho, filé mignon, lagarto, picanha) - ~2.5 kg total",
+        "Frango (coxas e sobrecoxas desossadas, filés de peito) - ~1.4 kg total",
+        "Filés de peixe branco (tilápia, merluza ou saint peter) - ~600g",
+        "Ovos grandes - 6 unidades",
+        "Carne seca (já dessalgada e desfiada) - 600g",
+        "Linguiça toscana - 8 gomos",
+        "Costelinha de porco - 1 kg",
+        "Bacon (fatias, opcional)"
       ],
       "Legumes e verduras": [
-        "Cebola",
-        "Alho",
-        "Tomate",
-        "Limão",
-        "Manjericão fresco",
-        "Salsinha",
-        "Cheiro-verde",
-        "Couve manteiga",
-        "Espinafre",
-        "Batata",
-        "Batata Doce",
-        "Cenoura",
-        "Abobrinha",
-        "Abóbora (Cabotiá, Japonesa ou Pescoço)",
-        "Tomates cereja"
+        "Batatas - 5 médias",
+        "Cebolas - 9 médias",
+        "Repolho - 1 xícara (chá) (opcional)",
+        "Brócolis - 1 pequeno",
+        "Cenouras - 8 médias",
+        "Abobrinhas - 5 pequenas/médias",
+        "Manjericão fresco - 6 ramos",
+        "Espinafre - 1 xícara (chá) cozido e picado",
+        "Pepinos japoneses - 6 unidades",
+        "Hortelã fresca - 20 folhas + ramos para molho",
+        "Cogumelos fatiados (champignon) - 1 xícara (chá)",
+        "Salsinha - a gosto",
+        "Cebolinha - a gosto",
+        "Pimentão verde - 1/2 unidade",
+        "Pimentão vermelho - 1/2 unidade",
+        "Alface crespa - 1 maço",
+        "Rúcula - 1 maço",
+        "Batata doce - 4 médias"
       ],
       "Hortifruti": [
-        "Manga",
-        "Abacate",
-        "Maçã",
-        "Abacaxi",
-        "Laranja",
-        "Frutas vermelhas congeladas"
+        "Tomates - 8 maduros (italiano ou cereja)",
+        "Limões - 3 unidades",
+        "Maçãs reineta (ou similar) - 1 kg",
+        "Bananas nanicas - 5 unidades",
+        "Frutas vermelhas (morango, framboesa, mirtilo) - 250g"
       ],
       "Mercearia e despensa": [
-        "Azeite",
-        "Vinagre de vinho tinto",
-        "Molho inglês",
-        "Ketchup",
-        "Mostarda (Dijon ou amarela)",
-        "Molho barbecue pronto",
-        "Pão francês (amanhecido)",
-        "Pão italiano ou baguete",
-        "Macarrão (espaguete ou penne)",
-        "Massa para lasanha pré-cozida",
-        "Massa folhada pronta",
-        "Farinha de rosca",
-        "Farinha de trigo",
-        "Amido de milho",
-        "Páprica doce",
-        "Cominho em pó",
-        "Orégano seco",
-        "Alecrim fresco",
-        "Tomilho fresco",
-        "Folha de louro",
-        "Canela em pau",
-        "Canela em pó",
-        "Cravos-da-índia",
-        "Sal",
-        "Pimenta-do-reino",
-        "Açúcar",
-        "Açúcar mascavo",
-        "Mel",
-        "Adoçante culinário (opcional)",
-        "Cacau em pó (100%)",
-        "Gelatina sem sabor",
-        "Caldo de carne/legumes (tablete ou caseiro)",
-        "Geleia de pimenta",
-        "Aveia em flocos",
-        "Vinho tinto seco (opcional)",
-        "Sementes de abóbora torradas (opcional)",
-        "Champignon fatiado (em conserva)",
-        "Azeitonas pretas fatiadas",
-        "Milho verde (em lata)"
-      ],
-      "Laticínios e queijos": [
-        "Manteiga",
-        "Iogurte natural integral",
-        "Creme de leite (lata e fresco/caixinha)",
-        "Leite condensado",
-        "Leite integral",
-        "Muçarela de búfala (bolinhas)",
-        "Queijo muçarela (fatiado ou ralado)",
-        "Requeijão cremoso",
-        "Queijo parmesão ralado",
-        "Queijo coalho"
+        "Óleo vegetal - a gosto",
+        "Tempero SAZÓN® Vermelho - 1 sachê (ou sal e pimenta)",
+        "Sal - a gosto",
+        "Pimenta-do-reino - a gosto",
+        "Polpa de tomate - 1/2 xícara (chá)",
+        "Azeitonas verdes fatiadas - 1/4 xícara (chá)",
+        "Água - a gosto",
+        "Azeite de oliva - a gosto",
+        "Páprica doce - 1 colher (chá) + 1 colher (chá) defumada",
+        "Alho em pó - 1/2 colher (chá)",
+        "Muçarela de búfala - 3 unidades",
+        "Leite condensado - 3 latas",
+        "Chocolate em Pó 50% cacau - 8 colheres (sopa)",
+        "Manteiga - 100g + 1 colher (sopa)",
+        "Chocolate granulado (opcional)",
+        "Queijo minas padrão ralado - 1/2 xícara (chá)",
+        "Iogurte natural sem açúcar - 2 potes (170g cada) + 1/2 pote (85g)",
+        "Canela em pó - 1 colher (chá)",
+        "Miolo de noz picado - 50g (opcional)",
+        "Extrato de tomate - 1/2 xícara (chá)",
+        "Mostarda dijon - 2 colheres (sopa)",
+        "Arroz arbóreo cru - 1 e meia xícara (chá)",
+        "Vinho branco seco - 3 colheres (sopa) (opcional)",
+        "Tempero SAZÓN® Branco - 2 sachês (ou sal e pimenta)",
+        "Caldo de legumes (se não usar água fervente para risoto)",
+        "Queijo tipo parmesão ralado - a gosto",
+        "Grão-de-bico cozido (em lata) - 1 lata",
+        "Tahine (pasta de gergelim) - 3 colheres (sopa)",
+        "Páprica (para servir, opcional)",
+        "Gelatina sabor morango - 2 caixas",
+        "Requeijão cremoso - 1 copo (200g)",
+        "Farinha de rosca (ou panko) - 1 xícara (chá) + 1 colher (sopa)",
+        "Farinha de trigo - 2.5 xícaras (chá)",
+        "Azeite em spray (opcional)",
+        "Fermento em pó - 1 colher (sopa)",
+        "Essência de baunilha - 1 colher (chá)",
+        "Frutas vermelhas (para calda) - 250g",
+        "Açúcar - 2 xícaras + 100g + 50g",
+        "Creme de leite fresco - 500 ml",
+        "Leite - 100 ml + 2 colheres (sopa)",
+        "Gelatina em pó sem sabor (ou folhas de gelatina) - 1 colher (sopa) ou 2 folhas",
+        "Pães de hambúrguer integrais - 4 unidades",
+        "Tortillas integrais grandes - 4 unidades",
+        "Mel - 1 colher (chá) + 4 colheres (sopa)",
+        "Vinagre de maçã - 1 colher (sopa)",
+        "Sorvete de creme - a gosto",
+        "Sal grosso - a gosto",
+        "Cerveja clara - 1 xícara (chá)",
+        "Molho barbecue - 2 colheres (sopa)"
       ]
     }
   }

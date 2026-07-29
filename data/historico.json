@@ -1289,5 +1289,275 @@
       "fruta"
     ],
     "data": "29/07/2026"
+  },
+  {
+    "id": "bife-de-panela-com-batatas-3ae9a7",
+    "titulo": "Bife de Panela com Batatas",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "panela"
+    ],
+    "data": "29/07/2026"
+  },
+  {
+    "id": "frango-assado-com-legumes-na-airfryer-c9c5e3",
+    "titulo": "Frango Assado com Legumes na Airfryer",
+    "tags": [
+      "frango",
+      "airfryer",
+      "equilibrado"
+    ],
+    "data": "29/07/2026"
+  },
+  {
+    "id": "brigadeiro-de-colher-81b63e",
+    "titulo": "Brigadeiro de Colher",
+    "tags": [
+      "sobremesa",
+      "rapido",
+      "doce"
+    ],
+    "data": "29/07/2026"
+  },
+  {
+    "id": "carne-mo-da-com-abobrinha-gratinada-no-f-553ffa",
+    "titulo": "Carne Moída com Abobrinha Gratinada no Forno",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "equilibrado"
+    ],
+    "data": "29/07/2026"
+  },
+  {
+    "id": "omelete-de-forno-com-queijo-e-espinafre-478355",
+    "titulo": "Omelete de Forno com Queijo e Espinafre",
+    "tags": [
+      "ovos",
+      "vegetariano",
+      "rapido"
+    ],
+    "data": "29/07/2026"
+  },
+  {
+    "id": "mini-salada-de-pepino-com-iogurte-7c5d00",
+    "titulo": "Mini Salada de Pepino com Iogurte",
+    "tags": [
+      "salada",
+      "vegetariano",
+      "rapido"
+    ],
+    "data": "29/07/2026"
+  },
+  {
+    "id": "compota-de-ma-com-canela-89fbfe",
+    "titulo": "Compota de Maçã com Canela",
+    "tags": [
+      "doce",
+      "frutas",
+      "rapido"
+    ],
+    "data": "29/07/2026"
+  },
+  {
+    "id": "strogonoff-de-carne-com-iogurte-natural-543da6",
+    "titulo": "Strogonoff de Carne (com iogurte natural)",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "molho"
+    ],
+    "data": "29/07/2026"
+  },
+  {
+    "id": "fil-de-peixe-assado-com-ervas-e-lim-o-117e5b",
+    "titulo": "Filé de Peixe Assado com Ervas e Limão",
+    "tags": [
+      "peixe",
+      "forno",
+      "rapido"
+    ],
+    "data": "29/07/2026"
+  },
+  {
+    "id": "palitos-de-cenoura-e-pepino-com-pat-de-g-9fe824",
+    "titulo": "Palitos de Cenoura e Pepino com Patê de Grão de Bico (Homus)",
+    "tags": [
+      "vegetariano",
+      "salada",
+      "low_carb"
+    ],
+    "data": "29/07/2026"
+  },
+  {
+    "id": "gelatina-cremosa-de-morango-980c79",
+    "titulo": "Gelatina Cremosa de Morango",
+    "tags": [
+      "sobremesa",
+      "rapido",
+      "doce"
+    ],
+    "data": "29/07/2026"
+  },
+  {
+    "id": "escondidinho-de-carne-seca-com-pur-de-ma-b30a3f",
+    "titulo": "Escondidinho de Carne Seca com Purê de Mandioca",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "nordestino"
+    ],
+    "data": "29/07/2026"
+  },
+  {
+    "id": "frango-milanesa-na-airfryer-663c0f",
+    "titulo": "Frango à Milanesa na Airfryer",
+    "tags": [
+      "frango",
+      "airfryer",
+      "rapido"
+    ],
+    "data": "29/07/2026"
+  },
+  {
+    "id": "bruschettas-de-tomate-e-manjeric-o-b56174",
+    "titulo": "Bruschettas de Tomate e Manjericão",
+    "tags": [
+      "entrada",
+      "vegetariano",
+      "rapido"
+    ],
+    "data": "29/07/2026"
+  },
+  {
+    "id": "panna-cotta-com-calda-de-frutas-vermelha-00b104",
+    "titulo": "Panna Cotta com Calda de Frutas Vermelhas",
+    "tags": [
+      "sobremesa",
+      "doce",
+      "sem_forno"
+    ],
+    "data": "29/07/2026"
+  },
+  {
+    "id": "hamb-rguer-caseiro-no-forno-com-batata-d-813558",
+    "titulo": "Hambúrguer Caseiro no Forno com Batata Doce Assada",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "low_carb"
+    ],
+    "data": "29/07/2026"
+  },
+  {
+    "id": "wrap-de-carne-com-vegetais-5be3ae",
+    "titulo": "Wrap de Carne com Vegetais",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "low_carb"
+    ],
+    "data": "29/07/2026"
+  },
+  {
+    "id": "chips-de-batata-doce-na-airfryer-com-mol-acfedb",
+    "titulo": "Chips de Batata Doce na Airfryer com Molho de Mostarda e Mel",
+    "tags": [
+      "airfryer",
+      "vegetariano",
+      "entrada"
+    ],
+    "data": "29/07/2026"
+  },
+  {
+    "id": "brownie-de-caneca-de-chocolate-f9a2d1",
+    "titulo": "Brownie de Caneca de Chocolate",
+    "tags": [
+      "doce",
+      "microondas",
+      "rapido"
+    ],
+    "data": "29/07/2026"
+  },
+  {
+    "id": "churrasco-de-picanha-na-grelha-ou-forno-007bd4",
+    "titulo": "Churrasco de Picanha na Grelha (ou Forno)",
+    "tags": [
+      "carne_vermelha",
+      "grelhado",
+      "churrasco"
+    ],
+    "data": "29/07/2026"
+  },
+  {
+    "id": "frango-assado-com-cerveja-cd170a",
+    "titulo": "Frango Assado com Cerveja",
+    "tags": [
+      "frango",
+      "forno",
+      "assado"
+    ],
+    "data": "29/07/2026"
+  },
+  {
+    "id": "lingui-a-toscana-assada-com-cebola-a83f72",
+    "titulo": "Linguiça Toscana Assada com Cebola",
+    "tags": [
+      "porco",
+      "forno",
+      "rapido"
+    ],
+    "data": "29/07/2026"
+  },
+  {
+    "id": "banana-caramelizada-com-sorvete-a032a0",
+    "titulo": "Banana Caramelizada com Sorvete",
+    "tags": [
+      "doce",
+      "frutas",
+      "rapido"
+    ],
+    "data": "29/07/2026"
+  },
+  {
+    "id": "lagarto-recheado-no-forno-cf0182",
+    "titulo": "Lagarto Recheado no Forno",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "assado"
+    ],
+    "data": "29/07/2026"
+  },
+  {
+    "id": "costelinha-de-porco-assada-com-barbecue--03ecce",
+    "titulo": "Costelinha de Porco Assada com Barbecue no Forno",
+    "tags": [
+      "porco",
+      "forno",
+      "assado"
+    ],
+    "data": "29/07/2026"
+  },
+  {
+    "id": "salada-de-folhas-verdes-com-castanhas-e--9e8d3a",
+    "titulo": "Salada de Folhas Verdes com Castanhas e Molho de Mel e Mostarda",
+    "tags": [
+      "salada",
+      "vegetariano",
+      "low_carb"
+    ],
+    "data": "29/07/2026"
+  },
+  {
+    "id": "bolo-de-cenoura-com-cobertura-de-chocola-7c4e65",
+    "titulo": "Bolo de Cenoura com Cobertura de Chocolate",
+    "tags": [
+      "doce",
+      "forno",
+      "caseiro"
+    ],
+    "data": "29/07/2026"
   }
 ]
