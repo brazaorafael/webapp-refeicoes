@@ -1259,5 +1259,35 @@
       "vegetariano"
     ],
     "data": "28/07/2026"
+  },
+  {
+    "id": "carne-mo-da-refogada-simples-c90dc2",
+    "titulo": "Carne Moída Refogada Simples",
+    "tags": [
+      "carne_vermelha",
+      "refogado",
+      "rapido"
+    ],
+    "data": "29/07/2026"
+  },
+  {
+    "id": "alm-ndegas-de-carne-assadas-035bf1",
+    "titulo": "Almôndegas de Carne Assadas",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "equilibrado"
+    ],
+    "data": "29/07/2026"
+  },
+  {
+    "id": "mousse-de-maracuj-simples-1edc80",
+    "titulo": "Mousse de Maracujá Simples",
+    "tags": [
+      "rapido",
+      "sobremesa",
+      "fruta"
+    ],
+    "data": "29/07/2026"
   }
 ]

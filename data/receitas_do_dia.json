@@ -1,47 +1,76 @@
 {
-  "gerado_em": "28/07/2026",
+  "gerado_em": "29/07/2026",
   "diario": {
     "tipo": "diario",
-    "data": "28/07/2026",
-    "dia_semana": "terça",
+    "data": "29/07/2026",
+    "dia_semana": "quarta",
     "pratos": [
       {
-        "nome": "Carne Moída Refogada com Abobrinha e Cenoura",
+        "nome": "Bife Acebolado",
         "curso": "principal",
-        "tempo": "30 min",
-        "url": "https://www.tudoreceitas.com/receita-de-carne-moida-com-abobrinha-6916.html",
-        "porque": "Extremamente versátil e rápida, a carne moída refogada é uma excelente fonte de proteína. Adicionar legumes como abobrinha e cenoura picados aumenta o valor nutricional e a torna uma refeição balanceada. É feita na panela, sem fritura profunda, e a porção pode ser facilmente ajustada para sobrar.",
+        "tempo": "20 min",
+        "url": "https://receitas.globo.com/videos/como-fazer-o-melhor-bife-acebolado-receita-da-ana-maria-braga-maisvoce-1000300977.ghtml",
+        "porque": "Este prato é rápido de preparar, usa carne vermelha e o método de grelhar/refogar atende à regra de pouca fritura.",
         "tags": [
           "carne_vermelha",
-          "rapido",
-          "equilibrado"
+          "grelhado",
+          "rapido"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "500g de carne moída (patinho ou acém)",
-          "1 abobrinha média",
-          "1 cenoura média",
-          "1/2 cebola picada",
-          "2 dentes de alho amassados",
-          "2 colheres (sopa) de extrato de tomate ou molho de tomate",
-          "Azeite a gosto",
-          "Sal, pimenta-do-reino e cheiro-verde a gosto"
+          "2 bifes de contrafilé ou alcatra (~180-200g cada)",
+          "Sal a gosto",
+          "Pimenta-do-reino a gosto",
+          "1 colher de sopa de manteiga ou azeite",
+          "1 cebola média em rodelas",
+          "1 tomate pequeno picado (opcional)",
+          "1/4 xícara de chá de vinho branco seco (opcional)"
         ],
         "preparo": [
-          "Em uma panela, aqueça um fio de azeite em fogo médio e refogue a cebola e o alho picados até dourarem.",
-          "Adicione a carne moída e refogue, desfazendo-a com uma colher, até que esteja bem dourada e cozida. Tempere com sal e pimenta-do-reino a gosto.",
-          "Acrescente o extrato de tomate (ou molho), a abobrinha e a cenoura picadas (ou raladas). Misture bem.",
-          "Se necessário, adicione um pouco de água para não secar e cozinhe em fogo médio por cerca de 10-15 minutos, ou até os legumes ficarem macios.",
-          "Finalize com cheiro-verde picado a gosto. Sirva quente."
+          "Tempere os bifes com sal e pimenta-do-reino a gosto.",
+          "Em uma frigideira grande, derreta a manteiga (ou aqueça o azeite) e frite os bifes até o ponto desejado. Retire e reserve.",
+          "Na mesma frigideira, refogue a cebola em rodelas até murchar e dourar levemente.",
+          "Adicione o tomate picado e o vinho branco (se usar), mexa e deixe ferver por 2-3 minutos.",
+          "Volte os bifes para a frigideira para aquecer no molho e sirva imediatamente."
         ],
-        "id": "carne-mo-da-refogada-com-abobrinha-e-cen-ff2377"
+        "id": "bife-acebolado-8e2e74"
       },
       {
-        "nome": "Escondidinho de Carne Seca na Moranga",
+        "nome": "Carne Moída Refogada Simples",
         "curso": "principal",
-        "tempo": "45 min",
-        "url": "https://paladar.estadao.com.br/receitas/escondidinho-de-carne-seca-na-moranga,10000088037",
-        "porque": "Embora possa parecer mais elaborado, o escondidinho é prático porque a carne seca pode ser cozida e desfiada com antecedência. A moranga (ou abóbora cabotiá) pode ser cozida no micro-ondas ou forno, e o prato é montado e gratinado no forno, sem fritura. É rico em proteína e carboidrato complexo, perfeito para uma refeição substanciosa.",
+        "tempo": "25 min",
+        "url": "https://www.saboresajinomoto.com.br/receita/carne-moida-refogada",
+        "porque": "Um prato versátil e prático, rico em proteína, feito por refogado e excelente para ter sobras.",
+        "tags": [
+          "carne_vermelha",
+          "refogado",
+          "rapido"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "400g de patinho moído",
+          "1 colher (sopa) de óleo ou azeite",
+          "1/2 cebola média picada",
+          "1 dente de alho amassado",
+          "Sal e pimenta-do-reino a gosto",
+          "1/2 tomate médio picado (opcional)",
+          "1/2 xícara (chá) de ervilha congelada (opcional)"
+        ],
+        "preparo": [
+          "Em uma panela média, aqueça o óleo. Refogue a cebola e o alho por 2-3 minutos até dourarem.",
+          "Adicione a carne moída e frite, mexendo ocasionalmente, até mudar de cor e o líquido secar (cerca de 5-7 minutos).",
+          "Tempere com sal e pimenta-do-reino a gosto. Adicione o tomate picado e a ervilha (se usar).",
+          "Cozinhe por mais 5 minutos, mexendo bem.",
+          "Retire do fogo e sirva quente, acompanhada de arroz e uma salada verde, por exemplo."
+        ],
+        "id": "carne-mo-da-refogada-simples-c90dc2"
+      },
+      {
+        "nome": "Almôndegas de Carne Assadas",
+        "curso": "principal",
+        "tempo": "35 min",
+        "url": "https://www.seara.com.br/receitas/almondega-assada-com-molho-ingles-receita-rapida/",
+        "porque": "Estas almôndegas são assadas no forno, evitando fritura, e são uma ótima fonte de proteína, rendendo bem para sobras.",
         "tags": [
           "carne_vermelha",
           "forno",
@@ -49,83 +78,77 @@
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "1 moranga pequena (ou 500g de abóbora cabotiá em cubos)",
-          "300g de carne seca dessalgada e desfiada",
-          "1/2 cebola picada",
-          "2 dentes de alho picados",
-          "2 colheres (sopa) de requeijão cremoso",
-          "50g de queijo muçarela ralado para gratinar",
-          "Azeite, sal e pimenta-do-reino a gosto",
-          "Cheiro-verde picado a gosto"
+          "400g de carne moída",
+          "1 ovo pequeno",
+          "1 colher (sopa) de margarina ou azeite",
+          "1/4 cebola picada",
+          "1 dente de alho picado",
+          "1/2 colher (chá) de molho inglês (opcional)",
+          "1/4 xícara (chá) de farinha de aveia ou de rosca",
+          "Sal e pimenta-do-reino a gosto",
+          "Tomates cereja e tomilho (opcional, para assar junto)"
         ],
         "preparo": [
-          "Se a carne seca não estiver pronta, cozinhe-a na panela de pressão por 30 minutos após a fervura. Desfie e reserve.",
-          "Corte a moranga ao meio, retire as sementes e cozinhe no micro-ondas (10-15 min) ou forno (20-30 min) até ficar macia. Retire a polpa e amasse para formar um purê (se usar abóbora cabotiá, cozinhe os cubos e amasse).",
-          "Em uma panela, refogue a cebola e o alho no azeite. Adicione a carne seca desfiada e refogue por alguns minutos. Acrescente o cheiro-verde.",
-          "Misture o purê de moranga (ou abóbora) com o requeijão cremoso. Tempere com sal e pimenta-do-reino a gosto.",
-          "Em um refratário (ou dentro da moranga, se for mini), faça uma camada de purê de abóbora, adicione a carne seca refogada e cubra com o restante do purê.",
-          "Polvilhe com queijo muçarela ralado e leve ao forno pré-aquecido a 180°C por 15-20 minutos, ou até gratinar."
+          "Em uma tigela, misture a carne moída, o ovo, a margarina (ou azeite), cebola, alho, molho inglês, farinha, sal e pimenta. Misture até ficar homogêneo.",
+          "Divida a massa em porções e modele bolinhas de tamanho similar.",
+          "Acomode as almôndegas em uma assadeira untada, deixando espaço entre elas. Adicione os tomates cereja e tomilho, se usar.",
+          "Leve ao forno pré-aquecido a 200°C por cerca de 25 minutos, ou até dourarem e estarem cozidas."
         ],
-        "id": "escondidinho-de-carne-seca-na-moranga-ff8c21"
+        "id": "alm-ndegas-de-carne-assadas-035bf1"
       },
       {
         "nome": "Bruschetta de Tomate e Manjericão",
         "curso": "entrada",
         "tempo": "15 min",
         "url": "https://www.knorr.com/br/receitas/bruschettas-de-tomate-e-manjericao.html",
-        "porque": "Uma entrada clássica, leve e muito fácil de fazer. O pão é levemente tostado no forno ou na torradeira (evitando fritura) e coberto com uma mistura fresca de tomate e manjericão. Rápido e saboroso.",
+        "porque": "Uma entrada leve, fresca e super rápida de preparar, com o pão tostado em vez de frito.",
         "tags": [
-          "rapido",
           "vegetariano",
+          "rapido",
           "entrada"
         ],
         "rende_sobra": false,
         "ingredientes": [
-          "6-8 fatias de pão italiano ou baguete",
-          "3 tomates maduros (italiano ou cereja), picados sem sementes",
-          "1 dente de alho",
-          "Folhas de manjericão fresco a gosto",
-          "Azeite de oliva extra virgem",
-          "Sal e pimenta-do-reino a gosto"
+          "4 fatias de pão italiano ou baguete",
+          "2 tomates médios maduros (sem pele e semente, cortados em cubos)",
+          "1 colher (sopa) de azeite de oliva extra virgem",
+          "2 colheres (sopa) de manjericão fresco picado",
+          "Sal e pimenta-do-reino preta a gosto",
+          "1 dente de alho"
         ],
         "preparo": [
-          "Corte o pão em fatias de cerca de 1 cm de espessura. Leve ao forno pré-aquecido a 180°C ou toste em uma frigideira/torradeira até ficarem levemente douradas.",
-          "Enquanto o pão tosta, pique os tomates em cubos pequenos e as folhas de manjericão grosseiramente.",
-          "Em uma tigela, misture o tomate picado com o manjericão. Tempere com sal, pimenta-do-reino e um bom fio de azeite de oliva.",
-          "Retire o pão do forno e, ainda quente, esfregue o dente de alho descascado sobre a superfície de cada fatia.",
-          "Distribua a mistura de tomate e manjericão sobre as fatias de pão torradas. Sirva imediatamente."
+          "Tempere os cubos de tomate com azeite, manjericão, sal e pimenta. Reserve.",
+          "Aqueça uma grelha ou frigideira, unte levemente e toste as fatias de pão dos dois lados até ficarem crocantes.",
+          "Esfregue o dente de alho descascado em todas as fatias de pão tostadas.",
+          "Distribua a mistura de tomate temperado sobre as torradas e sirva imediatamente."
         ],
         "id": "bruschetta-de-tomate-e-manjeric-o-8a2342"
       },
       {
-        "nome": "Salada de Frutas com Iogurte e Granola",
+        "nome": "Mousse de Maracujá Simples",
         "curso": "sobremesa",
         "tempo": "10 min",
-        "url": "https://www.sumerbol.com.br/receita/salada-de-frutas-com-granola-e-mel",
-        "porque": "A opção mais prática e saudável para sobremesa. Basta picar as frutas favoritas do casal e servir com iogurte natural e um pouco de granola para adicionar crocância e fibras.",
+        "url": "https://receitas.globo.com/ana-maria-braga/mousse-de-maracuja-facil-de-apenas-4-ingredientes-ana-maria-braga-receitas-1000299691.ghtml",
+        "porque": "Uma sobremesa clássica e refrescante, extremamente fácil e rápida de fazer no liquidificador, sem uso de forno.",
         "tags": [
           "rapido",
-          "low_carb",
-          "vegetariano"
+          "sobremesa",
+          "fruta"
         ],
-        "rende_sobra": false,
+        "rende_sobra": true,
         "ingredientes": [
-          "1 pera",
-          "2 bananas médias",
-          "1 xícara (chá) de morangos picados",
-          "1/2 mamão papaia pequeno, picado",
-          "2 potes (170g cada) de iogurte natural desnatado",
-          "1/2 xícara (chá) de granola sem açúcar",
-          "Mel a gosto (opcional)"
+          "1 lata de leite condensado (~395g)",
+          "1 caixa de creme de leite (~200g)",
+          "1 xícara (chá) de suco de maracujá concentrado",
+          "1 envelope de gelatina em pó incolor (opcional)"
         ],
         "preparo": [
-          "Lave e higienize todas as frutas. Descasque as bananas e o mamão.",
-          "Corte todas as frutas em cubos ou fatias, conforme preferir.",
-          "Distribua as frutas picadas em duas taças ou um recipiente de sobremesa.",
-          "Acrescente o iogurte natural por cima das frutas.",
-          "Finalize com a granola e, se desejar, um fio de mel. Sirva gelado."
+          "No liquidificador, bata o suco de maracujá, o leite condensado e o creme de leite até obter um creme aerado.",
+          "Se usar, prepare a gelatina incolor conforme as instruções da embalagem e adicione à mistura no liquidificador, batendo por mais 2 minutos.",
+          "Distribua a mousse em taças individuais ou em um recipiente único.",
+          "Leve à geladeira por 4 a 6 horas, ou até que esteja consistente e firme."
         ],
-        "id": "salada-de-frutas-com-iogurte-e-granola-7137af"
+        "id": "mousse-de-maracuj-simples-1edc80"
       }
     ]
   },
