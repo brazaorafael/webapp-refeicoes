@@ -5,15 +5,15 @@
   --tinta:#1f2430;        /* slate escuro */
   --tinta-suave:#6b7280;
   --linha:#e3e8f2;
-  --acento:#3a5bd0;       /* azul royal médio */
+  --acento:#3a5bd0;       /* azul royal mÃ©dio */
   --acento-forte:#1f3fb5; /* azul royal forte */
   --gostei:#1f3fb5;       /* curtir = azul */
-  --naogostei:#b23b3b;    /* não curtir = vermelho */
+  --naogostei:#b23b3b;    /* nÃ£o curtir = vermelho */
   --raio:14px;
   --sombra:0 1px 2px rgba(20,30,60,.05), 0 10px 24px rgba(20,30,60,.08);
   --sombra-azul:0 6px 16px rgba(31,63,181,.30);
 }
- 
+
 *{box-sizing:border-box}
 html,body{margin:0}
 body{
@@ -24,8 +24,8 @@ body{
   -webkit-font-smoothing:antialiased;
   padding-bottom:48px;
 }
- 
-/* ---------- Cabeçalho ---------- */
+
+/* ---------- CabeÃ§alho ---------- */
 .topo{max-width:680px;margin:0 auto;padding:26px 20px 6px}
 .topo-inner{display:flex;align-items:center;justify-content:space-between;gap:12px}
 .marca{display:flex;align-items:center;gap:11px}
@@ -39,7 +39,7 @@ body{
   font-weight:500;font-size:26px;letter-spacing:-.01em;margin:0;line-height:1.05;
 }
 .subtitulo{margin:1px 0 0;color:var(--tinta-suave);font-size:11px;letter-spacing:.08em;text-transform:uppercase}
- 
+
 /* ---------- Abas ---------- */
 .abas{
   position:sticky;top:0;z-index:5;background:var(--fundo);
@@ -55,13 +55,13 @@ body{
 .aba-ic{width:20px;height:20px;fill:none;stroke:currentColor;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round}
 .aba:hover{color:var(--tinta)}
 .aba.ativa{color:#fff;font-weight:600;background:var(--acento-forte);box-shadow:var(--sombra-azul)}
- 
-/* ---------- Painéis ---------- */
+
+/* ---------- PainÃ©is ---------- */
 main{max-width:680px;margin:0 auto;padding:18px 20px}
 .painel{display:none}
 .painel.ativo{display:block;animation:aparece .25s ease}
 @keyframes aparece{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:none}}
- 
+
 .secao-titulo{
   font-family:"Fraunces",Georgia,serif;font-weight:500;font-size:22px;
   margin:6px 0 16px;letter-spacing:-.01em;
@@ -70,8 +70,8 @@ main{max-width:680px;margin:0 auto;padding:18px 20px}
   font-family:"Fraunces",Georgia,serif;font-weight:600;font-size:17px;
   margin:26px 0 10px;padding-bottom:6px;border-bottom:1px solid var(--linha);
 }
- 
-/* ---------- Cartão de receita ---------- */
+
+/* ---------- CartÃ£o de receita ---------- */
 .cartao{
   background:var(--cartao);border:1px solid var(--linha);border-radius:var(--raio);
   box-shadow:var(--sombra);padding:18px;margin:0 0 16px;
@@ -87,7 +87,7 @@ main{max-width:680px;margin:0 auto;padding:18px 20px}
   background:#efe9dc;border-radius:999px;padding:3px 9px;
 }
 .sobra{font-size:12px;color:var(--gostei);font-weight:500}
- 
+
 /* Blocos entrada/principal/sobremesa */
 .prato{margin-top:12px}
 .prato-rotulo{
@@ -98,12 +98,12 @@ main{max-width:680px;margin:0 auto;padding:18px 20px}
 details{border-top:1px dashed var(--linha);margin-top:8px;padding-top:8px}
 details summary{cursor:pointer;font-size:13px;color:var(--tinta-suave);list-style:none}
 details summary::-webkit-details-marker{display:none}
-details summary::before{content:"▸ ";color:var(--acento)}
-details[open] summary::before{content:"▾ "}
+details summary::before{content:"â–¸ ";color:var(--acento)}
+details[open] summary::before{content:"â–¾ "}
 .prato ul,.prato ol{margin:8px 0 0;padding-left:20px;font-size:14px}
 .prato li{margin-bottom:4px}
- 
-/* Botões de voto */
+
+/* BotÃµes de voto */
 .votos{display:flex;gap:10px;margin-top:16px}
 .voto{
   flex:1;border:1px solid var(--linha);background:var(--fundo);cursor:pointer;
@@ -112,7 +112,7 @@ details[open] summary::before{content:"▾ "}
 .voto:hover{border-color:var(--acento)}
 .voto.sel-gostei{background:var(--gostei);color:#fff;border-color:var(--gostei)}
 .voto.sel-naogostei{background:var(--naogostei);color:#fff;border-color:var(--naogostei)}
- 
+
 /* ---------- Lista de compras ---------- */
 .compras li{margin-bottom:6px;font-size:15px}
 .compras input{margin-right:8px;accent-color:var(--acento)}
@@ -123,16 +123,16 @@ details[open] summary::before{content:"▾ "}
 }
 .btn:hover{background:var(--acento)}
 .btn-linha{display:flex;gap:10px;flex-wrap:wrap;margin:8px 0 20px}
- 
+
 /* ---------- Perfil ---------- */
 .chip-grid{display:flex;flex-wrap:wrap;gap:8px;margin:10px 0}
 .chip{font-size:13px;padding:5px 11px;border-radius:999px;border:1px solid var(--linha);background:var(--cartao)}
 .chip.pos{color:var(--gostei);border-color:#cfe0d1}
 .chip.neg{color:var(--naogostei);border-color:#e8cfc8}
- 
+
 /* ---------- Vazio / ajuda ---------- */
 .vazio{color:var(--tinta-suave);font-size:15px;text-align:center;padding:40px 10px}
- 
+
 /* ---------- Modal ---------- */
 .modal{position:fixed;inset:0;background:rgba(40,34,26,.35);display:flex;align-items:flex-end;justify-content:center;z-index:20}
 .modal.escondido{display:none}
@@ -143,16 +143,16 @@ details[open] summary::before{content:"▾ "}
 .modal-acoes{display:flex;align-items:center;gap:14px;margin-top:20px}
 .ajuda{font-size:13px;color:var(--tinta-suave);margin:6px 0}
 .link-sutil{background:none;border:none;color:var(--acento-forte);cursor:pointer;font:inherit;font-size:14px;text-decoration:underline}
- 
-/* ---------- Rodapé ---------- */
+
+/* ---------- RodapÃ© ---------- */
 .rodape{max-width:680px;margin:24px auto 0;padding:0 20px;color:var(--tinta-suave);font-size:12px;text-align:center}
- 
+
 @media(min-width:560px){
   .modal{align-items:center}
   .modal-caixa{border-radius:18px}
 }
- 
-/* ---------- Cardápio à la carte: rótulo de curso e linhas de prato ---------- */
+
+/* ---------- CardÃ¡pio Ã  la carte: rÃ³tulo de curso e linhas de prato ---------- */
 .curso-rot{
   font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--acento);
   font-weight:600;margin:18px 0 8px;
@@ -172,7 +172,7 @@ details[open] summary::before{content:"▾ "}
 .prato-tags{font-size:12px;color:var(--tinta-suave)}
 .prato-link{font-size:12px;color:var(--acento-forte);margin-top:2px}
 .sobra{color:var(--gostei);font-weight:500}
- 
+
 .votos-mini{display:flex;flex-direction:column;border-left:1px solid var(--linha)}
 .votinho{
   flex:1;min-width:52px;background:var(--fundo);border:none;border-bottom:1px solid var(--linha);
@@ -182,7 +182,7 @@ details[open] summary::before{content:"▾ "}
 .votinho:hover{background:#efe9dc}
 .votinho.sel-gostei{background:var(--gostei)}
 .votinho.sel-naogostei{background:var(--naogostei)}
- 
+
 /* ---------- Tela da receita ---------- */
 .tela-receita{
   position:fixed;inset:0;background:var(--fundo);z-index:15;overflow-y:auto;
@@ -206,7 +206,7 @@ details[open] summary::before{content:"▾ "}
 .preparo{margin-bottom:24px}
 .passo{font-size:15px;line-height:1.55;margin-bottom:10px;color:var(--tinta)}
 .passo b{color:var(--acento-forte);margin-right:4px}
- 
+
 /* ---------- Aba Buscar ---------- */
 .busca-linha{display:flex;gap:8px;margin-bottom:12px}
 .busca-linha input{
@@ -215,16 +215,26 @@ details[open] summary::before{content:"▾ "}
 }
 .busca-linha input:focus{outline:none;border-color:var(--acento)}
 .busca-linha .btn{flex-shrink:0}
- 
+.busca-linha input:disabled{opacity:.6}
+.buscando{display:flex;align-items:center;gap:10px;color:var(--acento-forte);font-size:14px;margin:8px 0 14px;line-height:1.4}
+.spin{width:18px;height:18px;flex-shrink:0;border:2px solid var(--linha);border-top-color:var(--acento-forte);border-radius:50%;display:inline-block;animation:girar .8s linear infinite}
+@keyframes girar{to{transform:rotate(360deg)}}
+
 /* 5 abas: fonte um pouco menor para caber no celular */
 .abas .aba{font-size:11px;padding:8px 2px}
- 
+
 /* Link para a receita no site + meta na tela da receita */
 .receita-meta{margin:0 0 4px}
 .receita-link-site{margin:18px 0 4px}
 .receita-link-site a{color:var(--acento-forte);font-weight:500;text-decoration:none}
 .receita-link-site a:hover{text-decoration:underline}
- 
+
+/* "Para servir junto" (acompanhamentos) */
+.acomp{font-size:14px;line-height:1.5;padding:9px 0;border-bottom:1px solid var(--linha)}
+.acomp:last-child{border-bottom:none}
+.acomp b{color:var(--tinta);font-weight:600}
+.acomp span{color:var(--tinta-suave)}
+
 /* ---------- Cards com foto (Hoje / Semana / Buscar) ---------- */
 .card{
   background:var(--cartao);border:1px solid var(--linha);border-radius:16px;overflow:hidden;
@@ -252,8 +262,8 @@ details[open] summary::before{content:"▾ "}
 .card-nome{font-family:"Fraunces",Georgia,serif;font-weight:600;font-size:17px;line-height:1.2}
 .card-tags{font-size:12px;color:var(--tinta-suave)}
 .votos-card{display:flex;flex-direction:column;border-left:1px solid var(--linha)}
- 
-/* ---------- Animações ---------- */
+
+/* ---------- AnimaÃ§Ãµes ---------- */
 @keyframes sobe{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
 @keyframes brilho{from{background-position:200% 0}to{background-position:-200% 0}}
 .votinho{transition:background .15s, transform .1s}
@@ -262,7 +272,7 @@ details[open] summary::before{content:"▾ "}
 .voto:active{transform:scale(.97)}
 .tela-receita:not(.escondida){animation:sobeTela .3s cubic-bezier(.2,.7,.2,1) both}
 @keyframes sobeTela{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
- 
+
 /* ---------- Foto na tela da receita ---------- */
 .receita-img{
   width:100%;height:200px;border-radius:14px;margin:6px 0 12px;
