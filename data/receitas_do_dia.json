@@ -6,71 +6,79 @@
     "dia_semana": "quarta",
     "pratos": [
       {
-        "nome": "Bife Acebolado",
+        "nome": "Bife à Rolê na Panela",
         "curso": "principal",
-        "tempo": "20 min",
-        "url": "https://receitas.globo.com/videos/como-fazer-o-melhor-bife-acebolado-receita-da-ana-maria-braga-maisvoce-1000300977.ghtml",
-        "porque": "Este prato é rápido de preparar, usa carne vermelha e o método de grelhar/refogar atende à regra de pouca fritura.",
+        "tempo": "~45 min",
+        "url": "https://paladar.estadao.com.br/receitas/bife-a-role-com-bacon-e-cenoura-receita-da-chef-renata-braune,10000057279",
+        "porque": "É uma opção de carne vermelha que utiliza o cozimento em panela, sem fritura profunda, com preparo simples e que rende bem para o jantar e sobras.",
         "tags": [
           "carne_vermelha",
-          "grelhado",
-          "rapido"
+          "rapido",
+          "equilibrado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "2 bifes de contrafilé ou alcatra (~180-200g cada)",
-          "Sal a gosto",
-          "Pimenta-do-reino a gosto",
-          "1 colher de sopa de manteiga ou azeite",
-          "1 cebola média em rodelas",
-          "1 tomate pequeno picado (opcional)",
-          "1/4 xícara de chá de vinho branco seco (opcional)"
-        ],
-        "preparo": [
-          "Tempere os bifes com sal e pimenta-do-reino a gosto.",
-          "Em uma frigideira grande, derreta a manteiga (ou aqueça o azeite) e frite os bifes até o ponto desejado. Retire e reserve.",
-          "Na mesma frigideira, refogue a cebola em rodelas até murchar e dourar levemente.",
-          "Adicione o tomate picado e o vinho branco (se usar), mexa e deixe ferver por 2-3 minutos.",
-          "Volte os bifes para a frigideira para aquecer no molho e sirva imediatamente."
-        ],
-        "id": "bife-acebolado-8e2e74"
-      },
-      {
-        "nome": "Carne Moída Refogada Simples",
-        "curso": "principal",
-        "tempo": "25 min",
-        "url": "https://www.saboresajinomoto.com.br/receita/carne-moida-refogada",
-        "porque": "Um prato versátil e prático, rico em proteína, feito por refogado e excelente para ter sobras.",
-        "tags": [
-          "carne_vermelha",
-          "refogado",
-          "rapido"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "400g de patinho moído",
-          "1 colher (sopa) de óleo ou azeite",
-          "1/2 cebola média picada",
-          "1 dente de alho amassado",
+          "450 g de coxão mole (ou patinho) cortado em 4 bifes finos",
+          "1 cenoura (200 g) cortada em palitos finos",
+          "100 g de bacon em pedaço fatiado fino",
+          "80 g de cebola (½ cebola média) fatiada fina",
+          "20 g de alho (2 dentes) fatiado fino",
+          "4 tomates maduros (450 g) picados",
+          "20 ml de molho inglês ou shoyu",
+          "Azeite a gosto",
           "Sal e pimenta-do-reino a gosto",
-          "1/2 tomate médio picado (opcional)",
-          "1/2 xícara (chá) de ervilha congelada (opcional)"
+          "Barbante culinário ou palitos de dente para prender"
         ],
         "preparo": [
-          "Em uma panela média, aqueça o óleo. Refogue a cebola e o alho por 2-3 minutos até dourarem.",
-          "Adicione a carne moída e frite, mexendo ocasionalmente, até mudar de cor e o líquido secar (cerca de 5-7 minutos).",
-          "Tempere com sal e pimenta-do-reino a gosto. Adicione o tomate picado e a ervilha (se usar).",
-          "Cozinhe por mais 5 minutos, mexendo bem.",
-          "Retire do fogo e sirva quente, acompanhada de arroz e uma salada verde, por exemplo."
+          "Tempere os bifes com sal e pimenta-do-reino. Em cada bife, coloque palitos de cenoura e fatias de bacon. Enrole e prenda com barbante ou palitos.",
+          "Em uma panela que possa ir ao fogo, aqueça um fio de azeite e doure bem os bifes enrolados por todos os lados. Retire e reserve.",
+          "Na mesma panela, adicione a cebola e o alho fatiados, refogando até dourar. Acrescente os tomates picados e o molho inglês (ou shoyu).",
+          "Deixe os tomates desmancharem bem, verifique o sal e adicione 1 copo de água.",
+          "Recoloque os bifes na panela, tampe e cozinhe em fogo baixo por cerca de 40 minutos, ou até a carne ficar macia.",
+          "Retire o barbante ou palitos e sirva com arroz e uma salada verde."
         ],
-        "id": "carne-mo-da-refogada-simples-c90dc2"
+        "id": "bife-rol-na-panela-2d55a0"
       },
       {
-        "nome": "Almôndegas de Carne Assadas",
+        "nome": "Picadinho de Carne com Legumes",
         "curso": "principal",
-        "tempo": "35 min",
-        "url": "https://www.seara.com.br/receitas/almondega-assada-com-molho-ingles-receita-rapida/",
-        "porque": "Estas almôndegas são assadas no forno, evitando fritura, e são uma ótima fonte de proteína, rendendo bem para sobras.",
+        "tempo": "~50 min",
+        "url": "https://www.saboresajinomoto.com.br/receita/picadinho-de-carne-com-batata-e-cenoura",
+        "porque": "Um prato clássico da culinária brasileira, fácil de fazer no fogão, com boa fonte de proteína (carne vermelha) e legumes que garantem o equilíbrio.",
+        "tags": [
+          "carne_vermelha",
+          "rapido",
+          "equilibrado"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "400 g de alcatra (ou patinho) cortada em cubos",
+          "1 sachê de tempero completo (ou sal e pimenta-do-reino a gosto)",
+          "1 colher (sopa) de óleo",
+          "2 dentes de alho picados",
+          "1 cebola pequena picada",
+          "1 cenoura pequena em rodelas (100 g)",
+          "1 batata média em cubos (200 g)",
+          "3 e ½ xícaras (chá) de água fervente (700 ml)",
+          "3 colheres (sopa) de polpa de tomate",
+          "Cheiro-verde picado a gosto para finalizar"
+        ],
+        "preparo": [
+          "Em uma tigela, tempere a carne com o sachê de tempero (ou sal e pimenta) e deixe tomar gosto na geladeira por 30 minutos.",
+          "Em uma panela média, aqueça o óleo em fogo alto. Junte o alho e a cebola, refogando por 3 minutos até dourar.",
+          "Acrescente a carne aos poucos, fritando de todos os lados por aproximadamente 10 minutos, até mudar completamente de cor.",
+          "Adicione a cenoura, a batata, a água fervente e a polpa de tomate. Misture bem.",
+          "Deixe cozinhar em fogo baixo, com a panela semitampada, por 40 minutos, ou até a carne ficar macia e o molho encorpado.",
+          "Retire do fogo, finalize com cheiro-verde picado e sirva com arroz branco."
+        ],
+        "id": "picadinho-de-carne-com-legumes-e78ab4"
+      },
+      {
+        "nome": "Escondidinho de Carne Moída",
+        "curso": "principal",
+        "tempo": "~45 min",
+        "url": "https://anamariabraga.globo.com/receitas/escondidinho-de-carne-moida-com-mandioquinha-e-batata/",
+        "porque": "Um prato robusto e reconfortante, com carne vermelha e purê, assado no forno para evitar fritura, ideal para render sobras para o dia seguinte.",
         "tags": [
           "carne_vermelha",
           "forno",
@@ -78,77 +86,90 @@
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "400g de carne moída",
-          "1 ovo pequeno",
-          "1 colher (sopa) de margarina ou azeite",
-          "1/4 cebola picada",
-          "1 dente de alho picado",
-          "1/2 colher (chá) de molho inglês (opcional)",
-          "1/4 xícara (chá) de farinha de aveia ou de rosca",
+          "**Para o purê:**",
+          "500g de batata cozida e amassada",
+          "2 colheres (sopa) de manteiga",
+          "1 caixinha (200 g) de creme de leite",
+          "1 xícara (chá) de leite",
           "Sal e pimenta-do-reino a gosto",
-          "Tomates cereja e tomilho (opcional, para assar junto)"
+          "50 g de queijo parmesão ralado para polvilhar",
+          "**Para o recheio:**",
+          "3 colheres (sopa) de óleo",
+          "3 dentes de alho triturados",
+          "500 g de carne moída",
+          "5 tomates maduros picados",
+          "½ xícara (chá) de molho de tomate",
+          "Sal e pimenta-do-reino a gosto",
+          "4 colheres (sopa) de salsa picadinha"
         ],
         "preparo": [
-          "Em uma tigela, misture a carne moída, o ovo, a margarina (ou azeite), cebola, alho, molho inglês, farinha, sal e pimenta. Misture até ficar homogêneo.",
-          "Divida a massa em porções e modele bolinhas de tamanho similar.",
-          "Acomode as almôndegas em uma assadeira untada, deixando espaço entre elas. Adicione os tomates cereja e tomilho, se usar.",
-          "Leve ao forno pré-aquecido a 200°C por cerca de 25 minutos, ou até dourarem e estarem cozidas."
+          "**Prepare o purê:** Amasse as batatas cozidas. Em uma panela, refogue meia cebola em cubinhos na manteiga. Adicione o purê, o creme de leite, o leite, sal e pimenta. Cozinhe por 3 minutos. Reserve.",
+          "**Prepare o recheio:** Aqueça o óleo e refogue o alho. Junte a carne moída e refogue até ficar seca e soltinha.",
+          "Adicione os tomates picados e o molho de tomate. Tempere com sal e pimenta a gosto. Cozinhe até formar um molho encorpado.",
+          "Ajuste o sal do recheio e acrescente a salsa picadinha.",
+          "**Montagem:** Unte um refratário e espalhe metade do purê no fundo. Distribua o recheio de carne moída por cima.",
+          "Cubra com o restante do purê e polvilhe com queijo parmesão ralado. Leve ao forno médio pré-aquecido a 200 °C até gratinar (cerca de 20 minutos)."
         ],
-        "id": "alm-ndegas-de-carne-assadas-035bf1"
+        "id": "escondidinho-de-carne-mo-da-177454"
       },
       {
-        "nome": "Bruschetta de Tomate e Manjericão",
+        "nome": "Salada de Rúcula com Tomate Seco e Parmesão",
         "curso": "entrada",
-        "tempo": "15 min",
-        "url": "https://www.knorr.com/br/receitas/bruschettas-de-tomate-e-manjericao.html",
-        "porque": "Uma entrada leve, fresca e super rápida de preparar, com o pão tostado em vez de frito.",
+        "tempo": "~10 min",
+        "url": "https://deliciasonline.com.br/receitas/salada-de-rucula-com-tomate-seco-e-parmesao/",
+        "porque": "Uma entrada fresca, leve e rápida de preparar, com sabores equilibrados e sem nenhum tipo de fritura.",
         "tags": [
-          "vegetariano",
+          "salada",
           "rapido",
-          "entrada"
+          "vegetariano"
         ],
         "rende_sobra": false,
         "ingredientes": [
-          "4 fatias de pão italiano ou baguete",
-          "2 tomates médios maduros (sem pele e semente, cortados em cubos)",
-          "1 colher (sopa) de azeite de oliva extra virgem",
-          "2 colheres (sopa) de manjericão fresco picado",
-          "Sal e pimenta-do-reino preta a gosto",
-          "1 dente de alho"
+          "1 maço de rúcula fresca, lavada e seca",
+          "½ xícara (chá) de tomate seco escorrido e picado",
+          "50 g de queijo parmesão em lascas",
+          "2 colheres (sopa) de azeite de oliva extravirgem",
+          "1 colher (sopa) de vinagre balsâmico (ou suco de limão)",
+          "Sal e pimenta-do-reino a gosto"
         ],
         "preparo": [
-          "Tempere os cubos de tomate com azeite, manjericão, sal e pimenta. Reserve.",
-          "Aqueça uma grelha ou frigideira, unte levemente e toste as fatias de pão dos dois lados até ficarem crocantes.",
-          "Esfregue o dente de alho descascado em todas as fatias de pão tostadas.",
-          "Distribua a mistura de tomate temperado sobre as torradas e sirva imediatamente."
+          "Lave bem as folhas de rúcula e seque-as cuidadosamente com papel-toalha ou centrífuga de salada.",
+          "Em uma saladeira, disponha a rúcula. Espalhe os tomates secos picados por cima.",
+          "Finalize com as lascas de queijo parmesão.",
+          "Em um pequeno recipiente, misture o azeite, o vinagre balsâmico (ou limão), sal e pimenta-do-reino para fazer o molho.",
+          "Regue a salada com o molho e misture delicadamente na hora de servir."
         ],
-        "id": "bruschetta-de-tomate-e-manjeric-o-8a2342"
+        "id": "salada-de-r-cula-com-tomate-seco-e-parme-7feab5"
       },
       {
-        "nome": "Mousse de Maracujá Simples",
+        "nome": "Pavê de Bolacha Simples",
         "curso": "sobremesa",
-        "tempo": "10 min",
-        "url": "https://receitas.globo.com/ana-maria-braga/mousse-de-maracuja-facil-de-apenas-4-ingredientes-ana-maria-braga-receitas-1000299691.ghtml",
-        "porque": "Uma sobremesa clássica e refrescante, extremamente fácil e rápida de fazer no liquidificador, sem uso de forno.",
+        "tempo": "~20 min",
+        "url": "https://www.tudogostoso.com.br/receita/2384-pave-de-bolacha-de-maisena.html",
+        "porque": "Uma sobremesa clássica brasileira, muito fácil de fazer, que não exige forno e pode ser preparada com antecedência.",
         "tags": [
           "rapido",
-          "sobremesa",
-          "fruta"
+          "sobremesa"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "1 lata de leite condensado (~395g)",
-          "1 caixa de creme de leite (~200g)",
-          "1 xícara (chá) de suco de maracujá concentrado",
-          "1 envelope de gelatina em pó incolor (opcional)"
+          "1 lata de leite condensado",
+          "1 lata de creme de leite (sem soro)",
+          "1 xícara (chá) de leite (para o creme)",
+          "2 colheres (sopa) de amido de milho",
+          "1 pacote de bolacha maisena (200g)",
+          "1 xícara (chá) de leite (para umedecer as bolachas)",
+          "Essência de baunilha a gosto (opcional)",
+          "Chocolate granulado ou raspas para decorar (opcional)"
         ],
         "preparo": [
-          "No liquidificador, bata o suco de maracujá, o leite condensado e o creme de leite até obter um creme aerado.",
-          "Se usar, prepare a gelatina incolor conforme as instruções da embalagem e adicione à mistura no liquidificador, batendo por mais 2 minutos.",
-          "Distribua a mousse em taças individuais ou em um recipiente único.",
-          "Leve à geladeira por 4 a 6 horas, ou até que esteja consistente e firme."
+          "Em uma panela, misture o leite condensado, 1 xícara de leite e o amido de milho dissolvido. Leve ao fogo médio, mexendo sempre, até engrossar.",
+          "Retire do fogo, adicione o creme de leite e a essência de baunilha (se usar). Misture bem e reserve.",
+          "Umedeça as bolachas maisena no leite restante, uma a uma, rapidamente para não amolecerem demais.",
+          "Em um refratário, faça uma camada de creme, uma camada de bolachas umedecidas, e repita até terminarem os ingredientes, finalizando com uma camada de creme.",
+          "Decore com chocolate granulado ou raspas, se desejar. Leve à geladeira por no mínimo 3 horas antes de servir."
         ],
-        "id": "mousse-de-maracuj-simples-1edc80"
+        "id": "pav-de-bolacha-simples-aac4d8"
       }
     ]
   },

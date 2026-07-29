@@ -1559,5 +1559,44 @@
       "caseiro"
     ],
     "data": "29/07/2026"
+  },
+  {
+    "id": "bife-rol-na-panela-2d55a0",
+    "titulo": "Bife à Rolê na Panela",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "equilibrado"
+    ],
+    "data": "29/07/2026"
+  },
+  {
+    "id": "escondidinho-de-carne-mo-da-177454",
+    "titulo": "Escondidinho de Carne Moída",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "equilibrado"
+    ],
+    "data": "29/07/2026"
+  },
+  {
+    "id": "salada-de-r-cula-com-tomate-seco-e-parme-7feab5",
+    "titulo": "Salada de Rúcula com Tomate Seco e Parmesão",
+    "tags": [
+      "salada",
+      "rapido",
+      "vegetariano"
+    ],
+    "data": "29/07/2026"
+  },
+  {
+    "id": "pav-de-bolacha-simples-aac4d8",
+    "titulo": "Pavê de Bolacha Simples",
+    "tags": [
+      "rapido",
+      "sobremesa"
+    ],
+    "data": "29/07/2026"
   }
 ]
