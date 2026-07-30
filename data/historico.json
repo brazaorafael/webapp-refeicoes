@@ -1598,5 +1598,55 @@
       "sobremesa"
     ],
     "data": "29/07/2026"
+  },
+  {
+    "id": "rosbife-de-fil-mignon-no-forno-58979a",
+    "titulo": "Rosbife de Filé Mignon no Forno",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "rende_sobra"
+    ],
+    "data": "30/07/2026"
+  },
+  {
+    "id": "bife-ao-molho-de-mostarda-f18d0a",
+    "titulo": "Bife ao Molho de Mostarda",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "grelhado"
+    ],
+    "data": "30/07/2026"
+  },
+  {
+    "id": "sobrecoxas-assadas-com-p-prica-e-ervas-b33281",
+    "titulo": "Sobrecoxas Assadas com Páprica e Ervas",
+    "tags": [
+      "frango",
+      "forno",
+      "rende_sobra"
+    ],
+    "data": "30/07/2026"
+  },
+  {
+    "id": "salada-com-gr-o-de-bico-e-rabanete-assad-edc860",
+    "titulo": "Salada com Grão-de-bico e Rabanete Assados na Airfryer",
+    "tags": [
+      "vegetariano",
+      "airfryer",
+      "rapido"
+    ],
+    "data": "30/07/2026"
+  },
+  {
+    "id": "bombom-de-travessa-5d18d2",
+    "titulo": "Bombom de Travessa",
+    "tags": [
+      "rapido",
+      "sem_forno",
+      "doce"
+    ],
+    "data": "30/07/2026"
   }
 ]

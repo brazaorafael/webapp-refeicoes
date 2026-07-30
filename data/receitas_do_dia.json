@@ -1,175 +1,161 @@
 {
-  "gerado_em": "29/07/2026",
+  "gerado_em": "30/07/2026",
   "diario": {
     "tipo": "diario",
-    "data": "29/07/2026",
-    "dia_semana": "quarta",
+    "data": "30/07/2026",
+    "dia_semana": "quinta",
     "pratos": [
       {
-        "nome": "Bife à Rolê na Panela",
+        "nome": "Rosbife de Filé Mignon no Forno",
         "curso": "principal",
-        "tempo": "~45 min",
-        "url": "https://paladar.estadao.com.br/receitas/bife-a-role-com-bacon-e-cenoura-receita-da-chef-renata-braune,10000057279",
-        "porque": "É uma opção de carne vermelha que utiliza o cozimento em panela, sem fritura profunda, com preparo simples e que rende bem para o jantar e sobras.",
-        "tags": [
-          "carne_vermelha",
-          "rapido",
-          "equilibrado"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "450 g de coxão mole (ou patinho) cortado em 4 bifes finos",
-          "1 cenoura (200 g) cortada em palitos finos",
-          "100 g de bacon em pedaço fatiado fino",
-          "80 g de cebola (½ cebola média) fatiada fina",
-          "20 g de alho (2 dentes) fatiado fino",
-          "4 tomates maduros (450 g) picados",
-          "20 ml de molho inglês ou shoyu",
-          "Azeite a gosto",
-          "Sal e pimenta-do-reino a gosto",
-          "Barbante culinário ou palitos de dente para prender"
-        ],
-        "preparo": [
-          "Tempere os bifes com sal e pimenta-do-reino. Em cada bife, coloque palitos de cenoura e fatias de bacon. Enrole e prenda com barbante ou palitos.",
-          "Em uma panela que possa ir ao fogo, aqueça um fio de azeite e doure bem os bifes enrolados por todos os lados. Retire e reserve.",
-          "Na mesma panela, adicione a cebola e o alho fatiados, refogando até dourar. Acrescente os tomates picados e o molho inglês (ou shoyu).",
-          "Deixe os tomates desmancharem bem, verifique o sal e adicione 1 copo de água.",
-          "Recoloque os bifes na panela, tampe e cozinhe em fogo baixo por cerca de 40 minutos, ou até a carne ficar macia.",
-          "Retire o barbante ou palitos e sirva com arroz e uma salada verde."
-        ],
-        "id": "bife-rol-na-panela-2d55a0"
-      },
-      {
-        "nome": "Picadinho de Carne com Legumes",
-        "curso": "principal",
-        "tempo": "~50 min",
-        "url": "https://www.saboresajinomoto.com.br/receita/picadinho-de-carne-com-batata-e-cenoura",
-        "porque": "Um prato clássico da culinária brasileira, fácil de fazer no fogão, com boa fonte de proteína (carne vermelha) e legumes que garantem o equilíbrio.",
-        "tags": [
-          "carne_vermelha",
-          "rapido",
-          "equilibrado"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "400 g de alcatra (ou patinho) cortada em cubos",
-          "1 sachê de tempero completo (ou sal e pimenta-do-reino a gosto)",
-          "1 colher (sopa) de óleo",
-          "2 dentes de alho picados",
-          "1 cebola pequena picada",
-          "1 cenoura pequena em rodelas (100 g)",
-          "1 batata média em cubos (200 g)",
-          "3 e ½ xícaras (chá) de água fervente (700 ml)",
-          "3 colheres (sopa) de polpa de tomate",
-          "Cheiro-verde picado a gosto para finalizar"
-        ],
-        "preparo": [
-          "Em uma tigela, tempere a carne com o sachê de tempero (ou sal e pimenta) e deixe tomar gosto na geladeira por 30 minutos.",
-          "Em uma panela média, aqueça o óleo em fogo alto. Junte o alho e a cebola, refogando por 3 minutos até dourar.",
-          "Acrescente a carne aos poucos, fritando de todos os lados por aproximadamente 10 minutos, até mudar completamente de cor.",
-          "Adicione a cenoura, a batata, a água fervente e a polpa de tomate. Misture bem.",
-          "Deixe cozinhar em fogo baixo, com a panela semitampada, por 40 minutos, ou até a carne ficar macia e o molho encorpado.",
-          "Retire do fogo, finalize com cheiro-verde picado e sirva com arroz branco."
-        ],
-        "id": "picadinho-de-carne-com-legumes-e78ab4"
-      },
-      {
-        "nome": "Escondidinho de Carne Moída",
-        "curso": "principal",
-        "tempo": "~45 min",
-        "url": "https://anamariabraga.globo.com/receitas/escondidinho-de-carne-moida-com-mandioquinha-e-batata/",
-        "porque": "Um prato robusto e reconfortante, com carne vermelha e purê, assado no forno para evitar fritura, ideal para render sobras para o dia seguinte.",
+        "tempo": "45 min",
+        "url": "https://www.panelinha.com.br/receita/Rosbife",
+        "porque": "Carne vermelha preferida do casal, preparo no forno é prático e saudável, ideal para sobras.",
         "tags": [
           "carne_vermelha",
           "forno",
-          "equilibrado"
+          "rende_sobra"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "**Para o purê:**",
-          "500g de batata cozida e amassada",
-          "2 colheres (sopa) de manteiga",
-          "1 caixinha (200 g) de creme de leite",
-          "1 xícara (chá) de leite",
-          "Sal e pimenta-do-reino a gosto",
-          "50 g de queijo parmesão ralado para polvilhar",
-          "**Para o recheio:**",
-          "3 colheres (sopa) de óleo",
-          "3 dentes de alho triturados",
-          "500 g de carne moída",
-          "5 tomates maduros picados",
-          "½ xícara (chá) de molho de tomate",
-          "Sal e pimenta-do-reino a gosto",
-          "4 colheres (sopa) de salsa picadinha"
+          "750 g de filé mignon em peça",
+          "1 colher (chá) de mostarda amarela em pó",
+          "1 colher (chá) de páprica defumada",
+          "1/2 colher (sopa) de azeite",
+          "Sal e pimenta-do-reino moída na hora a gosto"
         ],
         "preparo": [
-          "**Prepare o purê:** Amasse as batatas cozidas. Em uma panela, refogue meia cebola em cubinhos na manteiga. Adicione o purê, o creme de leite, o leite, sal e pimenta. Cozinhe por 3 minutos. Reserve.",
-          "**Prepare o recheio:** Aqueça o óleo e refogue o alho. Junte a carne moída e refogue até ficar seca e soltinha.",
-          "Adicione os tomates picados e o molho de tomate. Tempere com sal e pimenta a gosto. Cozinhe até formar um molho encorpado.",
-          "Ajuste o sal do recheio e acrescente a salsa picadinha.",
-          "**Montagem:** Unte um refratário e espalhe metade do purê no fundo. Distribua o recheio de carne moída por cima.",
-          "Cubra com o restante do purê e polvilhe com queijo parmesão ralado. Leve ao forno médio pré-aquecido a 200 °C até gratinar (cerca de 20 minutos)."
+          "Preaqueça o forno a 220 ºC. Retire a peça de filé mignon da geladeira e deixe em temperatura ambiente por 15 minutos.",
+          "Numa tigela pequena, misture a páprica com a mostarda em pó. Tempere a carne com sal, pimenta e a mistura de especiarias.",
+          "Regue com o azeite e espalhe bem com as mãos por toda a superfície da carne. Transfira o filé mignon para uma assadeira grande.",
+          "Leve ao forno por 15 minutos a 220 ºC. Diminua a temperatura para 180 ºC e asse por mais 10-15 minutos para malpassado ou ao ponto.",
+          "Retire a assadeira do forno, cubra a carne com papel-alumínio e deixe descansar por 10 minutos antes de fatiar e servir."
         ],
-        "id": "escondidinho-de-carne-mo-da-177454"
+        "id": "rosbife-de-fil-mignon-no-forno-58979a"
       },
       {
-        "nome": "Salada de Rúcula com Tomate Seco e Parmesão",
-        "curso": "entrada",
-        "tempo": "~10 min",
-        "url": "https://deliciasonline.com.br/receitas/salada-de-rucula-com-tomate-seco-e-parmesao/",
-        "porque": "Uma entrada fresca, leve e rápida de preparar, com sabores equilibrados e sem nenhum tipo de fritura.",
+        "nome": "Bife ao Molho de Mostarda",
+        "curso": "principal",
+        "tempo": "25 min",
+        "url": "https://www.anamariabraga.com.br/receitas/file-ao-molho-de-mostarda-e-alcaparras",
+        "porque": "Opção rápida de carne vermelha, grelhada com pouco óleo e molho saboroso, perfeito para um jantar prático.",
         "tags": [
-          "salada",
+          "carne_vermelha",
           "rapido",
-          "vegetariano"
+          "grelhado"
         ],
         "rende_sobra": false,
         "ingredientes": [
-          "1 maço de rúcula fresca, lavada e seca",
-          "½ xícara (chá) de tomate seco escorrido e picado",
-          "50 g de queijo parmesão em lascas",
-          "2 colheres (sopa) de azeite de oliva extravirgem",
-          "1 colher (sopa) de vinagre balsâmico (ou suco de limão)",
-          "Sal e pimenta-do-reino a gosto"
+          "2 bifes grossos de filé mignon (ou alcatra)",
+          "1 colher (sopa) de óleo",
+          "Sal e pimenta-do-reino a gosto",
+          "3 colheres (sopa) de mostarda",
+          "1/2 xícara (chá) de creme de leite (opcional, para cremosidade)",
+          "2 colheres (sopa) de cheiro verde picado (salsinha e cebolinha)"
         ],
         "preparo": [
-          "Lave bem as folhas de rúcula e seque-as cuidadosamente com papel-toalha ou centrífuga de salada.",
-          "Em uma saladeira, disponha a rúcula. Espalhe os tomates secos picados por cima.",
-          "Finalize com as lascas de queijo parmesão.",
-          "Em um pequeno recipiente, misture o azeite, o vinagre balsâmico (ou limão), sal e pimenta-do-reino para fazer o molho.",
-          "Regue a salada com o molho e misture delicadamente na hora de servir."
+          "Tempere os bifes com sal e pimenta-do-reino a gosto.",
+          "Em uma frigideira, aqueça o óleo em fogo médio-alto e doure os bifes dos dois lados até o ponto desejado. Retire e reserve.",
+          "Na mesma frigideira (sem lavar), adicione a mostarda e, se usar, o creme de leite. Misture bem e deixe ferver por 1-2 minutos.",
+          "Incorpore o cheiro verde picado ao molho. Ajuste o sal e a pimenta, se necessário.",
+          "Retorne os bifes à frigideira, regue com o molho e sirva imediatamente."
         ],
-        "id": "salada-de-r-cula-com-tomate-seco-e-parme-7feab5"
+        "id": "bife-ao-molho-de-mostarda-f18d0a"
       },
       {
-        "nome": "Pavê de Bolacha Simples",
-        "curso": "sobremesa",
-        "tempo": "~20 min",
-        "url": "https://www.tudogostoso.com.br/receita/2384-pave-de-bolacha-de-maisena.html",
-        "porque": "Uma sobremesa clássica brasileira, muito fácil de fazer, que não exige forno e pode ser preparada com antecedência.",
+        "nome": "Sobrecoxas Assadas com Páprica e Ervas",
+        "curso": "principal",
+        "tempo": "40 min",
+        "url": "https://www.panelinha.com.br/receita/Sobrecoxas-assadas-com-paprica-e-ervas",
+        "porque": "Frango suculento e crocante no forno, com marinada simples e ótimo rendimento para sobras.",
         "tags": [
-          "rapido",
-          "sobremesa"
+          "frango",
+          "forno",
+          "rende_sobra"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "1 lata de leite condensado",
-          "1 lata de creme de leite (sem soro)",
-          "1 xícara (chá) de leite (para o creme)",
-          "2 colheres (sopa) de amido de milho",
-          "1 pacote de bolacha maisena (200g)",
-          "1 xícara (chá) de leite (para umedecer as bolachas)",
-          "Essência de baunilha a gosto (opcional)",
-          "Chocolate granulado ou raspas para decorar (opcional)"
+          "4 sobrecoxas de frango com pele e osso",
+          "1 cebola roxa grande",
+          "4 dentes de alho grandes",
+          "1/3 xícara (chá) de caldo de limão",
+          "1 xícara (chá) de água",
+          "8 folhas de sálvia",
+          "6 ramos de orégano fresco (ou tomilho)",
+          "1/2 colher (chá) de sementes de erva-doce (opcional)",
+          "1 colher (chá) de páprica doce (ou defumada)",
+          "1 1/2 colher (chá) de sal",
+          "Pimenta-do-reino moída na hora a gosto",
+          "2 colheres (sopa) de azeite"
         ],
         "preparo": [
-          "Em uma panela, misture o leite condensado, 1 xícara de leite e o amido de milho dissolvido. Leve ao fogo médio, mexendo sempre, até engrossar.",
-          "Retire do fogo, adicione o creme de leite e a essência de baunilha (se usar). Misture bem e reserve.",
-          "Umedeça as bolachas maisena no leite restante, uma a uma, rapidamente para não amolecerem demais.",
-          "Em um refratário, faça uma camada de creme, uma camada de bolachas umedecidas, e repita até terminarem os ingredientes, finalizando com uma camada de creme.",
-          "Decore com chocolate granulado ou raspas, se desejar. Leve à geladeira por no mínimo 3 horas antes de servir."
+          "No pilão, bata as sementes de erva-doce (se usar) e misture com o sal, a páprica e a pimenta-do-reino. Esfregue essa mistura nas sobrecoxas, inclusive sob a pele.",
+          "Disponha as sobrecoxas em uma travessa com a pele para cima e leve à geladeira por 40 minutos (ou até 2 horas) para a pele secar e o tempero penetrar.",
+          "Enquanto isso, preaqueça o forno a 200 ºC. Corte a cebola roxa em gomos e amasse os dentes de alho. Distribua na assadeira com as folhas de sálvia e orégano.",
+          "Retire o frango da geladeira. Regue o fundo da assadeira com o caldo de limão e a água. Posicione as sobrecoxas sobre os legumes.",
+          "Leve ao forno preaquecido por cerca de 30-40 minutos, ou até o frango estar dourado e cozido por completo. Sirva com o molho que se formou na assadeira."
         ],
-        "id": "pav-de-bolacha-simples-aac4d8"
+        "id": "sobrecoxas-assadas-com-p-prica-e-ervas-b33281"
+      },
+      {
+        "nome": "Salada com Grão-de-bico e Rabanete Assados na Airfryer",
+        "curso": "entrada",
+        "tempo": "25 min",
+        "url": "https://www.panelinha.com.br/receita/Salada-com-rabanete-e-grao-de-bico-assados-na-Air-Fryer-da-Rita-Lobo",
+        "porque": "Entrada leve e nutritiva, com grão-de-bico crocante da Airfryer e rabanetes adocicados, sem fritura em óleo.",
+        "tags": [
+          "vegetariano",
+          "airfryer",
+          "rapido"
+        ],
+        "rende_sobra": false,
+        "ingredientes": [
+          "1 xícara (chá) de grão-de-bico cozido (cerca de 180g)",
+          "4 rabanetes (cerca de 180g)",
+          "1 colher (sopa) de azeite",
+          "1/2 colher (chá) de páprica doce",
+          "1/4 colher (chá) de cominho em pó",
+          "Sal e pimenta-do-reino a gosto",
+          "Folhas verdes a gosto (alface, rúcula)",
+          "Raspas e caldo de 1 limão",
+          "Molho para salada (ex: tahine, água, alho, limão e sal)"
+        ],
+        "preparo": [
+          "Seque bem o grão-de-bico cozido. Lave e corte os rabanetes em fatias finas ou rodelas.",
+          "Numa tigela, misture o grão-de-bico e os rabanetes com o azeite, a páprica, o cominho, sal e pimenta.",
+          "Transfira para a cesta da Airfryer e asse a 200 ºC por cerca de 15-20 minutos, sacudindo a cesta na metade do tempo, até ficarem crocantes e dourados.",
+          "Em um prato, arrume as folhas verdes. Distribua o grão-de-bico e os rabanetes assados por cima.",
+          "Finalize com raspas e caldo de limão e regue com um molho leve de sua preferência."
+        ],
+        "id": "salada-com-gr-o-de-bico-e-rabanete-assad-edc860"
+      },
+      {
+        "nome": "Bombom de Travessa",
+        "curso": "sobremesa",
+        "tempo": "20 min",
+        "url": "https://www.tudogostoso.com.br/videos/sobremesas/bombom-de-travessa-95978.htm",
+        "porque": "Sobremesa clássica, fácil de fazer, sem forno e com ingredientes acessíveis, agrada a todos.",
+        "tags": [
+          "rapido",
+          "sem_forno",
+          "doce"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "2 latas de leite condensado",
+          "2 colheres (sopa) de manteiga",
+          "2 caixas de morangos fatiados (ou outras frutas)",
+          "250 g de chocolate meio amargo",
+          "2 caixas de creme de leite"
+        ],
+        "preparo": [
+          "Em uma panela, leve o leite condensado e a manteiga ao fogo baixo, mexendo sempre, até obter um brigadeiro mole (ponto de soltar do fundo da panela). Deixe esfriar.",
+          "Lave e fatie os morangos. Reserve.",
+          "Derreta o chocolate meio amargo em banho-maria ou no micro-ondas. Adicione o creme de leite e misture bem até formar uma ganache homogênea.",
+          "Em uma travessa, faça uma camada com o creme branco de leite condensado. Por cima, distribua os morangos fatiados.",
+          "Finalize com a ganache de chocolate, cobrindo bem os morangos. Leve à geladeira por no mínimo 3 horas antes de servir."
+        ],
+        "id": "bombom-de-travessa-5d18d2"
       }
     ]
   },
