@@ -1648,5 +1648,35 @@
       "doce"
     ],
     "data": "30/07/2026"
+  },
+  {
+    "id": "carne-mo-da-com-refogado-de-piment-o-10476d",
+    "titulo": "Carne Moída com Refogado de Pimentão",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "equilibrado"
+    ],
+    "data": "31/07/2026"
+  },
+  {
+    "id": "carne-mo-da-com-vagem-45225c",
+    "titulo": "Carne Moída com Vagem",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "equilibrado"
+    ],
+    "data": "31/07/2026"
+  },
+  {
+    "id": "ricota-grelhada-com-ervas-70fadd",
+    "titulo": "Ricota Grelhada com Ervas",
+    "tags": [
+      "vegetariano",
+      "grelhado",
+      "rapido"
+    ],
+    "data": "31/07/2026"
   }
 ]

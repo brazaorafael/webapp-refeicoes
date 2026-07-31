@@ -1,161 +1,125 @@
 {
-  "gerado_em": "30/07/2026",
+  "gerado_em": "31/07/2026",
   "diario": {
     "tipo": "diario",
-    "data": "30/07/2026",
-    "dia_semana": "quinta",
+    "data": "31/07/2026",
+    "dia_semana": "sexta",
     "pratos": [
       {
-        "nome": "Rosbife de Filé Mignon no Forno",
+        "nome": "Carne Moída com Refogado de Pimentão",
         "curso": "principal",
-        "tempo": "45 min",
-        "url": "https://www.panelinha.com.br/receita/Rosbife",
-        "porque": "Carne vermelha preferida do casal, preparo no forno é prático e saudável, ideal para sobras.",
-        "tags": [
-          "carne_vermelha",
-          "forno",
-          "rende_sobra"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "750 g de filé mignon em peça",
-          "1 colher (chá) de mostarda amarela em pó",
-          "1 colher (chá) de páprica defumada",
-          "1/2 colher (sopa) de azeite",
-          "Sal e pimenta-do-reino moída na hora a gosto"
-        ],
-        "preparo": [
-          "Preaqueça o forno a 220 ºC. Retire a peça de filé mignon da geladeira e deixe em temperatura ambiente por 15 minutos.",
-          "Numa tigela pequena, misture a páprica com a mostarda em pó. Tempere a carne com sal, pimenta e a mistura de especiarias.",
-          "Regue com o azeite e espalhe bem com as mãos por toda a superfície da carne. Transfira o filé mignon para uma assadeira grande.",
-          "Leve ao forno por 15 minutos a 220 ºC. Diminua a temperatura para 180 ºC e asse por mais 10-15 minutos para malpassado ou ao ponto.",
-          "Retire a assadeira do forno, cubra a carne com papel-alumínio e deixe descansar por 10 minutos antes de fatiar e servir."
-        ],
-        "id": "rosbife-de-fil-mignon-no-forno-58979a"
-      },
-      {
-        "nome": "Bife ao Molho de Mostarda",
-        "curso": "principal",
-        "tempo": "25 min",
-        "url": "https://www.anamariabraga.com.br/receitas/file-ao-molho-de-mostarda-e-alcaparras",
-        "porque": "Opção rápida de carne vermelha, grelhada com pouco óleo e molho saboroso, perfeito para um jantar prático.",
+        "tempo": "30 min",
+        "url": "https://www.panelinha.com.br/receita/carne-moida-refogado-pimentao",
+        "porque": "Uma receita prática e saborosa de carne vermelha refogada, com legumes e sem fritura excessiva, perfeita para o dia a dia do casal.",
         "tags": [
           "carne_vermelha",
           "rapido",
-          "grelhado"
-        ],
-        "rende_sobra": false,
-        "ingredientes": [
-          "2 bifes grossos de filé mignon (ou alcatra)",
-          "1 colher (sopa) de óleo",
-          "Sal e pimenta-do-reino a gosto",
-          "3 colheres (sopa) de mostarda",
-          "1/2 xícara (chá) de creme de leite (opcional, para cremosidade)",
-          "2 colheres (sopa) de cheiro verde picado (salsinha e cebolinha)"
-        ],
-        "preparo": [
-          "Tempere os bifes com sal e pimenta-do-reino a gosto.",
-          "Em uma frigideira, aqueça o óleo em fogo médio-alto e doure os bifes dos dois lados até o ponto desejado. Retire e reserve.",
-          "Na mesma frigideira (sem lavar), adicione a mostarda e, se usar, o creme de leite. Misture bem e deixe ferver por 1-2 minutos.",
-          "Incorpore o cheiro verde picado ao molho. Ajuste o sal e a pimenta, se necessário.",
-          "Retorne os bifes à frigideira, regue com o molho e sirva imediatamente."
-        ],
-        "id": "bife-ao-molho-de-mostarda-f18d0a"
-      },
-      {
-        "nome": "Sobrecoxas Assadas com Páprica e Ervas",
-        "curso": "principal",
-        "tempo": "40 min",
-        "url": "https://www.panelinha.com.br/receita/Sobrecoxas-assadas-com-paprica-e-ervas",
-        "porque": "Frango suculento e crocante no forno, com marinada simples e ótimo rendimento para sobras.",
-        "tags": [
-          "frango",
-          "forno",
-          "rende_sobra"
+          "equilibrado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "4 sobrecoxas de frango com pele e osso",
-          "1 cebola roxa grande",
-          "4 dentes de alho grandes",
-          "1/3 xícara (chá) de caldo de limão",
-          "1 xícara (chá) de água",
-          "8 folhas de sálvia",
-          "6 ramos de orégano fresco (ou tomilho)",
-          "1/2 colher (chá) de sementes de erva-doce (opcional)",
-          "1 colher (chá) de páprica doce (ou defumada)",
-          "1 1/2 colher (chá) de sal",
-          "Pimenta-do-reino moída na hora a gosto",
-          "2 colheres (sopa) de azeite"
+          "500g de patinho moído",
+          "1 pimentão vermelho",
+          "1 cebola",
+          "2 dentes de alho",
+          "½ xícara (chá) de água quente",
+          "3 colheres (sopa) de azeite",
+          "Sal e pimenta-do-reino moída na hora a gosto",
+          "Cebolinha fatiada a gosto para servir"
         ],
         "preparo": [
-          "No pilão, bata as sementes de erva-doce (se usar) e misture com o sal, a páprica e a pimenta-do-reino. Esfregue essa mistura nas sobrecoxas, inclusive sob a pele.",
-          "Disponha as sobrecoxas em uma travessa com a pele para cima e leve à geladeira por 40 minutos (ou até 2 horas) para a pele secar e o tempero penetrar.",
-          "Enquanto isso, preaqueça o forno a 200 ºC. Corte a cebola roxa em gomos e amasse os dentes de alho. Distribua na assadeira com as folhas de sálvia e orégano.",
-          "Retire o frango da geladeira. Regue o fundo da assadeira com o caldo de limão e a água. Posicione as sobrecoxas sobre os legumes.",
-          "Leve ao forno preaquecido por cerca de 30-40 minutos, ou até o frango estar dourado e cozido por completo. Sirva com o molho que se formou na assadeira."
+          "Retire a carne da geladeira. Corte o pimentão em cubos médios, a cebola em cubos pequenos e pique o alho fino.",
+          "Em uma panela média, aqueça 2 colheres (sopa) de azeite em fogo baixo. Refogue a cebola com uma pitada de sal por 10 minutos, até dourar.",
+          "Adicione o pimentão, tempere com sal e pimenta, e refogue por 2 minutos. Acrescente o alho e misture.",
+          "Aumente o fogo, afaste o refogado, adicione 1 colher (sopa) de azeite e a carne moída. Tempere com sal e pimenta e cozinhe por 10 minutos, mexendo para dourar.",
+          "Regue a água quente aos poucos, raspando o fundo. Desligue o fogo, misture a cebolinha e sirva."
         ],
-        "id": "sobrecoxas-assadas-com-p-prica-e-ervas-b33281"
+        "id": "carne-mo-da-com-refogado-de-piment-o-10476d"
       },
       {
-        "nome": "Salada com Grão-de-bico e Rabanete Assados na Airfryer",
+        "nome": "Carne Moída com Vagem",
+        "curso": "principal",
+        "tempo": "30 min",
+        "url": "https://www.panelinha.com.br/receita/carne-moida-com-vagem",
+        "porque": "Esta versão de carne moída refogada é rápida, rica em proteína e adiciona vagem para um prato equilibrado e com pouca fritura.",
+        "tags": [
+          "carne_vermelha",
+          "rapido",
+          "equilibrado"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "400g de patinho moído",
+          "200g de vagem (cerca de 20 unidades)",
+          "½ cebola",
+          "1 dente de alho",
+          "1 xícara (chá) de água",
+          "1 colher (sopa) de farinha de trigo",
+          "2 colheres (sopa) de azeite",
+          "1 colher (chá) de páprica doce",
+          "½ colher (chá) de cominho",
+          "Sal e pimenta-do-reino moída na hora a gosto"
+        ],
+        "preparo": [
+          "Retire a carne da geladeira. Lave e fatie as vagens na diagonal (1,5 cm). Pique a cebola em cubos de 1 cm e o alho fino.",
+          "Em uma panela quente com 1 colher (sopa) de azeite, coloque a carne moída em montinhos. Doure por 1 minuto sem mexer, depois cozinhe por 5 minutos, desmanchando os pedaços. Tempere com sal e pimenta.",
+          "Transfira a carne dourada para uma tigela. Na mesma panela, adicione 1 colher (sopa) de azeite, cebola e vagem. Refogue por 5 minutos, até a vagem ficar al dente.",
+          "Junte o alho, páprica e cominho, refogue por 1 minuto. Polvilhe a farinha e mexa por 1 minuto.",
+          "Acrescente a água quente, raspando o fundo. Volte a carne para a panela e cozinhe por mais 2 minutos para o molho encorpar. Sirva."
+        ],
+        "id": "carne-mo-da-com-vagem-45225c"
+      },
+      {
+        "nome": "Ricota Grelhada com Ervas",
         "curso": "entrada",
-        "tempo": "25 min",
-        "url": "https://www.panelinha.com.br/receita/Salada-com-rabanete-e-grao-de-bico-assados-na-Air-Fryer-da-Rita-Lobo",
-        "porque": "Entrada leve e nutritiva, com grão-de-bico crocante da Airfryer e rabanetes adocicados, sem fritura em óleo.",
+        "tempo": "15 min",
+        "url": "https://www.panelinha.com.br/receita/ricota-grelhada",
+        "porque": "Uma entrada rápida, saudável e proteica, com sabor fresco das ervas e preparada na grelha com pouco azeite.",
         "tags": [
           "vegetariano",
-          "airfryer",
+          "grelhado",
           "rapido"
         ],
         "rende_sobra": false,
         "ingredientes": [
-          "1 xícara (chá) de grão-de-bico cozido (cerca de 180g)",
-          "4 rabanetes (cerca de 180g)",
-          "1 colher (sopa) de azeite",
-          "1/2 colher (chá) de páprica doce",
-          "1/4 colher (chá) de cominho em pó",
-          "Sal e pimenta-do-reino a gosto",
-          "Folhas verdes a gosto (alface, rúcula)",
-          "Raspas e caldo de 1 limão",
-          "Molho para salada (ex: tahine, água, alho, limão e sal)"
+          "1 ricota fresca (aprox. 400g)",
+          "4 colheres (sopa) de azeite",
+          "8 folhas de manjericão",
+          "8 folhas de hortelã",
+          "8 folhas de salsa crespa",
+          "Sal e pimenta-do-reino moída na hora a gosto"
         ],
         "preparo": [
-          "Seque bem o grão-de-bico cozido. Lave e corte os rabanetes em fatias finas ou rodelas.",
-          "Numa tigela, misture o grão-de-bico e os rabanetes com o azeite, a páprica, o cominho, sal e pimenta.",
-          "Transfira para a cesta da Airfryer e asse a 200 ºC por cerca de 15-20 minutos, sacudindo a cesta na metade do tempo, até ficarem crocantes e dourados.",
-          "Em um prato, arrume as folhas verdes. Distribua o grão-de-bico e os rabanetes assados por cima.",
-          "Finalize com raspas e caldo de limão e regue com um molho leve de sua preferência."
+          "Corte a ricota em fatias de 2 cm de espessura. Lave e seque as ervas frescas.",
+          "Aqueça uma frigideira antiaderente em fogo médio. Adicione 1 colher (sopa) de azeite.",
+          "Grelhe as fatias de ricota (até duas por vez) por 4 minutos de cada lado, até dourar.",
+          "Transfira para um prato, tempere com sal e pimenta, salpique as ervas frescas e regue com um fio de azeite. Sirva imediatamente."
         ],
-        "id": "salada-com-gr-o-de-bico-e-rabanete-assad-edc860"
+        "id": "ricota-grelhada-com-ervas-70fadd"
       },
       {
-        "nome": "Bombom de Travessa",
+        "nome": "Mousse de Chocolate com Água",
         "curso": "sobremesa",
-        "tempo": "20 min",
-        "url": "https://www.tudogostoso.com.br/videos/sobremesas/bombom-de-travessa-95978.htm",
-        "porque": "Sobremesa clássica, fácil de fazer, sem forno e com ingredientes acessíveis, agrada a todos.",
+        "tempo": "15 min (preparo) + 12h (geladeira)",
+        "url": "https://www.panelinha.com.br/receita/musse-de-chocolate-de-liquidificador",
+        "porque": "Uma sobremesa surpreendente e extremamente fácil de fazer, utilizando apenas chocolate e água, sem forno e com um preparo rápido.",
         "tags": [
+          "vegetariano",
           "rapido",
-          "sem_forno",
           "doce"
         ],
-        "rende_sobra": true,
+        "rende_sobra": false,
         "ingredientes": [
-          "2 latas de leite condensado",
-          "2 colheres (sopa) de manteiga",
-          "2 caixas de morangos fatiados (ou outras frutas)",
-          "250 g de chocolate meio amargo",
-          "2 caixas de creme de leite"
+          "150g de chocolate 60% cacau picado (cerca de ¾ xícara)",
+          "250ml de água fervente"
         ],
         "preparo": [
-          "Em uma panela, leve o leite condensado e a manteiga ao fogo baixo, mexendo sempre, até obter um brigadeiro mole (ponto de soltar do fundo da panela). Deixe esfriar.",
-          "Lave e fatie os morangos. Reserve.",
-          "Derreta o chocolate meio amargo em banho-maria ou no micro-ondas. Adicione o creme de leite e misture bem até formar uma ganache homogênea.",
-          "Em uma travessa, faça uma camada com o creme branco de leite condensado. Por cima, distribua os morangos fatiados.",
-          "Finalize com a ganache de chocolate, cobrindo bem os morangos. Leve à geladeira por no mínimo 3 horas antes de servir."
+          "Pique o chocolate e transfira para o liquidificador.",
+          "Regue com a água fervente, segure a tampa e bata por 5 minutos até a mistura ficar lisa e aerada.",
+          "Transfira a musse para uma travessa ou taças individuais, garantindo que a camada não fique muito alta.",
+          "Leve à geladeira e deixe firmar por no mínimo 12 horas. Sirva gelada."
         ],
-        "id": "bombom-de-travessa-5d18d2"
+        "id": "mousse-de-chocolate-com-gua-945f5d"
       }
     ]
   },
