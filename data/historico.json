@@ -1678,5 +1678,45 @@
       "rapido"
     ],
     "data": "31/07/2026"
+  },
+  {
+    "id": "picadinho-de-carne-na-press-o-econ-mico-fd41ca",
+    "titulo": "Picadinho de Carne na Pressão (Econômico)",
+    "tags": [
+      "carne_vermelha",
+      "panela",
+      "rapido"
+    ],
+    "data": "01/08/2026"
+  },
+  {
+    "id": "maminha-na-press-o-fc410d",
+    "titulo": "Maminha na Pressão",
+    "tags": [
+      "carne_vermelha",
+      "panela",
+      "rapido"
+    ],
+    "data": "01/08/2026"
+  },
+  {
+    "id": "salada-picadinha-com-molho-oriental-603640",
+    "titulo": "Salada Picadinha com Molho Oriental",
+    "tags": [
+      "salada",
+      "rapido",
+      "vegetariano"
+    ],
+    "data": "01/08/2026"
+  },
+  {
+    "id": "mousse-de-chocolate-hiper-f-cil-7daf17",
+    "titulo": "Mousse de Chocolate Hiper Fácil",
+    "tags": [
+      "rapido",
+      "sem_forno",
+      "sobremesa"
+    ],
+    "data": "01/08/2026"
   }
 ]
