@@ -1,140 +1,134 @@
 {
-  "gerado_em": "01/08/2026",
+  "gerado_em": "02/08/2026",
   "diario": {
     "tipo": "diario",
-    "data": "01/08/2026",
-    "dia_semana": "sábado",
+    "data": "02/08/2026",
+    "dia_semana": "domingo",
     "pratos": [
       {
-        "nome": "Picadinho de Carne na Pressão (Econômico)",
+        "nome": "Bife Acebolado na Frigideira com Arroz e Salada",
         "curso": "principal",
-        "tempo": "40 min",
-        "url": "https://www.youtube.com/watch?v=R9K-g9U4-kI",
-        "porque": "Um clássico da culinária brasileira, prático, usa carne vermelha e rende sobras para o dia seguinte.",
+        "tempo": "25 min",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGr8W4fHp91UKzgOgiVLr2PdcXMOD33yoXtx2yGHKncb7TJthruFtYJ6gnAJkrLIe5-u52NbfAEUe1P76HaAuevp3neieBf-ChUQfRcfAzhof-VSf28MzeYeQx0eBMuWcqbVz-p0b7vmnUv",
+        "porque": "É um clássico da culinária brasileira, rápido de preparar na frigideira com pouco azeite, atendendo à preferência por carne vermelha e à regra de pouca fritura.",
         "tags": [
           "carne_vermelha",
-          "panela",
+          "grelhado",
           "rapido"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "1,5 kg de músculo em cubos médios",
-          "2 colheres (sopa) de sal",
-          "1 colher (chá) de páprica picante",
-          "1 colher (chá) de açafrão-da-terra (cúrcuma) em pó",
-          "3 colheres (sopa) de azeite",
-          "1 e 1/2 xícara (chá) de cebola picadinha (200g)",
-          "1 colher (sopa) de alho picado",
-          "1/2 xícara (chá) de extrato de tomate",
-          "3 xícaras (chá) de água quente (720ml)"
+          "2 bifes de contrafilé (ou alcatra) (~180g cada)",
+          "1 cebola grande",
+          "2 dentes de alho picados (opcional)",
+          "2 colheres de sopa de azeite",
+          "Sal a gosto",
+          "Pimenta-do-reino moída na hora a gosto",
+          "Arroz branco e salada verde para acompanhar"
         ],
         "preparo": [
-          "Tempere o músculo com sal, páprica e açafrão; reserve.",
-          "Em uma frigideira grande e bem aquecida, junte 1 colher (sopa) de azeite e doure metade do músculo. Despeje um pouco de água para soltar o 'agarradinho' e transfira para a panela de pressão. Repita com o restante da carne.",
-          "Na mesma frigideira, aqueça o azeite restante e doure bem a cebola e o alho. Junte o extrato de tomate, refogue rapidamente e transfira para a panela de pressão.",
-          "Adicione a água quente na panela de pressão.",
-          "Tampe a panela e leve ao fogo médio. Cozinhe por 20 minutos após pegar pressão.",
-          "Libere a pressão para abrir a panela e sirva o picadinho com seus acompanhamentos preferidos."
+          "Tempere os bifes com sal e pimenta-do-reino dos dois lados.",
+          "Aqueça 1 colher de sopa de azeite em uma frigideira grande em fogo médio-alto. Doure os bifes por 2-3 minutos de cada lado, conforme o ponto desejado. Retire e reserve.",
+          "Na mesma frigideira, adicione o azeite restante e refogue a cebola em meias-luas e o alho picado até ficarem macios e levemente caramelizados, cerca de 5-7 minutos.",
+          "Retorne os bifes à frigideira, misturando-os com as cebolas para absorverem o sabor.",
+          "Sirva imediatamente, acompanhado de arroz branco e uma salada verde."
         ],
-        "id": "picadinho-de-carne-na-press-o-econ-mico-fd41ca"
+        "id": "bife-acebolado-na-frigideira-com-arroz-e-7731d9"
       },
       {
-        "nome": "Maminha na Pressão",
+        "nome": "Panelinha de Frango com Legumes",
         "curso": "principal",
-        "tempo": "45 min",
-        "url": "https://www.panelinha.com.br/receita/Maminha-na-pressao",
-        "porque": "Uma opção de carne vermelha suculenta e macia, com preparo ativo rápido e cozimento passivo na panela de pressão.",
+        "tempo": "35 min",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMDLDnKmbX55ypzVO6bM1G2rGC0tJ71EsXooKbIMa3KAX8FvXSpzD6s0N3ladhK8P054ijAtZ3nNDESdo0hZr8WlTGdW0giIzbEOz_EWWicb0wavUJaOzLzEkAcVsqd1FaJR6U9s8j7sCeCTkI9Hdpu_vKCg",
+        "porque": "É uma receita versátil e fácil de preparar, utilizando a técnica de refogado que evita fritura em óleo e combina proteína e diversos legumes.",
         "tags": [
-          "carne_vermelha",
-          "panela",
-          "rapido"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "1 peça de maminha (cerca de 730g)",
-          "1 pimentão vermelho",
-          "1 cebola",
-          "2 dentes de alho",
-          "1 colher (sopa) de extrato de tomate",
-          "2 colheres (sopa) de molho inglês",
-          "2 colheres (sopa) de vinagre de vinho branco",
-          "1 xícara (chá) de água",
-          "2 colheres (sopa) de azeite",
-          "2 colheres (chá) de amido de milho (opcional, para engrossar o molho)",
-          "1 colher (chá) de páprica",
-          "3 ramos de alecrim",
-          "Sal e pimenta-do-reino moída na hora a gosto"
-        ],
-        "preparo": [
-          "Tempere a maminha com a páprica, sal e pimenta-do-reino. Mantenha em temperatura ambiente. Descasque e pique a cebola e o alho, corte o pimentão em cubos.",
-          "Leve a panela de pressão ao fogo médio com 1 colher (sopa) de azeite. Doure a maminha por cerca de 4 minutos de cada lado e reserve a carne.",
-          "Na mesma panela, adicione mais 1 colher (sopa) de azeite, a cebola, pimentão, alho, extrato de tomate e molho inglês. Refogue por 1 minuto.",
-          "Regue com o vinagre e a água, misture bem raspando o fundo da panela. Junte os ramos de alecrim e volte a carne para a panela.",
-          "Feche a panela, aumente o fogo e, assim que começar a apitar, abaixe o fogo e cozinhe por 40 minutos. Desligue e espere a pressão sair naturalmente.",
-          "Retire a carne. Se desejar um molho mais encorpado, dissolva o amido de milho em um pouco de água e adicione ao molho na panela, fervendo por alguns minutos. Sirva a maminha fatiada com o molho."
-        ],
-        "id": "maminha-na-press-o-fc410d"
-      },
-      {
-        "nome": "Salada Picadinha com Molho Oriental",
-        "curso": "entrada",
-        "tempo": "20 min",
-        "url": "https://www.panelinha.com.br/receita/Salada-picadinha",
-        "porque": "Uma entrada leve, fresca e saudável, com preparo simples e rápido, perfeita para abrir o apetite.",
-        "tags": [
-          "salada",
+          "frango",
           "rapido",
-          "vegetariano"
+          "equilibrado"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "500g de peito de frango cortado em cubos",
+          "1 cebola média picada",
+          "2 dentes de alho picados",
+          "1 cenoura média em rodelas",
+          "1 pimentão (qualquer cor) em tiras ou cubos",
+          "1 abobrinha pequena em cubos",
+          "1/2 xícara de ervilhas frescas ou congeladas",
+          "1 lata de tomate pelado picado (ou 2 tomates frescos)",
+          "1/2 xícara de caldo de frango (ou água)",
+          "2 colheres de sopa de azeite",
+          "Sal, pimenta-do-reino, páprica doce e cheiro-verde a gosto"
+        ],
+        "preparo": [
+          "Tempere o frango em cubos com sal, pimenta-do-reino e páprica.",
+          "Em uma panela grande, aqueça o azeite e doure o frango em fogo alto. Retire e reserve.",
+          "Na mesma panela, refogue a cebola e o alho até ficarem macios.",
+          "Adicione a cenoura, o pimentão e a abobrinha. Refogue por alguns minutos.",
+          "Acrescente o tomate pelado (ou fresco), o caldo de frango e as ervilhas. Devolva o frango à panela e cozinhe em fogo médio por cerca de 15 minutos, ou até os legumes ficarem macios e o molho encorpado.",
+          "Finalize com cheiro-verde picado e sirva."
+        ],
+        "id": "panelinha-de-frango-com-legumes-6664b1"
+      },
+      {
+        "nome": "Espetinhos de Queijo Coalho com Tomate Cereja na Airfryer",
+        "curso": "entrada",
+        "tempo": "15 min",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLe02Pu2fnZmEJQMbeSe30pEqvYO--hQz43nMUSD1BFfzvftKpHFUfZBrwyRqrdIdgudhQ1yzh5OBNCtgsS-7nGC4QQfEZOKu6CMYETa9p7ySnZTtrvgM0JBYH5T1mzbuZemd1_ve-HuqE4wy2uYwVxlG4T9Q61BicSnEug==",
+        "porque": "É uma entrada muito prática e rápida, perfeita para a Airfryer, evitando frituras e combinando o sabor do queijo coalho com a frescura do tomate.",
+        "tags": [
+          "vegetariano",
+          "airfryer",
+          "rapido"
         ],
         "rende_sobra": false,
         "ingredientes": [
-          "1/2 pé de alface americana",
-          "1/4 de repolho roxo pequeno",
-          "1 cenoura média",
-          "1 pepino japonês",
-          "1/4 cebola roxa pequena",
-          "2 colheres (sopa) de shoyu",
-          "1 colher (sopa) de vinagre de arroz",
-          "1 colher (chá) de açúcar mascavo",
-          "1 colher (sopa) de óleo de gergelim (ou azeite)",
-          "Sal e pimenta-do-reino a gosto"
+          "1 bloco de queijo coalho (250g), cortado em cubos de ~2cm",
+          "15 tomates cereja",
+          "1 colher de sopa de azeite",
+          "Orégano a gosto",
+          "Palitos de churrasco pequenos"
         ],
         "preparo": [
-          "Lave bem as folhas de alface e repolho. Pique-as em tiras finas.",
-          "Descasque a cenoura e o pepino. Pique todos os legumes (cenoura, pepino, cebola) em cubinhos pequenos ou tiras finas.",
-          "Em uma tigela grande, junte todos os ingredientes picados da salada.",
-          "Em um recipiente pequeno, misture os ingredientes do molho: shoyu, vinagre de arroz, açúcar mascavo, óleo de gergelim, sal e pimenta.",
-          "Regue a salada com o molho apenas na hora de servir. Misture bem e sirva imediatamente."
+          "Corte o queijo coalho em cubos e os tomates cereja ao meio (opcional, para assar melhor).",
+          "Monte os espetinhos, alternando cubos de queijo coalho e tomates cereja.",
+          "Pincele os espetinhos com azeite e polvilhe orégano a gosto.",
+          "Pré-aqueça a Airfryer a 180°C por 5 minutos.",
+          "Disponha os espetinhos na cesta da Airfryer e asse por 8-10 minutos, virando na metade do tempo, até o queijo dourar."
         ],
-        "id": "salada-picadinha-com-molho-oriental-603640"
+        "id": "espetinhos-de-queijo-coalho-com-tomate-c-804070"
       },
       {
-        "nome": "Mousse de Chocolate Hiper Fácil",
+        "nome": "Salada de Frutas Assada com Especiarias",
         "curso": "sobremesa",
-        "tempo": "20 min",
-        "url": "https://www.tudogostoso.com.br/receita/14903-mousse-de-chocolate-hiper-facil-e-mega-gostoso.html",
-        "porque": "Uma sobremesa clássica e indulgente, incrivelmente fácil de preparar no liquidificador, sem a necessidade de forno.",
+        "tempo": "45 min",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFas_GrVtoI8qTZO7Wkot5Dw-ptXzunUCdEhjy59Q5g_vfjB5cZIktG0CddWsULlKcCSnLjP-z8QJ6OMhUZJQT22pLMlUpZ6kAkVeGAItuSr5fYLLT8JBTcKl1GHR_XFtawVn11cEjo1MdGkeb8wrPtgXcQPq6AZzyQ8MYlWJlKOQjPrUPq0nY9i_8-MYFVlpmLKD34rLm-UlYW4D5xd0uQ5Y8nEBCOyW50Z-kQ_0InhPed_OQeZDhqtiBnpVuXjw==",
+        "porque": "É uma sobremesa leve e saborosa que utiliza o forno, sem fritura, e oferece uma forma diferente de apreciar frutas frescas.",
         "tags": [
-          "rapido",
-          "sem_forno",
-          "sobremesa"
+          "vegetariano",
+          "forno",
+          "rapido"
         ],
-        "rende_sobra": true,
+        "rende_sobra": false,
         "ingredientes": [
-          "2 latas de creme de leite sem soro",
-          "1 lata de leite condensado",
-          "1 pacote de gelatina em pó sem sabor (12g)",
-          "8 colheres (sopa) de chocolate em pó ou achocolatado"
+          "1 kg de frutas frescas picadas (uva, banana, morango, maçã, manga)",
+          "1/2 xícara (chá) de açúcar (90g)",
+          "200g de creme de leite aquecido",
+          "100g de manteiga em temperatura ambiente",
+          "60g de açúcar (1/4 xícara de chá)",
+          "100ml de leite (1/2 xícara de chá)",
+          "90g de farinha de trigo (1/2 xícara de chá)",
+          "1/2 colher (chá) de fermento químico em pó"
         ],
         "preparo": [
-          "Hidrate e dissolva a gelatina em pó sem sabor conforme as instruções da embalagem (geralmente com 5 colheres de sopa de água quente).",
-          "No liquidificador, adicione o creme de leite, o leite condensado e o chocolate em pó.",
-          "Bata por aproximadamente 2 minutos, até obter uma mistura homogênea.",
-          "Acrescente a gelatina dissolvida à mistura do liquidificador e bata por mais 30 segundos para incorporar.",
-          "Despeje a mousse em um recipiente (taças individuais ou travessa), cubra com plástico filme e leve à geladeira.",
-          "Deixe gelar por no mínimo 3 horas, ou até firmar, antes de servir."
+          "Em uma panela, derreta 90g de açúcar em fogo médio até caramelizar. Adicione o creme de leite aquecido e misture bem por 2 minutos até obter uma calda homogênea. Desligue o fogo e incorpore as frutas picadas.",
+          "Transfira a mistura de frutas com caramelo para um refratário. Reserve.",
+          "Em outro recipiente, misture a manteiga, 60g de açúcar, o leite e a farinha de trigo até formar uma massa homogênea. Adicione o fermento em pó e misture novamente.",
+          "Despeje a massa delicadamente sobre as frutas no refratário, cobrindo-as. Salpique mais 60g de açúcar por cima da massa.",
+          "Leve ao forno pré-aquecido a 180°C por 40 minutos, ou até a massa dourar e as frutas estarem macias.",
+          "Retire do forno, deixe amornar e sirva, opcionalmente com sorvete de creme."
         ],
-        "id": "mousse-de-chocolate-hiper-f-cil-7daf17"
+        "id": "salada-de-frutas-assada-com-especiarias-10b176"
       }
     ]
   },

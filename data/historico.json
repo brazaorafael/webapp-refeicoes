@@ -1718,5 +1718,45 @@
       "sobremesa"
     ],
     "data": "01/08/2026"
+  },
+  {
+    "id": "bife-acebolado-na-frigideira-com-arroz-e-7731d9",
+    "titulo": "Bife Acebolado na Frigideira com Arroz e Salada",
+    "tags": [
+      "carne_vermelha",
+      "grelhado",
+      "rapido"
+    ],
+    "data": "02/08/2026"
+  },
+  {
+    "id": "panelinha-de-frango-com-legumes-6664b1",
+    "titulo": "Panelinha de Frango com Legumes",
+    "tags": [
+      "frango",
+      "rapido",
+      "equilibrado"
+    ],
+    "data": "02/08/2026"
+  },
+  {
+    "id": "espetinhos-de-queijo-coalho-com-tomate-c-804070",
+    "titulo": "Espetinhos de Queijo Coalho com Tomate Cereja na Airfryer",
+    "tags": [
+      "vegetariano",
+      "airfryer",
+      "rapido"
+    ],
+    "data": "02/08/2026"
+  },
+  {
+    "id": "salada-de-frutas-assada-com-especiarias-10b176",
+    "titulo": "Salada de Frutas Assada com Especiarias",
+    "tags": [
+      "vegetariano",
+      "forno",
+      "rapido"
+    ],
+    "data": "02/08/2026"
   }
 ]
