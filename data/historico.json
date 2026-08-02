@@ -1758,5 +1758,45 @@
       "rapido"
     ],
     "data": "02/08/2026"
+  },
+  {
+    "id": "carne-mo-da-refogada-com-cenoura-e-vagem-3e331d",
+    "titulo": "Carne Moída Refogada com Cenoura e Vagem",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "equilibrado"
+    ],
+    "data": "02/08/2026"
+  },
+  {
+    "id": "bife-de-alcatra-grelhado-com-pur-de-bata-60aea1",
+    "titulo": "Bife de Alcatra Grelhado com Purê de Batatas e Brócolis",
+    "tags": [
+      "carne_vermelha",
+      "grelhado",
+      "rapido"
+    ],
+    "data": "02/08/2026"
+  },
+  {
+    "id": "salada-de-pepino-e-tomate-com-azeite-e-o-04b070",
+    "titulo": "Salada de Pepino e Tomate com Azeite e Orégano",
+    "tags": [
+      "salada",
+      "rapido",
+      "vegetariano"
+    ],
+    "data": "02/08/2026"
+  },
+  {
+    "id": "salada-de-frutas-simples-0e8b11",
+    "titulo": "Salada de Frutas Simples",
+    "tags": [
+      "rapido",
+      "vegetariano",
+      "low_carb"
+    ],
+    "data": "02/08/2026"
   }
 ]
