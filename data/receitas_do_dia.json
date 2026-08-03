@@ -1,46 +1,94 @@
 {
-  "gerado_em": "02/08/2026",
+  "gerado_em": "03/08/2026",
   "diario": {
     "tipo": "diario",
-    "data": "02/08/2026",
-    "dia_semana": "domingo",
+    "data": "03/08/2026",
+    "dia_semana": "segunda",
     "pratos": [
       {
-        "nome": "Bife Acebolado na Frigideira com Arroz e Salada",
+        "nome": "Estrogonofe de Carne Rápido",
         "curso": "principal",
-        "tempo": "25 min",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGr8W4fHp91UKzgOgiVLr2PdcXMOD33yoXtx2yGHKncb7TJthruFtYJ6gnAJkrLIe5-u52NbfAEUe1P76HaAuevp3neieBf-ChUQfRcfAzhof-VSf28MzeYeQx0eBMuWcqbVz-p0b7vmnUv",
-        "porque": "É um clássico da culinária brasileira, rápido de preparar na frigideira com pouco azeite, atendendo à preferência por carne vermelha e à regra de pouca fritura.",
+        "tempo": "35 min",
+        "url": "https://www.anamariabraga.globo.com/receita/estrogonofe-rapido-e-economico-de-carne-e-frango/",
+        "porque": "É um clássico rápido e reconfortante, rico em proteína e com preparo em panela (refogado), evitando fritura excessiva, ideal para um jantar prático.",
         "tags": [
           "carne_vermelha",
-          "grelhado",
-          "rapido"
+          "rapido",
+          "refogado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "2 bifes de contrafilé (ou alcatra) (~180g cada)",
-          "1 cebola grande",
-          "2 dentes de alho picados (opcional)",
-          "2 colheres de sopa de azeite",
-          "Sal a gosto",
-          "Pimenta-do-reino moída na hora a gosto",
-          "Arroz branco e salada verde para acompanhar"
+          "500 g de filé-mignon (ou alcatra/patinho) em tiras",
+          "2 colheres (sopa) de manteiga",
+          "Sal e pimenta-do-reino a gosto",
+          "1 cebola picada",
+          "150 g de champignon em lâminas",
+          "2 colheres (sopa) de conhaque (opcional)",
+          "1 colher (chá) de molho inglês",
+          "2 colheres (sopa) de ketchup",
+          "2 colheres (sopa) de farinha de trigo",
+          "½ xícara (chá) de caldo de carne",
+          "½ xícara (chá) de suco de tomate",
+          "½ xícara (chá) de creme de leite"
         ],
         "preparo": [
-          "Tempere os bifes com sal e pimenta-do-reino dos dois lados.",
-          "Aqueça 1 colher de sopa de azeite em uma frigideira grande em fogo médio-alto. Doure os bifes por 2-3 minutos de cada lado, conforme o ponto desejado. Retire e reserve.",
-          "Na mesma frigideira, adicione o azeite restante e refogue a cebola em meias-luas e o alho picado até ficarem macios e levemente caramelizados, cerca de 5-7 minutos.",
-          "Retorne os bifes à frigideira, misturando-os com as cebolas para absorverem o sabor.",
-          "Sirva imediatamente, acompanhado de arroz branco e uma salada verde."
+          "Tempere as tiras de carne com sal e pimenta. Em uma panela, aqueça metade da manteiga e frite a carne em porções até dourar. Reserve.",
+          "Na mesma panela, adicione o restante da manteiga e refogue a cebola até ficar macia. Acrescente o champignon e refogue por 2 minutos.",
+          "Devolva a carne à panela. Se desejar, flambe com o conhaque (aqueça em uma concha e despeje na panela, com cuidado).",
+          "Junte o molho inglês, ketchup, farinha diluída no caldo de carne e suco de tomate. Cozinhe, mexendo, por 5 minutos até encorpar.",
+          "Adicione o creme de leite, misture bem e aqueça sem deixar ferver. Ajuste o sal e a pimenta.",
+          "Sirva quente com arroz branco e batata palha (opcional)."
         ],
-        "id": "bife-acebolado-na-frigideira-com-arroz-e-7731d9"
+        "id": "estrogonofe-de-carne-r-pido-8d128a"
       },
       {
-        "nome": "Panelinha de Frango com Legumes",
+        "nome": "Escondidinho de Carne e Polenta com Abóbora",
         "curso": "principal",
-        "tempo": "35 min",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMDLDnKmbX55ypzVO6bM1G2rGC0tJ71EsXooKbIMa3KAX8FvXSpzD6s0N3ladhK8P054ijAtZ3nNDESdo0hZr8WlTGdW0giIzbEOz_EWWicb0wavUJaOzLzEkAcVsqd1FaJR6U9s8j7sCeCTkI9Hdpu_vKCg",
-        "porque": "É uma receita versátil e fácil de preparar, utilizando a técnica de refogado que evita fritura em óleo e combina proteína e diversos legumes.",
+        "tempo": "45 min",
+        "url": "https://panelinha.com.br/receita/escondidinho-de-carne-e-polenta-com-abobora",
+        "porque": "Um prato nutritivo e proteico que combina carne (ragu), polenta cremosa e abóbora, assado no forno, sendo ideal para sobras.",
+        "tags": [
+          "carne_vermelha",
+          "forno",
+          "equilibrado"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "250 g de abóbora japonesa descascada e em cubos",
+          "1 xícara (chá) de polenta instantânea",
+          "1 dente de alho",
+          "3½ xícaras (chá) de água",
+          "1 colher (chá) de azeite",
+          "2 colheres (sopa) de manteiga",
+          "⅓ xícara (chá) de queijo parmesão ralado grosso",
+          "Sal a gosto",
+          "500 g de patinho moído",
+          "½ cebola picada",
+          "2 dentes de alho picados",
+          "1 cenoura ralada",
+          "1 lata (400g) de tomate pelado em cubos",
+          "1 colher (sopa) de farinha de trigo",
+          "4 colheres (sopa) de azeite",
+          "½ colher (chá) de pimenta calabresa seca (opcional)",
+          "2 ramos de manjericão",
+          "6 azeitonas pretas sem caroço (opcional)"
+        ],
+        "preparo": [
+          "Para a polenta: Em uma panela, refogue o alho no azeite por 1 minuto. Adicione a abóbora, sal, e ½ xícara de água. Cozinhe tampado por 15 minutos ou até amolecer. Amasse a abóbora.",
+          "Junte o restante da água e 1½ colher (chá) de sal. Leve ao fogo. Quando ferver, adicione a polenta instantânea aos poucos, mexendo com um batedor de arame por 3 minutos. Desligue o fogo e misture a manteiga e o parmesão.",
+          "Para o ragu: Em uma frigideira grande com azeite, doure a carne moída em porções. Tempere com sal. Retire a carne e reserve.",
+          "Na mesma frigideira, refogue a cebola, alho e cenoura. Volte a carne, polvilhe a farinha de trigo, misture. Adicione o tomate pelado, pimenta calabresa e azeitonas. Cozinhe por 10-15 minutos em fogo baixo. Finalize com manjericão.",
+          "Em um refratário, faça uma camada com metade da polenta, o ragu de carne e cubra com o restante da polenta. Se desejar, polvilhe mais queijo.",
+          "Leve ao forno pré-aquecido a 180°C por cerca de 15-20 minutos, ou até gratinar."
+        ],
+        "id": "escondidinho-de-carne-e-polenta-com-ab-b-2daa08"
+      },
+      {
+        "nome": "Frango Xadrez",
+        "curso": "principal",
+        "tempo": "40 min",
+        "url": "https://www.anamariabraga.globo.com/receita/frango-xadrez-com-castanha-do-para/",
+        "porque": "Uma receita rápida de panela (refogada), com frango em cubos e muitos vegetais coloridos, garantindo um bom equilíbrio de proteína e vegetais.",
         "tags": [
           "frango",
           "rapido",
@@ -48,87 +96,81 @@
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "500g de peito de frango cortado em cubos",
-          "1 cebola média picada",
-          "2 dentes de alho picados",
-          "1 cenoura média em rodelas",
-          "1 pimentão (qualquer cor) em tiras ou cubos",
-          "1 abobrinha pequena em cubos",
-          "1/2 xícara de ervilhas frescas ou congeladas",
-          "1 lata de tomate pelado picado (ou 2 tomates frescos)",
-          "1/2 xícara de caldo de frango (ou água)",
-          "2 colheres de sopa de azeite",
-          "Sal, pimenta-do-reino, páprica doce e cheiro-verde a gosto"
+          "500 g de peito de frango em cubos",
+          "3 colheres (sopa) de óleo",
+          "1 cebola pequena picada",
+          "3 pimentões pequenos (vermelho, verde e amarelo) em cubos",
+          "1 colher (sobremesa) de amido de milho",
+          "¾ de xícara (chá) de shoyu (150 ml)",
+          "Sal a gosto (se necessário)",
+          "1 xícara (chá) de castanhas-do-pará torradas e picadas grosseiramente (ou amendoim)"
         ],
         "preparo": [
-          "Tempere o frango em cubos com sal, pimenta-do-reino e páprica.",
-          "Em uma panela grande, aqueça o azeite e doure o frango em fogo alto. Retire e reserve.",
-          "Na mesma panela, refogue a cebola e o alho até ficarem macios.",
-          "Adicione a cenoura, o pimentão e a abobrinha. Refogue por alguns minutos.",
-          "Acrescente o tomate pelado (ou fresco), o caldo de frango e as ervilhas. Devolva o frango à panela e cozinhe em fogo médio por cerca de 15 minutos, ou até os legumes ficarem macios e o molho encorpado.",
-          "Finalize com cheiro-verde picado e sirva."
+          "Tempere o frango em cubos com sal e pimenta. Em uma panela wok ou frigideira grande com óleo quente, frite o frango em porções até dourar. Reserve.",
+          "Na mesma panela, refogue a cebola e os pimentões até ficarem macios, mas ainda crocantes.",
+          "Em uma tigela, misture o amido de milho com o shoyu e um pouco de água (se necessário) até dissolver bem.",
+          "Volte o frango e os vegetais para a panela. Adicione a mistura de shoyu e amido, mexendo até o molho engrossar.",
+          "Verifique o sal e adicione as castanhas-do-pará (ou amendoim) picadas.",
+          "Sirva imediatamente com arroz branco."
         ],
-        "id": "panelinha-de-frango-com-legumes-6664b1"
+        "id": "frango-xadrez-65a865"
       },
       {
-        "nome": "Espetinhos de Queijo Coalho com Tomate Cereja na Airfryer",
+        "nome": "Salada Caprese Clássica",
         "curso": "entrada",
         "tempo": "15 min",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLe02Pu2fnZmEJQMbeSe30pEqvYO--hQz43nMUSD1BFfzvftKpHFUfZBrwyRqrdIdgudhQ1yzh5OBNCtgsS-7nGC4QQfEZOKu6CMYETa9p7ySnZTtrvgM0JBYH5T1mzbuZemd1_ve-HuqE4wy2uYwVxlG4T9Q61BicSnEug==",
-        "porque": "É uma entrada muito prática e rápida, perfeita para a Airfryer, evitando frituras e combinando o sabor do queijo coalho com a frescura do tomate.",
+        "url": "https://panelinha.com.br/receita/salada-caprese-classica",
+        "porque": "Uma entrada leve e fresca, extremamente fácil e rápida de montar, sem necessidade de cozimento, com boa fonte de proteína do queijo.",
         "tags": [
-          "vegetariano",
-          "airfryer",
-          "rapido"
+          "salada",
+          "rapido",
+          "vegetariano"
         ],
         "rende_sobra": false,
         "ingredientes": [
-          "1 bloco de queijo coalho (250g), cortado em cubos de ~2cm",
-          "15 tomates cereja",
-          "1 colher de sopa de azeite",
-          "Orégano a gosto",
-          "Palitos de churrasco pequenos"
+          "3 muçarelas de búfala (bolas)",
+          "5 tomates maduros",
+          "3 ramos de manjericão fresco",
+          "Azeite a gosto",
+          "Sal e pimenta-do-reino moída na hora a gosto"
         ],
         "preparo": [
-          "Corte o queijo coalho em cubos e os tomates cereja ao meio (opcional, para assar melhor).",
-          "Monte os espetinhos, alternando cubos de queijo coalho e tomates cereja.",
-          "Pincele os espetinhos com azeite e polvilhe orégano a gosto.",
-          "Pré-aqueça a Airfryer a 180°C por 5 minutos.",
-          "Disponha os espetinhos na cesta da Airfryer e asse por 8-10 minutos, virando na metade do tempo, até o queijo dourar."
+          "Lave e seque os tomates. Corte cada tomate em 8 gomos.",
+          "Lave e seque bem as folhas de manjericão.",
+          "Corte cada muçarela de búfala na metade e depois cada metade em 3 gomos.",
+          "Em uma travessa, disponha alternadamente os gomos de tomate e de muçarela de búfala.",
+          "Tempere com sal e pimenta-do-reino a gosto e regue generosamente com azeite.",
+          "Finalize com as folhas de manjericão fresco e sirva imediatamente."
         ],
-        "id": "espetinhos-de-queijo-coalho-com-tomate-c-804070"
+        "id": "salada-caprese-cl-ssica-fac9bb"
       },
       {
-        "nome": "Salada de Frutas Assada com Especiarias",
+        "nome": "Fudge de Chocolate",
         "curso": "sobremesa",
-        "tempo": "45 min",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFas_GrVtoI8qTZO7Wkot5Dw-ptXzunUCdEhjy59Q5g_vfjB5cZIktG0CddWsULlKcCSnLjP-z8QJ6OMhUZJQT22pLMlUpZ6kAkVeGAItuSr5fYLLT8JBTcKl1GHR_XFtawVn11cEjo1MdGkeb8wrPtgXcQPq6AZzyQ8MYlWJlKOQjPrUPq0nY9i_8-MYFVlpmLKD34rLm-UlYW4D5xd0uQ5Y8nEBCOyW50Z-kQ_0InhPed_OQeZDhqtiBnpVuXjw==",
-        "porque": "É uma sobremesa leve e saborosa que utiliza o forno, sem fritura, e oferece uma forma diferente de apreciar frutas frescas.",
+        "tempo": "20 min (preparo) + 1h30min (geladeira)",
+        "url": "https://www.anamariabraga.globo.com/receita/fudge-de-chocolate/",
+        "porque": "Uma sobremesa simples e indulgente, com poucos ingredientes e preparo rápido (sem forno), ideal para ser feita com antecedência e gelar.",
         "tags": [
-          "vegetariano",
-          "forno",
-          "rapido"
+          "rapido",
+          "sobremesa",
+          "sem_forno"
         ],
-        "rende_sobra": false,
+        "rende_sobra": true,
         "ingredientes": [
-          "1 kg de frutas frescas picadas (uva, banana, morango, maçã, manga)",
-          "1/2 xícara (chá) de açúcar (90g)",
-          "200g de creme de leite aquecido",
-          "100g de manteiga em temperatura ambiente",
-          "60g de açúcar (1/4 xícara de chá)",
-          "100ml de leite (1/2 xícara de chá)",
-          "90g de farinha de trigo (1/2 xícara de chá)",
-          "1/2 colher (chá) de fermento químico em pó"
+          "250 g de chocolate meio amargo picado",
+          "½ lata de leite condensado (200 g)",
+          "1 colher (sobremesa) de manteiga sem sal",
+          "Castanha-do-pará picadinha, amendoim triturado ou uvas-passas para cobrir (opcional)"
         ],
         "preparo": [
-          "Em uma panela, derreta 90g de açúcar em fogo médio até caramelizar. Adicione o creme de leite aquecido e misture bem por 2 minutos até obter uma calda homogênea. Desligue o fogo e incorpore as frutas picadas.",
-          "Transfira a mistura de frutas com caramelo para um refratário. Reserve.",
-          "Em outro recipiente, misture a manteiga, 60g de açúcar, o leite e a farinha de trigo até formar uma massa homogênea. Adicione o fermento em pó e misture novamente.",
-          "Despeje a massa delicadamente sobre as frutas no refratário, cobrindo-as. Salpique mais 60g de açúcar por cima da massa.",
-          "Leve ao forno pré-aquecido a 180°C por 40 minutos, ou até a massa dourar e as frutas estarem macias.",
-          "Retire do forno, deixe amornar e sirva, opcionalmente com sorvete de creme."
+          "Em uma tigela em banho-maria ou micro-ondas, derreta o chocolate meio amargo picado (mexa a cada 30 segundos no micro-ondas para não queimar).",
+          "Retire do fogo (ou micro-ondas), adicione o leite condensado e misture bem até incorporar.",
+          "Acrescente a manteiga sem sal e misture novamente até obter uma massa homogênea e brilhante.",
+          "Transfira a mistura para uma assadeira retangular baixa forrada com papel-manteiga ou saco plástico. Alise a superfície com uma espátula.",
+          "Se desejar, polvilhe com castanhas-do-pará, amendoim ou uvas-passas.",
+          "Cubra com filme plástico e leve à geladeira por no mínimo 1h30min (ou 4 horas para a versão mais firme), até firmar. Corte em quadradinhos para servir."
         ],
-        "id": "salada-de-frutas-assada-com-especiarias-10b176"
+        "id": "fudge-de-chocolate-91145a"
       }
     ]
   },

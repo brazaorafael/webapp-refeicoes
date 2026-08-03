@@ -1798,5 +1798,45 @@
       "low_carb"
     ],
     "data": "02/08/2026"
+  },
+  {
+    "id": "escondidinho-de-carne-e-polenta-com-ab-b-2daa08",
+    "titulo": "Escondidinho de Carne e Polenta com Abóbora",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "equilibrado"
+    ],
+    "data": "03/08/2026"
+  },
+  {
+    "id": "frango-xadrez-65a865",
+    "titulo": "Frango Xadrez",
+    "tags": [
+      "frango",
+      "rapido",
+      "equilibrado"
+    ],
+    "data": "03/08/2026"
+  },
+  {
+    "id": "salada-caprese-cl-ssica-fac9bb",
+    "titulo": "Salada Caprese Clássica",
+    "tags": [
+      "salada",
+      "rapido",
+      "vegetariano"
+    ],
+    "data": "03/08/2026"
+  },
+  {
+    "id": "fudge-de-chocolate-91145a",
+    "titulo": "Fudge de Chocolate",
+    "tags": [
+      "rapido",
+      "sobremesa",
+      "sem_forno"
+    ],
+    "data": "03/08/2026"
   }
 ]
