@@ -1838,5 +1838,35 @@
       "sem_forno"
     ],
     "data": "03/08/2026"
+  },
+  {
+    "id": "alm-ndegas-assadas-ao-molho-de-tomate-co-b2b112",
+    "titulo": "Almôndegas Assadas ao Molho de Tomate com Purê de Batatas",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "equilibrado"
+    ],
+    "data": "04/08/2026"
+  },
+  {
+    "id": "frango-cremoso-na-airfryer-com-batata-do-a73cfb",
+    "titulo": "Frango Cremoso na Airfryer com Batata Doce",
+    "tags": [
+      "frango",
+      "airfryer",
+      "rapido"
+    ],
+    "data": "04/08/2026"
+  },
+  {
+    "id": "dadinhos-de-tapioca-na-airfryer-com-gele-339e4d",
+    "titulo": "Dadinhos de Tapioca na Airfryer com Geleia de Pimenta",
+    "tags": [
+      "vegetariano",
+      "airfryer",
+      "rapido"
+    ],
+    "data": "04/08/2026"
   }
 ]

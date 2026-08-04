@@ -1,52 +1,16 @@
 {
-  "gerado_em": "03/08/2026",
+  "gerado_em": "04/08/2026",
   "diario": {
     "tipo": "diario",
-    "data": "03/08/2026",
-    "dia_semana": "segunda",
+    "data": "04/08/2026",
+    "dia_semana": "terça",
     "pratos": [
       {
-        "nome": "Estrogonofe de Carne Rápido",
-        "curso": "principal",
-        "tempo": "35 min",
-        "url": "https://www.anamariabraga.globo.com/receita/estrogonofe-rapido-e-economico-de-carne-e-frango/",
-        "porque": "É um clássico rápido e reconfortante, rico em proteína e com preparo em panela (refogado), evitando fritura excessiva, ideal para um jantar prático.",
-        "tags": [
-          "carne_vermelha",
-          "rapido",
-          "refogado"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "500 g de filé-mignon (ou alcatra/patinho) em tiras",
-          "2 colheres (sopa) de manteiga",
-          "Sal e pimenta-do-reino a gosto",
-          "1 cebola picada",
-          "150 g de champignon em lâminas",
-          "2 colheres (sopa) de conhaque (opcional)",
-          "1 colher (chá) de molho inglês",
-          "2 colheres (sopa) de ketchup",
-          "2 colheres (sopa) de farinha de trigo",
-          "½ xícara (chá) de caldo de carne",
-          "½ xícara (chá) de suco de tomate",
-          "½ xícara (chá) de creme de leite"
-        ],
-        "preparo": [
-          "Tempere as tiras de carne com sal e pimenta. Em uma panela, aqueça metade da manteiga e frite a carne em porções até dourar. Reserve.",
-          "Na mesma panela, adicione o restante da manteiga e refogue a cebola até ficar macia. Acrescente o champignon e refogue por 2 minutos.",
-          "Devolva a carne à panela. Se desejar, flambe com o conhaque (aqueça em uma concha e despeje na panela, com cuidado).",
-          "Junte o molho inglês, ketchup, farinha diluída no caldo de carne e suco de tomate. Cozinhe, mexendo, por 5 minutos até encorpar.",
-          "Adicione o creme de leite, misture bem e aqueça sem deixar ferver. Ajuste o sal e a pimenta.",
-          "Sirva quente com arroz branco e batata palha (opcional)."
-        ],
-        "id": "estrogonofe-de-carne-r-pido-8d128a"
-      },
-      {
-        "nome": "Escondidinho de Carne e Polenta com Abóbora",
+        "nome": "Almôndegas Assadas ao Molho de Tomate com Purê de Batatas",
         "curso": "principal",
         "tempo": "45 min",
-        "url": "https://panelinha.com.br/receita/escondidinho-de-carne-e-polenta-com-abobora",
-        "porque": "Um prato nutritivo e proteico que combina carne (ragu), polenta cremosa e abóbora, assado no forno, sendo ideal para sobras.",
+        "url": "https://www.tudogostoso.com.br/receita/188431-almondegas-assadas-com-molho.html",
+        "porque": "É um prato robusto com carne vermelha, assado para evitar fritura, e o purê de batatas o torna uma refeição completa e ideal para sobras.",
         "tags": [
           "carne_vermelha",
           "forno",
@@ -54,123 +18,105 @@
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "250 g de abóbora japonesa descascada e em cubos",
-          "1 xícara (chá) de polenta instantânea",
-          "1 dente de alho",
-          "3½ xícaras (chá) de água",
-          "1 colher (chá) de azeite",
-          "2 colheres (sopa) de manteiga",
-          "⅓ xícara (chá) de queijo parmesão ralado grosso",
-          "Sal a gosto",
-          "500 g de patinho moído",
-          "½ cebola picada",
+          "500g de carne moída (patinho ou acém)",
+          "1 ovo",
+          "2 colheres de sopa de farinha de rosca",
+          "1/2 cebola pequena picada",
           "2 dentes de alho picados",
-          "1 cenoura ralada",
-          "1 lata (400g) de tomate pelado em cubos",
-          "1 colher (sopa) de farinha de trigo",
-          "4 colheres (sopa) de azeite",
-          "½ colher (chá) de pimenta calabresa seca (opcional)",
-          "2 ramos de manjericão",
-          "6 azeitonas pretas sem caroço (opcional)"
+          "Sal e pimenta do reino a gosto",
+          "1 lata (340g) de molho de tomate pronto",
+          "500g de batatas",
+          "1/2 xícara de leite",
+          "2 colheres de sopa de manteiga"
         ],
         "preparo": [
-          "Para a polenta: Em uma panela, refogue o alho no azeite por 1 minuto. Adicione a abóbora, sal, e ½ xícara de água. Cozinhe tampado por 15 minutos ou até amolecer. Amasse a abóbora.",
-          "Junte o restante da água e 1½ colher (chá) de sal. Leve ao fogo. Quando ferver, adicione a polenta instantânea aos poucos, mexendo com um batedor de arame por 3 minutos. Desligue o fogo e misture a manteiga e o parmesão.",
-          "Para o ragu: Em uma frigideira grande com azeite, doure a carne moída em porções. Tempere com sal. Retire a carne e reserve.",
-          "Na mesma frigideira, refogue a cebola, alho e cenoura. Volte a carne, polvilhe a farinha de trigo, misture. Adicione o tomate pelado, pimenta calabresa e azeitonas. Cozinhe por 10-15 minutos em fogo baixo. Finalize com manjericão.",
-          "Em um refratário, faça uma camada com metade da polenta, o ragu de carne e cubra com o restante da polenta. Se desejar, polvilhe mais queijo.",
-          "Leve ao forno pré-aquecido a 180°C por cerca de 15-20 minutos, ou até gratinar."
+          "Em uma tigela, misture a carne moída, o ovo, a farinha de rosca, metade da cebola e do alho picados, sal e pimenta do reino. Amasse bem e forme pequenas almôndegas.",
+          "Disponha as almôndegas em uma assadeira levemente untada e leve ao forno pré-aquecido a 180°C por cerca de 15-20 minutos, ou até dourarem levemente.",
+          "Enquanto as almôndegas assam, cozinhe as batatas em água com sal até ficarem macias. Escorra, amasse bem e adicione o leite e a manteiga. Tempere com sal e pimenta e misture até obter um purê cremoso.",
+          "Retire as almôndegas do forno, adicione o molho de tomate sobre elas e retorne ao forno por mais 10-15 minutos para aquecer e incorporar os sabores. Sirva as almôndegas com o purê de batatas."
         ],
-        "id": "escondidinho-de-carne-e-polenta-com-ab-b-2daa08"
+        "id": "alm-ndegas-assadas-ao-molho-de-tomate-co-b2b112"
       },
       {
-        "nome": "Frango Xadrez",
+        "nome": "Frango Cremoso na Airfryer com Batata Doce",
         "curso": "principal",
-        "tempo": "40 min",
-        "url": "https://www.anamariabraga.globo.com/receita/frango-xadrez-com-castanha-do-para/",
-        "porque": "Uma receita rápida de panela (refogada), com frango em cubos e muitos vegetais coloridos, garantindo um bom equilíbrio de proteína e vegetais.",
+        "tempo": "30 min",
+        "url": "https://www.tudogostoso.com.br/receita/201217-frango-com-batata-doce-na-airfryer.html",
+        "porque": "Uma opção de proteína branca incrivelmente prática e rápida na Airfryer, sem usar óleo, com um molho cremoso e batata doce saudável.",
         "tags": [
           "frango",
-          "rapido",
-          "equilibrado"
+          "airfryer",
+          "rapido"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "500 g de peito de frango em cubos",
-          "3 colheres (sopa) de óleo",
-          "1 cebola pequena picada",
-          "3 pimentões pequenos (vermelho, verde e amarelo) em cubos",
-          "1 colher (sobremesa) de amido de milho",
-          "¾ de xícara (chá) de shoyu (150 ml)",
-          "Sal a gosto (se necessário)",
-          "1 xícara (chá) de castanhas-do-pará torradas e picadas grosseiramente (ou amendoim)"
+          "2 filés de frango (cerca de 300-400g)",
+          "1 batata doce média (cerca de 250g)",
+          "1/2 xícara de creme de leite light",
+          "2 colheres de sopa de queijo parmesão ralado",
+          "1 dente de alho picado",
+          "Sal, pimenta do reino e páprica a gosto",
+          "Azeite para untar"
         ],
         "preparo": [
-          "Tempere o frango em cubos com sal e pimenta. Em uma panela wok ou frigideira grande com óleo quente, frite o frango em porções até dourar. Reserve.",
-          "Na mesma panela, refogue a cebola e os pimentões até ficarem macios, mas ainda crocantes.",
-          "Em uma tigela, misture o amido de milho com o shoyu e um pouco de água (se necessário) até dissolver bem.",
-          "Volte o frango e os vegetais para a panela. Adicione a mistura de shoyu e amido, mexendo até o molho engrossar.",
-          "Verifique o sal e adicione as castanhas-do-pará (ou amendoim) picadas.",
-          "Sirva imediatamente com arroz branco."
+          "Corte os filés de frango em cubos e tempere com sal, pimenta, páprica e alho picado. Descasque a batata doce e corte em rodelas ou cubos de tamanho similar.",
+          "Em uma tigela pequena, misture o creme de leite com o queijo parmesão ralado e reserve.",
+          "Unte a cesta da Airfryer com um fio de azeite. Disponha o frango e a batata doce de forma que não fiquem muito amontoados. Cozinhe a 180°C por 10-12 minutos.",
+          "Abra a Airfryer, misture o frango e a batata doce, e adicione o molho cremoso por cima. Cozinhe por mais 8-10 minutos, ou até o frango estar cozido, a batata doce macia e o molho borbulhante."
         ],
-        "id": "frango-xadrez-65a865"
+        "id": "frango-cremoso-na-airfryer-com-batata-do-a73cfb"
       },
       {
-        "nome": "Salada Caprese Clássica",
+        "nome": "Dadinhos de Tapioca na Airfryer com Geleia de Pimenta",
         "curso": "entrada",
-        "tempo": "15 min",
-        "url": "https://panelinha.com.br/receita/salada-caprese-classica",
-        "porque": "Uma entrada leve e fresca, extremamente fácil e rápida de montar, sem necessidade de cozimento, com boa fonte de proteína do queijo.",
+        "tempo": "35 min",
+        "url": "https://www.receiteria.com.br/receita/dadinho-de-tapioca-com-geleia-de-pimenta/",
+        "porque": "Uma entrada brasileira moderna e deliciosa, preparada na Airfryer para ser mais saudável e prática, com a geleia de pimenta complementando o sabor.",
         "tags": [
-          "salada",
-          "rapido",
-          "vegetariano"
+          "vegetariano",
+          "airfryer",
+          "rapido"
         ],
         "rende_sobra": false,
         "ingredientes": [
-          "3 muçarelas de búfala (bolas)",
-          "5 tomates maduros",
-          "3 ramos de manjericão fresco",
-          "Azeite a gosto",
-          "Sal e pimenta-do-reino moída na hora a gosto"
+          "250g de tapioca granulada",
+          "250g de queijo coalho ralado",
+          "500ml de leite integral quente",
+          "Sal a gosto",
+          "Geleia de pimenta pronta (para servir)"
         ],
         "preparo": [
-          "Lave e seque os tomates. Corte cada tomate em 8 gomos.",
-          "Lave e seque bem as folhas de manjericão.",
-          "Corte cada muçarela de búfala na metade e depois cada metade em 3 gomos.",
-          "Em uma travessa, disponha alternadamente os gomos de tomate e de muçarela de búfala.",
-          "Tempere com sal e pimenta-do-reino a gosto e regue generosamente com azeite.",
-          "Finalize com as folhas de manjericão fresco e sirva imediatamente."
+          "Em uma tigela grande, misture a tapioca granulada, o queijo coalho ralado e o sal.",
+          "Adicione o leite quente aos poucos, mexendo vigorosamente com uma colher ou espátula até obter uma massa homogênea e encorpada.",
+          "Despeje a massa em uma assadeira quadrada (aproximadamente 20x20cm) forrada com plástico filme, espalhando uniformemente. Cubra com mais plástico filme e leve à geladeira por pelo menos 30 minutos para firmar.",
+          "Retire da geladeira, desenforme e corte a massa em cubos (dadinhos) de aproximadamente 2x2cm.",
+          "Pré-aqueça a Airfryer a 180°C. Disponha os dadinhos na cesta, sem amontoar, e cozinhe por 10-15 minutos, virando na metade do tempo, até ficarem dourados e crocantes. Sirva imediatamente com a geleia de pimenta."
         ],
-        "id": "salada-caprese-cl-ssica-fac9bb"
+        "id": "dadinhos-de-tapioca-na-airfryer-com-gele-339e4d"
       },
       {
-        "nome": "Fudge de Chocolate",
+        "nome": "Mousse de Maracujá Rápida",
         "curso": "sobremesa",
-        "tempo": "20 min (preparo) + 1h30min (geladeira)",
-        "url": "https://www.anamariabraga.globo.com/receita/fudge-de-chocolate/",
-        "porque": "Uma sobremesa simples e indulgente, com poucos ingredientes e preparo rápido (sem forno), ideal para ser feita com antecedência e gelar.",
+        "tempo": "20 min",
+        "url": "https://anamariabraga.globo.com/receita/mousse-de-maracuja-comum/",
+        "porque": "Uma sobremesa clássica, refrescante e super rápida de preparar, ideal para finalizar a refeição de forma leve e saborosa.",
         "tags": [
           "rapido",
-          "sobremesa",
-          "sem_forno"
+          "sobremesa"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "250 g de chocolate meio amargo picado",
-          "½ lata de leite condensado (200 g)",
-          "1 colher (sobremesa) de manteiga sem sal",
-          "Castanha-do-pará picadinha, amendoim triturado ou uvas-passas para cobrir (opcional)"
+          "1 lata de leite condensado (395g)",
+          "1 lata de creme de leite (200g)",
+          "1 lata (medida do leite condensado) de suco concentrado de maracujá (cerca de 200-250ml)"
         ],
         "preparo": [
-          "Em uma tigela em banho-maria ou micro-ondas, derreta o chocolate meio amargo picado (mexa a cada 30 segundos no micro-ondas para não queimar).",
-          "Retire do fogo (ou micro-ondas), adicione o leite condensado e misture bem até incorporar.",
-          "Acrescente a manteiga sem sal e misture novamente até obter uma massa homogênea e brilhante.",
-          "Transfira a mistura para uma assadeira retangular baixa forrada com papel-manteiga ou saco plástico. Alise a superfície com uma espátula.",
-          "Se desejar, polvilhe com castanhas-do-pará, amendoim ou uvas-passas.",
-          "Cubra com filme plástico e leve à geladeira por no mínimo 1h30min (ou 4 horas para a versão mais firme), até firmar. Corte em quadradinhos para servir."
+          "No liquidificador, adicione o leite condensado, o creme de leite e o suco concentrado de maracujá.",
+          "Bata em velocidade média por 3 a 5 minutos, ou até obter uma mistura homogênea e levemente aerada.",
+          "Despeje a mousse em taças individuais ou em um refratário.",
+          "Leve à geladeira por, no mínimo, 30 minutos para firmar antes de servir. Para uma consistência mais firme, deixe por mais tempo."
         ],
-        "id": "fudge-de-chocolate-91145a"
+        "id": "mousse-de-maracuj-r-pida-6a18d0"
       }
     ]
   },
