@@ -1,48 +1,47 @@
 {
-  "gerado_em": "04/08/2026",
+  "gerado_em": "05/08/2026",
   "diario": {
     "tipo": "diario",
-    "data": "04/08/2026",
-    "dia_semana": "terça",
+    "data": "05/08/2026",
+    "dia_semana": "quarta",
     "pratos": [
       {
-        "nome": "Almôndegas Assadas ao Molho de Tomate com Purê de Batatas",
+        "nome": "Maminha Assada na Airfryer com Azeite de Ervas",
         "curso": "principal",
-        "tempo": "45 min",
-        "url": "https://www.tudogostoso.com.br/receita/188431-almondegas-assadas-com-molho.html",
-        "porque": "É um prato robusto com carne vermelha, assado para evitar fritura, e o purê de batatas o torna uma refeição completa e ideal para sobras.",
+        "tempo": "20 min",
+        "url": "https://www.youtube.com/watch?v=kR2tJ2x1v84",
+        "porque": "Carne vermelha preferida do casal, cozida na Airfryer para pouca fritura, rápida e suculenta, ideal para sobras.",
         "tags": [
           "carne_vermelha",
-          "forno",
-          "equilibrado"
+          "airfryer",
+          "rapido"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "500g de carne moída (patinho ou acém)",
-          "1 ovo",
-          "2 colheres de sopa de farinha de rosca",
-          "1/2 cebola pequena picada",
-          "2 dentes de alho picados",
-          "Sal e pimenta do reino a gosto",
-          "1 lata (340g) de molho de tomate pronto",
-          "500g de batatas",
-          "1/2 xícara de leite",
-          "2 colheres de sopa de manteiga"
+          "1 peça de maminha bovina (~1,3 kg)",
+          "2 colheres (sopa) de sal grosso",
+          "Pimenta-do-reino moída a gosto",
+          "50 g de azeite",
+          "10 g de chimichurri",
+          "1/2 colher (chá) de tomilho debulhado",
+          "1 colher (chá) de raspas de limão-siciliano"
         ],
         "preparo": [
-          "Em uma tigela, misture a carne moída, o ovo, a farinha de rosca, metade da cebola e do alho picados, sal e pimenta do reino. Amasse bem e forme pequenas almôndegas.",
-          "Disponha as almôndegas em uma assadeira levemente untada e leve ao forno pré-aquecido a 180°C por cerca de 15-20 minutos, ou até dourarem levemente.",
-          "Enquanto as almôndegas assam, cozinhe as batatas em água com sal até ficarem macias. Escorra, amasse bem e adicione o leite e a manteiga. Tempere com sal e pimenta e misture até obter um purê cremoso.",
-          "Retire as almôndegas do forno, adicione o molho de tomate sobre elas e retorne ao forno por mais 10-15 minutos para aquecer e incorporar os sabores. Sirva as almôndegas com o purê de batatas."
+          "Misture o azeite, chimichurri, tomilho, raspas de limão, sal e pimenta para o azeite de ervas. Reserve.",
+          "Tempere a maminha com sal grosso e pimenta-do-reino.",
+          "Leve à Airfryer preaquecida a 200°C por 10 minutos com a gordura para cima.",
+          "Vire a maminha e asse por mais 5 minutos, ou até dourar bem.",
+          "Retire da Airfryer, coloque em uma grade e deixe descansar por 5 minutos.",
+          "Corte em fatias finas e sirva com o azeite de ervas."
         ],
-        "id": "alm-ndegas-assadas-ao-molho-de-tomate-co-b2b112"
+        "id": "maminha-assada-na-airfryer-com-azeite-de-9bcb1e"
       },
       {
-        "nome": "Frango Cremoso na Airfryer com Batata Doce",
+        "nome": "Frango em Pedaços na Airfryer (Estilo à Passarinho)",
         "curso": "principal",
-        "tempo": "30 min",
-        "url": "https://www.tudogostoso.com.br/receita/201217-frango-com-batata-doce-na-airfryer.html",
-        "porque": "Uma opção de proteína branca incrivelmente prática e rápida na Airfryer, sem usar óleo, com um molho cremoso e batata doce saudável.",
+        "tempo": "35 min",
+        "url": "https://www.youtube.com/watch?v=F1u7E2tB1rE",
+        "porque": "Uma ótima alternativa à carne vermelha, preparada na Airfryer para crocância sem fritura, rápida e saborosa.",
         "tags": [
           "frango",
           "airfryer",
@@ -50,73 +49,118 @@
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "2 filés de frango (cerca de 300-400g)",
-          "1 batata doce média (cerca de 250g)",
-          "1/2 xícara de creme de leite light",
-          "2 colheres de sopa de queijo parmesão ralado",
-          "1 dente de alho picado",
-          "Sal, pimenta do reino e páprica a gosto",
-          "Azeite para untar"
+          "600 g de pedaços de frango (coxinha, tulipinha, sobrecoxa)",
+          "30 g de alho picado",
+          "7 g (1 1/2 colher de sopa) de sal",
+          "120 ml de suco de limão",
+          "30 g (2 colheres de sopa) de mostarda amarela",
+          "30 g (2 colheres de sopa) de dentes de alho cortados grosseiramente",
+          "Pimenta-do-reino moída a gosto",
+          "Gengibre ralado a gosto (opcional)"
         ],
         "preparo": [
-          "Corte os filés de frango em cubos e tempere com sal, pimenta, páprica e alho picado. Descasque a batata doce e corte em rodelas ou cubos de tamanho similar.",
-          "Em uma tigela pequena, misture o creme de leite com o queijo parmesão ralado e reserve.",
-          "Unte a cesta da Airfryer com um fio de azeite. Disponha o frango e a batata doce de forma que não fiquem muito amontoados. Cozinhe a 180°C por 10-12 minutos.",
-          "Abra a Airfryer, misture o frango e a batata doce, e adicione o molho cremoso por cima. Cozinhe por mais 8-10 minutos, ou até o frango estar cozido, a batata doce macia e o molho borbulhante."
+          "Em uma tigela, tempere o frango com alho picado, sal, suco de limão, mostarda, alho grosseiramente cortado, pimenta-do-reino e gengibre (se usar).",
+          "Misture bem e deixe marinar por pelo menos 15 minutos (ou mais na geladeira).",
+          "Preaqueça a Airfryer a 200°C por 5 minutos.",
+          "Arrume os pedaços de frango na cesta da Airfryer, sem sobrepor.",
+          "Asse por cerca de 15 minutos, virando na metade do tempo, até dourar e ficar crocante.",
+          "Sirva quente com seu acompanhamento preferido."
         ],
-        "id": "frango-cremoso-na-airfryer-com-batata-do-a73cfb"
+        "id": "frango-em-peda-os-na-airfryer-estilo-pas-b47b2a"
       },
       {
-        "nome": "Dadinhos de Tapioca na Airfryer com Geleia de Pimenta",
-        "curso": "entrada",
+        "nome": "Carne Moída Refogada com Batata e Cenoura",
+        "curso": "principal",
         "tempo": "35 min",
-        "url": "https://www.receiteria.com.br/receita/dadinho-de-tapioca-com-geleia-de-pimenta/",
-        "porque": "Uma entrada brasileira moderna e deliciosa, preparada na Airfryer para ser mais saudável e prática, com a geleia de pimenta complementando o sabor.",
+        "url": "https://www.youtube.com/watch?v=UPJ8KlJhX7o",
+        "porque": "Extremamente versátil, fácil de fazer, rende bem e utiliza carne vermelha, uma boa fonte de proteína, com legumes para equilíbrio.",
         "tags": [
-          "vegetariano",
-          "airfryer",
-          "rapido"
-        ],
-        "rende_sobra": false,
-        "ingredientes": [
-          "250g de tapioca granulada",
-          "250g de queijo coalho ralado",
-          "500ml de leite integral quente",
-          "Sal a gosto",
-          "Geleia de pimenta pronta (para servir)"
-        ],
-        "preparo": [
-          "Em uma tigela grande, misture a tapioca granulada, o queijo coalho ralado e o sal.",
-          "Adicione o leite quente aos poucos, mexendo vigorosamente com uma colher ou espátula até obter uma massa homogênea e encorpada.",
-          "Despeje a massa em uma assadeira quadrada (aproximadamente 20x20cm) forrada com plástico filme, espalhando uniformemente. Cubra com mais plástico filme e leve à geladeira por pelo menos 30 minutos para firmar.",
-          "Retire da geladeira, desenforme e corte a massa em cubos (dadinhos) de aproximadamente 2x2cm.",
-          "Pré-aqueça a Airfryer a 180°C. Disponha os dadinhos na cesta, sem amontoar, e cozinhe por 10-15 minutos, virando na metade do tempo, até ficarem dourados e crocantes. Sirva imediatamente com a geleia de pimenta."
-        ],
-        "id": "dadinhos-de-tapioca-na-airfryer-com-gele-339e4d"
-      },
-      {
-        "nome": "Mousse de Maracujá Rápida",
-        "curso": "sobremesa",
-        "tempo": "20 min",
-        "url": "https://anamariabraga.globo.com/receita/mousse-de-maracuja-comum/",
-        "porque": "Uma sobremesa clássica, refrescante e super rápida de preparar, ideal para finalizar a refeição de forma leve e saborosa.",
-        "tags": [
-          "rapido",
-          "sobremesa"
+          "carne_vermelha",
+          "refogado",
+          "equilibrado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "1 lata de leite condensado (395g)",
-          "1 lata de creme de leite (200g)",
-          "1 lata (medida do leite condensado) de suco concentrado de maracujá (cerca de 200-250ml)"
+          "Azeite a gosto",
+          "500 g de carne moída (patinho)",
+          "1 cebola pequena picada",
+          "3 dentes de alho picados",
+          "1 pimentão verde pequeno picado (opcional)",
+          "Sal a gosto",
+          "1 colher (chá) de páprica defumada",
+          "1 cenoura média em cubos",
+          "400 g (2 médias) de batatas em cubos",
+          "1 tomate maduro em cubos (sem pele e sementes)",
+          "Coentro ou salsinha picados a gosto"
         ],
         "preparo": [
-          "No liquidificador, adicione o leite condensado, o creme de leite e o suco concentrado de maracujá.",
-          "Bata em velocidade média por 3 a 5 minutos, ou até obter uma mistura homogênea e levemente aerada.",
-          "Despeje a mousse em taças individuais ou em um refratário.",
-          "Leve à geladeira por, no mínimo, 30 minutos para firmar antes de servir. Para uma consistência mais firme, deixe por mais tempo."
+          "Em uma panela grande, aqueça um fio de azeite em fogo médio.",
+          "Adicione a carne moída e refogue, mexendo para soltar, até dourar bem. Escorra o excesso de líquido se necessário.",
+          "Acrescente a cebola, o alho e o pimentão (se usar). Refogue até a cebola ficar transparente.",
+          "Tempere com sal, páprica defumada, batatas, cenoura e tomate. Mexa bem.",
+          "Adicione um pouco de água (cerca de 1/2 xícara) se necessário para ajudar no cozimento dos legumes. Tampe e cozinhe em fogo baixo até os legumes ficarem macios (aproximadamente 15-20 minutos).",
+          "Finalize com coentro ou salsinha picados e ajuste o sal se necessário. Sirva quente."
         ],
-        "id": "mousse-de-maracuj-r-pida-6a18d0"
+        "id": "carne-mo-da-refogada-com-batata-e-cenour-fa3ced"
+      },
+      {
+        "nome": "Pão de Alho Recheado na Airfryer",
+        "curso": "entrada",
+        "tempo": "15 min",
+        "url": "https://www.facebook.com/receitaboadochefe01/videos/p%C3%A3o-de-alho-recheado-na-air-fryer/1105942460773995/",
+        "porque": "Extremamente prático e rápido, feito na Airfryer para evitar fritura em óleo, é uma entrada saborosa e que agrada a maioria.",
+        "tags": [
+          "airfryer",
+          "rapido",
+          "vegetariano"
+        ],
+        "rende_sobra": false,
+        "ingredientes": [
+          "2 pães franceses",
+          "3 colheres (sopa) de manteiga em temperatura ambiente",
+          "3 dentes de alho amassados",
+          "200 g de muçarela ralada",
+          "50 g de queijo parmesão ralado (opcional)",
+          "Orégano a gosto",
+          "Cheiro-verde picado a gosto"
+        ],
+        "preparo": [
+          "Em uma tigela, misture a manteiga, o alho amassado, o cheiro-verde e o orégano.",
+          "Faça cortes nos pães franceses, sem ir até o final para que as fatias permaneçam unidas.",
+          "Passe a manteiga temperada entre os cortes e por cima dos pães.",
+          "Recheie os cortes com a muçarela ralada e o queijo parmesão (se usar).",
+          "Leve à Airfryer preaquecida a 180°C por 8 a 10 minutos, ou até o queijo derreter e o pão ficar dourado e crocante.",
+          "Sirva ainda quente."
+        ],
+        "id": "p-o-de-alho-recheado-na-airfryer-ef3da9"
+      },
+      {
+        "nome": "Mousse de Morango Simples",
+        "curso": "sobremesa",
+        "tempo": "20 min",
+        "url": "https://www.tudogostoso.com.br/receita/2873-mousse-de-morango.html",
+        "porque": "Sobremesa refrescante e fácil de fazer, sem uso de forno e com poucos ingredientes, ideal para a praticidade.",
+        "tags": [
+          "doce",
+          "rapido",
+          "sem_forno"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "1 lata de leite condensado",
+          "1 caixa de creme de leite (200g)",
+          "1 envelope de suco em pó sabor morango (ou 1 xícara de morangos frescos batidos)",
+          "1/2 xícara (chá) de água quente (se usar gelatina)",
+          "1 envelope de gelatina incolor sem sabor (se usar morangos frescos)"
+        ],
+        "preparo": [
+          "No liquidificador, bata o leite condensado, o creme de leite e o suco em pó de morango (ou os morangos frescos batidos).",
+          "Se for usar gelatina incolor, dissolva-a na água quente conforme as instruções da embalagem e adicione à mistura do liquidificador. Bata novamente até incorporar. (Opcional, se usar suco em pó já tem consistência).",
+          "Despeje a mistura em um refratário ou em taças individuais.",
+          "Leve à geladeira por pelo menos 3 horas, ou até firmar bem.",
+          "Decore com morangos frescos antes de servir, se desejar."
+        ],
+        "id": "mousse-de-morango-simples-52e664"
       }
     ]
   },

@@ -1868,5 +1868,55 @@
       "rapido"
     ],
     "data": "04/08/2026"
+  },
+  {
+    "id": "maminha-assada-na-airfryer-com-azeite-de-9bcb1e",
+    "titulo": "Maminha Assada na Airfryer com Azeite de Ervas",
+    "tags": [
+      "carne_vermelha",
+      "airfryer",
+      "rapido"
+    ],
+    "data": "05/08/2026"
+  },
+  {
+    "id": "frango-em-peda-os-na-airfryer-estilo-pas-b47b2a",
+    "titulo": "Frango em Pedaços na Airfryer (Estilo à Passarinho)",
+    "tags": [
+      "frango",
+      "airfryer",
+      "rapido"
+    ],
+    "data": "05/08/2026"
+  },
+  {
+    "id": "carne-mo-da-refogada-com-batata-e-cenour-fa3ced",
+    "titulo": "Carne Moída Refogada com Batata e Cenoura",
+    "tags": [
+      "carne_vermelha",
+      "refogado",
+      "equilibrado"
+    ],
+    "data": "05/08/2026"
+  },
+  {
+    "id": "p-o-de-alho-recheado-na-airfryer-ef3da9",
+    "titulo": "Pão de Alho Recheado na Airfryer",
+    "tags": [
+      "airfryer",
+      "rapido",
+      "vegetariano"
+    ],
+    "data": "05/08/2026"
+  },
+  {
+    "id": "mousse-de-morango-simples-52e664",
+    "titulo": "Mousse de Morango Simples",
+    "tags": [
+      "doce",
+      "rapido",
+      "sem_forno"
+    ],
+    "data": "05/08/2026"
   }
 ]
