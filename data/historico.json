@@ -1918,5 +1918,45 @@
       "sem_forno"
     ],
     "data": "05/08/2026"
+  },
+  {
+    "id": "carne-assada-com-batatas-e-legumes-3ec86c",
+    "titulo": "Carne Assada com Batatas e Legumes",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "rende_sobra"
+    ],
+    "data": "06/08/2026"
+  },
+  {
+    "id": "bife-grelhado-com-salada-de-gr-os-e-legu-35ef1e",
+    "titulo": "Bife Grelhado com Salada de Grãos e Legumes",
+    "tags": [
+      "carne_vermelha",
+      "grelhado",
+      "rapido",
+      "low_carb"
+    ],
+    "data": "06/08/2026"
+  },
+  {
+    "id": "bruschettas-de-cogumelos-salteados-aa4f4b",
+    "titulo": "Bruschettas de Cogumelos Salteados",
+    "tags": [
+      "vegetariano",
+      "rapido",
+      "forno"
+    ],
+    "data": "06/08/2026"
+  },
+  {
+    "id": "bolo-de-caneca-de-chocolate-com-calda-r--626ead",
+    "titulo": "Bolo de Caneca de Chocolate com Calda Rápida",
+    "tags": [
+      "rapido",
+      "sobremesa"
+    ],
+    "data": "06/08/2026"
   }
 ]

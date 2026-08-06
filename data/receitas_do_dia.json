@@ -1,166 +1,171 @@
 {
-  "gerado_em": "05/08/2026",
+  "gerado_em": "06/08/2026",
   "diario": {
     "tipo": "diario",
-    "data": "05/08/2026",
-    "dia_semana": "quarta",
+    "data": "06/08/2026",
+    "dia_semana": "quinta",
     "pratos": [
       {
-        "nome": "Maminha Assada na Airfryer com Azeite de Ervas",
+        "nome": "Carne Assada com Batatas e Legumes",
         "curso": "principal",
-        "tempo": "20 min",
-        "url": "https://www.youtube.com/watch?v=kR2tJ2x1v84",
-        "porque": "Carne vermelha preferida do casal, cozida na Airfryer para pouca fritura, rápida e suculenta, ideal para sobras.",
+        "tempo": "45 min (preparo ativo) / 1h30 min (total)",
+        "url": "https://www.tudogostoso.com.br/receita/11314-maminha-assada-com-batatas.html",
+        "porque": "É um prato robusto de carne vermelha assada no forno, com preparo ativo simples, que oferece proteína e legumes.",
         "tags": [
           "carne_vermelha",
-          "airfryer",
-          "rapido"
+          "forno",
+          "rende_sobra"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "1 peça de maminha bovina (~1,3 kg)",
-          "2 colheres (sopa) de sal grosso",
-          "Pimenta-do-reino moída a gosto",
-          "50 g de azeite",
-          "10 g de chimichurri",
-          "1/2 colher (chá) de tomilho debulhado",
-          "1 colher (chá) de raspas de limão-siciliano"
+          "1 peça de maminha (aprox. 1 kg)",
+          "5 batatas médias",
+          "2 cenouras grandes",
+          "1 cebola grande",
+          "3 dentes de alho",
+          "Ramos de alecrim fresco a gosto",
+          "Sal e pimenta do reino a gosto",
+          "Azeite de oliva a gosto"
         ],
         "preparo": [
-          "Misture o azeite, chimichurri, tomilho, raspas de limão, sal e pimenta para o azeite de ervas. Reserve.",
-          "Tempere a maminha com sal grosso e pimenta-do-reino.",
-          "Leve à Airfryer preaquecida a 200°C por 10 minutos com a gordura para cima.",
-          "Vire a maminha e asse por mais 5 minutos, ou até dourar bem.",
-          "Retire da Airfryer, coloque em uma grade e deixe descansar por 5 minutos.",
-          "Corte em fatias finas e sirva com o azeite de ervas."
+          "Tempere a maminha com sal, pimenta, alho amassado e alecrim. Esfregue bem por toda a carne.",
+          "Em uma assadeira, coloque a maminha e regue com azeite. Cubra com papel alumínio.",
+          "Leve ao forno pré-aquecido a 180°C por 1 hora.",
+          "Descasque e corte as batatas e cenouras em pedaços grandes. Corte a cebola em gomos.",
+          "Retire o papel alumínio, adicione os legumes na assadeira ao redor da carne, tempere-os com sal, pimenta e um fio de azeite.",
+          "Retorne ao forno por mais 30-40 minutos, ou até a carne dourar e os legumes ficarem macios."
         ],
-        "id": "maminha-assada-na-airfryer-com-azeite-de-9bcb1e"
+        "id": "carne-assada-com-batatas-e-legumes-3ec86c"
       },
       {
-        "nome": "Frango em Pedaços na Airfryer (Estilo à Passarinho)",
+        "nome": "Bife Grelhado com Salada de Grãos e Legumes",
         "curso": "principal",
-        "tempo": "35 min",
-        "url": "https://www.youtube.com/watch?v=F1u7E2tB1rE",
-        "porque": "Uma ótima alternativa à carne vermelha, preparada na Airfryer para crocância sem fritura, rápida e saborosa.",
-        "tags": [
-          "frango",
-          "airfryer",
-          "rapido"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "600 g de pedaços de frango (coxinha, tulipinha, sobrecoxa)",
-          "30 g de alho picado",
-          "7 g (1 1/2 colher de sopa) de sal",
-          "120 ml de suco de limão",
-          "30 g (2 colheres de sopa) de mostarda amarela",
-          "30 g (2 colheres de sopa) de dentes de alho cortados grosseiramente",
-          "Pimenta-do-reino moída a gosto",
-          "Gengibre ralado a gosto (opcional)"
-        ],
-        "preparo": [
-          "Em uma tigela, tempere o frango com alho picado, sal, suco de limão, mostarda, alho grosseiramente cortado, pimenta-do-reino e gengibre (se usar).",
-          "Misture bem e deixe marinar por pelo menos 15 minutos (ou mais na geladeira).",
-          "Preaqueça a Airfryer a 200°C por 5 minutos.",
-          "Arrume os pedaços de frango na cesta da Airfryer, sem sobrepor.",
-          "Asse por cerca de 15 minutos, virando na metade do tempo, até dourar e ficar crocante.",
-          "Sirva quente com seu acompanhamento preferido."
-        ],
-        "id": "frango-em-peda-os-na-airfryer-estilo-pas-b47b2a"
-      },
-      {
-        "nome": "Carne Moída Refogada com Batata e Cenoura",
-        "curso": "principal",
-        "tempo": "35 min",
-        "url": "https://www.youtube.com/watch?v=UPJ8KlJhX7o",
-        "porque": "Extremamente versátil, fácil de fazer, rende bem e utiliza carne vermelha, uma boa fonte de proteína, com legumes para equilíbrio.",
+        "tempo": "30 min",
+        "url": "https://www.receitasnestle.com.br/receitas/bife-grelhado-com-salada-de-grao-de-bico",
+        "porque": "É um prato rápido e leve, com carne vermelha grelhada e uma salada rica em fibras e nutrientes, ideal para o equilíbrio.",
         "tags": [
           "carne_vermelha",
-          "refogado",
-          "equilibrado"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "Azeite a gosto",
-          "500 g de carne moída (patinho)",
-          "1 cebola pequena picada",
-          "3 dentes de alho picados",
-          "1 pimentão verde pequeno picado (opcional)",
-          "Sal a gosto",
-          "1 colher (chá) de páprica defumada",
-          "1 cenoura média em cubos",
-          "400 g (2 médias) de batatas em cubos",
-          "1 tomate maduro em cubos (sem pele e sementes)",
-          "Coentro ou salsinha picados a gosto"
-        ],
-        "preparo": [
-          "Em uma panela grande, aqueça um fio de azeite em fogo médio.",
-          "Adicione a carne moída e refogue, mexendo para soltar, até dourar bem. Escorra o excesso de líquido se necessário.",
-          "Acrescente a cebola, o alho e o pimentão (se usar). Refogue até a cebola ficar transparente.",
-          "Tempere com sal, páprica defumada, batatas, cenoura e tomate. Mexa bem.",
-          "Adicione um pouco de água (cerca de 1/2 xícara) se necessário para ajudar no cozimento dos legumes. Tampe e cozinhe em fogo baixo até os legumes ficarem macios (aproximadamente 15-20 minutos).",
-          "Finalize com coentro ou salsinha picados e ajuste o sal se necessário. Sirva quente."
-        ],
-        "id": "carne-mo-da-refogada-com-batata-e-cenour-fa3ced"
-      },
-      {
-        "nome": "Pão de Alho Recheado na Airfryer",
-        "curso": "entrada",
-        "tempo": "15 min",
-        "url": "https://www.facebook.com/receitaboadochefe01/videos/p%C3%A3o-de-alho-recheado-na-air-fryer/1105942460773995/",
-        "porque": "Extremamente prático e rápido, feito na Airfryer para evitar fritura em óleo, é uma entrada saborosa e que agrada a maioria.",
-        "tags": [
-          "airfryer",
+          "grelhado",
           "rapido",
-          "vegetariano"
+          "low_carb"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "2 bifes de contrafilé (aprox. 200g cada)",
+          "1 xícara (chá) de grão-de-bico cozido",
+          "1/2 pimentão vermelho picado",
+          "1/2 pimentão amarelo picado",
+          "1/4 cebola roxa picada",
+          "1 tomate médio picado",
+          "Suco de 1/2 limão",
+          "2 colheres (sopa) de azeite de oliva",
+          "Salsinha picada a gosto",
+          "Sal e pimenta do reino a gosto"
+        ],
+        "preparo": [
+          "Tempere os bifes com sal e pimenta do reino.",
+          "Aqueça uma frigideira ou grill e grelhe os bifes por 3-4 minutos de cada lado, ou até o ponto desejado. Reserve.",
+          "Em uma tigela, misture o grão-de-bico cozido, pimentões, cebola roxa e tomate.",
+          "Regue a salada com azeite, suco de limão, sal, pimenta e salsinha picada. Misture bem.",
+          "Sirva os bifes grelhados acompanhados da salada de grãos e legumes."
+        ],
+        "id": "bife-grelhado-com-salada-de-gr-os-e-legu-35ef1e"
+      },
+      {
+        "nome": "Rocambole de Carne Moída Recheado",
+        "curso": "principal",
+        "tempo": "45 min",
+        "url": "https://www.tudogostoso.com.br/receita/1888-rocambole-de-carne-moida-simples.html",
+        "porque": "Uma opção criativa e proteica de carne vermelha, assada no forno com recheio saboroso, que rende bem e é fácil de fatiar para sobras.",
+        "tags": [
+          "carne_vermelha",
+          "forno",
+          "rende_sobra"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "500g de carne moída (patinho)",
+          "1 ovo",
+          "1/2 xícara (chá) de farinha de rosca",
+          "1/2 cebola picada",
+          "1 dente de alho amassado",
+          "Sal e pimenta do reino a gosto",
+          "100g de queijo muçarela fatiado",
+          "50g de presunto fatiado (opcional)",
+          "2 colheres (sopa) de cheiro-verde picado",
+          "Molho de tomate a gosto (para cobrir)"
+        ],
+        "preparo": [
+          "Em uma tigela, misture a carne moída, ovo, farinha de rosca, cebola, alho, sal, pimenta e cheiro-verde. Amasse bem até incorporar.",
+          "Sobre um plástico filme ou papel manteiga, abra a massa de carne moída em formato retangular, com cerca de 1 cm de espessura.",
+          "Distribua as fatias de queijo e presunto (se usar) sobre a carne, deixando uma borda livre.",
+          "Com a ajuda do plástico/papel, enrole a carne cuidadosamente, formando um rocambole. Transfira para uma assadeira.",
+          "Cubra com molho de tomate e leve ao forno pré-aquecido a 180°C por cerca de 30-40 minutos, ou até dourar e cozinhar por completo."
+        ],
+        "id": "rocambole-de-carne-mo-da-recheado-f76b9e"
+      },
+      {
+        "nome": "Bruschettas de Cogumelos Salteados",
+        "curso": "entrada",
+        "tempo": "20 min",
+        "url": "https://www.cybercook.com.br/receita-de-bruschetta-de-cogumelos-180126.html",
+        "porque": "Uma entrada rápida e saborosa, que utiliza o forno para torrar o pão e cogumelos salteados, evitando fritura.",
+        "tags": [
+          "vegetariano",
+          "rapido",
+          "forno"
         ],
         "rende_sobra": false,
         "ingredientes": [
-          "2 pães franceses",
-          "3 colheres (sopa) de manteiga em temperatura ambiente",
-          "3 dentes de alho amassados",
-          "200 g de muçarela ralada",
-          "50 g de queijo parmesão ralado (opcional)",
-          "Orégano a gosto",
-          "Cheiro-verde picado a gosto"
+          "8 fatias de pão italiano ou ciabatta",
+          "200g de cogumelos frescos (shitake, paris ou portobello)",
+          "2 dentes de alho picados",
+          "2 colheres (sopa) de azeite de oliva",
+          "Salsinha fresca picada a gosto",
+          "Sal e pimenta do reino a gosto"
         ],
         "preparo": [
-          "Em uma tigela, misture a manteiga, o alho amassado, o cheiro-verde e o orégano.",
-          "Faça cortes nos pães franceses, sem ir até o final para que as fatias permaneçam unidas.",
-          "Passe a manteiga temperada entre os cortes e por cima dos pães.",
-          "Recheie os cortes com a muçarela ralada e o queijo parmesão (se usar).",
-          "Leve à Airfryer preaquecida a 180°C por 8 a 10 minutos, ou até o queijo derreter e o pão ficar dourado e crocante.",
-          "Sirva ainda quente."
+          "Corte os cogumelos em fatias.",
+          "Em uma frigideira, aqueça 1 colher de azeite e salteie os cogumelos até ficarem macios e dourados. Adicione 1 dente de alho picado, sal e pimenta. Reserve.",
+          "Regue as fatias de pão com um fio de azeite e leve ao forno pré-aquecido a 180°C ou na sanduicheira até ficarem levemente douradas e crocantes.",
+          "Esfregue o dente de alho restante nas fatias de pão torradas.",
+          "Distribua os cogumelos salteados sobre as bruschettas e finalize com salsinha picada. Sirva imediatamente."
         ],
-        "id": "p-o-de-alho-recheado-na-airfryer-ef3da9"
+        "id": "bruschettas-de-cogumelos-salteados-aa4f4b"
       },
       {
-        "nome": "Mousse de Morango Simples",
+        "nome": "Bolo de Caneca de Chocolate com Calda Rápida",
         "curso": "sobremesa",
-        "tempo": "20 min",
-        "url": "https://www.tudogostoso.com.br/receita/2873-mousse-de-morango.html",
-        "porque": "Sobremesa refrescante e fácil de fazer, sem uso de forno e com poucos ingredientes, ideal para a praticidade.",
+        "tempo": "10 min",
+        "url": "https://www.receitasnestle.com.br/receitas/bolo-de-caneca-de-chocolate",
+        "porque": "Uma sobremesa individual, prática e rápida, perfeita para satisfazer a vontade de doce sem excessos e sem a necessidade de forno.",
         "tags": [
-          "doce",
           "rapido",
-          "sem_forno"
+          "sobremesa"
         ],
-        "rende_sobra": true,
+        "rende_sobra": false,
         "ingredientes": [
-          "1 lata de leite condensado",
-          "1 caixa de creme de leite (200g)",
-          "1 envelope de suco em pó sabor morango (ou 1 xícara de morangos frescos batidos)",
-          "1/2 xícara (chá) de água quente (se usar gelatina)",
-          "1 envelope de gelatina incolor sem sabor (se usar morangos frescos)"
+          "Para o bolo (por caneca):",
+          "4 colheres (sopa) de farinha de trigo",
+          "4 colheres (sopa) de açúcar",
+          "2 colheres (sopa) de achocolatado em pó",
+          "1 ovo pequeno",
+          "3 colheres (sopa) de leite",
+          "3 colheres (sopa) de óleo",
+          "1 colher (café) de fermento em pó",
+          "Para a calda (por caneca):",
+          "1 colher (sopa) de chocolate em barra picado",
+          "1 colher (sopa) de creme de leite"
         ],
         "preparo": [
-          "No liquidificador, bata o leite condensado, o creme de leite e o suco em pó de morango (ou os morangos frescos batidos).",
-          "Se for usar gelatina incolor, dissolva-a na água quente conforme as instruções da embalagem e adicione à mistura do liquidificador. Bata novamente até incorporar. (Opcional, se usar suco em pó já tem consistência).",
-          "Despeje a mistura em um refratário ou em taças individuais.",
-          "Leve à geladeira por pelo menos 3 horas, ou até firmar bem.",
-          "Decore com morangos frescos antes de servir, se desejar."
+          "Em uma caneca grande (aprox. 300ml), misture a farinha, açúcar e achocolatado.",
+          "Adicione o ovo, leite e óleo, misturando bem com um garfo até obter uma massa homogênea.",
+          "Por último, incorpore o fermento em pó delicadamente.",
+          "Leve a caneca ao micro-ondas em potência alta por 1 minuto e 30 segundos a 2 minutos (o tempo pode variar). O bolo deve estar firme ao toque.",
+          "Para a calda, misture o chocolate picado com o creme de leite em outra caneca pequena e leve ao micro-ondas por 15-20 segundos, mexendo até derreter e formar uma calda lisa.",
+          "Despeje a calda sobre o bolo e sirva imediatamente."
         ],
-        "id": "mousse-de-morango-simples-52e664"
+        "id": "bolo-de-caneca-de-chocolate-com-calda-r--626ead"
       }
     ]
   },
