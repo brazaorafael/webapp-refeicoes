@@ -1958,5 +1958,45 @@
       "sobremesa"
     ],
     "data": "06/08/2026"
+  },
+  {
+    "id": "pat-de-ricota-com-ervas-e-torradinhas-88fdf3",
+    "titulo": "Patê de Ricota com Ervas e Torradinhas",
+    "tags": [
+      "vegetariano",
+      "rapido",
+      "low_carb"
+    ],
+    "data": "07/08/2026"
+  },
+  {
+    "id": "bife-de-panela-de-press-o-com-legumes-391f38",
+    "titulo": "Bife de Panela de Pressão com Legumes",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "equilibrado"
+    ],
+    "data": "07/08/2026"
+  },
+  {
+    "id": "bife-grelhado-com-chimichurri-fresco-e-b-f3ddb4",
+    "titulo": "Bife Grelhado com Chimichurri Fresco e Batata Doce Assada",
+    "tags": [
+      "carne_vermelha",
+      "grelhado",
+      "equilibrado"
+    ],
+    "data": "07/08/2026"
+  },
+  {
+    "id": "frango-cremoso-com-milho-e-arroz-1dacb5",
+    "titulo": "Frango Cremoso com Milho e Arroz",
+    "tags": [
+      "frango",
+      "rapido",
+      "equilibrado"
+    ],
+    "data": "07/08/2026"
   }
 ]
