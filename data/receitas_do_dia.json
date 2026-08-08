@@ -1,169 +1,143 @@
 {
-  "gerado_em": "07/08/2026",
+  "gerado_em": "08/08/2026",
   "diario": {
     "tipo": "diario",
-    "data": "07/08/2026",
-    "dia_semana": "sexta",
+    "data": "08/08/2026",
+    "dia_semana": "sábado",
     "pratos": [
       {
-        "nome": "Patê de Ricota com Ervas e Torradinhas",
-        "curso": "entrada",
-        "tempo": "15 min",
-        "url": "https://www.receiteria.com.br/receita/56-receitas-de-pate-praticas-e-saborosas/4/",
-        "porque": "É uma entrada leve, proteica e super rápida de preparar, ideal para começar a refeição sem frituras.",
-        "tags": [
-          "vegetariano",
-          "rapido",
-          "low_carb"
-        ],
-        "rende_sobra": false,
-        "ingredientes": [
-          "250g de ricota fresca",
-          "1/2 xícara de leite (ou iogurte natural)",
-          "1/4 xícara de cheiro-verde picado (salsinha e cebolinha)",
-          "Sal e pimenta-do-reino a gosto",
-          "Azeite a gosto",
-          "Torradinhas (assadas ou integrais) para servir"
-        ],
-        "preparo": [
-          "Em um recipiente, amasse a ricota com um garfo até ficar homogênea.",
-          "Adicione o leite (ou iogurte), o cheiro-verde, sal e pimenta-do-reino, misturando bem.",
-          "Regue com um fio de azeite e misture novamente.",
-          "Sirva o patê em um bowl acompanhado de torradinhas."
-        ],
-        "id": "pat-de-ricota-com-ervas-e-torradinhas-88fdf3"
-      },
-      {
-        "nome": "Bife de Panela de Pressão com Legumes",
-        "curso": "principal",
-        "tempo": "40 min",
-        "url": "https://www.guiadacozinha.com.br/receitas/bife-ao-molho-com-legumes-na-pressao/",
-        "porque": "Um prato robusto de carne vermelha, cozido rapidamente na panela de pressão com legumes, garantindo maciez e equilíbrio.",
-        "tags": [
-          "carne_vermelha",
-          "rapido",
-          "equilibrado"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "1kg de coxão duro em bifes (ou patinho, alcatra)",
-          "Sal e cheiro-verde picado a gosto",
-          "4 dentes de alho picados",
-          "3 colheres (sopa) de óleo ou azeite",
-          "2 cebolas em rodelas",
-          "1 pimentão vermelho em rodelas (opcional)",
-          "1 pimentão amarelo em rodelas (opcional)",
-          "3 tomates em rodelas (ou 1 lata de tomate pelado)",
-          "1 envelope de caldo de carne em pó (ou 1 xícara de caldo de carne)",
-          "1 xícara (chá) de água",
-          "1 xícara (chá) de molho de tomate",
-          "Batatas e cenouras em cubos (a gosto)"
-        ],
-        "preparo": [
-          "Tempere os bifes com sal e o alho.",
-          "Em uma panela de pressão, espalhe o óleo e doure os bifes. Adicione a cebola e refogue.",
-          "Faça camadas de bife, cebola, pimentões e tomate na panela.",
-          "Adicione o caldo de carne, a água, o molho de tomate, sal, cheiro-verde e os legumes (batatas e cenouras).",
-          "Tampe a panela e cozinhe por 15-20 minutos, em fogo baixo, após iniciada a pressão.",
-          "Desligue, deixe a pressão sair naturalmente e abra a panela. Transfira para uma travessa e sirva."
-        ],
-        "id": "bife-de-panela-de-press-o-com-legumes-391f38"
-      },
-      {
-        "nome": "Bife Grelhado com Chimichurri Fresco e Batata Doce Assada",
-        "curso": "principal",
-        "tempo": "40 min",
-        "url": "https://www.clubpaulistano.org.br/gastronomia/bife-ancho-ao-molho-chimichurri/",
-        "porque": "Uma opção clássica de carne vermelha grelhada, acompanhada de um molho fresco e batata doce assada para um jantar equilibrado e saboroso.",
-        "tags": [
-          "carne_vermelha",
-          "grelhado",
-          "equilibrado"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "2 bifes de carne vermelha (ancho, chorizo ou alcatra) de ~200g cada",
-          "2 batatas doces médias",
-          "2 colheres de sopa de azeite de oliva",
-          "Sal, pimenta-do-reino e páprica a gosto",
-          "1/4 xícara de salsinha picada",
-          "1/4 xícara de cebolinha picada",
-          "1 dente de alho picado",
-          "1/2 colher de chá de orégano seco",
-          "Pimenta calabresa a gosto (opcional)",
-          "3 colheres de sopa de azeite de oliva extra virgem",
-          "1 colher de sopa de vinagre de vinho tinto",
-          "Sal a gosto (para o chimichurri)"
-        ],
-        "preparo": [
-          "Pré-aqueça o forno a 200°C. Lave e corte as batatas doces em rodelas ou palitos. Tempere com azeite, sal, pimenta e páprica.",
-          "Leve as batatas ao forno por 25-30 minutos, virando na metade do tempo, até ficarem macias e douradas.",
-          "Enquanto as batatas assam, prepare o chimichurri: em um pote, misture a salsinha, cebolinha, alho, orégano, pimenta calabresa (se usar), azeite, vinagre e sal. Deixe descansar.",
-          "Tempere os bifes com sal e pimenta-do-reino. Aqueça uma frigideira ou grelha em fogo alto com um fio de azeite.",
-          "Grelhe os bifes por 3-5 minutos de cada lado, dependendo do ponto desejado. Retire e deixe descansar por alguns minutos.",
-          "Sirva os bifes fatiados com o chimichurri por cima e as batatas doces assadas ao lado."
-        ],
-        "id": "bife-grelhado-com-chimichurri-fresco-e-b-f3ddb4"
-      },
-      {
-        "nome": "Frango Cremoso com Milho e Arroz",
+        "nome": "Estrogonofe de Carne Tradicional",
         "curso": "principal",
         "tempo": "35 min",
-        "url": "https://www.youtube.com/watch?v=1F2b90sN8nQ",
-        "porque": "Uma opção de frango saborosa e rápida, com um molho cremoso de milho, perfeita para um jantar equilibrado e sem fritura.",
+        "url": "https://www.panelinha.com.br/receita/Estrogonofe-de-carne",
+        "porque": "Um clássico rápido e saboroso, rico em proteína de carne vermelha, ideal para o casal e com potencial para sobras, preparado de forma tradicional com creme de leite.",
         "tags": [
-          "frango",
+          "carne_vermelha",
           "rapido",
-          "equilibrado"
+          "equilibrado",
+          "rende_sobra"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "500g de peito de frango cortado em cubos",
-          "1 cebola pequena picada",
-          "2 dentes de alho amassados",
-          "1 lata de milho verde escorrida (ou 1 e 1/2 xícara de milho congelado)",
-          "1 lata de creme de leite",
-          "1/2 xícara de leite",
-          "2 colheres de sopa de amido de milho (opcional, para mais cremosidade)",
-          "Sal, pimenta-do-reino e cheiro-verde a gosto",
-          "Arroz branco cozido para acompanhar"
+          "500 g de miolo de alcatra em tiras (ou filé mignon)",
+          "200 g de cogumelo-de-paris fresco (ou champignon em conserva)",
+          "1 cebola média picada",
+          "2 dentes de alho picados",
+          "200 ml de creme de leite fresco (ou de caixinha)",
+          "2 colheres (sopa) de extrato de tomate",
+          "1 colher (sopa) de ketchup",
+          "1 colher (sopa) de molho inglês",
+          "1 colher (sopa) de conhaque (opcional)",
+          "2 colheres (sopa) de azeite",
+          "Sal e pimenta-do-reino moída na hora a gosto"
         ],
         "preparo": [
-          "Tempere o frango com sal e pimenta-do-reino. Em uma panela, doure a cebola e o alho em um fio de azeite.",
-          "Adicione o frango e refogue até dourar por todos os lados.",
-          "No liquidificador, bata o milho verde escorrido com o leite e o amido de milho (se usar) até obter uma mistura homogênea.",
-          "Despeje a mistura do liquidificador sobre o frango refogado. Cozinhe em fogo médio, mexendo sempre, até engrossar.",
-          "Desligue o fogo e adicione o creme de leite, misturando bem. Ajuste o sal e a pimenta, se necessário.",
-          "Finalize com cheiro-verde picado e sirva imediatamente com arroz branco."
+          "Corte a carne em tiras. Pique a cebola e o alho. Fatie os cogumelos.",
+          "Em uma panela grande, aqueça 1 colher (sopa) de azeite em fogo médio-alto. Doure as tiras de carne em levas para não soltar muito líquido. Retire a carne e reserve.",
+          "Na mesma panela, adicione o restante do azeite. Refogue a cebola até ficar transparente e, em seguida, o alho por 1 minuto.",
+          "Acrescente os cogumelos e cozinhe por alguns minutos. Adicione o extrato de tomate, ketchup, molho inglês e conhaque (se usar), misturando bem.",
+          "Volte a carne para a panela. Incorpore o creme de leite, tempere com sal e pimenta. Deixe aquecer bem, sem ferver intensamente.",
+          "Retire do fogo e sirva imediatamente, acompanhado de arroz branco e batata palha."
         ],
-        "id": "frango-cremoso-com-milho-e-arroz-1dacb5"
+        "id": "estrogonofe-de-carne-tradicional-de3732"
       },
       {
-        "nome": "Creme de Manga com Iogurte",
-        "curso": "sobremesa",
-        "tempo": "10 min",
-        "url": "https://www.receiteria.com.br/receita/creme-de-manga-com-iogurte/",
-        "porque": "Uma sobremesa leve, refrescante e super rápida de preparar, ideal para finalizar a refeição de forma saudável e saborosa.",
+        "nome": "Fraldinha Assada na Cerveja",
+        "curso": "principal",
+        "tempo": "~20 min (preparo ativo)",
+        "url": "https://www.panelinha.com.br/receita/Fraldinha-assada-na-cerveja",
+        "porque": "Atende à preferência por carne vermelha, usa o forno para evitar frituras e a marinada na cerveja garante maciez e sabor, com molho para acompanhar e sobras. O tempo de preparo ativo é rápido, e o cozimento no forno é majoritariamente passivo.",
         "tags": [
-          "vegetariano",
+          "carne_vermelha",
+          "forno",
+          "equilibrado",
+          "rende_sobra"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "1 fraldinha em peça (~1 kg)",
+          "350 ml de cerveja escura (1 lata)",
+          "2 cebolas",
+          "2 pimentões vermelhos",
+          "3 dentes de alho",
+          "2 colheres (sopa) de açúcar mascavo",
+          "2 colheres (sopa) de extrato de tomate",
+          "1 colher (sopa) de vinagre de vinho tinto",
+          "6 ramos de tomilho",
+          "2 colheres (sopa) de azeite",
+          "Sal e pimenta-do-reino moída na hora a gosto"
+        ],
+        "preparo": [
+          "Amasse e descasque os dentes de alho. Numa tigela grande, misture alho, extrato de tomate, açúcar mascavo, vinagre e cerveja para a marinada.",
+          "Faça cortes superficiais na gordura da fraldinha. Coloque a carne e os ramos de tomilho na marinada, cubra e leve à geladeira por no mínimo 2 horas (ou de um dia para o outro).",
+          "Preaqueça o forno a 200ºC. Retire a carne da geladeira, escorra o excesso de marinada e reserve o líquido. Corte as cebolas e os pimentões em gomos ou tiras.",
+          "Tempere os legumes com sal, pimenta e 1 colher (sopa) de azeite. Coloque-os na assadeira. Disponha a fraldinha sobre os legumes.",
+          "Preencha a assadeira com o líquido da marinada, evitando derramar sobre a carne. Asse por cerca de 35 minutos até a carne dourar e os legumes amaciarem.",
+          "Deixe a carne descansar por 10 minutos antes de fatiar. Sirva com o molho que se formou na assadeira."
+        ],
+        "id": "fraldinha-assada-na-cerveja-34892a"
+      },
+      {
+        "nome": "Salada de Ovos Cremosa e Proteica",
+        "curso": "entrada",
+        "tempo": "20 min",
+        "url": "https://receitas.globo.com/receitas/salada-de-ovos-cremosa-proteica-receita-rapida-e-saudavel-da-ana-maria-braga-1.ghtml",
+        "porque": "Uma entrada prática, rápida e nutritiva, rica em proteína e sem fritura.",
+        "tags": [
+          "ovos",
           "rapido",
           "low_carb"
         ],
         "rende_sobra": false,
         "ingredientes": [
-          "1 manga grande e madura (tipo Palmer ou Tommy)",
-          "2 potes de iogurte natural integral (340g)",
-          "Mel ou adoçante a gosto (opcional)",
-          "Folhas de hortelã para decorar (opcional)"
+          "4 ovos cozidos e picados",
+          "1/2 cebola pequena picada",
+          "1 dente de alho espremido (opcional)",
+          "2 colheres (sopa) de maionese",
+          "1 colher (sopa) de azeite de oliva",
+          "1 colher (sopa) de molho de mostarda",
+          "Salsa picada a gosto",
+          "Sal e pimenta-do-reino a gosto"
         ],
         "preparo": [
-          "Lave, descasque e pique a manga em pedaços.",
-          "No liquidificador, bata a manga picada com o iogurte natural até obter um creme homogêneo.",
-          "Prove e, se desejar, adicione mel ou adoçante a gosto e bata novamente.",
-          "Distribua o creme em taças individuais e leve à geladeira por pelo menos 30 minutos para firmar e gelar.",
-          "Decore com folhas de hortelã antes de servir (opcional)."
+          "Cozinhe os ovos por cerca de 10 minutos após a fervura. Escorra a água quente e resfrie em água gelada para facilitar a remoção da casca.",
+          "Descasque os ovos e pique-os em cubos pequenos ou amasse grosseiramente com um garfo.",
+          "Em uma tigela, combine os ovos picados, a cebola e o alho (se usar).",
+          "Adicione a maionese, o azeite, o molho de mostarda e a salsa picada.",
+          "Misture delicadamente até obter uma salada cremosa. Tempere com sal e pimenta-do-reino a gosto.",
+          "Sirva em temperatura ambiente ou gelada, decorando com mais salsa, se desejar."
         ],
-        "id": "creme-de-manga-com-iogurte-42b2c2"
+        "id": "salada-de-ovos-cremosa-e-proteica-1b1a64"
+      },
+      {
+        "nome": "Abacaxi Grelhado com Coco",
+        "curso": "sobremesa",
+        "tempo": "15 min",
+        "url": "https://www.panelinha.com.br/receita/Abacaxi-grelhado-com-coco",
+        "porque": "Uma sobremesa leve, prática e refrescante, preparada na grelha sem fritura e com um toque tropical.",
+        "tags": [
+          "grelhado",
+          "rapido",
+          "fruta",
+          "leve"
+        ],
+        "rende_sobra": false,
+        "ingredientes": [
+          "1/2 abacaxi médio, descascado e cortado em rodelas de 1,5-2 cm",
+          "2 colheres (chá) de manteiga (ou óleo de coco)",
+          "1-2 colheres (sopa) de açúcar (opcional, para caramelizar)",
+          "Fitas de coco seco tostadas ou coco ralado para servir",
+          "Sorvete de coco (opcional)"
+        ],
+        "preparo": [
+          "Corte o abacaxi em rodelas de 1,5 a 2 cm de espessura e remova o miolo se desejar.",
+          "Aqueça uma frigideira ou grelha em fogo médio. Unte com a manteiga ou óleo de coco.",
+          "Polvilhe um lado das rodelas de abacaxi com um pouco de açúcar. Coloque o lado açucarado para baixo na grelha.",
+          "Grelhe por cerca de 3-5 minutos de cada lado, até ficarem dourados e com marcas da grelha.",
+          "Transfira as fatias de abacaxi grelhado para um prato.",
+          "Sirva morno ou em temperatura ambiente, acompanhado de fitas de coco tostadas ou coco ralado e, se desejar, sorvete de coco."
+        ],
+        "id": "abacaxi-grelhado-com-coco-4ab063"
       }
     ]
   },

@@ -1998,5 +1998,48 @@
       "equilibrado"
     ],
     "data": "07/08/2026"
+  },
+  {
+    "id": "estrogonofe-de-carne-tradicional-de3732",
+    "titulo": "Estrogonofe de Carne Tradicional",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "equilibrado",
+      "rende_sobra"
+    ],
+    "data": "08/08/2026"
+  },
+  {
+    "id": "fraldinha-assada-na-cerveja-34892a",
+    "titulo": "Fraldinha Assada na Cerveja",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "equilibrado",
+      "rende_sobra"
+    ],
+    "data": "08/08/2026"
+  },
+  {
+    "id": "salada-de-ovos-cremosa-e-proteica-1b1a64",
+    "titulo": "Salada de Ovos Cremosa e Proteica",
+    "tags": [
+      "ovos",
+      "rapido",
+      "low_carb"
+    ],
+    "data": "08/08/2026"
+  },
+  {
+    "id": "abacaxi-grelhado-com-coco-4ab063",
+    "titulo": "Abacaxi Grelhado com Coco",
+    "tags": [
+      "grelhado",
+      "rapido",
+      "fruta",
+      "leve"
+    ],
+    "data": "08/08/2026"
   }
 ]
