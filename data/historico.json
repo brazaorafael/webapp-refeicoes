@@ -2073,5 +2073,275 @@
       "low_carb"
     ],
     "data": "09/08/2026"
+  },
+  {
+    "id": "carne-mo-da-refogada-com-pur-de-mandioqu-fc1d87",
+    "titulo": "Carne Moída Refogada com Purê de Mandioquinha",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "equilibrio"
+    ],
+    "data": "09/08/2026"
+  },
+  {
+    "id": "bife-de-cox-o-mole-grelhado-com-arroz-br-254c17",
+    "titulo": "Bife de Coxão Mole Grelhado com Arroz Branco e Salada de Rúcula",
+    "tags": [
+      "carne_vermelha",
+      "grelhado",
+      "rapido"
+    ],
+    "data": "09/08/2026"
+  },
+  {
+    "id": "salada-simples-de-folhas-verdes-com-toma-6e6ba2",
+    "titulo": "Salada Simples de Folhas Verdes com Tomate Cereja",
+    "tags": [
+      "salada",
+      "rapido",
+      "vegetariano"
+    ],
+    "data": "09/08/2026"
+  },
+  {
+    "id": "banana-assada-com-canela-e-mel-644926",
+    "titulo": "Banana Assada com Canela e Mel",
+    "tags": [
+      "rapido",
+      "low_carb",
+      "frutas"
+    ],
+    "data": "09/08/2026"
+  },
+  {
+    "id": "tiras-de-carne-aceboladas-com-arroz-inte-76d02d",
+    "titulo": "Tiras de Carne Aceboladas com Arroz Integral e Brócolis no Vapor",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "equilibrio"
+    ],
+    "data": "09/08/2026"
+  },
+  {
+    "id": "salada-de-folhas-verdes-com-tomate-cerej-3764da",
+    "titulo": "Salada de Folhas Verdes com Tomate Cereja e Queijo Branco",
+    "tags": [
+      "salada",
+      "vegetariano",
+      "rapido"
+    ],
+    "data": "09/08/2026"
+  },
+  {
+    "id": "iogurte-natural-com-granola-e-frutas-pic-81859f",
+    "titulo": "Iogurte Natural com Granola e Frutas Picadas",
+    "tags": [
+      "rapido",
+      "frutas",
+      "low_carb"
+    ],
+    "data": "09/08/2026"
+  },
+  {
+    "id": "panquecas-de-carne-mo-da-massa-integral--904165",
+    "titulo": "Panquecas de Carne Moída (massa integral, assadas)",
+    "tags": [
+      "carne_vermelha",
+      "massa",
+      "forno"
+    ],
+    "data": "09/08/2026"
+  },
+  {
+    "id": "frango-grelhado-com-arroz-de-br-colis-e--8c1c6a",
+    "titulo": "Frango Grelhado com Arroz de Brócolis e Abobrinha Refogada",
+    "tags": [
+      "frango",
+      "grelhado",
+      "equilibrio"
+    ],
+    "data": "09/08/2026"
+  },
+  {
+    "id": "creme-de-ab-bora-com-gengibre-sem-creme--47cba6",
+    "titulo": "Creme de Abóbora com Gengibre (sem creme de leite)",
+    "tags": [
+      "sopa",
+      "vegetariano",
+      "low_carb"
+    ],
+    "data": "09/08/2026"
+  },
+  {
+    "id": "gelatina-colorida-diet-com-camadas-053953",
+    "titulo": "Gelatina Colorida Diet (com camadas)",
+    "tags": [
+      "rapido",
+      "low_carb",
+      "frutas"
+    ],
+    "data": "09/08/2026"
+  },
+  {
+    "id": "feij-o-tropeiro-light-com-bacon-magro-na-466dd6",
+    "titulo": "Feijão Tropeiro Light (com bacon magro na airfryer)",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "equilibrio"
+    ],
+    "data": "09/08/2026"
+  },
+  {
+    "id": "macarr-o-integral-com-molho-bolonhesa-ca-1e572e",
+    "titulo": "Macarrão Integral com Molho Bolonhesa Caseiro e Cenoura Ralada",
+    "tags": [
+      "carne_vermelha",
+      "massa",
+      "equilibrio"
+    ],
+    "data": "09/08/2026"
+  },
+  {
+    "id": "creme-de-legumes-variados-abobrinha-ceno-4c54a2",
+    "titulo": "Creme de Legumes Variados (abobrinha, cenoura, batata)",
+    "tags": [
+      "sopa",
+      "vegetariano",
+      "equilibrio"
+    ],
+    "data": "09/08/2026"
+  },
+  {
+    "id": "peras-assadas-com-especiarias-canela-cra-cc58e8",
+    "titulo": "Peras Assadas com Especiarias (canela, cravo)",
+    "tags": [
+      "frutas",
+      "forno",
+      "low_carb"
+    ],
+    "data": "09/08/2026"
+  },
+  {
+    "id": "ca-o-ensopado-com-legumes-e-arroz-branco-ebe7ae",
+    "titulo": "Cação Ensopado com Legumes e Arroz Branco",
+    "tags": [
+      "peixe",
+      "equilibrio",
+      "rapido"
+    ],
+    "data": "09/08/2026"
+  },
+  {
+    "id": "fil-mignon-su-no-grelhado-com-arroz-de-c-0d28f5",
+    "titulo": "Filé Mignon Suíno Grelhado com Arroz de Couve-Flor e Ervilhas Frescas",
+    "tags": [
+      "porco",
+      "grelhado",
+      "low_carb"
+    ],
+    "data": "09/08/2026"
+  },
+  {
+    "id": "carpaccio-de-abobrinha-com-lascas-de-par-b3c4fb",
+    "titulo": "Carpaccio de Abobrinha com Lascas de Parmesão e Limão",
+    "tags": [
+      "salada",
+      "vegetariano",
+      "rapido"
+    ],
+    "data": "09/08/2026"
+  },
+  {
+    "id": "pudim-de-chia-com-leite-de-coco-e-manga-6473a5",
+    "titulo": "Pudim de Chia com Leite de Coco e Manga",
+    "tags": [
+      "low_carb",
+      "frutas",
+      "rapido"
+    ],
+    "data": "09/08/2026"
+  },
+  {
+    "id": "risoto-de-cogumelos-com-fil-mignon-grelh-2ff2aa",
+    "titulo": "Risoto de Cogumelos com Filé Mignon Grelhado",
+    "tags": [
+      "carne_vermelha",
+      "massa",
+      "grelhado"
+    ],
+    "data": "09/08/2026"
+  },
+  {
+    "id": "bife-de-chorizo-grelhado-com-farofa-de-o-4c45a3",
+    "titulo": "Bife de Chorizo Grelhado com Farofa de Ovos e Couve Refogada",
+    "tags": [
+      "carne_vermelha",
+      "grelhado",
+      "rapido"
+    ],
+    "data": "09/08/2026"
+  },
+  {
+    "id": "queijo-coalho-grelhado-com-mel-e-pimenta-76a6f6",
+    "titulo": "Queijo Coalho Grelhado com Mel e Pimenta do Reino",
+    "tags": [
+      "grelhado",
+      "rapido",
+      "vegetariano"
+    ],
+    "data": "09/08/2026"
+  },
+  {
+    "id": "cheesecake-de-copo-com-frutas-vermelhas--035004",
+    "titulo": "Cheesecake de Copo com Frutas Vermelhas (sem assar)",
+    "tags": [
+      "rapido",
+      "frutas",
+      "sem_forno"
+    ],
+    "data": "09/08/2026"
+  },
+  {
+    "id": "galinhada-na-panela-de-press-o-com-arroz-59b3e7",
+    "titulo": "Galinhada na Panela de Pressão com Arroz Integral",
+    "tags": [
+      "frango",
+      "rapido",
+      "equilibrio"
+    ],
+    "data": "09/08/2026"
+  },
+  {
+    "id": "fraldinha-grelhada-com-molho-de-ervas-e--f57dd4",
+    "titulo": "Fraldinha Grelhada com Molho de Ervas e Batata Doce Assada",
+    "tags": [
+      "carne_vermelha",
+      "grelhado",
+      "equilibrio"
+    ],
+    "data": "09/08/2026"
+  },
+  {
+    "id": "salada-waldorf-com-iogurte-no-lugar-da-m-666870",
+    "titulo": "Salada Waldorf (com iogurte no lugar da maionese)",
+    "tags": [
+      "salada",
+      "vegetariano",
+      "low_carb"
+    ],
+    "data": "09/08/2026"
+  },
+  {
+    "id": "romeu-e-julieta-fit-queijo-minas-frescal-60e2a6",
+    "titulo": "Romeu e Julieta Fit (queijo minas frescal com goiabada cascão light)",
+    "tags": [
+      "rapido",
+      "low_carb",
+      "vegetariano"
+    ],
+    "data": "09/08/2026"
   }
 ]
