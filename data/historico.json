@@ -2041,5 +2041,37 @@
       "leve"
     ],
     "data": "08/08/2026"
+  },
+  {
+    "id": "picadinho-de-carne-cl-ssico-174e25",
+    "titulo": "Picadinho de Carne Clássico",
+    "tags": [
+      "carne_vermelha",
+      "equilibrado",
+      "panela"
+    ],
+    "data": "09/08/2026"
+  },
+  {
+    "id": "fil-de-frango-grelhado-com-legumes-ao-va-625aeb",
+    "titulo": "Filé de Frango Grelhado com Legumes ao Vapor",
+    "tags": [
+      "frango",
+      "grelhado",
+      "rapido",
+      "low_carb"
+    ],
+    "data": "09/08/2026"
+  },
+  {
+    "id": "salada-fresca-de-gr-o-de-bico-com-pepino-69cbb0",
+    "titulo": "Salada Fresca de Grão de Bico com Pepino e Tomate",
+    "tags": [
+      "salada",
+      "vegetariano",
+      "rapido",
+      "low_carb"
+    ],
+    "data": "09/08/2026"
   }
 ]

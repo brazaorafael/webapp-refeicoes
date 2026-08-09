@@ -1,143 +1,156 @@
 {
-  "gerado_em": "08/08/2026",
+  "gerado_em": "09/08/2026",
   "diario": {
     "tipo": "diario",
-    "data": "08/08/2026",
-    "dia_semana": "sábado",
+    "data": "09/08/2026",
+    "dia_semana": "domingo",
     "pratos": [
       {
-        "nome": "Estrogonofe de Carne Tradicional",
+        "nome": "Bife Acebolado",
         "curso": "principal",
-        "tempo": "35 min",
-        "url": "https://www.panelinha.com.br/receita/Estrogonofe-de-carne",
-        "porque": "Um clássico rápido e saboroso, rico em proteína de carne vermelha, ideal para o casal e com potencial para sobras, preparado de forma tradicional com creme de leite.",
+        "tempo": "25 min",
+        "url": "https://receitas.globo.com/receitas/como-fazer-o-melhor-bife-acebolado-receita-da-ana-maria-braga-maisvoce-7589620-youtube.ghtml",
+        "porque": "Um clássico saboroso de carne vermelha, rápido de preparar na frigideira, atende à preferência do casal por grelhados e é uma excelente fonte de proteína.",
         "tags": [
           "carne_vermelha",
           "rapido",
-          "equilibrado",
-          "rende_sobra"
+          "grelhado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "500 g de miolo de alcatra em tiras (ou filé mignon)",
-          "200 g de cogumelo-de-paris fresco (ou champignon em conserva)",
-          "1 cebola média picada",
-          "2 dentes de alho picados",
-          "200 ml de creme de leite fresco (ou de caixinha)",
-          "2 colheres (sopa) de extrato de tomate",
-          "1 colher (sopa) de ketchup",
-          "1 colher (sopa) de molho inglês",
-          "1 colher (sopa) de conhaque (opcional)",
-          "2 colheres (sopa) de azeite",
-          "Sal e pimenta-do-reino moída na hora a gosto"
+          "2 bifes de contrafilé ou alcatra (aprox. 180g cada)",
+          "1 cebola grande em rodelas",
+          "2 colheres de sopa de azeite ou manteiga",
+          "Sal e pimenta-do-reino a gosto"
         ],
         "preparo": [
-          "Corte a carne em tiras. Pique a cebola e o alho. Fatie os cogumelos.",
-          "Em uma panela grande, aqueça 1 colher (sopa) de azeite em fogo médio-alto. Doure as tiras de carne em levas para não soltar muito líquido. Retire a carne e reserve.",
-          "Na mesma panela, adicione o restante do azeite. Refogue a cebola até ficar transparente e, em seguida, o alho por 1 minuto.",
-          "Acrescente os cogumelos e cozinhe por alguns minutos. Adicione o extrato de tomate, ketchup, molho inglês e conhaque (se usar), misturando bem.",
-          "Volte a carne para a panela. Incorpore o creme de leite, tempere com sal e pimenta. Deixe aquecer bem, sem ferver intensamente.",
-          "Retire do fogo e sirva imediatamente, acompanhado de arroz branco e batata palha."
+          "Tempere os bifes com sal e pimenta-do-reino dos dois lados.",
+          "Aqueça o azeite ou manteiga em uma frigideira grande em fogo médio-alto.",
+          "Doure os bifes por 2-3 minutos de cada lado para o ponto desejado. Retire e reserve.",
+          "Na mesma frigideira, refogue as rodelas de cebola até ficarem macias e levemente caramelizadas. Sirva a cebola sobre os bifes."
         ],
-        "id": "estrogonofe-de-carne-tradicional-de3732"
+        "id": "bife-acebolado-8e2e74"
       },
       {
-        "nome": "Fraldinha Assada na Cerveja",
+        "nome": "Picadinho de Carne Clássico",
         "curso": "principal",
-        "tempo": "~20 min (preparo ativo)",
-        "url": "https://www.panelinha.com.br/receita/Fraldinha-assada-na-cerveja",
-        "porque": "Atende à preferência por carne vermelha, usa o forno para evitar frituras e a marinada na cerveja garante maciez e sabor, com molho para acompanhar e sobras. O tempo de preparo ativo é rápido, e o cozimento no forno é majoritariamente passivo.",
+        "tempo": "40 min",
+        "url": "https://www.receitasdopai.com.br/receita/picadinho-de-carne-que-meu-pai-me-ensinou-e-nao-pode-faltar-na-sua-casa-626",
+        "porque": "Um prato reconfortante de carne vermelha em cubos, cozido lentamente para apurar o sabor, que rende bem e pode ser equilibrado com acompanhamentos como arroz e legumes.",
         "tags": [
           "carne_vermelha",
-          "forno",
           "equilibrado",
-          "rende_sobra"
+          "panela"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "1 fraldinha em peça (~1 kg)",
-          "350 ml de cerveja escura (1 lata)",
-          "2 cebolas",
-          "2 pimentões vermelhos",
-          "3 dentes de alho",
-          "2 colheres (sopa) de açúcar mascavo",
-          "2 colheres (sopa) de extrato de tomate",
-          "1 colher (sopa) de vinagre de vinho tinto",
-          "6 ramos de tomilho",
-          "2 colheres (sopa) de azeite",
-          "Sal e pimenta-do-reino moída na hora a gosto"
+          "500g de carne bovina em cubos pequenos (patinho, coxão mole ou alcatra)",
+          "2 colheres de sopa de óleo ou azeite",
+          "1 cebola grande picada",
+          "2 dentes de alho picados",
+          "1 tomate grande picado",
+          "1 cenoura média em cubos pequenos",
+          "1 batata média em cubos pequenos",
+          "2 colheres de sopa de extrato de tomate",
+          "1 xícara de chá de caldo de carne (ou água)",
+          "Sal e pimenta-do-reino a gosto",
+          "Cheiro-verde picado a gosto"
         ],
         "preparo": [
-          "Amasse e descasque os dentes de alho. Numa tigela grande, misture alho, extrato de tomate, açúcar mascavo, vinagre e cerveja para a marinada.",
-          "Faça cortes superficiais na gordura da fraldinha. Coloque a carne e os ramos de tomilho na marinada, cubra e leve à geladeira por no mínimo 2 horas (ou de um dia para o outro).",
-          "Preaqueça o forno a 200ºC. Retire a carne da geladeira, escorra o excesso de marinada e reserve o líquido. Corte as cebolas e os pimentões em gomos ou tiras.",
-          "Tempere os legumes com sal, pimenta e 1 colher (sopa) de azeite. Coloque-os na assadeira. Disponha a fraldinha sobre os legumes.",
-          "Preencha a assadeira com o líquido da marinada, evitando derramar sobre a carne. Asse por cerca de 35 minutos até a carne dourar e os legumes amaciarem.",
-          "Deixe a carne descansar por 10 minutos antes de fatiar. Sirva com o molho que se formou na assadeira."
+          "Aqueça o óleo em uma panela grande e frite a carne em levas até dourar bem. Reserve a carne.",
+          "Na mesma panela, refogue a cebola e o alho até ficarem transparentes. Adicione o tomate e refogue por alguns minutos.",
+          "Acrescente a cenoura e a batata, mexendo bem. Adicione o extrato de tomate e o caldo de carne, misturando.",
+          "Retorne a carne à panela, tempere com sal e pimenta. Tampe e cozinhe em fogo baixo por cerca de 20 minutos, ou até a carne e os legumes estarem macios. Sirva com cheiro-verde."
         ],
-        "id": "fraldinha-assada-na-cerveja-34892a"
+        "id": "picadinho-de-carne-cl-ssico-174e25"
       },
       {
-        "nome": "Salada de Ovos Cremosa e Proteica",
-        "curso": "entrada",
-        "tempo": "20 min",
-        "url": "https://receitas.globo.com/receitas/salada-de-ovos-cremosa-proteica-receita-rapida-e-saudavel-da-ana-maria-braga-1.ghtml",
-        "porque": "Uma entrada prática, rápida e nutritiva, rica em proteína e sem fritura.",
+        "nome": "Filé de Frango Grelhado com Legumes ao Vapor",
+        "curso": "principal",
+        "tempo": "35 min",
+        "url": "https://cozinha365.com.br/frango-grelhado-suculento-com-legumes-ao-vapor-leve-facil-e-delicioso/",
+        "porque": "Uma opção leve e proteica de frango, preparada na grelha para evitar fritura, e acompanhada de legumes frescos cozidos no vapor, garantindo equilíbrio e sabor em pouco tempo.",
         "tags": [
-          "ovos",
+          "frango",
+          "grelhado",
+          "rapido",
+          "low_carb"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "2 filés de peito de frango",
+          "1 abobrinha média em rodelas",
+          "1 cenoura média em rodelas",
+          "1 brócolis pequeno (somente os floretes)",
+          "2 colheres de sopa de azeite de oliva",
+          "Suco de 1/2 limão",
+          "1 dente de alho picado",
+          "Sal e pimenta-do-reino a gosto"
+        ],
+        "preparo": [
+          "Tempere os filés de frango com sal, pimenta-do-reino, alho picado e suco de limão. Deixe marinar por 10 minutos.",
+          "Cozinhe os legumes (abobrinha, cenoura, brócolis) no vapor ou em água fervente por 3-5 minutos, até ficarem al dente. Escorra e reserve.",
+          "Aqueça uma frigideira ou grelha com um fio de azeite em fogo médio-alto.",
+          "Grelhe os filés de frango por 5-7 minutos de cada lado, ou até dourarem e estarem cozidos por completo. Sirva o frango com os legumes ao vapor."
+        ],
+        "id": "fil-de-frango-grelhado-com-legumes-ao-va-625aeb"
+      },
+      {
+        "nome": "Salada Fresca de Grão de Bico com Pepino e Tomate",
+        "curso": "entrada",
+        "tempo": "15 min",
+        "url": "https://gastronomiaparaense.com.br/salada-de-grao-de-bico-com-tomate-e-pepino/",
+        "porque": "Uma entrada leve, nutritiva e refrescante, rica em proteínas vegetais e fibras, fácil de preparar sem cozimento e com ingredientes acessíveis.",
+        "tags": [
+          "salada",
+          "vegetariano",
           "rapido",
           "low_carb"
         ],
         "rende_sobra": false,
         "ingredientes": [
-          "4 ovos cozidos e picados",
-          "1/2 cebola pequena picada",
-          "1 dente de alho espremido (opcional)",
-          "2 colheres (sopa) de maionese",
-          "1 colher (sopa) de azeite de oliva",
-          "1 colher (sopa) de molho de mostarda",
-          "Salsa picada a gosto",
+          "1 lata de grão de bico cozido (aprox. 240g escorrido)",
+          "1 pepino médio, picado em cubos",
+          "1 tomate médio, picado em cubos",
+          "1/4 de cebola roxa pequena, picada finamente",
+          "2 colheres de sopa de azeite de oliva extra virgem",
+          "1 colher de sopa de suco de limão",
+          "Salsinha fresca picada a gosto",
           "Sal e pimenta-do-reino a gosto"
         ],
         "preparo": [
-          "Cozinhe os ovos por cerca de 10 minutos após a fervura. Escorra a água quente e resfrie em água gelada para facilitar a remoção da casca.",
-          "Descasque os ovos e pique-os em cubos pequenos ou amasse grosseiramente com um garfo.",
-          "Em uma tigela, combine os ovos picados, a cebola e o alho (se usar).",
-          "Adicione a maionese, o azeite, o molho de mostarda e a salsa picada.",
-          "Misture delicadamente até obter uma salada cremosa. Tempere com sal e pimenta-do-reino a gosto.",
-          "Sirva em temperatura ambiente ou gelada, decorando com mais salsa, se desejar."
+          "Escorra e lave bem o grão de bico em água fria.",
+          "Em uma tigela grande, misture o grão de bico, o pepino, o tomate e a cebola roxa.",
+          "Em um recipiente pequeno, prepare o molho misturando o azeite, o suco de limão, sal e pimenta-do-reino.",
+          "Despeje o molho sobre a salada e misture delicadamente. Finalize com salsinha picada e sirva imediatamente."
         ],
-        "id": "salada-de-ovos-cremosa-e-proteica-1b1a64"
+        "id": "salada-fresca-de-gr-o-de-bico-com-pepino-69cbb0"
       },
       {
-        "nome": "Abacaxi Grelhado com Coco",
+        "nome": "Mousse de Limão Rápida",
         "curso": "sobremesa",
-        "tempo": "15 min",
-        "url": "https://www.panelinha.com.br/receita/Abacaxi-grelhado-com-coco",
-        "porque": "Uma sobremesa leve, prática e refrescante, preparada na grelha sem fritura e com um toque tropical.",
+        "tempo": "10 min + 2h geladeira",
+        "url": "https://saborbrasil.it/pt/mousse-de-limao-rapida/",
+        "porque": "Uma sobremesa clássica, leve e refrescante, muito fácil de preparar no liquidificador e sem necessidade de forno, ideal para finalizar a refeição.",
         "tags": [
-          "grelhado",
           "rapido",
-          "fruta",
-          "leve"
+          "sobremesa",
+          "doce"
         ],
-        "rende_sobra": false,
+        "rende_sobra": true,
         "ingredientes": [
-          "1/2 abacaxi médio, descascado e cortado em rodelas de 1,5-2 cm",
-          "2 colheres (chá) de manteiga (ou óleo de coco)",
-          "1-2 colheres (sopa) de açúcar (opcional, para caramelizar)",
-          "Fitas de coco seco tostadas ou coco ralado para servir",
-          "Sorvete de coco (opcional)"
+          "1 lata de leite condensado (395g)",
+          "1 lata de creme de leite (200g)",
+          "150 ml de suco de limão (aproximadamente 3 limões)",
+          "Raspas de limão para decorar (opcional)"
         ],
         "preparo": [
-          "Corte o abacaxi em rodelas de 1,5 a 2 cm de espessura e remova o miolo se desejar.",
-          "Aqueça uma frigideira ou grelha em fogo médio. Unte com a manteiga ou óleo de coco.",
-          "Polvilhe um lado das rodelas de abacaxi com um pouco de açúcar. Coloque o lado açucarado para baixo na grelha.",
-          "Grelhe por cerca de 3-5 minutos de cada lado, até ficarem dourados e com marcas da grelha.",
-          "Transfira as fatias de abacaxi grelhado para um prato.",
-          "Sirva morno ou em temperatura ambiente, acompanhado de fitas de coco tostadas ou coco ralado e, se desejar, sorvete de coco."
+          "Em uma tigela, misture o leite condensado com o creme de leite até obter um creme homogêneo.",
+          "Adicione o suco de limão aos poucos, misturando bem a cada adição, até que a mousse comece a engrossar.",
+          "Despeje a mousse em taças individuais ou em uma travessa.",
+          "Leve à geladeira por no mínimo 2 horas antes de servir. Decore com raspas de limão, se desejar."
         ],
-        "id": "abacaxi-grelhado-com-coco-4ab063"
+        "id": "mousse-de-lim-o-r-pida-de62c5"
       }
     ]
   },
