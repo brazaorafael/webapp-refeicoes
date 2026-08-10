@@ -2343,5 +2343,47 @@
       "vegetariano"
     ],
     "data": "09/08/2026"
+  },
+  {
+    "id": "bife-de-fraldinha-na-airfryer-com-alho-e-a767ae",
+    "titulo": "Bife de Fraldinha na Airfryer com Alho e Ervas",
+    "tags": [
+      "carne_vermelha",
+      "airfryer",
+      "rapido",
+      "grelhado"
+    ],
+    "data": "10/08/2026"
+  },
+  {
+    "id": "frango-desfiado-cremoso-com-requeij-o-5cfd3f",
+    "titulo": "Frango Desfiado Cremoso com Requeijão",
+    "tags": [
+      "frango",
+      "rapido",
+      "equilibrado",
+      "panela"
+    ],
+    "data": "10/08/2026"
+  },
+  {
+    "id": "guacamole-com-chips-de-tortilla-assados-a28e6e",
+    "titulo": "Guacamole com Chips de Tortilla Assados",
+    "tags": [
+      "vegetariano",
+      "rapido",
+      "airfryer"
+    ],
+    "data": "10/08/2026"
+  },
+  {
+    "id": "cocada-cremosa-de-panela-350666",
+    "titulo": "Cocada Cremosa de Panela",
+    "tags": [
+      "doce",
+      "rapido",
+      "panela"
+    ],
+    "data": "10/08/2026"
   }
 ]
