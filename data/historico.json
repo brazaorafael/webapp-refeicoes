@@ -2385,5 +2385,26 @@
       "panela"
     ],
     "data": "10/08/2026"
+  },
+  {
+    "id": "bife-parmegiana-assado-e18b08",
+    "titulo": "Bife à Parmegiana Assado",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "equilibrado"
+    ],
+    "data": "11/08/2026"
+  },
+  {
+    "id": "fil-mignon-su-no-na-airfryer-com-batatas-920524",
+    "titulo": "Filé Mignon Suíno na Airfryer com Batatas Rústicas",
+    "tags": [
+      "porco",
+      "airfryer",
+      "rapido",
+      "grelhado"
+    ],
+    "data": "11/08/2026"
   }
 ]
