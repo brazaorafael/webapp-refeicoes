@@ -1,16 +1,44 @@
 {
-  "gerado_em": "11/08/2026",
+  "gerado_em": "12/08/2026",
   "diario": {
     "tipo": "diario",
-    "data": "11/08/2026",
-    "dia_semana": "terça",
+    "data": "12/08/2026",
+    "dia_semana": "quarta",
     "pratos": [
       {
-        "nome": "Bife à Parmegiana Assado",
+        "nome": "Filé Mignon ao Molho de Vinho Tinto na Air Fryer",
         "curso": "principal",
-        "tempo": "40 min",
-        "url": "https://www.tudogostoso.com.br/receita/9125-bife-a-parmegiana.html",
-        "porque": "Uma versão prática e mais saudável do clássico, com carne vermelha e cozida no forno, garantindo sabor e menos fritura.",
+        "tempo": "30 min",
+        "url": "https://www.fischer.com.br/blog/receitas/file-mignon-ao-molho-de-vinho-tinto-na-air-fryer",
+        "porque": "Esta receita utiliza a air fryer, o que a torna super prática e com pouca gordura, alinhada com a preferência de evitar frituras, além de ser uma carne vermelha de alta proteína com preparo rápido.",
+        "tags": [
+          "carne_vermelha",
+          "airfryer",
+          "rapido"
+        ],
+        "rende_sobra": false,
+        "ingredientes": [
+          "500g de filé mignon cortado em medalhões",
+          "2 colheres (sopa) de azeite",
+          "Sal e pimenta-do-reino a gosto",
+          "½ xícara (chá) de vinho tinto",
+          "1 colher (sopa) de manteiga"
+        ],
+        "preparo": [
+          "Tempere os medalhões de filé mignon com sal e pimenta-do-reino a gosto.",
+          "Preaqueça a Air Fryer a 200°C por 5 minutos.",
+          "Coloque os medalhões na cesta da Air Fryer e asse por 10 a 12 minutos, virando na metade do tempo.",
+          "Enquanto a carne assa, em uma panela, aqueça o vinho tinto e a manteiga até reduzir e formar um molho.",
+          "Retire os medalhões da Air Fryer, regue com o molho de vinho e sirva."
+        ],
+        "id": "fil-mignon-ao-molho-de-vinho-tinto-na-ai-e90fcf"
+      },
+      {
+        "nome": "Carne Moída Gratinada com Batatas ao Forno",
+        "curso": "principal",
+        "tempo": "50 min",
+        "url": "https://www.facebook.com/dicasreceitaspraticas/posts/pfbid0251V95w37K1iS4bH7QxXFv9R6X22dF3fJz7j4w3cQ1X9Q8Z6v3Q2R1d7W7bQ3l",
+        "porque": "Uma receita de forno fácil de montar e que rende bastante, combinando carne moída com batatas e queijo para um prato equilibrado e sem fritura.",
         "tags": [
           "carne_vermelha",
           "forno",
@@ -18,111 +46,126 @@
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "4 bifes de carne bovina (contrafilé ou alcatra, ~150g cada)",
-          "2 dentes de alho picados",
-          "Sal e pimenta-do-reino a gosto",
-          "1 ovo batido",
-          "1 xícara (chá) de farinha de rosca",
-          "1 lata de molho de tomate (340g)",
-          "1/2 cebola pequena picada",
-          "1 colher (sopa) de azeite",
-          "200g de queijo muçarela fatiado",
-          "Orégano a gosto",
-          "Salsinha picada a gosto"
+          "3 batatas médias em rodelas",
+          "Páprica picante, pimenta-do-reino, orégano, azeite e sal a gosto (para as batatas)",
+          "2 colheres (sopa) de azeite (para a carne)",
+          "1 cebola roxa picada",
+          "3 dentes de alho picados",
+          "600g de carne moída",
+          "Colorau a gosto",
+          "Salsinha e cebolinha a gosto",
+          "150g de muçarela ralada",
+          "2 tomates em rodelas"
         ],
         "preparo": [
-          "Tempere os bifes com alho, sal e pimenta. Passe cada bife no ovo batido e depois na farinha de rosca, cobrindo bem.",
-          "Disponha os bifes empanados em uma assadeira untada ou forrada com papel manteiga. Leve ao forno preaquecido a 200°C por cerca de 15-20 minutos, virando na metade do tempo, até dourarem.",
-          "Enquanto os bifes assam, refogue a cebola picada no azeite até ficar transparente. Adicione o molho de tomate, sal, pimenta e salsinha. Cozinhe por 5-7 minutos em fogo baixo.",
-          "Retire os bifes do forno, cubra cada um com uma porção do molho de tomate e fatias de queijo muçarela. Salpique orégano.",
-          "Retorne ao forno por mais 5-10 minutos, ou até o queijo derreter e gratinar. Sirva imediatamente."
+          "Em uma travessa, tempere as batatas em rodelas com páprica, pimenta, orégano, azeite e sal. Misture bem e leve ao forno a 180°C por 30 minutos.",
+          "Em uma panela, refogue o azeite com a cebola e o alho. Acrescente a carne moída e cozinhe até secar a água.",
+          "Tempere a carne com páprica, pimenta, sal, colorau e finalize com salsinha e cebolinha.",
+          "Retire as batatas do forno, coloque a carne moída por cima e finalize com muçarela ralada, rodelas de tomate e orégano.",
+          "Volte ao forno até o queijo derreter e gratinar."
         ],
-        "id": "bife-parmegiana-assado-e18b08"
+        "id": "carne-mo-da-gratinada-com-batatas-ao-for-1615c2"
       },
       {
-        "nome": "Filé Mignon Suíno na Airfryer com Batatas Rústicas",
+        "nome": "Bife à Rolê Rápido (sem panela de pressão)",
         "curso": "principal",
-        "tempo": "25 min",
-        "url": "https://www.youtube.com/watch?v=F_f0iW4wQeM",
-        "porque": "Carne magra de preparo rápido e saudável na Airfryer, combinada com batatas rústicas para uma refeição equilibrada.",
+        "tempo": "40 min",
+        "url": "https://www.receitasdeminuto.com/como-fazer-bife-a-role-sem-panela-de-pressao/",
+        "porque": "Uma versão mais rápida do clássico bife à rolê, feita sem panela de pressão e com legumes, ideal para um jantar prático com carne vermelha.",
         "tags": [
-          "porco",
-          "airfryer",
+          "carne_vermelha",
           "rapido",
-          "grelhado"
+          "equilibrado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "500g de filé mignon suíno",
-          "2 batatas médias (tipo asterix)",
-          "2 dentes de alho picados",
-          "1 colher (chá) de páprica doce",
-          "1 colher (chá) de alecrim seco (ou fresco picado)",
+          "500g de bifes de patinho (ou outra carne macia)",
+          "Fatias finas de cenoura e vagem",
+          "Fatias de bacon",
+          "2 colheres (sopa) de azeite",
+          "1 cebola fatiada",
+          "2 ramos de alecrim",
+          "Folhas de louro",
+          "300g de molho de tomate",
+          "200ml de água",
           "Sal e pimenta-do-reino a gosto",
-          "1 colher (sopa) de azeite"
+          "Palitos de dente",
+          "Salsinha (para finalizar)"
         ],
         "preparo": [
-          "Corte o filé mignon suíno em medalhões de cerca de 2-3 cm de espessura. Tempere com alho, páprica, alecrim, sal, pimenta e azeite. Reserve.",
-          "Lave bem as batatas e corte-as em gomos rústicos (com casca). Cozinhe em água fervente com sal por cerca de 5-7 minutos, até ficarem macias por fora e firmes por dentro. Escorra bem.",
-          "Preaqueça a Airfryer a 200°C por 5 minutos.",
-          "Coloque os medalhões de filé mignon suíno na cesta da Airfryer e asse por 10 minutos. Vire os medalhões, adicione as batatas pré-cozidas e asse por mais 10-15 minutos, ou até a carne dourar e as batatas ficarem crocantes. Sirva quente."
+          "Bata os bifes até ficarem finos, tempere com sal, pimenta e azeite.",
+          "Coloque fatias de cenoura, vagem e bacon sobre cada bife, enrole bem e prenda com um palito.",
+          "Aqueça azeite em uma frigideira e sele os bifes à rolê de todos os lados. Retire e reserve.",
+          "Na mesma frigideira, refogue a cebola até ficar transparente. Adicione o molho de tomate, água, alecrim e louro.",
+          "Volte os bifes para a panela, tampe e cozinhe em fogo baixo por 10 minutos. Vire e cozinhe por mais 10 minutos.",
+          "Finalize com salsinha picada e sirva."
         ],
-        "id": "fil-mignon-su-no-na-airfryer-com-batatas-920524"
+        "id": "bife-rol-r-pido-sem-panela-de-press-o-854915"
       },
       {
-        "nome": "Bruschetta de Tomate e Manjericão",
+        "nome": "Salada de Cevadinha com Legumes Assados",
         "curso": "entrada",
-        "tempo": "15 min",
-        "url": "https://www.tudogostoso.com.br/receita/9833-bruschetta.html",
-        "porque": "Uma entrada rápida, leve e saborosa, perfeita para abrir o apetite sem fritura, usando o forno ou Airfryer para tostar o pão.",
+        "tempo": "50 min",
+        "url": "https://www.anamariabraga.com.br/receitas/salada-de-cevadinha-com-legumes-assados-a53316",
+        "porque": "Uma entrada nutritiva e refrescante, com legumes assados no forno para evitar fritura, e a cevadinha que oferece fibras e carboidratos complexos.",
         "tags": [
           "vegetariano",
-          "rapido",
-          "salada"
+          "salada",
+          "forno"
         ],
-        "rende_sobra": false,
+        "rende_sobra": true,
         "ingredientes": [
-          "6 fatias de pão italiano ou baguete",
-          "2 tomates maduros picados em cubos pequenos",
-          "1 dente de alho pequeno",
-          "Folhas de manjericão fresco a gosto (cerca de 10-12 folhas)",
-          "Azeite extra virgem a gosto (cerca de 3-4 colheres de sopa)",
-          "Sal e pimenta-do-reino a gosto",
-          "Opcional: 50g de muçarela de búfala ou parmesão ralado"
+          "1 e ½ colher (sopa) de manteiga",
+          "2 colheres (sopa) de alho picado",
+          "½ cebola em cubinhos",
+          "2 folhas de louro",
+          "250g de cevadinha em grãos",
+          "800ml de caldo de legumes",
+          "150g de cenoura em cubinhos",
+          "180g de pimentão amarelo em cubinhos",
+          "150g de tomates-cereja em metades",
+          "180g de abobrinha em cubinhos",
+          "½ pimenta dedo-de-moça sem sementes picadinha (opcional)",
+          "Tomilho debulhado a gosto",
+          "Sal, pimenta-do-reino moída e azeite de oliva a gosto",
+          "Suco de 1 limão-siciliano",
+          "Folhas de rúcula a gosto (para servir)"
         ],
         "preparo": [
-          "Em uma tigela, misture os tomates picados, as folhas de manjericão rasgadas, 2 colheres de sopa de azeite, sal e pimenta-do-reino. Reserve.",
-          "Regue as fatias de pão com um fio de azeite e leve ao forno preaquecido a 180°C ou na Airfryer por 5-7 minutos, até dourarem levemente.",
-          "Retire o pão do forno/Airfryer e esfregue o dente de alho cortado em cada fatia.",
-          "Distribua a mistura de tomate e manjericão sobre as fatias de pão. Se usar queijo, adicione por cima.",
-          "Leve novamente ao forno por 3-5 minutos, apenas para aquecer e, se usar, derreter o queijo. Sirva imediatamente."
+          "Em uma panela, derreta a manteiga e refogue a cebola e o alho com as folhas de louro.",
+          "Adicione a cevadinha e refogue rapidamente. Acrescente o caldo de legumes e cozinhe em fogo médio por 40 minutos. Retire do fogo e reserve.",
+          "Em uma tigela, misture a cenoura, pimentão, abobrinha, tomate-cereja, pimenta dedo-de-moça (se usar) e tomilho. Tempere com sal, pimenta e azeite.",
+          "Espalhe os legumes temperados em uma forma e leve ao forno preaquecido a 200°C por 15 minutos. Retire e deixe esfriar.",
+          "Retire o louro da cevadinha e misture-a com os legumes assados. Regue com suco de limão-siciliano e sirva com folhas de rúcula."
         ],
-        "id": "bruschetta-de-tomate-e-manjeric-o-8a2342"
+        "id": "salada-de-cevadinha-com-legumes-assados-c90602"
       },
       {
-        "nome": "Mousse de Limão Rápida",
+        "nome": "Mousse de Maracujá Rápida",
         "curso": "sobremesa",
-        "tempo": "10 min",
-        "url": "https://www.tudogostoso.com.br/receita/155693-mousse-de-limao-rapido.html",
-        "porque": "Sobremesa refrescante, fácil e rápida de preparar com poucos ingredientes, sem uso de forno ou fogão, ideal para finalizar a refeição.",
+        "tempo": "15 min",
+        "url": "https://www.facebook.com/TudoGostoso/posts/pfbid0251V95w37K1iS4bH7QxXFv9R6X22dF3fJz7j4w3cQ1X9Q8Z6v3Q2R1d7W7bQ3l",
+        "porque": "Uma sobremesa clássica, extremamente rápida e fácil de fazer no liquidificador, sem necessidade de forno ou fogão intenso, e que pode ser preparada com antecedência.",
         "tags": [
           "rapido",
           "sobremesa"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "1 lata de leite condensado (395g)",
-          "1 lata de creme de leite (200g, com soro)",
-          "Suco de 1 a 1 e 1/2 limão (aproximadamente 100ml)",
-          "Raspas de limão para decorar (opcional)"
+          "1 lata de leite condensado",
+          "1 lata de creme de leite",
+          "330ml de suco de maracujá (pode ser concentrado)",
+          "1 xícara de polpa de maracujá (com sementes)",
+          "½ xícara de açúcar (para a calda)"
         ],
         "preparo": [
-          "No liquidificador, adicione o leite condensado e o creme de leite. Bata por cerca de 1 minuto até misturar bem.",
-          "Com o liquidificador ainda ligado, adicione o suco de limão aos poucos, até a mistura encorpar e ficar cremosa.",
-          "Desligue o liquidificador e despeje a mousse em um refratário ou em taças individuais.",
-          "Leve à geladeira por no mínimo 3 horas para firmar. Decore com raspas de limão antes de servir, se desejar."
+          "No liquidificador, bata o leite condensado, o creme de leite e o suco de maracujá até ficar homogêneo.",
+          "Despeje a mistura em um recipiente e reserve.",
+          "Em uma panela, misture a polpa de maracujá com o açúcar. Leve ao fogo médio e mexa até ferver e formar uma calda.",
+          "Deixe a calda esfriar um pouco e distribua sobre a mousse no recipiente.",
+          "Leve à geladeira por algumas horas ou até firmar bem."
         ],
-        "id": "mousse-de-lim-o-r-pida-de62c5"
+        "id": "mousse-de-maracuj-r-pida-6a18d0"
       }
     ]
   },

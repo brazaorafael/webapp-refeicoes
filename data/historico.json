@@ -2406,5 +2406,45 @@
       "grelhado"
     ],
     "data": "11/08/2026"
+  },
+  {
+    "id": "fil-mignon-ao-molho-de-vinho-tinto-na-ai-e90fcf",
+    "titulo": "Filé Mignon ao Molho de Vinho Tinto na Air Fryer",
+    "tags": [
+      "carne_vermelha",
+      "airfryer",
+      "rapido"
+    ],
+    "data": "12/08/2026"
+  },
+  {
+    "id": "carne-mo-da-gratinada-com-batatas-ao-for-1615c2",
+    "titulo": "Carne Moída Gratinada com Batatas ao Forno",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "equilibrado"
+    ],
+    "data": "12/08/2026"
+  },
+  {
+    "id": "bife-rol-r-pido-sem-panela-de-press-o-854915",
+    "titulo": "Bife à Rolê Rápido (sem panela de pressão)",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "equilibrado"
+    ],
+    "data": "12/08/2026"
+  },
+  {
+    "id": "salada-de-cevadinha-com-legumes-assados-c90602",
+    "titulo": "Salada de Cevadinha com Legumes Assados",
+    "tags": [
+      "vegetariano",
+      "salada",
+      "forno"
+    ],
+    "data": "12/08/2026"
   }
 ]
