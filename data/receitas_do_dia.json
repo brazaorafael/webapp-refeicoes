@@ -1,171 +1,126 @@
 {
-  "gerado_em": "12/08/2026",
+  "gerado_em": "13/08/2026",
   "diario": {
     "tipo": "diario",
-    "data": "12/08/2026",
-    "dia_semana": "quarta",
+    "data": "13/08/2026",
+    "dia_semana": "quinta",
     "pratos": [
       {
-        "nome": "Filé Mignon ao Molho de Vinho Tinto na Air Fryer",
+        "nome": "Frango Assado com Legumes Coloridos",
         "curso": "principal",
-        "tempo": "30 min",
-        "url": "https://www.fischer.com.br/blog/receitas/file-mignon-ao-molho-de-vinho-tinto-na-air-fryer",
-        "porque": "Esta receita utiliza a air fryer, o que a torna super prática e com pouca gordura, alinhada com a preferência de evitar frituras, além de ser uma carne vermelha de alta proteína com preparo rápido.",
+        "tempo": "35 min",
+        "url": "https://tobemnacozinha.com.br/frango-e-legume-ao-forno/",
+        "porque": "É uma opção leve e proteica, preparada no forno ou airfryer, tornando-a prática e com pouca gordura, e os legumes assam junto para um prato completo e saudável.",
+        "tags": [
+          "frango",
+          "airfryer",
+          "equilibrado"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "500g de peito de frango em cubos ou tiras",
+          "1 brócolis pequeno, cortado em floretes",
+          "1 abobrinha média, em cubos",
+          "1 cebola roxa pequena, em pétalas",
+          "10 tomates cereja",
+          "2 dentes de alho picados",
+          "2 colheres de sopa de azeite",
+          "Sal e pimenta-do-reino a gosto",
+          "Temperos secos a gosto (páprica, orégano, alecrim)"
+        ],
+        "preparo": [
+          "1. Em uma tigela grande, misture o frango com o azeite, alho picado, sal, pimenta-do-reino e os temperos secos.",
+          "2. Adicione os floretes de brócolis, a abobrinha em cubos, as pétalas de cebola e os tomates cereja à tigela, misturando bem para que todos os ingredientes fiquem temperados.",
+          "3. Se for usar airfryer, distribua os ingredientes na cesta sem amontoar. Se for usar forno, espalhe em uma assadeira forrada com papel manteiga.",
+          "4. Asse na airfryer a 180°C por 20-25 minutos, virando na metade do tempo, ou no forno preaquecido a 200°C por 30-40 minutos, mexendo ocasionalmente, até o frango dourar e os legumes ficarem macios."
+        ],
+        "id": "frango-assado-com-legumes-coloridos-0ada62"
+      },
+      {
+        "nome": "Carne de Panela Rápida com Batata e Cenoura",
+        "curso": "principal",
+        "tempo": "40 min",
+        "url": "https://www.panelinha.com.br/receita/carne-de-panela-com-batata-e-cenoura-na-pressao",
+        "porque": "Cozida na panela de pressão, esta receita é rápida, resulta em carne macia e já inclui carboidratos e vegetais, sendo excelente para sobras.",
         "tags": [
           "carne_vermelha",
-          "airfryer",
-          "rapido"
+          "pressao",
+          "equilibrado"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "500g de acém ou músculo em cubos",
+          "2 batatas médias, descascadas e cortadas em cubos grandes",
+          "2 cenouras médias, descascadas e cortadas em rodelas grossas",
+          "1 cebola média picada",
+          "2 dentes de alho amassados",
+          "1 tomate picado (sem sementes)",
+          "1 colher de sopa de azeite",
+          "2 xícaras de caldo de carne (ou água com 1 cubo)",
+          "Sal e pimenta-do-reino a gosto",
+          "Salsinha picada para finalizar (opcional)"
+        ],
+        "preparo": [
+          "1. Na panela de pressão, aqueça o azeite e doure a carne em cubos. Retire a carne e reserve.",
+          "2. Na mesma panela, refogue a cebola e o alho até ficarem transparentes. Adicione o tomate e refogue por mais alguns minutos.",
+          "3. Volte a carne para a panela, adicione o caldo de carne, sal e pimenta. Tampe a panela e cozinhe por 20 minutos após pegar pressão.",
+          "4. Desligue o fogo, espere a pressão sair naturalmente. Abra a panela, adicione as batatas e cenouras e cozinhe sem pressão por mais 10-15 minutos, ou até os legumes ficarem macios e o molho encorpado. Finalize com salsinha picada."
+        ],
+        "id": "carne-de-panela-r-pida-com-batata-e-ceno-91c307"
+      },
+      {
+        "nome": "Bruschetta de Tomate Fresco",
+        "curso": "entrada",
+        "tempo": "15 min",
+        "url": "https://anamariabraga.globo.com/receitas/bruschetta-a-pomodoro/",
+        "porque": "É uma entrada italiana clássica, rápida de montar e que utiliza pão tostado no forno ou frigideira sem óleo em excesso, sendo leve e saborosa.",
+        "tags": [
+          "vegetariano",
+          "rapido",
+          "grelhado"
         ],
         "rende_sobra": false,
         "ingredientes": [
-          "500g de filé mignon cortado em medalhões",
-          "2 colheres (sopa) de azeite",
-          "Sal e pimenta-do-reino a gosto",
-          "½ xícara (chá) de vinho tinto",
-          "1 colher (sopa) de manteiga"
+          "4 fatias de pão italiano ou baguete",
+          "2 tomates maduros médios, picados em cubos pequenos",
+          "1 dente de alho pequeno, picado finamente",
+          "2 colheres de sopa de azeite extra virgem",
+          "Folhas de manjericão fresco a gosto, picadas",
+          "Sal e pimenta-do-reino a gosto"
         ],
         "preparo": [
-          "Tempere os medalhões de filé mignon com sal e pimenta-do-reino a gosto.",
-          "Preaqueça a Air Fryer a 200°C por 5 minutos.",
-          "Coloque os medalhões na cesta da Air Fryer e asse por 10 a 12 minutos, virando na metade do tempo.",
-          "Enquanto a carne assa, em uma panela, aqueça o vinho tinto e a manteiga até reduzir e formar um molho.",
-          "Retire os medalhões da Air Fryer, regue com o molho de vinho e sirva."
+          "1. Pré-aqueça o forno a 180°C ou uma frigideira. Regue as fatias de pão com um fio de azeite e leve ao forno por 5-7 minutos ou toste na frigideira até ficarem douradas e crocantes.",
+          "2. Enquanto o pão tosta, em uma tigela, misture os tomates picados, o alho picado, o azeite restante, o manjericão picado, sal e pimenta-do-reino.",
+          "3. Retire o pão do forno/frigideira. Esfregue um dente de alho cru (opcional) nas fatias tostadas para dar mais sabor.",
+          "4. Distribua a mistura de tomate sobre as fatias de pão tostado e sirva imediatamente."
         ],
-        "id": "fil-mignon-ao-molho-de-vinho-tinto-na-ai-e90fcf"
+        "id": "bruschetta-de-tomate-fresco-8f61dd"
       },
       {
-        "nome": "Carne Moída Gratinada com Batatas ao Forno",
-        "curso": "principal",
-        "tempo": "50 min",
-        "url": "https://www.facebook.com/dicasreceitaspraticas/posts/pfbid0251V95w37K1iS4bH7QxXFv9R6X22dF3fJz7j4w3cQ1X9Q8Z6v3Q2R1d7W7bQ3l",
-        "porque": "Uma receita de forno fácil de montar e que rende bastante, combinando carne moída com batatas e queijo para um prato equilibrado e sem fritura.",
-        "tags": [
-          "carne_vermelha",
-          "forno",
-          "equilibrado"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "3 batatas médias em rodelas",
-          "Páprica picante, pimenta-do-reino, orégano, azeite e sal a gosto (para as batatas)",
-          "2 colheres (sopa) de azeite (para a carne)",
-          "1 cebola roxa picada",
-          "3 dentes de alho picados",
-          "600g de carne moída",
-          "Colorau a gosto",
-          "Salsinha e cebolinha a gosto",
-          "150g de muçarela ralada",
-          "2 tomates em rodelas"
-        ],
-        "preparo": [
-          "Em uma travessa, tempere as batatas em rodelas com páprica, pimenta, orégano, azeite e sal. Misture bem e leve ao forno a 180°C por 30 minutos.",
-          "Em uma panela, refogue o azeite com a cebola e o alho. Acrescente a carne moída e cozinhe até secar a água.",
-          "Tempere a carne com páprica, pimenta, sal, colorau e finalize com salsinha e cebolinha.",
-          "Retire as batatas do forno, coloque a carne moída por cima e finalize com muçarela ralada, rodelas de tomate e orégano.",
-          "Volte ao forno até o queijo derreter e gratinar."
-        ],
-        "id": "carne-mo-da-gratinada-com-batatas-ao-for-1615c2"
-      },
-      {
-        "nome": "Bife à Rolê Rápido (sem panela de pressão)",
-        "curso": "principal",
-        "tempo": "40 min",
-        "url": "https://www.receitasdeminuto.com/como-fazer-bife-a-role-sem-panela-de-pressao/",
-        "porque": "Uma versão mais rápida do clássico bife à rolê, feita sem panela de pressão e com legumes, ideal para um jantar prático com carne vermelha.",
-        "tags": [
-          "carne_vermelha",
-          "rapido",
-          "equilibrado"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "500g de bifes de patinho (ou outra carne macia)",
-          "Fatias finas de cenoura e vagem",
-          "Fatias de bacon",
-          "2 colheres (sopa) de azeite",
-          "1 cebola fatiada",
-          "2 ramos de alecrim",
-          "Folhas de louro",
-          "300g de molho de tomate",
-          "200ml de água",
-          "Sal e pimenta-do-reino a gosto",
-          "Palitos de dente",
-          "Salsinha (para finalizar)"
-        ],
-        "preparo": [
-          "Bata os bifes até ficarem finos, tempere com sal, pimenta e azeite.",
-          "Coloque fatias de cenoura, vagem e bacon sobre cada bife, enrole bem e prenda com um palito.",
-          "Aqueça azeite em uma frigideira e sele os bifes à rolê de todos os lados. Retire e reserve.",
-          "Na mesma frigideira, refogue a cebola até ficar transparente. Adicione o molho de tomate, água, alecrim e louro.",
-          "Volte os bifes para a panela, tampe e cozinhe em fogo baixo por 10 minutos. Vire e cozinhe por mais 10 minutos.",
-          "Finalize com salsinha picada e sirva."
-        ],
-        "id": "bife-rol-r-pido-sem-panela-de-press-o-854915"
-      },
-      {
-        "nome": "Salada de Cevadinha com Legumes Assados",
-        "curso": "entrada",
-        "tempo": "50 min",
-        "url": "https://www.anamariabraga.com.br/receitas/salada-de-cevadinha-com-legumes-assados-a53316",
-        "porque": "Uma entrada nutritiva e refrescante, com legumes assados no forno para evitar fritura, e a cevadinha que oferece fibras e carboidratos complexos.",
-        "tags": [
-          "vegetariano",
-          "salada",
-          "forno"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "1 e ½ colher (sopa) de manteiga",
-          "2 colheres (sopa) de alho picado",
-          "½ cebola em cubinhos",
-          "2 folhas de louro",
-          "250g de cevadinha em grãos",
-          "800ml de caldo de legumes",
-          "150g de cenoura em cubinhos",
-          "180g de pimentão amarelo em cubinhos",
-          "150g de tomates-cereja em metades",
-          "180g de abobrinha em cubinhos",
-          "½ pimenta dedo-de-moça sem sementes picadinha (opcional)",
-          "Tomilho debulhado a gosto",
-          "Sal, pimenta-do-reino moída e azeite de oliva a gosto",
-          "Suco de 1 limão-siciliano",
-          "Folhas de rúcula a gosto (para servir)"
-        ],
-        "preparo": [
-          "Em uma panela, derreta a manteiga e refogue a cebola e o alho com as folhas de louro.",
-          "Adicione a cevadinha e refogue rapidamente. Acrescente o caldo de legumes e cozinhe em fogo médio por 40 minutos. Retire do fogo e reserve.",
-          "Em uma tigela, misture a cenoura, pimentão, abobrinha, tomate-cereja, pimenta dedo-de-moça (se usar) e tomilho. Tempere com sal, pimenta e azeite.",
-          "Espalhe os legumes temperados em uma forma e leve ao forno preaquecido a 200°C por 15 minutos. Retire e deixe esfriar.",
-          "Retire o louro da cevadinha e misture-a com os legumes assados. Regue com suco de limão-siciliano e sirva com folhas de rúcula."
-        ],
-        "id": "salada-de-cevadinha-com-legumes-assados-c90602"
-      },
-      {
-        "nome": "Mousse de Maracujá Rápida",
+        "nome": "Mousse de Maracujá Cremosa",
         "curso": "sobremesa",
         "tempo": "15 min",
-        "url": "https://www.facebook.com/TudoGostoso/posts/pfbid0251V95w37K1iS4bH7QxXFv9R6X22dF3fJz7j4w3cQ1X9Q8Z6v3Q2R1d7W7bQ3l",
-        "porque": "Uma sobremesa clássica, extremamente rápida e fácil de fazer no liquidificador, sem necessidade de forno ou fogão intenso, e que pode ser preparada com antecedência.",
+        "url": "https://www.tudogostoso.com.br/receita/2361-mousse-de-maracuja.html",
+        "porque": "Uma sobremesa rápida de fazer, que não exige forno e fica pronta em poucos minutos de preparo, sendo refrescante e deliciosa.",
         "tags": [
+          "doce",
           "rapido",
-          "sobremesa"
+          "sem_forno"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "1 lata de leite condensado",
-          "1 lata de creme de leite",
-          "330ml de suco de maracujá (pode ser concentrado)",
-          "1 xícara de polpa de maracujá (com sementes)",
-          "½ xícara de açúcar (para a calda)"
+          "1 lata de leite condensado (395g)",
+          "1 lata de creme de leite (200g, com ou sem soro)",
+          "1 xícara de chá de suco concentrado de maracujá (aproximadamente 2 maracujás grandes)",
+          "Polpa de 1 maracujá para decorar (opcional)"
         ],
         "preparo": [
-          "No liquidificador, bata o leite condensado, o creme de leite e o suco de maracujá até ficar homogêneo.",
-          "Despeje a mistura em um recipiente e reserve.",
-          "Em uma panela, misture a polpa de maracujá com o açúcar. Leve ao fogo médio e mexa até ferver e formar uma calda.",
-          "Deixe a calda esfriar um pouco e distribua sobre a mousse no recipiente.",
-          "Leve à geladeira por algumas horas ou até firmar bem."
+          "1. No liquidificador, bata o leite condensado, o creme de leite e o suco concentrado de maracujá até obter uma mistura homogênea e cremosa.",
+          "2. Despeje a mousse em um refratário grande ou em taças individuais.",
+          "3. Leve à geladeira por no mínimo 2 horas, ou até firmar bem.",
+          "4. Na hora de servir, decore com a polpa do maracujá, se desejar."
         ],
-        "id": "mousse-de-maracuj-r-pida-6a18d0"
+        "id": "mousse-de-maracuj-cremosa-3abda2"
       }
     ]
   },

@@ -2446,5 +2446,45 @@
       "forno"
     ],
     "data": "12/08/2026"
+  },
+  {
+    "id": "frango-assado-com-legumes-coloridos-0ada62",
+    "titulo": "Frango Assado com Legumes Coloridos",
+    "tags": [
+      "frango",
+      "airfryer",
+      "equilibrado"
+    ],
+    "data": "13/08/2026"
+  },
+  {
+    "id": "carne-de-panela-r-pida-com-batata-e-ceno-91c307",
+    "titulo": "Carne de Panela Rápida com Batata e Cenoura",
+    "tags": [
+      "carne_vermelha",
+      "pressao",
+      "equilibrado"
+    ],
+    "data": "13/08/2026"
+  },
+  {
+    "id": "bruschetta-de-tomate-fresco-8f61dd",
+    "titulo": "Bruschetta de Tomate Fresco",
+    "tags": [
+      "vegetariano",
+      "rapido",
+      "grelhado"
+    ],
+    "data": "13/08/2026"
+  },
+  {
+    "id": "mousse-de-maracuj-cremosa-3abda2",
+    "titulo": "Mousse de Maracujá Cremosa",
+    "tags": [
+      "doce",
+      "rapido",
+      "sem_forno"
+    ],
+    "data": "13/08/2026"
   }
 ]
