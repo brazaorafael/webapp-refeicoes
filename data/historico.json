@@ -2486,5 +2486,35 @@
       "sem_forno"
     ],
     "data": "13/08/2026"
+  },
+  {
+    "id": "ensopado-de-carne-com-ab-bora-e-couve-ccffd7",
+    "titulo": "Ensopado de Carne com Abóbora e Couve",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "equilibrado"
+    ],
+    "data": "14/08/2026"
+  },
+  {
+    "id": "tiras-de-carne-com-piment-es-e-cebola-1bf6ae",
+    "titulo": "Tiras de Carne com Pimentões e Cebola",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "refogado"
+    ],
+    "data": "14/08/2026"
+  },
+  {
+    "id": "palitos-de-cenoura-e-pepino-com-dip-de-i-d9a8f1",
+    "titulo": "Palitos de Cenoura e Pepino com Dip de Iogurte e Hortelã",
+    "tags": [
+      "vegetariano",
+      "rapido",
+      "low_carb"
+    ],
+    "data": "14/08/2026"
   }
 ]

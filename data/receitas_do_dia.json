@@ -1,126 +1,133 @@
 {
-  "gerado_em": "13/08/2026",
+  "gerado_em": "14/08/2026",
   "diario": {
     "tipo": "diario",
-    "data": "13/08/2026",
-    "dia_semana": "quinta",
+    "data": "14/08/2026",
+    "dia_semana": "sexta",
     "pratos": [
       {
-        "nome": "Frango Assado com Legumes Coloridos",
-        "curso": "principal",
-        "tempo": "35 min",
-        "url": "https://tobemnacozinha.com.br/frango-e-legume-ao-forno/",
-        "porque": "É uma opção leve e proteica, preparada no forno ou airfryer, tornando-a prática e com pouca gordura, e os legumes assam junto para um prato completo e saudável.",
-        "tags": [
-          "frango",
-          "airfryer",
-          "equilibrado"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "500g de peito de frango em cubos ou tiras",
-          "1 brócolis pequeno, cortado em floretes",
-          "1 abobrinha média, em cubos",
-          "1 cebola roxa pequena, em pétalas",
-          "10 tomates cereja",
-          "2 dentes de alho picados",
-          "2 colheres de sopa de azeite",
-          "Sal e pimenta-do-reino a gosto",
-          "Temperos secos a gosto (páprica, orégano, alecrim)"
-        ],
-        "preparo": [
-          "1. Em uma tigela grande, misture o frango com o azeite, alho picado, sal, pimenta-do-reino e os temperos secos.",
-          "2. Adicione os floretes de brócolis, a abobrinha em cubos, as pétalas de cebola e os tomates cereja à tigela, misturando bem para que todos os ingredientes fiquem temperados.",
-          "3. Se for usar airfryer, distribua os ingredientes na cesta sem amontoar. Se for usar forno, espalhe em uma assadeira forrada com papel manteiga.",
-          "4. Asse na airfryer a 180°C por 20-25 minutos, virando na metade do tempo, ou no forno preaquecido a 200°C por 30-40 minutos, mexendo ocasionalmente, até o frango dourar e os legumes ficarem macios."
-        ],
-        "id": "frango-assado-com-legumes-coloridos-0ada62"
-      },
-      {
-        "nome": "Carne de Panela Rápida com Batata e Cenoura",
+        "nome": "Ensopado de Carne com Abóbora e Couve",
         "curso": "principal",
         "tempo": "40 min",
-        "url": "https://www.panelinha.com.br/receita/carne-de-panela-com-batata-e-cenoura-na-pressao",
-        "porque": "Cozida na panela de pressão, esta receita é rápida, resulta em carne macia e já inclui carboidratos e vegetais, sendo excelente para sobras.",
+        "url": "https://www.panelinha.com.br/receita/ensopado-de-carne-com-abobora-e-couve",
+        "porque": "Um prato completo e nutritivo, feito em uma panela de pressão para agilizar, com boa proteína e vegetais.",
         "tags": [
           "carne_vermelha",
-          "pressao",
+          "rapido",
           "equilibrado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "500g de acém ou músculo em cubos",
-          "2 batatas médias, descascadas e cortadas em cubos grandes",
-          "2 cenouras médias, descascadas e cortadas em rodelas grossas",
-          "1 cebola média picada",
-          "2 dentes de alho amassados",
-          "1 tomate picado (sem sementes)",
-          "1 colher de sopa de azeite",
-          "2 xícaras de caldo de carne (ou água com 1 cubo)",
-          "Sal e pimenta-do-reino a gosto",
-          "Salsinha picada para finalizar (opcional)"
+          "1 kg de acém em cubos de 3 cm",
+          "400g de abóbora japonesa em cubos",
+          "7 folhas de couve fatiadas",
+          "2 cebolas médias picadas",
+          "2 dentes de alho picados",
+          "3 colheres (sopa) de azeite",
+          "1 e 1/2 xícara (chá) de água quente",
+          "1 colher (chá) de cominho em pó",
+          "2 folhas de louro",
+          "Sal e pimenta-do-reino moída a gosto"
         ],
         "preparo": [
-          "1. Na panela de pressão, aqueça o azeite e doure a carne em cubos. Retire a carne e reserve.",
-          "2. Na mesma panela, refogue a cebola e o alho até ficarem transparentes. Adicione o tomate e refogue por mais alguns minutos.",
-          "3. Volte a carne para a panela, adicione o caldo de carne, sal e pimenta. Tampe a panela e cozinhe por 20 minutos após pegar pressão.",
-          "4. Desligue o fogo, espere a pressão sair naturalmente. Abra a panela, adicione as batatas e cenouras e cozinhe sem pressão por mais 10-15 minutos, ou até os legumes ficarem macios e o molho encorpado. Finalize com salsinha picada."
+          "Corte o acém em cubos e tempere com sal, cominho e pimenta-do-reino.",
+          "Em uma panela de pressão com azeite, doure a carne em etapas para não amontoar. Retire e reserve.",
+          "Na mesma panela, refogue a cebola e o alho. Adicione a carne de volta, as folhas de louro e a água quente.",
+          "Feche a panela de pressão e cozinhe por 25 minutos após pegar pressão.",
+          "Desligue o fogo, espere a pressão sair, adicione a abóbora e cozinhe sem pressão por mais 15 minutos, ou até a abóbora ficar macia.",
+          "Acrescente a couve fatiada, misture e cozinhe por 1 minuto. Ajuste o sal e sirva."
         ],
-        "id": "carne-de-panela-r-pida-com-batata-e-ceno-91c307"
+        "id": "ensopado-de-carne-com-ab-bora-e-couve-ccffd7"
       },
       {
-        "nome": "Bruschetta de Tomate Fresco",
+        "nome": "Tiras de Carne com Pimentões e Cebola",
+        "curso": "principal",
+        "tempo": "25 min",
+        "url": "https://www.guaciraalimentos.com.br/receitas/tirinhas-de-carne-com-pimentoes",
+        "porque": "Uma refeição rápida e saborosa, com boa proteína e vegetais, perfeita para o dia a dia.",
+        "tags": [
+          "carne_vermelha",
+          "rapido",
+          "refogado"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "500g de carne em tiras (alcatra ou patinho)",
+          "1 cebola grande em rodelas ou meia lua",
+          "1 pimentão verde em tiras finas",
+          "1 pimentão vermelho em tiras finas",
+          "2 dentes de alho picados",
+          "2 colheres (sopa) de azeite",
+          "Sal e pimenta do reino a gosto",
+          "1/2 xícara (chá) de molho shoyu (opcional)"
+        ],
+        "preparo": [
+          "Corte a carne em tiras e tempere com sal e pimenta.",
+          "Aqueça 1 colher de sopa de azeite em uma frigideira grande e doure a carne em porções, se necessário. Retire e reserve.",
+          "Na mesma frigideira, adicione o restante do azeite, refogue a cebola e o alho até murchar.",
+          "Acrescente os pimentões e refogue por cerca de 5-8 minutos, até ficarem macios, mas ainda crocantes.",
+          "Retorne a carne à frigideira, misture bem e aqueça. Se usar, adicione o molho shoyu.",
+          "Sirva imediatamente, acompanhado de arroz."
+        ],
+        "id": "tiras-de-carne-com-piment-es-e-cebola-1bf6ae"
+      },
+      {
+        "nome": "Palitos de Cenoura e Pepino com Dip de Iogurte e Hortelã",
         "curso": "entrada",
         "tempo": "15 min",
-        "url": "https://anamariabraga.globo.com/receitas/bruschetta-a-pomodoro/",
-        "porque": "É uma entrada italiana clássica, rápida de montar e que utiliza pão tostado no forno ou frigideira sem óleo em excesso, sendo leve e saborosa.",
+        "url": "https://agendasaudavel.com/receita/palitinhos-de-legumes-com-molho-de-iogurte/",
+        "porque": "Uma entrada fresca, leve e muito rápida de preparar, ideal para abrir o apetite.",
         "tags": [
           "vegetariano",
           "rapido",
-          "grelhado"
+          "low_carb"
         ],
         "rende_sobra": false,
         "ingredientes": [
-          "4 fatias de pão italiano ou baguete",
-          "2 tomates maduros médios, picados em cubos pequenos",
-          "1 dente de alho pequeno, picado finamente",
-          "2 colheres de sopa de azeite extra virgem",
-          "Folhas de manjericão fresco a gosto, picadas",
-          "Sal e pimenta-do-reino a gosto"
+          "2 cenouras médias",
+          "1 pepino médio",
+          "1 pote (170g) de iogurte natural sem açúcar",
+          "1/2 limão (suco)",
+          "Folhas de hortelã fresca picada a gosto (aprox. 1 colher de sopa)",
+          "1 colher (sopa) de azeite extra virgem",
+          "Sal e pimenta do reino a gosto"
         ],
         "preparo": [
-          "1. Pré-aqueça o forno a 180°C ou uma frigideira. Regue as fatias de pão com um fio de azeite e leve ao forno por 5-7 minutos ou toste na frigideira até ficarem douradas e crocantes.",
-          "2. Enquanto o pão tosta, em uma tigela, misture os tomates picados, o alho picado, o azeite restante, o manjericão picado, sal e pimenta-do-reino.",
-          "3. Retire o pão do forno/frigideira. Esfregue um dente de alho cru (opcional) nas fatias tostadas para dar mais sabor.",
-          "4. Distribua a mistura de tomate sobre as fatias de pão tostado e sirva imediatamente."
+          "Lave e descasque as cenouras. Lave o pepino.",
+          "Corte as cenouras e o pepino em palitos finos.",
+          "Em uma tigela pequena, misture o iogurte natural, o suco de limão, a hortelã picada, o azeite, o sal e a pimenta do reino.",
+          "Prove e ajuste o tempero do dip se necessário.",
+          "Sirva os palitos de cenoura e pepino com o molho de iogurte e hortelã."
         ],
-        "id": "bruschetta-de-tomate-fresco-8f61dd"
+        "id": "palitos-de-cenoura-e-pepino-com-dip-de-i-d9a8f1"
       },
       {
-        "nome": "Mousse de Maracujá Cremosa",
+        "nome": "Mousse de Limão Rápida",
         "curso": "sobremesa",
-        "tempo": "15 min",
-        "url": "https://www.tudogostoso.com.br/receita/2361-mousse-de-maracuja.html",
-        "porque": "Uma sobremesa rápida de fazer, que não exige forno e fica pronta em poucos minutos de preparo, sendo refrescante e deliciosa.",
+        "tempo": "10 min",
+        "url": "https://www.tudogostoso.com.br/receita/155693-mousse-de-limao-rapido.html",
+        "porque": "Uma sobremesa clássica, refrescante e extremamente rápida de preparar com poucos ingredientes.",
         "tags": [
-          "doce",
           "rapido",
-          "sem_forno"
+          "sobremesa",
+          "gelada"
         ],
         "rende_sobra": true,
         "ingredientes": [
           "1 lata de leite condensado (395g)",
-          "1 lata de creme de leite (200g, com ou sem soro)",
-          "1 xícara de chá de suco concentrado de maracujá (aproximadamente 2 maracujás grandes)",
-          "Polpa de 1 maracujá para decorar (opcional)"
+          "1 lata de creme de leite (200g)",
+          "1/2 xícara (chá) de suco de limão (aprox. 3 limões)",
+          "Raspas de limão para decorar (opcional)"
         ],
         "preparo": [
-          "1. No liquidificador, bata o leite condensado, o creme de leite e o suco concentrado de maracujá até obter uma mistura homogênea e cremosa.",
-          "2. Despeje a mousse em um refratário grande ou em taças individuais.",
-          "3. Leve à geladeira por no mínimo 2 horas, ou até firmar bem.",
-          "4. Na hora de servir, decore com a polpa do maracujá, se desejar."
+          "No liquidificador, coloque o leite condensado e o creme de leite.",
+          "Bata por cerca de 2 minutos, até misturar bem.",
+          "Com o liquidificador ainda ligado, adicione o suco de limão em fio.",
+          "Bata por mais 1 a 2 minutos, até a mistura engrossar e ficar homogênea.",
+          "Despeje a mousse em taças individuais ou em um refratário.",
+          "Leve à geladeira por pelo menos 2 horas antes de servir. Decore com raspas de limão, se desejar."
         ],
-        "id": "mousse-de-maracuj-cremosa-3abda2"
+        "id": "mousse-de-lim-o-r-pida-de62c5"
       }
     ]
   },
