@@ -1,133 +1,135 @@
 {
-  "gerado_em": "14/08/2026",
+  "gerado_em": "15/08/2026",
   "diario": {
     "tipo": "diario",
-    "data": "14/08/2026",
-    "dia_semana": "sexta",
+    "data": "15/08/2026",
+    "dia_semana": "sábado",
     "pratos": [
       {
-        "nome": "Ensopado de Carne com Abóbora e Couve",
+        "nome": "Bife de Contrafilé Grelhado com Batatas Rústicas e Salada Verde",
         "curso": "principal",
         "tempo": "40 min",
-        "url": "https://www.panelinha.com.br/receita/ensopado-de-carne-com-abobora-e-couve",
-        "porque": "Um prato completo e nutritivo, feito em uma panela de pressão para agilizar, com boa proteína e vegetais.",
+        "url": "https://www.youtube.com/watch?v=kR210k9gK7o",
+        "porque": "É um prato completo e rápido, unindo a carne vermelha preferida do casal com acompanhamentos equilibrados e preparados com pouca gordura na airfryer.",
         "tags": [
           "carne_vermelha",
-          "rapido",
-          "equilibrado"
+          "grelhado",
+          "airfryer"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "1 kg de acém em cubos de 3 cm",
-          "400g de abóbora japonesa em cubos",
-          "7 folhas de couve fatiadas",
-          "2 cebolas médias picadas",
-          "2 dentes de alho picados",
-          "3 colheres (sopa) de azeite",
-          "1 e 1/2 xícara (chá) de água quente",
-          "1 colher (chá) de cominho em pó",
-          "2 folhas de louro",
-          "Sal e pimenta-do-reino moída a gosto"
+          "2 bifes de contrafilé (aprox. 180g cada)",
+          "3 batatas médias (lavadas, com casca)",
+          "Azeite a gosto",
+          "Sal de parrilla ou sal grosso a gosto",
+          "Chimichurri a gosto (opcional)",
+          "Mix de folhas verdes para salada (aprox. 100g)",
+          "Tomatinhos-cereja (aprox. 1 xícara, opcional)",
+          "Suco de 1/2 limão",
+          "Pimenta-do-reino a gosto"
         ],
         "preparo": [
-          "Corte o acém em cubos e tempere com sal, cominho e pimenta-do-reino.",
-          "Em uma panela de pressão com azeite, doure a carne em etapas para não amontoar. Retire e reserve.",
-          "Na mesma panela, refogue a cebola e o alho. Adicione a carne de volta, as folhas de louro e a água quente.",
-          "Feche a panela de pressão e cozinhe por 25 minutos após pegar pressão.",
-          "Desligue o fogo, espere a pressão sair, adicione a abóbora e cozinhe sem pressão por mais 15 minutos, ou até a abóbora ficar macia.",
-          "Acrescente a couve fatiada, misture e cozinhe por 1 minuto. Ajuste o sal e sirva."
+          "Corte as batatas lavadas em 4 partes no estilo rústico e tempere com azeite, sal e chimichurri, misturando bem.",
+          "Tempere os bifes de contrafilé com azeite e sal dos dois lados.",
+          "Disponha as batatas na cesta da airfryer e coloque os bifes por cima.",
+          "Ligue a airfryer a 200°C por 15 minutos, vire as batatas e os bifes e asse por mais 10 minutos ou até o ponto desejado.",
+          "Enquanto a carne e as batatas assam, prepare a salada misturando as folhas verdes, tomatinhos cereja (se usar), azeite, suco de limão, sal e pimenta-do-reino.",
+          "Sirva o bife de contrafilé com as batatas rústicas e a salada verde fresca."
         ],
-        "id": "ensopado-de-carne-com-ab-bora-e-couve-ccffd7"
+        "id": "bife-de-contrafil-grelhado-com-batatas-r-530a57"
       },
       {
-        "nome": "Tiras de Carne com Pimentões e Cebola",
+        "nome": "Espetinhos de Carne com Pimentões e Cebola Grelhados",
         "curso": "principal",
-        "tempo": "25 min",
-        "url": "https://www.guaciraalimentos.com.br/receitas/tirinhas-de-carne-com-pimentoes",
-        "porque": "Uma refeição rápida e saborosa, com boa proteína e vegetais, perfeita para o dia a dia.",
+        "tempo": "45 min",
+        "url": "https://blog.fischer.com.br/espetinho-de-carne-com-cebola-e-pimentao/",
+        "porque": "É uma opção de carne vermelha preferida, rápida e saborosa, ideal para grelhar e garantir uma refeição equilibrada com vegetais.",
         "tags": [
           "carne_vermelha",
-          "rapido",
-          "refogado"
+          "grelhado",
+          "rapido"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "500g de carne em tiras (alcatra ou patinho)",
-          "1 cebola grande em rodelas ou meia lua",
-          "1 pimentão verde em tiras finas",
-          "1 pimentão vermelho em tiras finas",
-          "2 dentes de alho picados",
-          "2 colheres (sopa) de azeite",
-          "Sal e pimenta do reino a gosto",
-          "1/2 xícara (chá) de molho shoyu (opcional)"
+          "500g de carne bovina (alcatra, maminha ou contrafilé) em cubos médios",
+          "1 pimentão verde em pedaços",
+          "1 pimentão vermelho em pedaços (opcional)",
+          "2 cebolas médias cortadas em quadrados",
+          "Sal grosso ou sal temperado a gosto",
+          "Azeite para regar",
+          "Palitos de churrasco (de madeira ou metal)"
         ],
         "preparo": [
-          "Corte a carne em tiras e tempere com sal e pimenta.",
-          "Aqueça 1 colher de sopa de azeite em uma frigideira grande e doure a carne em porções, se necessário. Retire e reserve.",
-          "Na mesma frigideira, adicione o restante do azeite, refogue a cebola e o alho até murchar.",
-          "Acrescente os pimentões e refogue por cerca de 5-8 minutos, até ficarem macios, mas ainda crocantes.",
-          "Retorne a carne à frigideira, misture bem e aqueça. Se usar, adicione o molho shoyu.",
-          "Sirva imediatamente, acompanhado de arroz."
+          "Corte a carne, os pimentões e a cebola em cubos de tamanho semelhante (cerca de 3cm).",
+          "Em palitos de churrasco, intercale um cubo de carne, um pedaço de pimentão, um pedaço de cebola e repita até preencher o espeto.",
+          "Regue os espetinhos com um fio de azeite e salpique sal grosso ou sal de parrilla a gosto.",
+          "Preaqueça a grelha (churrasqueira ou chapa antiaderente) em fogo médio-alto.",
+          "Coloque os espetinhos na grelha e asse por 15 a 20 minutos, virando ocasionalmente, até dourarem por igual e atingirem o ponto desejado da carne."
         ],
-        "id": "tiras-de-carne-com-piment-es-e-cebola-1bf6ae"
+        "id": "espetinhos-de-carne-com-piment-es-e-cebo-0d2d1a"
       },
       {
-        "nome": "Palitos de Cenoura e Pepino com Dip de Iogurte e Hortelã",
+        "nome": "Tomates Recheados com Ricota e Ervas Assados",
         "curso": "entrada",
-        "tempo": "15 min",
-        "url": "https://agendasaudavel.com/receita/palitinhos-de-legumes-com-molho-de-iogurte/",
-        "porque": "Uma entrada fresca, leve e muito rápida de preparar, ideal para abrir o apetite.",
+        "tempo": "35 min",
+        "url": "https://www.hojeemdia.com.br/blogs/gastronomia/tomate-recheado-com-ricota-a-provencal-1.123287",
+        "porque": "Uma entrada leve, saborosa e proteica, fácil de preparar no forno sem fritura, ideal para abrir o apetite.",
         "tags": [
           "vegetariano",
-          "rapido",
+          "forno",
           "low_carb"
         ],
         "rende_sobra": false,
         "ingredientes": [
-          "2 cenouras médias",
-          "1 pepino médio",
-          "1 pote (170g) de iogurte natural sem açúcar",
-          "1/2 limão (suco)",
-          "Folhas de hortelã fresca picada a gosto (aprox. 1 colher de sopa)",
-          "1 colher (sopa) de azeite extra virgem",
-          "Sal e pimenta do reino a gosto"
+          "4 tomates médios maduros e firmes",
+          "1 xícara (chá) de ricota fresca",
+          "1/2 maço pequeno de ervas frescas picadas (manjericão, salsinha, tomilho)",
+          "1/2 xícara (chá) de queijo parmesão ralado (opcional)",
+          "1 dente de alho picado",
+          "2 colheres (sopa) de azeite de oliva",
+          "Sal e pimenta-do-reino moída na hora a gosto",
+          "Farinha de rosca (2 colheres de sopa, opcional, para dar liga)"
         ],
         "preparo": [
-          "Lave e descasque as cenouras. Lave o pepino.",
-          "Corte as cenouras e o pepino em palitos finos.",
-          "Em uma tigela pequena, misture o iogurte natural, o suco de limão, a hortelã picada, o azeite, o sal e a pimenta do reino.",
-          "Prove e ajuste o tempero do dip se necessário.",
-          "Sirva os palitos de cenoura e pepino com o molho de iogurte e hortelã."
+          "Preaqueça o forno a 180ºC. Lave os tomates, corte uma tampa na parte superior e retire as sementes com cuidado.",
+          "Polvilhe sal dentro dos tomates e deixe-os escorrer virados para baixo por cerca de 10-15 minutos.",
+          "Em um recipiente, amasse a ricota com um garfo e misture com as ervas frescas picadas, o alho, 1 colher de sopa de azeite, sal e pimenta-do-reino. Se desejar, adicione o queijo parmesão e a farinha de rosca.",
+          "Recheie os tomates com a mistura de ricota e disponha-os em uma assadeira refratária.",
+          "Leve ao forno por cerca de 20-30 minutos, ou até que os tomates estejam macios e o recheio levemente dourado.",
+          "Regue com um fio de azeite antes de servir, se desejar."
         ],
-        "id": "palitos-de-cenoura-e-pepino-com-dip-de-i-d9a8f1"
+        "id": "tomates-recheados-com-ricota-e-ervas-ass-70abfe"
       },
       {
-        "nome": "Mousse de Limão Rápida",
+        "nome": "Pavê de Bolacha com Doce de Leite e Coco",
         "curso": "sobremesa",
-        "tempo": "10 min",
-        "url": "https://www.tudogostoso.com.br/receita/155693-mousse-de-limao-rapido.html",
-        "porque": "Uma sobremesa clássica, refrescante e extremamente rápida de preparar com poucos ingredientes.",
+        "tempo": "25 min",
+        "url": "https://www.facebook.com/casalnacozinhablog/videos/pav%C3%AA-de-doce-de-leite-com-coco-mega-cremoso/2967650333502859/",
+        "porque": "Uma sobremesa clássica brasileira sem forno, rápida de montar e com ingredientes acessíveis, perfeita para um final de semana.",
         "tags": [
-          "rapido",
           "sobremesa",
-          "gelada"
+          "rapido",
+          "sem_forno"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "1 lata de leite condensado (395g)",
-          "1 lata de creme de leite (200g)",
-          "1/2 xícara (chá) de suco de limão (aprox. 3 limões)",
-          "Raspas de limão para decorar (opcional)"
+          "1 lata de leite condensado",
+          "1 lata de creme de leite",
+          "200ml de leite de coco",
+          "1 pacote e 1/2 de bolacha maisena (aprox. 300g)",
+          "200g de doce de leite (pronto para uso)",
+          "100g de coco ralado (50g para o creme, 50g para finalizar)",
+          "1 xícara (chá) de leite integral (para umedecer as bolachas)"
         ],
         "preparo": [
-          "No liquidificador, coloque o leite condensado e o creme de leite.",
-          "Bata por cerca de 2 minutos, até misturar bem.",
-          "Com o liquidificador ainda ligado, adicione o suco de limão em fio.",
-          "Bata por mais 1 a 2 minutos, até a mistura engrossar e ficar homogênea.",
-          "Despeje a mousse em taças individuais ou em um refratário.",
-          "Leve à geladeira por pelo menos 2 horas antes de servir. Decore com raspas de limão, se desejar."
+          "Em uma tigela, misture o leite condensado, o creme de leite, o leite de coco e 50g de coco ralado até obter um creme homogêneo.",
+          "Umedeça rapidamente as bolachas maizena no leite integral, sem encharcar.",
+          "Em um refratário, faça uma primeira camada com as bolachas umedecidas.",
+          "Por cima das bolachas, espalhe uma camada do creme de coco e, em seguida, colheradas do doce de leite.",
+          "Repita as camadas de bolacha, creme de coco e doce de leite até finalizar os ingredientes, terminando com uma camada de creme.",
+          "Polvilhe o restante do coco ralado por cima para decorar e leve à geladeira por no mínimo 4 horas para firmar."
         ],
-        "id": "mousse-de-lim-o-r-pida-de62c5"
+        "id": "pav-de-bolacha-com-doce-de-leite-e-coco-8d86cf"
       }
     ]
   },

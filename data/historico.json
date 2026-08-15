@@ -2516,5 +2516,45 @@
       "low_carb"
     ],
     "data": "14/08/2026"
+  },
+  {
+    "id": "bife-de-contrafil-grelhado-com-batatas-r-530a57",
+    "titulo": "Bife de Contrafilé Grelhado com Batatas Rústicas e Salada Verde",
+    "tags": [
+      "carne_vermelha",
+      "grelhado",
+      "airfryer"
+    ],
+    "data": "15/08/2026"
+  },
+  {
+    "id": "espetinhos-de-carne-com-piment-es-e-cebo-0d2d1a",
+    "titulo": "Espetinhos de Carne com Pimentões e Cebola Grelhados",
+    "tags": [
+      "carne_vermelha",
+      "grelhado",
+      "rapido"
+    ],
+    "data": "15/08/2026"
+  },
+  {
+    "id": "tomates-recheados-com-ricota-e-ervas-ass-70abfe",
+    "titulo": "Tomates Recheados com Ricota e Ervas Assados",
+    "tags": [
+      "vegetariano",
+      "forno",
+      "low_carb"
+    ],
+    "data": "15/08/2026"
+  },
+  {
+    "id": "pav-de-bolacha-com-doce-de-leite-e-coco-8d86cf",
+    "titulo": "Pavê de Bolacha com Doce de Leite e Coco",
+    "tags": [
+      "sobremesa",
+      "rapido",
+      "sem_forno"
+    ],
+    "data": "15/08/2026"
   }
 ]
