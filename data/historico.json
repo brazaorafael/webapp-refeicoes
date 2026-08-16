@@ -2598,5 +2598,265 @@
       "low_carb"
     ],
     "data": "16/08/2026"
+  },
+  {
+    "id": "bife-acebolado-na-panela-de-press-o-96c96e",
+    "titulo": "Bife Acebolado na Panela de Pressão",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "panela_pressao"
+    ],
+    "data": "16/08/2026"
+  },
+  {
+    "id": "frango-assado-com-batatas-e-alecrim-76c4ef",
+    "titulo": "Frango Assado com Batatas e Alecrim",
+    "tags": [
+      "frango",
+      "forno",
+      "equilibrio"
+    ],
+    "data": "16/08/2026"
+  },
+  {
+    "id": "salada-de-tomate-cereja-com-manjeric-o-e-d33d74",
+    "titulo": "Salada de Tomate Cereja com Manjericão e Queijo Branco",
+    "tags": [
+      "salada",
+      "rapido",
+      "vegetariano"
+    ],
+    "data": "16/08/2026"
+  },
+  {
+    "id": "carne-mo-da-refogada-com-cenoura-e-ervil-ed11e8",
+    "titulo": "Carne Moída Refogada com Cenoura e Ervilha",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "equilibrio"
+    ],
+    "data": "16/08/2026"
+  },
+  {
+    "id": "omelete-recheado-com-queijo-e-espinafre-cf500f",
+    "titulo": "Omelete Recheado com Queijo e Espinafre",
+    "tags": [
+      "ovos",
+      "rapido",
+      "low_carb"
+    ],
+    "data": "16/08/2026"
+  },
+  {
+    "id": "salada-de-pepino-com-cebola-roxa-e-dill-d7f770",
+    "titulo": "Salada de Pepino com Cebola Roxa e Dill",
+    "tags": [
+      "salada",
+      "vegetariano",
+      "rapido"
+    ],
+    "data": "16/08/2026"
+  },
+  {
+    "id": "ma-assada-com-canela-e-uvas-passas-5bd80c",
+    "titulo": "Maçã Assada com Canela e Uvas Passas",
+    "tags": [
+      "fruta",
+      "forno",
+      "doce"
+    ],
+    "data": "16/08/2026"
+  },
+  {
+    "id": "bife-de-cox-o-duro-em-cubos-refogado-com-b689b1",
+    "titulo": "Bife de Coxão Duro em Cubos Refogado com Batata e Cenoura",
+    "tags": [
+      "carne_vermelha",
+      "refogado",
+      "equilibrio"
+    ],
+    "data": "16/08/2026"
+  },
+  {
+    "id": "fil-de-frango-recheado-com-queijo-e-pres-32e46e",
+    "titulo": "Filé de Frango Recheado com Queijo e Presunto (forno)",
+    "tags": [
+      "frango",
+      "forno",
+      "rapido"
+    ],
+    "data": "16/08/2026"
+  },
+  {
+    "id": "cenoura-baby-glaceada-com-mel-e-tomilho-22ca03",
+    "titulo": "Cenoura Baby Glaceada com Mel e Tomilho",
+    "tags": [
+      "vegetariano",
+      "forno",
+      "rapido"
+    ],
+    "data": "16/08/2026"
+  },
+  {
+    "id": "pudim-de-leite-condensado-na-airfryer-2f44fa",
+    "titulo": "Pudim de Leite Condensado na Airfryer",
+    "tags": [
+      "doce",
+      "airfryer",
+      "rapido"
+    ],
+    "data": "16/08/2026"
+  },
+  {
+    "id": "escondidinho-de-carne-seca-com-mandioca-d91f68",
+    "titulo": "Escondidinho de Carne Seca com Mandioca",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "equilibrio"
+    ],
+    "data": "16/08/2026"
+  },
+  {
+    "id": "palitos-de-queijo-coalho-grelhados-com-o-a6874e",
+    "titulo": "Palitos de Queijo Coalho Grelhados com Orégano",
+    "tags": [
+      "queijo",
+      "grelhado",
+      "rapido"
+    ],
+    "data": "16/08/2026"
+  },
+  {
+    "id": "creme-de-abacate-com-cacau-e-mel-97a05a",
+    "titulo": "Creme de Abacate com Cacau e Mel",
+    "tags": [
+      "doce",
+      "rapido",
+      "fit"
+    ],
+    "data": "16/08/2026"
+  },
+  {
+    "id": "bife-rol-na-panela-de-press-o-32fb6b",
+    "titulo": "Bife à Rolê na Panela de Pressão",
+    "tags": [
+      "carne_vermelha",
+      "panela_pressao",
+      "equilibrio"
+    ],
+    "data": "16/08/2026"
+  },
+  {
+    "id": "salm-o-assado-com-aspargos-e-lim-o-619038",
+    "titulo": "Salmão Assado com Aspargos e Limão",
+    "tags": [
+      "peixe",
+      "forno",
+      "low_carb"
+    ],
+    "data": "16/08/2026"
+  },
+  {
+    "id": "salada-de-couve-flor-assada-com-especiar-5216fc",
+    "titulo": "Salada de Couve-Flor Assada com Especiarias",
+    "tags": [
+      "vegetariano",
+      "forno",
+      "low_carb"
+    ],
+    "data": "16/08/2026"
+  },
+  {
+    "id": "crumble-de-ma-com-aveia-082fea",
+    "titulo": "Crumble de Maçã com Aveia",
+    "tags": [
+      "doce",
+      "forno",
+      "fruta"
+    ],
+    "data": "16/08/2026"
+  },
+  {
+    "id": "feijoada-light-carnes-magras-b1018a",
+    "titulo": "Feijoada Light (carnes magras)",
+    "tags": [
+      "carne_vermelha",
+      "porco",
+      "equilibrio"
+    ],
+    "data": "16/08/2026"
+  },
+  {
+    "id": "hamb-rguer-caseiro-de-carne-bovina-no-fo-4f7ed7",
+    "titulo": "Hambúrguer Caseiro de Carne Bovina no Forno/Grelha",
+    "tags": [
+      "carne_vermelha",
+      "grelhado",
+      "forno"
+    ],
+    "data": "16/08/2026"
+  },
+  {
+    "id": "salada-caesar-com-frango-desfiado-aeac08",
+    "titulo": "Salada Caesar com Frango Desfiado",
+    "tags": [
+      "salada",
+      "frango",
+      "rapido"
+    ],
+    "data": "16/08/2026"
+  },
+  {
+    "id": "mousse-de-chocolate-com-abacate-03667b",
+    "titulo": "Mousse de Chocolate com Abacate",
+    "tags": [
+      "doce",
+      "fit",
+      "sem_forno"
+    ],
+    "data": "16/08/2026"
+  },
+  {
+    "id": "lagarto-assado-recheado-9ecffd",
+    "titulo": "Lagarto Assado Recheado",
+    "tags": [
+      "carne_vermelha",
+      "panela_pressao",
+      "forno"
+    ],
+    "data": "16/08/2026"
+  },
+  {
+    "id": "risoto-de-cogumelos-e-carne-seca-49ff1a",
+    "titulo": "Risoto de Cogumelos e Carne Seca",
+    "tags": [
+      "carne_vermelha",
+      "massa",
+      "equilibrio"
+    ],
+    "data": "16/08/2026"
+  },
+  {
+    "id": "torradinhas-com-pat-de-sardinha-caseiro-5ae943",
+    "titulo": "Torradinhas com Patê de Sardinha Caseiro",
+    "tags": [
+      "rapido",
+      "sem_forno",
+      "peixe"
+    ],
+    "data": "16/08/2026"
+  },
+  {
+    "id": "torta-de-liquidificador-de-banana-com-ca-a84513",
+    "titulo": "Torta de Liquidificador de Banana com Canela",
+    "tags": [
+      "doce",
+      "forno",
+      "fruta"
+    ],
+    "data": "16/08/2026"
   }
 ]
