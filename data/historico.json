@@ -2556,5 +2556,47 @@
       "sem_forno"
     ],
     "data": "15/08/2026"
+  },
+  {
+    "id": "costelinha-su-na-assada-com-batatas-e-er-0942d1",
+    "titulo": "Costelinha Suína Assada com Batatas e Ervas Finas na Airfryer",
+    "tags": [
+      "porco",
+      "airfryer",
+      "rapido",
+      "equilibrio"
+    ],
+    "data": "16/08/2026"
+  },
+  {
+    "id": "frango-milanesa-assado-na-airfryer-com-p-1efb1e",
+    "titulo": "Frango à Milanesa Assado na Airfryer com Purê de Couve-Flor",
+    "tags": [
+      "frango",
+      "airfryer",
+      "low_carb",
+      "rapido"
+    ],
+    "data": "16/08/2026"
+  },
+  {
+    "id": "tomate-confit-r-pido-com-torradinhas-int-e7e501",
+    "titulo": "Tomate Confit Rápido com Torradinhas Integrais",
+    "tags": [
+      "vegetariano",
+      "rapido",
+      "low_carb"
+    ],
+    "data": "16/08/2026"
+  },
+  {
+    "id": "creme-de-manga-com-iogurte-natural-e-gra-81a349",
+    "titulo": "Creme de Manga com Iogurte Natural e Granola Caseira",
+    "tags": [
+      "vegetariano",
+      "rapido",
+      "low_carb"
+    ],
+    "data": "16/08/2026"
   }
 ]

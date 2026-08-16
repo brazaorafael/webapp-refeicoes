@@ -1,135 +1,128 @@
 {
-  "gerado_em": "15/08/2026",
+  "gerado_em": "16/08/2026",
   "diario": {
     "tipo": "diario",
-    "data": "15/08/2026",
-    "dia_semana": "sábado",
+    "data": "16/08/2026",
+    "dia_semana": "domingo",
     "pratos": [
       {
-        "nome": "Bife de Contrafilé Grelhado com Batatas Rústicas e Salada Verde",
+        "nome": "Costelinha Suína Assada com Batatas e Ervas Finas na Airfryer",
         "curso": "principal",
         "tempo": "40 min",
-        "url": "https://www.youtube.com/watch?v=kR210k9gK7o",
-        "porque": "É um prato completo e rápido, unindo a carne vermelha preferida do casal com acompanhamentos equilibrados e preparados com pouca gordura na airfryer.",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHN4N_tc-X-iBHMI2M51v-xyCdImy9kiOBWrLoxTXj2RrpAjB6hgIFKzcAzdGnvCwybJoU1xklyZKsoG1-KnPxeyhOtvY29R9iRjEQGwcQQNinBH8AZNQjDwsG5QF2ubr06CuwqqRot51RqKzPJWlJSJTOy7dnwpieGdH7P",
+        "porque": "Uma opção saborosa de carne suína assada na airfryer, combinada com batatas e ervas, que é prática, com baixo teor de gordura e atende à preferência por grelhados e rapidez.",
         "tags": [
-          "carne_vermelha",
-          "grelhado",
-          "airfryer"
+          "porco",
+          "airfryer",
+          "rapido",
+          "equilibrio"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "2 bifes de contrafilé (aprox. 180g cada)",
-          "3 batatas médias (lavadas, com casca)",
-          "Azeite a gosto",
-          "Sal de parrilla ou sal grosso a gosto",
-          "Chimichurri a gosto (opcional)",
-          "Mix de folhas verdes para salada (aprox. 100g)",
-          "Tomatinhos-cereja (aprox. 1 xícara, opcional)",
-          "Suco de 1/2 limão",
-          "Pimenta-do-reino a gosto"
+          "600g de costelinha suína (em ripas)",
+          "300g de batatas bolinha (ou médias cortadas em cubos)",
+          "2 colheres de sopa de azeite",
+          "1 colher de chá de alho em pó",
+          "1 colher de chá de cebola em pó",
+          "1/2 colher de chá de páprica defumada",
+          "Sal e pimenta do reino a gosto",
+          "Ramos de alecrim e tomilho fresco (opcional)"
         ],
         "preparo": [
-          "Corte as batatas lavadas em 4 partes no estilo rústico e tempere com azeite, sal e chimichurri, misturando bem.",
-          "Tempere os bifes de contrafilé com azeite e sal dos dois lados.",
-          "Disponha as batatas na cesta da airfryer e coloque os bifes por cima.",
-          "Ligue a airfryer a 200°C por 15 minutos, vire as batatas e os bifes e asse por mais 10 minutos ou até o ponto desejado.",
-          "Enquanto a carne e as batatas assam, prepare a salada misturando as folhas verdes, tomatinhos cereja (se usar), azeite, suco de limão, sal e pimenta-do-reino.",
-          "Sirva o bife de contrafilé com as batatas rústicas e a salada verde fresca."
+          "Em uma tigela, tempere a costelinha com azeite, alho em pó, cebola em pó, páprica, sal e pimenta do reino, esfregando bem.",
+          "Tempere as batatas com um fio de azeite, sal, pimenta e ervas frescas (se for usar).",
+          "Pré-aqueça a airfryer a 200°C por 5 minutos.",
+          "Acomode as costelinhas e as batatas no cesto da airfryer, sem sobrepor. Asse por 30-35 minutos, virando os pedaços a cada 10-15 minutos para dourarem por igual e ficarem macias."
         ],
-        "id": "bife-de-contrafil-grelhado-com-batatas-r-530a57"
+        "id": "costelinha-su-na-assada-com-batatas-e-er-0942d1"
       },
       {
-        "nome": "Espetinhos de Carne com Pimentões e Cebola Grelhados",
+        "nome": "Frango à Milanesa Assado na Airfryer com Purê de Couve-Flor",
         "curso": "principal",
-        "tempo": "45 min",
-        "url": "https://blog.fischer.com.br/espetinho-de-carne-com-cebola-e-pimentao/",
-        "porque": "É uma opção de carne vermelha preferida, rápida e saborosa, ideal para grelhar e garantir uma refeição equilibrada com vegetais.",
+        "tempo": "35 min",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqp8Y1uJPTs9-bCuv9RDTmyryTb3Z1oRWWsTVnXV81J3lMPPbNb03_H0_WbLxAAJwMALaq8htd7YRJ7_K4Nk9zkNWMbAMYaOXwaTPgXhsgLd_ji-ffuxWYKrwwzaBluFx-P5jR3-SQYqol4k5D8pLTM7WWDrqebuGPQhHYm49KiXDcQe_d0l3iIQtarq5bad8i5p_RR1u74I--Qw==",
+        "porque": "Uma opção de proteína branca prática e saudável, com o frango crocante da airfryer e um purê leve de couve-flor, ideal para um jantar equilibrado e rápido.",
         "tags": [
-          "carne_vermelha",
-          "grelhado",
+          "frango",
+          "airfryer",
+          "low_carb",
           "rapido"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "500g de carne bovina (alcatra, maminha ou contrafilé) em cubos médios",
-          "1 pimentão verde em pedaços",
-          "1 pimentão vermelho em pedaços (opcional)",
-          "2 cebolas médias cortadas em quadrados",
-          "Sal grosso ou sal temperado a gosto",
-          "Azeite para regar",
-          "Palitos de churrasco (de madeira ou metal)"
+          "2 filés de peito de frango (cerca de 150g cada)",
+          "1 ovo batido",
+          "1 xícara de farinha de rosca (ou panko)",
+          "1 couve-flor pequena",
+          "1/4 xícara de leite (ou creme de leite light)",
+          "1 colher de sopa de manteiga (ou azeite)",
+          "Sal, pimenta do reino e páprica a gosto",
+          "Azeite em spray (opcional)"
         ],
         "preparo": [
-          "Corte a carne, os pimentões e a cebola em cubos de tamanho semelhante (cerca de 3cm).",
-          "Em palitos de churrasco, intercale um cubo de carne, um pedaço de pimentão, um pedaço de cebola e repita até preencher o espeto.",
-          "Regue os espetinhos com um fio de azeite e salpique sal grosso ou sal de parrilla a gosto.",
-          "Preaqueça a grelha (churrasqueira ou chapa antiaderente) em fogo médio-alto.",
-          "Coloque os espetinhos na grelha e asse por 15 a 20 minutos, virando ocasionalmente, até dourarem por igual e atingirem o ponto desejado da carne."
+          "Tempere os filés de frango com sal, pimenta e páprica. Seque bem os filés com papel toalha.",
+          "Passe cada filé no ovo batido e depois na farinha de rosca, cobrindo bem ambos os lados.",
+          "Leve os filés à airfryer pré-aquecida a 180°C. Pulverize um pouco de azeite (se usar) e asse por 15-20 minutos, virando na metade do tempo, até dourarem e ficarem crocantes.",
+          "Enquanto o frango assa, cozinhe a couve-flor em floretes no vapor ou em água fervente até ficar bem macia. Escorra totalmente a água.",
+          "Amasse a couve-flor cozida, adicione o leite, a manteiga, sal e pimenta. Misture bem até obter um purê cremoso e homogêneo."
         ],
-        "id": "espetinhos-de-carne-com-piment-es-e-cebo-0d2d1a"
+        "id": "frango-milanesa-assado-na-airfryer-com-p-1efb1e"
       },
       {
-        "nome": "Tomates Recheados com Ricota e Ervas Assados",
+        "nome": "Tomate Confit Rápido com Torradinhas Integrais",
         "curso": "entrada",
-        "tempo": "35 min",
-        "url": "https://www.hojeemdia.com.br/blogs/gastronomia/tomate-recheado-com-ricota-a-provencal-1.123287",
-        "porque": "Uma entrada leve, saborosa e proteica, fácil de preparar no forno sem fritura, ideal para abrir o apetite.",
+        "tempo": "25 min",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFF4qeoXwVmJbV6fY2oXobgsNjcsL6Lg29IxvnCnYXhWDSaUKoIv2YbtxMCoz9inzt22DBhCIJINXYWad5C4jUtfwLp-5FVpOxi6Zy5PfrVuRaA89jT1cGnMo9bW916rMt87ZJ870k=",
+        "porque": "Uma entrada leve e saborosa, com tomates doces e aromáticos, perfeita para abrir o apetite sem complicação e sem fritura.",
         "tags": [
           "vegetariano",
-          "forno",
+          "rapido",
           "low_carb"
         ],
         "rende_sobra": false,
         "ingredientes": [
-          "4 tomates médios maduros e firmes",
-          "1 xícara (chá) de ricota fresca",
-          "1/2 maço pequeno de ervas frescas picadas (manjericão, salsinha, tomilho)",
-          "1/2 xícara (chá) de queijo parmesão ralado (opcional)",
-          "1 dente de alho picado",
-          "2 colheres (sopa) de azeite de oliva",
-          "Sal e pimenta-do-reino moída na hora a gosto",
-          "Farinha de rosca (2 colheres de sopa, opcional, para dar liga)"
+          "2 xícaras de tomate cereja (inteiros)",
+          "3 dentes de alho (laminados ou picados)",
+          "1 ramo de alecrim fresco (ou 1 colher de chá de seco)",
+          "1/2 xícara de azeite extra virgem",
+          "Sal e pimenta do reino a gosto",
+          "4 fatias de pão integral (para torradinhas)"
         ],
         "preparo": [
-          "Preaqueça o forno a 180ºC. Lave os tomates, corte uma tampa na parte superior e retire as sementes com cuidado.",
-          "Polvilhe sal dentro dos tomates e deixe-os escorrer virados para baixo por cerca de 10-15 minutos.",
-          "Em um recipiente, amasse a ricota com um garfo e misture com as ervas frescas picadas, o alho, 1 colher de sopa de azeite, sal e pimenta-do-reino. Se desejar, adicione o queijo parmesão e a farinha de rosca.",
-          "Recheie os tomates com a mistura de ricota e disponha-os em uma assadeira refratária.",
-          "Leve ao forno por cerca de 20-30 minutos, ou até que os tomates estejam macios e o recheio levemente dourado.",
-          "Regue com um fio de azeite antes de servir, se desejar."
+          "Em uma assadeira pequena, coloque os tomates cereja, as lâminas de alho e o ramo de alecrim.",
+          "Regue com o azeite, tempere com sal e pimenta. Misture bem.",
+          "Leve ao forno pré-aquecido a 160°C por 20 minutos, ou até os tomates ficarem macios e ligeiramente enrugados.",
+          "Enquanto os tomates confitam, corte o pão integral em triângulos e toste-os na airfryer ou forno até ficarem crocantes.",
+          "Sirva o tomate confit quente ou morno sobre as torradinhas integrais."
         ],
-        "id": "tomates-recheados-com-ricota-e-ervas-ass-70abfe"
+        "id": "tomate-confit-r-pido-com-torradinhas-int-e7e501"
       },
       {
-        "nome": "Pavê de Bolacha com Doce de Leite e Coco",
+        "nome": "Creme de Manga com Iogurte Natural e Granola Caseira",
         "curso": "sobremesa",
-        "tempo": "25 min",
-        "url": "https://www.facebook.com/casalnacozinhablog/videos/pav%C3%AA-de-doce-de-leite-com-coco-mega-cremoso/2967650333502859/",
-        "porque": "Uma sobremesa clássica brasileira sem forno, rápida de montar e com ingredientes acessíveis, perfeita para um final de semana.",
+        "tempo": "15 min",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaKIEEc4Q1JI78f4r2vyyseo9jcBlhpT2Jtvt-7-8XjnN7jVz2GQiWRnxgfKXB_94OWN9GI-IeUfaQJ9qdHwWEt3h5i44vj9gzkYwFUAlR1pAwaeMU08Z1g0L07dvZ5uOmwbP4QueBY9As60NT-yj6V4_fGiMPjV7i6cgGN554OqT486mhtFl0vOHnHkqfew4=",
+        "porque": "Uma sobremesa refrescante, naturalmente doce e com boa textura, ideal para finalizar a refeição de domingo de forma leve e deliciosa.",
         "tags": [
-          "sobremesa",
+          "vegetariano",
           "rapido",
-          "sem_forno"
+          "low_carb"
         ],
-        "rende_sobra": true,
+        "rende_sobra": false,
         "ingredientes": [
-          "1 lata de leite condensado",
-          "1 lata de creme de leite",
-          "200ml de leite de coco",
-          "1 pacote e 1/2 de bolacha maisena (aprox. 300g)",
-          "200g de doce de leite (pronto para uso)",
-          "100g de coco ralado (50g para o creme, 50g para finalizar)",
-          "1 xícara (chá) de leite integral (para umedecer as bolachas)"
+          "1 manga madura grande (Palmer ou Tommy)",
+          "200g de iogurte natural integral (1 potinho)",
+          "2 colheres de sopa de granola (caseira ou industrializada)",
+          "Mel ou adoçante a gosto (opcional)",
+          "Folhas de hortelã para decorar (opcional)"
         ],
         "preparo": [
-          "Em uma tigela, misture o leite condensado, o creme de leite, o leite de coco e 50g de coco ralado até obter um creme homogêneo.",
-          "Umedeça rapidamente as bolachas maizena no leite integral, sem encharcar.",
-          "Em um refratário, faça uma primeira camada com as bolachas umedecidas.",
-          "Por cima das bolachas, espalhe uma camada do creme de coco e, em seguida, colheradas do doce de leite.",
-          "Repita as camadas de bolacha, creme de coco e doce de leite até finalizar os ingredientes, terminando com uma camada de creme.",
-          "Polvilhe o restante do coco ralado por cima para decorar e leve à geladeira por no mínimo 4 horas para firmar."
+          "Descasque a manga e corte a polpa em cubos. Reserve alguns cubos para decorar.",
+          "No liquidificador, bata a maior parte da manga com o iogurte natural até obter um creme homogêneo. Adicione mel ou adoçante se desejar.",
+          "Distribua o creme de manga em taças individuais. Leve à geladeira por pelo menos 15 minutos para gelar.",
+          "Na hora de servir, finalize com os cubos de manga reservados, a granola e, se desejar, folhas de hortelã."
         ],
-        "id": "pav-de-bolacha-com-doce-de-leite-e-coco-8d86cf"
+        "id": "creme-de-manga-com-iogurte-natural-e-gra-81a349"
       }
     ]
   },
