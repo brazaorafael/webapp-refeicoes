@@ -1,128 +1,129 @@
 {
-  "gerado_em": "16/08/2026",
+  "gerado_em": "17/08/2026",
   "diario": {
     "tipo": "diario",
-    "data": "16/08/2026",
-    "dia_semana": "domingo",
+    "data": "17/08/2026",
+    "dia_semana": "segunda",
     "pratos": [
       {
-        "nome": "Costelinha Suína Assada com Batatas e Ervas Finas na Airfryer",
+        "nome": "Rosbife de Filé Mignon no Forno",
         "curso": "principal",
-        "tempo": "40 min",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHN4N_tc-X-iBHMI2M51v-xyCdImy9kiOBWrLoxTXj2RrpAjB6hgIFKzcAzdGnvCwybJoU1xklyZKsoG1-KnPxeyhOtvY29R9iRjEQGwcQQNinBH8AZNQjDwsG5QF2ubr06CuwqqRot51RqKzPJWlJSJTOy7dnwpieGdH7P",
-        "porque": "Uma opção saborosa de carne suína assada na airfryer, combinada com batatas e ervas, que é prática, com baixo teor de gordura e atende à preferência por grelhados e rapidez.",
+        "tempo": "45 min",
+        "url": "https://www.panelinha.com.br/receita/rosbife-com-salada-de-verdes-e-molho-de-tangerina",
+        "porque": "É um prato elegante e prático, com preparo simples no forno, que garante alta proteína de carne vermelha e rende sobras para o dia seguinte.",
         "tags": [
-          "porco",
-          "airfryer",
-          "rapido",
-          "equilibrio"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "600g de costelinha suína (em ripas)",
-          "300g de batatas bolinha (ou médias cortadas em cubos)",
-          "2 colheres de sopa de azeite",
-          "1 colher de chá de alho em pó",
-          "1 colher de chá de cebola em pó",
-          "1/2 colher de chá de páprica defumada",
-          "Sal e pimenta do reino a gosto",
-          "Ramos de alecrim e tomilho fresco (opcional)"
-        ],
-        "preparo": [
-          "Em uma tigela, tempere a costelinha com azeite, alho em pó, cebola em pó, páprica, sal e pimenta do reino, esfregando bem.",
-          "Tempere as batatas com um fio de azeite, sal, pimenta e ervas frescas (se for usar).",
-          "Pré-aqueça a airfryer a 200°C por 5 minutos.",
-          "Acomode as costelinhas e as batatas no cesto da airfryer, sem sobrepor. Asse por 30-35 minutos, virando os pedaços a cada 10-15 minutos para dourarem por igual e ficarem macias."
-        ],
-        "id": "costelinha-su-na-assada-com-batatas-e-er-0942d1"
-      },
-      {
-        "nome": "Frango à Milanesa Assado na Airfryer com Purê de Couve-Flor",
-        "curso": "principal",
-        "tempo": "35 min",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqp8Y1uJPTs9-bCuv9RDTmyryTb3Z1oRWWsTVnXV81J3lMPPbNb03_H0_WbLxAAJwMALaq8htd7YRJ7_K4Nk9zkNWMbAMYaOXwaTPgXhsgLd_ji-ffuxWYKrwwzaBluFx-P5jR3-SQYqol4k5D8pLTM7WWDrqebuGPQhHYm49KiXDcQe_d0l3iIQtarq5bad8i5p_RR1u74I--Qw==",
-        "porque": "Uma opção de proteína branca prática e saudável, com o frango crocante da airfryer e um purê leve de couve-flor, ideal para um jantar equilibrado e rápido.",
-        "tags": [
-          "frango",
-          "airfryer",
-          "low_carb",
+          "carne_vermelha",
+          "forno",
           "rapido"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "2 filés de peito de frango (cerca de 150g cada)",
-          "1 ovo batido",
-          "1 xícara de farinha de rosca (ou panko)",
-          "1 couve-flor pequena",
-          "1/4 xícara de leite (ou creme de leite light)",
-          "1 colher de sopa de manteiga (ou azeite)",
-          "Sal, pimenta do reino e páprica a gosto",
-          "Azeite em spray (opcional)"
+          "600 g de filé mignon em peça para rosbife",
+          "1½ colher (chá) de mostarda amarela em pó",
+          "1½ colher (chá) de páprica defumada",
+          "2 colheres (sopa) de azeite",
+          "Sal e pimenta-do-reino moída na hora a gosto"
         ],
         "preparo": [
-          "Tempere os filés de frango com sal, pimenta e páprica. Seque bem os filés com papel toalha.",
-          "Passe cada filé no ovo batido e depois na farinha de rosca, cobrindo bem ambos os lados.",
-          "Leve os filés à airfryer pré-aquecida a 180°C. Pulverize um pouco de azeite (se usar) e asse por 15-20 minutos, virando na metade do tempo, até dourarem e ficarem crocantes.",
-          "Enquanto o frango assa, cozinhe a couve-flor em floretes no vapor ou em água fervente até ficar bem macia. Escorra totalmente a água.",
-          "Amasse a couve-flor cozida, adicione o leite, a manteiga, sal e pimenta. Misture bem até obter um purê cremoso e homogêneo."
+          "Pré-aqueça o forno a 220 ºC. Retire o filé mignon da geladeira e deixe em temperatura ambiente por 15 minutos.",
+          "Em uma tigela pequena, misture a páprica com a mostarda em pó. Tempere a carne com sal, pimenta-do-reino e a mistura de especiarias.",
+          "Regue a carne com azeite e espalhe bem com as mãos por toda a superfície. Transfira o filé mignon para uma assadeira grande.",
+          "Leve ao forno por 15 minutos a 220 ºC. Após esse tempo, diminua a temperatura para 180 ºC e deixe assar por mais 15 minutos para malpassado, ou 20 minutos para ao ponto.",
+          "Retire a assadeira do forno e cubra a carne com papel-alumínio. Deixe repousar por 10 minutos antes de fatiar para servir."
         ],
-        "id": "frango-milanesa-assado-na-airfryer-com-p-1efb1e"
+        "id": "rosbife-de-fil-mignon-no-forno-58979a"
       },
       {
-        "nome": "Tomate Confit Rápido com Torradinhas Integrais",
-        "curso": "entrada",
+        "nome": "Medalhão de Filé Mignon Grelhado com Molho de Ervas Picante",
+        "curso": "principal",
         "tempo": "25 min",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFF4qeoXwVmJbV6fY2oXobgsNjcsL6Lg29IxvnCnYXhWDSaUKoIv2YbtxMCoz9inzt22DBhCIJINXYWad5C4jUtfwLp-5FVpOxi6Zy5PfrVuRaA89jT1cGnMo9bW916rMt87ZJ870k=",
-        "porque": "Uma entrada leve e saborosa, com tomates doces e aromáticos, perfeita para abrir o apetite sem complicação e sem fritura.",
+        "url": "https://www.panelinha.com.br/receita/Medalhao-com-molho-de-ervas-picante",
+        "porque": "Esta é uma opção rápida e proteica de carne vermelha, preparada na grelha com pouca gordura e um molho fresco e saboroso, ideal para o casal.",
         "tags": [
-          "vegetariano",
-          "rapido",
-          "low_carb"
+          "carne_vermelha",
+          "grelhado",
+          "rapido"
         ],
-        "rende_sobra": false,
+        "rende_sobra": true,
         "ingredientes": [
-          "2 xícaras de tomate cereja (inteiros)",
-          "3 dentes de alho (laminados ou picados)",
-          "1 ramo de alecrim fresco (ou 1 colher de chá de seco)",
-          "1/2 xícara de azeite extra virgem",
-          "Sal e pimenta do reino a gosto",
-          "4 fatias de pão integral (para torradinhas)"
+          "4 medalhões de filé mignon (cerca de 120 g cada)",
+          "1 colher (sopa) de azeite",
+          "Sal e pimenta-do-reino moída na hora a gosto",
+          "Para o molho:",
+          "⅓ de xícara (chá) de azeite",
+          "¼ de xícara (chá) de salsinha picada",
+          "1 colher (sopa) de orégano seco",
+          "1 colher (chá) de pimenta calabresa seca",
+          "1 colher (sopa) de vinagre de vinho tinto",
+          "Sal a gosto"
         ],
         "preparo": [
-          "Em uma assadeira pequena, coloque os tomates cereja, as lâminas de alho e o ramo de alecrim.",
-          "Regue com o azeite, tempere com sal e pimenta. Misture bem.",
-          "Leve ao forno pré-aquecido a 160°C por 20 minutos, ou até os tomates ficarem macios e ligeiramente enrugados.",
-          "Enquanto os tomates confitam, corte o pão integral em triângulos e toste-os na airfryer ou forno até ficarem crocantes.",
-          "Sirva o tomate confit quente ou morno sobre as torradinhas integrais."
+          "Retire os medalhões da geladeira e deixe em temperatura ambiente por alguns minutos antes de cozinhar.",
+          "Em uma tigela, prepare o molho misturando ⅓ de xícara de azeite, salsinha, orégano, pimenta calabresa e vinagre. Tempere com sal e reserve.",
+          "Tempere os medalhões com sal e pimenta-do-reino moída na hora.",
+          "Aqueça uma frigideira grelhada com 1/2 colher (sopa) de azeite em fogo médio. Disponha os medalhões sem sobrepor e doure cada lado por 2 minutos.",
+          "Transfira os medalhões dourados para uma travessa, cubra com papel-alumínio e repita o processo com o restante da carne, se necessário. Sirva com uma colherada do molho de ervas picante."
         ],
-        "id": "tomate-confit-r-pido-com-torradinhas-int-e7e501"
+        "id": "medalh-o-de-fil-mignon-grelhado-com-molh-c9a517"
       },
       {
-        "nome": "Creme de Manga com Iogurte Natural e Granola Caseira",
+        "nome": "Salada de Ovos Cremosa Proteica",
+        "curso": "entrada",
+        "tempo": "20 min",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcUAQC_iBOCxYh7T8uoVanCiHPdGHQn46Hw1GAoYLJrUOupq7jGk3rrNlCwKfPCNNyFH-Q_Em01mUVM0SGaUE_217MxzwK29oU9VzT5raKbBMC2iYLc0ileiWln_CmKDXOObf_JQ==",
+        "porque": "É uma entrada proteica, super fácil e rápida de montar, perfeita para ser preparada com antecedência, utilizando ingredientes acessíveis.",
+        "tags": [
+          "ovos",
+          "rapido",
+          "salada"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "4 ovos cozidos e picados",
+          "1 cebola picada",
+          "1 alho espremido",
+          "2 colheres (sopa) de maionese (ou light)",
+          "1 colher (sopa) de azeite de oliva",
+          "1 colher (sopa) de molho de mostarda",
+          "Salsa picada a gosto",
+          "Sal a gosto",
+          "Pimenta-do-reino a gosto"
+        ],
+        "preparo": [
+          "Cozinhe os ovos em água fervente por cerca de 8-10 minutos. Após, resfrie-os em água gelada, descasque e pique.",
+          "Pique a cebola finamente, esprema o alho e pique a salsa.",
+          "Em uma tigela, adicione os ovos picados, a cebola, o alho, a maionese, o azeite, o molho de mostarda e a salsa.",
+          "Tempere com sal e pimenta-do-reino a gosto e misture delicadamente todos os ingredientes até ficarem bem incorporados.",
+          "Sirva a salada de ovos em temperatura ambiente ou gelada."
+        ],
+        "id": "salada-de-ovos-cremosa-proteica-ca508d"
+      },
+      {
+        "nome": "Mousse de Chocolate Hiper Fácil",
         "curso": "sobremesa",
         "tempo": "15 min",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaKIEEc4Q1JI78f4r2vyyseo9jcBlhpT2Jtvt-7-8XjnN7jVz2GQiWRnxgfKXB_94OWN9GI-IeUfaQJ9qdHwWEt3h5i44vj9gzkYwFUAlR1pAwaeMU08Z1g0L07dvZ5uOmwbP4QueBY9As60NT-yj6V4_fGiMPjV7i6cgGN554OqT486mhtFl0vOHnHkqfew4=",
-        "porque": "Uma sobremesa refrescante, naturalmente doce e com boa textura, ideal para finalizar a refeição de domingo de forma leve e deliciosa.",
+        "url": "https://www.tudogostoso.com.br/receita/14903-mousse-de-chocolate-hiper-facil-e-mega-gostoso.html",
+        "porque": "Uma sobremesa clássica, extremamente fácil e rápida de preparar, sem necessidade de ir ao forno, ideal para finalizar a refeição.",
         "tags": [
-          "vegetariano",
+          "doce",
           "rapido",
-          "low_carb"
+          "sem_forno"
         ],
-        "rende_sobra": false,
+        "rende_sobra": true,
         "ingredientes": [
-          "1 manga madura grande (Palmer ou Tommy)",
-          "200g de iogurte natural integral (1 potinho)",
-          "2 colheres de sopa de granola (caseira ou industrializada)",
-          "Mel ou adoçante a gosto (opcional)",
-          "Folhas de hortelã para decorar (opcional)"
+          "2 latas de creme de leite sem soro",
+          "1 lata de leite condensado",
+          "1 pacote de gelatina em pó sem sabor (12g)",
+          "8 colheres (sopa) de chocolate em pó ou achocolatado"
         ],
         "preparo": [
-          "Descasque a manga e corte a polpa em cubos. Reserve alguns cubos para decorar.",
-          "No liquidificador, bata a maior parte da manga com o iogurte natural até obter um creme homogêneo. Adicione mel ou adoçante se desejar.",
-          "Distribua o creme de manga em taças individuais. Leve à geladeira por pelo menos 15 minutos para gelar.",
-          "Na hora de servir, finalize com os cubos de manga reservados, a granola e, se desejar, folhas de hortelã."
+          "No liquidificador, adicione o creme de leite sem soro, o leite condensado e o chocolate em pó ou achocolatado.",
+          "Bata a mistura por aproximadamente 2 minutos, até que fique homogênea e cremosa.",
+          "Prepare a gelatina em pó sem sabor conforme as instruções da embalagem (geralmente dissolvendo em água quente e depois fria).",
+          "Acrescente a gelatina dissolvida ao liquidificador e bata por mais 30 segundos, apenas para incorporá-la à mousse.",
+          "Despeje a mousse em um recipiente, cubra e leve à geladeira por no mínimo 3 horas, ou até endurecer e ficar consistente."
         ],
-        "id": "creme-de-manga-com-iogurte-natural-e-gra-81a349"
+        "id": "mousse-de-chocolate-hiper-f-cil-7daf17"
       }
     ]
   },

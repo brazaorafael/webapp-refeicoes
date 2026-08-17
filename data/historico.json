@@ -2858,5 +2858,25 @@
       "fruta"
     ],
     "data": "16/08/2026"
+  },
+  {
+    "id": "medalh-o-de-fil-mignon-grelhado-com-molh-c9a517",
+    "titulo": "Medalhão de Filé Mignon Grelhado com Molho de Ervas Picante",
+    "tags": [
+      "carne_vermelha",
+      "grelhado",
+      "rapido"
+    ],
+    "data": "17/08/2026"
+  },
+  {
+    "id": "salada-de-ovos-cremosa-proteica-ca508d",
+    "titulo": "Salada de Ovos Cremosa Proteica",
+    "tags": [
+      "ovos",
+      "rapido",
+      "salada"
+    ],
+    "data": "17/08/2026"
   }
 ]
