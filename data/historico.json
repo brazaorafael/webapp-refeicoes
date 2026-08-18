@@ -2878,5 +2878,37 @@
       "salada"
     ],
     "data": "17/08/2026"
+  },
+  {
+    "id": "alm-ndegas-assadas-com-molho-de-tomate-e03725",
+    "titulo": "Almôndegas Assadas com Molho de Tomate",
+    "tags": [
+      "carne_vermelha",
+      "airfryer",
+      "rapido",
+      "equilibrio"
+    ],
+    "data": "18/08/2026"
+  },
+  {
+    "id": "frango-assado-com-lim-o-siciliano-e-erva-70ea30",
+    "titulo": "Frango Assado com Limão-Siciliano e Ervas",
+    "tags": [
+      "frango",
+      "forno",
+      "rapido",
+      "equilibrio"
+    ],
+    "data": "18/08/2026"
+  },
+  {
+    "id": "espetinho-caprese-f97a54",
+    "titulo": "Espetinho Caprese",
+    "tags": [
+      "vegetariano",
+      "rapido",
+      "low_carb"
+    ],
+    "data": "18/08/2026"
   }
 ]
