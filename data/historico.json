@@ -2910,5 +2910,35 @@
       "low_carb"
     ],
     "data": "18/08/2026"
+  },
+  {
+    "id": "rosbife-de-fil-mignon-ao-forno-61101a",
+    "titulo": "Rosbife de Filé Mignon ao Forno",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "rapido"
+    ],
+    "data": "19/08/2026"
+  },
+  {
+    "id": "peito-bovino-assado-no-forno-com-batatas-7f38ae",
+    "titulo": "Peito Bovino Assado no Forno com Batatas",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "equilibrio"
+    ],
+    "data": "19/08/2026"
+  },
+  {
+    "id": "p-o-de-alho-na-air-fryer-be6cd7",
+    "titulo": "Pão de Alho na Air Fryer",
+    "tags": [
+      "airfryer",
+      "rapido",
+      "vegetariano"
+    ],
+    "data": "19/08/2026"
   }
 ]

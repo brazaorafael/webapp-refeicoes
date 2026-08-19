@@ -1,136 +1,124 @@
 {
-  "gerado_em": "18/08/2026",
+  "gerado_em": "19/08/2026",
   "diario": {
     "tipo": "diario",
-    "data": "18/08/2026",
-    "dia_semana": "terça",
+    "data": "19/08/2026",
+    "dia_semana": "quarta",
     "pratos": [
       {
-        "nome": "Almôndegas Assadas com Molho de Tomate",
+        "nome": "Rosbife de Filé Mignon ao Forno",
         "curso": "principal",
-        "tempo": "45 min",
-        "url": "https://www.panelinha.com.br/receita/Almondega-com-molho-de-tomate-na-Air-Fryer-da-Rita-Lobo",
-        "porque": "Encaixa perfeitamente na preferência por carne vermelha e no preparo sem fritura, sendo prático e saboroso.",
+        "tempo": "15 min (preparo ativo)",
+        "url": "https://www.panelinha.com.br/receita/rosbife",
+        "porque": "Uma opção elegante e de alta proteína, utilizando carne vermelha, assada no forno para maciez e sem fritura, com preparo ativo rápido.",
         "tags": [
           "carne_vermelha",
+          "forno",
+          "rapido"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "750 g de filé mignon (em peça para rosbife)",
+          "1 colher (chá) de mostarda amarela em pó",
+          "1 colher (chá) de páprica defumada",
+          "½ colher (sopa) de azeite",
+          "Sal e pimenta-do-reino moída na hora a gosto"
+        ],
+        "preparo": [
+          "Pré-aqueça o forno a 220 ºC (temperatura alta). Retire a carne da geladeira e deixe em temperatura ambiente por 15 minutos.",
+          "Em uma tigela pequena, misture a páprica com a mostarda em pó.",
+          "Tempere a carne com sal, pimenta e a mistura de mostarda e páprica. Regue com azeite e espalhe bem com as mãos.",
+          "Transfira o filé mignon para uma assadeira grande e leve ao forno por 15 minutos.",
+          "Após esse tempo, diminua a temperatura para 180 ºC e deixe no forno por mais 10 minutos para mal passada, ou 15 minutos para ao ponto.",
+          "Retire do forno, cubra com papel-alumínio e deixe repousar por 10 minutos antes de cortar."
+        ],
+        "id": "rosbife-de-fil-mignon-ao-forno-61101a"
+      },
+      {
+        "nome": "Peito Bovino Assado no Forno com Batatas",
+        "curso": "principal",
+        "tempo": "20 min (preparo ativo)",
+        "url": "https://www.band.uol.com.br/receitas/peito-de-boi-assado-com-legumes-16781912",
+        "porque": "Uma receita de carne vermelha simples e saborosa, assada no forno para garantir maciez, com batatas para um prato equilibrado e pouca fritura.",
+        "tags": [
+          "carne_vermelha",
+          "forno",
+          "equilibrio"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "1.5 kg de peito bovino (em peça)",
+          "2 colheres (sopa) de sal de parrilla (ou sal grosso)",
+          "1 colher (sopa) de páprica defumada",
+          "1 colher (sopa) de alho em pó",
+          "1 colher (sopa) de cebola em pó",
+          "Pimenta-do-reino moída a gosto",
+          "3 colheres (sopa) de azeite",
+          "700g de batatas (bolinha ou médias, cortadas em pedaços)"
+        ],
+        "preparo": [
+          "Retire o excesso de gordura da peça de peito e cubra a carne com azeite.",
+          "Em uma tigela, misture o sal de parrilla, páprica, alho em pó, cebola em pó e pimenta-do-reino.",
+          "Esfregue essa mistura de temperos na carne, formando uma crosta uniforme. Deixe descansar por 15 minutos.",
+          "Embrulhe a carne em papel celofane próprio para alimentos (ou papel alumínio, bem vedado) e leve ao forno pré-aquecido a 160°C por 2 horas.",
+          "Retire a carne do papel, adicione as batatas na assadeira, tempere com sal e azeite. Retorne ao forno a 160°C por mais 50 minutos, ou até as batatas ficarem macias e a carne dourada.",
+          "Sirva fatiado com as batatas assadas."
+        ],
+        "id": "peito-bovino-assado-no-forno-com-batatas-7f38ae"
+      },
+      {
+        "nome": "Pão de Alho na Air Fryer",
+        "curso": "entrada",
+        "tempo": "10 min",
+        "url": "https://www.receitaswap.com.br/blog/receita/pao-de-alho-na-air-fryer",
+        "porque": "Uma entrada clássica, super fácil e rápida de fazer na Air Fryer, garantindo crocância sem fritura em óleo.",
+        "tags": [
           "airfryer",
           "rapido",
-          "equilibrio"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "500g de carne moída (patinho)",
-          "1/2 cebola pequena picada",
-          "2 dentes de alho amassados",
-          "1 ovo",
-          "1/4 xícara (chá) de farinha de rosca",
-          "2 colheres (sopa) de salsinha picada",
-          "Sal e pimenta-do-reino a gosto",
-          "Azeite para untar",
-          "1 lata de tomate pelado (ou 3 tomates maduros picados)",
-          "1 pitada de açúcar (opcional, para o molho)"
-        ],
-        "preparo": [
-          "Em uma tigela, misture a carne moída, a cebola, o alho, o ovo, a farinha de rosca, a salsinha, sal e pimenta-do-reino até incorporar bem.",
-          "Modele pequenas bolinhas com a massa, do tamanho de uma bola de golfe.",
-          "Unte o cesto da Airfryer com um pouco de azeite e disponha as almôndegas, sem amontoar. Asse a 180°C por cerca de 15-20 minutos, virando na metade do tempo, até dourarem. Se preferir, asse em forno pré-aquecido a 200°C por 20-25 minutos.",
-          "Enquanto as almôndegas assam, prepare o molho: refogue um pouco de alho e cebola em azeite, adicione o tomate pelado (ou picado) e tempere com sal, pimenta e uma pitada de açúcar. Deixe apurar por 10-15 minutos.",
-          "Transfira as almôndegas assadas para o molho e cozinhe por mais 5 minutos para que absorvam o sabor.",
-          "Sirva com arroz integral e uma salada verde para um prato equilibrado."
-        ],
-        "id": "alm-ndegas-assadas-com-molho-de-tomate-e03725"
-      },
-      {
-        "nome": "Frango Assado com Limão-Siciliano e Ervas",
-        "curso": "principal",
-        "tempo": "40 min",
-        "url": "https://www.panelinha.com.br/receita/Sobrecoxas-assadas-com-paprica-e-ervas",
-        "porque": "Opção de frango assado, sem fritura, com sabor fresco e aromático, e rápido de preparar.",
-        "tags": [
-          "frango",
-          "forno",
-          "rapido",
-          "equilibrio"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "4 sobrecoxas de frango sem pele",
-          "1 limão-siciliano (raspas e suco)",
-          "2 dentes de alho amassados",
-          "2 ramos de alecrim fresco (ou 1 colher de chá seco)",
-          "1 colher (chá) de páprica doce",
-          "1/2 colher (chá) de sal",
-          "Pimenta-do-reino moída na hora a gosto",
-          "Azeite a gosto"
-        ],
-        "preparo": [
-          "Preaqueça o forno a 200°C. Lave e seque bem as sobrecoxas de frango.",
-          "Em uma tigela, misture as raspas e o suco do limão-siciliano, o alho amassado, o alecrim, a páprica, o sal, a pimenta-do-reino e um fio de azeite.",
-          "Esfregue essa marinada nas sobrecoxas de frango, garantindo que o tempero cubra toda a carne. Deixe marinar por 10-15 minutos (ou mais, se tiver tempo).",
-          "Disponha as sobrecoxas em uma assadeira e leve ao forno pré-aquecido por cerca de 30-35 minutos, ou até que estejam douradas e cozidas por completo.",
-          "Se desejar, nos últimos minutos, aumente a temperatura do forno ou ligue o grill para deixar a pele mais crocante.",
-          "Sirva com batatas assadas ou um purê de couve-flor e brócolis cozidos no vapor."
-        ],
-        "id": "frango-assado-com-lim-o-siciliano-e-erva-70ea30"
-      },
-      {
-        "nome": "Espetinho Caprese",
-        "curso": "entrada",
-        "tempo": "15 min",
-        "url": "https://www.kitano.com.br/receitas/espetinhos-caprese-com-manjericao/",
-        "porque": "Entrada leve, fresca e rápida de montar, sem necessidade de cozimento.",
-        "tags": [
-          "vegetariano",
-          "rapido",
-          "low_carb"
+          "vegetariano"
         ],
         "rende_sobra": false,
         "ingredientes": [
-          "100g de tomate cereja",
-          "200g de queijo branco (minas frescal ou mussarela de búfala) cortado em cubos",
-          "10-12 folhas de manjericão fresco",
-          "4 colheres (sopa) de azeite extra virgem",
-          "1 colher (chá) de vinagre de maçã (opcional)",
-          "1/2 colher (chá) de sal",
-          "Pimenta-do-reino preta moída na hora a gosto",
-          "Palitos de espeto"
+          "2 pães franceses (ou baguete)",
+          "2 dentes de alho espremidos",
+          "2 colheres (sopa) de manteiga sem sal (em temperatura ambiente)",
+          "1 colher (sopa) de salsinha fresca picada (opcional)",
+          "Queijo parmesão ralado a gosto (opcional)"
         ],
         "preparo": [
-          "Lave bem os tomates cereja e as folhas de manjericão. Seque-os delicadamente.",
-          "Corte o queijo branco (ou mussarela de búfala) em cubos de tamanho similar aos tomates cereja.",
-          "Em uma tigela pequena, misture o azeite, o vinagre (se usar), o sal e a pimenta-do-reino até obter um molho homogêneo. Reserve.",
-          "Monte os espetinhos intercalando um tomate cereja, uma folha de manjericão dobrada e um cubo de queijo. Repita a sequência até preencher o palito.",
-          "Disponha os espetinhos em uma travessa e regue com o molho preparado.",
-          "Sirva imediatamente como entrada refrescante."
+          "Em um recipiente, misture a manteiga amolecida com o alho espremido e a salsinha picada até formar uma pasta homogênea.",
+          "Corte os pães franceses em fatias, mas sem separar completamente a base.",
+          "Espalhe a pasta de alho generosamente entre as fatias do pão e por cima. Se desejar, polvilhe queijo parmesão ralado.",
+          "Disponha os pães recheados na cesta da Air Fryer.",
+          "Asse a 180°C por aproximadamente 7-10 minutos, ou até que o pão esteja crocante e dourado."
         ],
-        "id": "espetinho-caprese-f97a54"
+        "id": "p-o-de-alho-na-air-fryer-be6cd7"
       },
       {
-        "nome": "Mousse de Limão Rápida",
+        "nome": "Mousse de Chocolate Hiper Fácil",
         "curso": "sobremesa",
-        "tempo": "10 min (+ tempo de geladeira)",
-        "url": "https://anamariabraga.globo.com/receita/mousse-de-limao/",
-        "porque": "Sobremesa clássica, refrescante e muito fácil de fazer no liquidificador.",
+        "tempo": "10 min (preparo ativo)",
+        "url": "https://www.tudogostoso.com.br/receita/14903-mousse-de-chocolate-hiper-facil-e-mega-gostoso.html",
+        "porque": "Uma sobremesa clássica e indulgente, surpreendentemente fácil e rápida de preparar no liquidificador, sem a necessidade de forno.",
         "tags": [
           "rapido",
-          "sobremesa"
+          "sobremesa",
+          "sem_forno"
         ],
         "rende_sobra": true,
         "ingredientes": [
+          "2 latas de creme de leite sem soro",
           "1 lata de leite condensado",
-          "1 lata de creme de leite (sem soro)",
-          "Suco de 2 a 3 limões (a gosto)",
-          "Raspas de limão para decorar (opcional)"
+          "1 pacote de gelatina em pó sem sabor (12g)",
+          "8 colheres (sopa) de chocolate em pó ou achocolatado"
         ],
         "preparo": [
-          "No liquidificador, adicione o leite condensado e o creme de leite.",
-          "Bata por cerca de 1 minuto para misturar bem.",
-          "Com o liquidificador ainda ligado, adicione o suco dos limões em fio, batendo apenas até a mistura encorpar e ficar cremosa.",
-          "Desligue o liquidificador e transfira a mousse para taças individuais ou um refratário maior.",
-          "Leve à geladeira por, no mínimo, 2 horas para firmar.",
-          "Decore com raspas de limão antes de servir, se desejar."
+          "No liquidificador, coloque o creme de leite, o leite condensado e o chocolate em pó. Bata por aproximadamente 2 minutos.",
+          "Prepare a gelatina em pó sem sabor conforme as instruções da embalagem (geralmente dissolve em água quente e depois fria).",
+          "Adicione a gelatina dissolvida à mistura do liquidificador e bata por mais 30 segundos, apenas para misturar bem.",
+          "Despeje a mousse em um recipiente (ou taças individuais), cubra e leve à geladeira por no mínimo 3 horas, ou até firmar."
         ],
-        "id": "mousse-de-lim-o-r-pida-de62c5"
+        "id": "mousse-de-chocolate-hiper-f-cil-7daf17"
       }
     ]
   },
