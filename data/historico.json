@@ -2940,5 +2940,45 @@
       "vegetariano"
     ],
     "data": "19/08/2026"
+  },
+  {
+    "id": "bife-acebolado-com-batata-saut-51a9ee",
+    "titulo": "Bife Acebolado com Batata Sauté",
+    "tags": [
+      "carne_vermelha",
+      "grelhado",
+      "rapido"
+    ],
+    "data": "20/08/2026"
+  },
+  {
+    "id": "escondidinho-de-carne-mo-da-com-pur-de-m-541843",
+    "titulo": "Escondidinho de Carne Moída com Purê de Mandioca",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "equilibrado"
+    ],
+    "data": "20/08/2026"
+  },
+  {
+    "id": "strogonoff-de-carne-r-pido-ffc105",
+    "titulo": "Strogonoff de Carne Rápido",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "equilibrado"
+    ],
+    "data": "20/08/2026"
+  },
+  {
+    "id": "salada-de-frutas-refrescante-com-hortel-fc5f17",
+    "titulo": "Salada de Frutas Refrescante com Hortelã",
+    "tags": [
+      "sobremesa",
+      "rapido",
+      "low_carb"
+    ],
+    "data": "20/08/2026"
   }
 ]

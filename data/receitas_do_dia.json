@@ -1,124 +1,165 @@
 {
-  "gerado_em": "19/08/2026",
+  "gerado_em": "20/08/2026",
   "diario": {
     "tipo": "diario",
-    "data": "19/08/2026",
-    "dia_semana": "quarta",
+    "data": "20/08/2026",
+    "dia_semana": "quinta",
     "pratos": [
       {
-        "nome": "Rosbife de Filé Mignon ao Forno",
-        "curso": "principal",
-        "tempo": "15 min (preparo ativo)",
-        "url": "https://www.panelinha.com.br/receita/rosbife",
-        "porque": "Uma opção elegante e de alta proteína, utilizando carne vermelha, assada no forno para maciez e sem fritura, com preparo ativo rápido.",
-        "tags": [
-          "carne_vermelha",
-          "forno",
-          "rapido"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "750 g de filé mignon (em peça para rosbife)",
-          "1 colher (chá) de mostarda amarela em pó",
-          "1 colher (chá) de páprica defumada",
-          "½ colher (sopa) de azeite",
-          "Sal e pimenta-do-reino moída na hora a gosto"
-        ],
-        "preparo": [
-          "Pré-aqueça o forno a 220 ºC (temperatura alta). Retire a carne da geladeira e deixe em temperatura ambiente por 15 minutos.",
-          "Em uma tigela pequena, misture a páprica com a mostarda em pó.",
-          "Tempere a carne com sal, pimenta e a mistura de mostarda e páprica. Regue com azeite e espalhe bem com as mãos.",
-          "Transfira o filé mignon para uma assadeira grande e leve ao forno por 15 minutos.",
-          "Após esse tempo, diminua a temperatura para 180 ºC e deixe no forno por mais 10 minutos para mal passada, ou 15 minutos para ao ponto.",
-          "Retire do forno, cubra com papel-alumínio e deixe repousar por 10 minutos antes de cortar."
-        ],
-        "id": "rosbife-de-fil-mignon-ao-forno-61101a"
-      },
-      {
-        "nome": "Peito Bovino Assado no Forno com Batatas",
-        "curso": "principal",
-        "tempo": "20 min (preparo ativo)",
-        "url": "https://www.band.uol.com.br/receitas/peito-de-boi-assado-com-legumes-16781912",
-        "porque": "Uma receita de carne vermelha simples e saborosa, assada no forno para garantir maciez, com batatas para um prato equilibrado e pouca fritura.",
-        "tags": [
-          "carne_vermelha",
-          "forno",
-          "equilibrio"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "1.5 kg de peito bovino (em peça)",
-          "2 colheres (sopa) de sal de parrilla (ou sal grosso)",
-          "1 colher (sopa) de páprica defumada",
-          "1 colher (sopa) de alho em pó",
-          "1 colher (sopa) de cebola em pó",
-          "Pimenta-do-reino moída a gosto",
-          "3 colheres (sopa) de azeite",
-          "700g de batatas (bolinha ou médias, cortadas em pedaços)"
-        ],
-        "preparo": [
-          "Retire o excesso de gordura da peça de peito e cubra a carne com azeite.",
-          "Em uma tigela, misture o sal de parrilla, páprica, alho em pó, cebola em pó e pimenta-do-reino.",
-          "Esfregue essa mistura de temperos na carne, formando uma crosta uniforme. Deixe descansar por 15 minutos.",
-          "Embrulhe a carne em papel celofane próprio para alimentos (ou papel alumínio, bem vedado) e leve ao forno pré-aquecido a 160°C por 2 horas.",
-          "Retire a carne do papel, adicione as batatas na assadeira, tempere com sal e azeite. Retorne ao forno a 160°C por mais 50 minutos, ou até as batatas ficarem macias e a carne dourada.",
-          "Sirva fatiado com as batatas assadas."
-        ],
-        "id": "peito-bovino-assado-no-forno-com-batatas-7f38ae"
-      },
-      {
-        "nome": "Pão de Alho na Air Fryer",
+        "nome": "Salada de Rúcula com Tomate Seco e Parmesão",
         "curso": "entrada",
         "tempo": "10 min",
-        "url": "https://www.receitaswap.com.br/blog/receita/pao-de-alho-na-air-fryer",
-        "porque": "Uma entrada clássica, super fácil e rápida de fazer na Air Fryer, garantindo crocância sem fritura em óleo.",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtbY0sG0mUDaaX4uwyiRa8bXyuOMRrgO_BWmNvQEQJB2rD3e4UJp5dnUTYahnpkXZO_AI58Dy5YTgp8lE_e7E5ncxTdQofemDPyue8GfDvGlbYDUKPXF3-vLPPP1Z-wgMgD0oZsC7TjEF1WoyxCJeP1-mIWu9gajQLWv3FfdgRQLF3t0ZDSQ==",
+        "porque": "É uma entrada leve, fresca, rápida de preparar e não requer cozimento, ideal para começar a refeição.",
         "tags": [
-          "airfryer",
+          "salada",
           "rapido",
           "vegetariano"
         ],
         "rende_sobra": false,
         "ingredientes": [
-          "2 pães franceses (ou baguete)",
-          "2 dentes de alho espremidos",
-          "2 colheres (sopa) de manteiga sem sal (em temperatura ambiente)",
-          "1 colher (sopa) de salsinha fresca picada (opcional)",
-          "Queijo parmesão ralado a gosto (opcional)"
+          "1 maço pequeno de rúcula",
+          "2 colheres (sopa) de tomate seco picado",
+          "Lascas de queijo parmesão a gosto",
+          "Azeite extra virgem a gosto",
+          "Sal a gosto",
+          "Pimenta do reino a gosto"
         ],
         "preparo": [
-          "Em um recipiente, misture a manteiga amolecida com o alho espremido e a salsinha picada até formar uma pasta homogênea.",
-          "Corte os pães franceses em fatias, mas sem separar completamente a base.",
-          "Espalhe a pasta de alho generosamente entre as fatias do pão e por cima. Se desejar, polvilhe queijo parmesão ralado.",
-          "Disponha os pães recheados na cesta da Air Fryer.",
-          "Asse a 180°C por aproximadamente 7-10 minutos, ou até que o pão esteja crocante e dourado."
+          "Lave bem a rúcula e seque cuidadosamente.",
+          "Pique o tomate seco em pedaços pequenos.",
+          "Em uma tigela ou prato de servir, misture a rúcula, o tomate seco picado e as lascas de parmesão.",
+          "Regue com azeite extra virgem, tempere com sal e pimenta do reino a gosto e sirva imediatamente."
         ],
-        "id": "p-o-de-alho-na-air-fryer-be6cd7"
+        "id": "salada-de-r-cula-com-tomate-seco-e-parme-7feab5"
       },
       {
-        "nome": "Mousse de Chocolate Hiper Fácil",
-        "curso": "sobremesa",
-        "tempo": "10 min (preparo ativo)",
-        "url": "https://www.tudogostoso.com.br/receita/14903-mousse-de-chocolate-hiper-facil-e-mega-gostoso.html",
-        "porque": "Uma sobremesa clássica e indulgente, surpreendentemente fácil e rápida de preparar no liquidificador, sem a necessidade de forno.",
+        "nome": "Bife Acebolado com Batata Sauté",
+        "curso": "principal",
+        "tempo": "40 min",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6XvMDaVbPnBcxBPJ00RzNE73QvXGo-nNCa-omA4Z-MNRwmkBWc9WT0OJxHy7jE1U-eGjjAHlARLcxk9slknz3aIIVcguxGDnldQeV6eGdx2hV6irXiEWKBdYy8EuPIpWp5gPMLn8VLk1wTV-gL7JROVHiNB1QYyfAKdh4Ivf3BzHoSyXQxwFTMZG67pD7LbO_gV_pB7Y1xhfpCYYIA8C-rVExSIYyQ4DWSl930gi3bjLLJOw419miQzqBGuI6DF6suN0JsHS17RpWOgXJPQ==",
+        "porque": "É um clássico de carne vermelha, rápido de preparar, suculento e as batatas são douradas sem fritura excessiva.",
         "tags": [
-          "rapido",
-          "sobremesa",
-          "sem_forno"
+          "carne_vermelha",
+          "grelhado",
+          "rapido"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "2 latas de creme de leite sem soro",
-          "1 lata de leite condensado",
-          "1 pacote de gelatina em pó sem sabor (12g)",
-          "8 colheres (sopa) de chocolate em pó ou achocolatado"
+          "2 bifes de alcatra ou contrafilé (~180g cada)",
+          "2 batatas médias",
+          "1 cebola grande cortada em rodelas",
+          "Azeite extra virgem a gosto",
+          "Sal e pimenta do reino a gosto",
+          "Salsinha picada (opcional)",
+          "Queijo parmesão ralado (opcional, para as batatas)"
         ],
         "preparo": [
-          "No liquidificador, coloque o creme de leite, o leite condensado e o chocolate em pó. Bata por aproximadamente 2 minutos.",
-          "Prepare a gelatina em pó sem sabor conforme as instruções da embalagem (geralmente dissolve em água quente e depois fria).",
-          "Adicione a gelatina dissolvida à mistura do liquidificador e bata por mais 30 segundos, apenas para misturar bem.",
-          "Despeje a mousse em um recipiente (ou taças individuais), cubra e leve à geladeira por no mínimo 3 horas, ou até firmar."
+          "Corte as batatas em cubos pequenos e cozinhe em água fervente com sal até ficarem macias, mas firmes. Escorra e reserve.",
+          "Tempere os bifes com sal e pimenta do reino dos dois lados.",
+          "Aqueça uma frigideira com um fio de azeite em fogo alto e sele os bifes por 3-4 minutos de cada lado, até o ponto desejado. Retire e reserve.",
+          "Na mesma frigideira, adicione um pouco mais de azeite e refogue as rodelas de cebola até ficarem macias e levemente caramelizadas.",
+          "Em outra frigideira (ou na mesma após retirar as cebolas), adicione um pouco de manteiga ou azeite e doure as batatas cozidas até ficarem levemente crocantes. Se desejar, misture com salsinha e parmesão.",
+          "Sirva os bifes com as cebolas por cima e as batatas sauté ao lado."
         ],
-        "id": "mousse-de-chocolate-hiper-f-cil-7daf17"
+        "id": "bife-acebolado-com-batata-saut-51a9ee"
+      },
+      {
+        "nome": "Escondidinho de Carne Moída com Purê de Mandioca",
+        "curso": "principal",
+        "tempo": "40 min",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2HGZGt2aphOGfquxj07jxJYuQIU8Uu1V3uIc3ejW1ScPlq6KbQAEzzWfdclgQbsIGbTxRqtEbfCI-vPvvap3ve1mePzvYHvhTj3WagFNBzNsTlVuR2UFoCPtlFJ8_ADtSvgk66bKdc3xmwvwtcn8mSEi5yaSzg21_BAQ9hAsh9iTp",
+        "porque": "É uma refeição completa e saborosa, com boa fonte de proteína e carboidratos complexos, gratinado no forno.",
+        "tags": [
+          "carne_vermelha",
+          "forno",
+          "equilibrado"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "800g de mandioca cozida e espremida ainda quente",
+          "500g de carne moída (patinho)",
+          "1 cebola média picada",
+          "1/2 xícara (chá) de leite",
+          "1 colher (sopa) de manteiga",
+          "100g de muçarela ralada",
+          "1 sachê de tempero (ou sal e pimenta do reino a gosto)",
+          "1 colher (sopa) de azeite",
+          "1/2 xícara (chá) de polpa de tomate"
+        ],
+        "preparo": [
+          "Em uma panela, refogue a cebola picada no azeite. Adicione a carne moída e frite até dourar e secar o líquido. Tempere a gosto e adicione a polpa de tomate, cozinhando por mais alguns minutos. Reserve.",
+          "Em outra panela, misture a mandioca espremida com o leite, a manteiga e tempere a gosto. Cozinhe em fogo médio, mexendo, até obter um purê cremoso e homogêneo.",
+          "Em um refratário médio, faça uma camada com metade do purê de mandioca.",
+          "Espalhe a carne moída refogada por cima da camada de purê.",
+          "Cubra com o restante do purê de mandioca e finalize com a muçarela ralada por cima.",
+          "Leve ao forno médio (180°C) preaquecido por cerca de 10-15 minutos, ou até a muçarela derreter e gratinar."
+        ],
+        "id": "escondidinho-de-carne-mo-da-com-pur-de-m-541843"
+      },
+      {
+        "nome": "Strogonoff de Carne Rápido",
+        "curso": "principal",
+        "tempo": "35 min",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJshGSJELEScaAGnV2R1a7YQTylBqnyij9shEB-cIasDFYtva8-41KDV1tzDM6DbHCVmhE7ubwLMSchS0CBjEBjT6h0_OmWOsaLik4TkYPi2riQ2pCyo17o3TitZ27IGvIBNHkk71rhTttdmdX2LK82IGML9Ly1QpX_hXxIT1SRQX2zxpqpAXnsrjXCI6h3TQy_Axx",
+        "porque": "É um prato que agrada a maioria, é relativamente rápido de preparar e utiliza carne vermelha com um molho cremoso saboroso.",
+        "tags": [
+          "carne_vermelha",
+          "rapido",
+          "equilibrado"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "500g de carne bovina (alcatra ou patinho) em tiras",
+          "1 cebola média picada",
+          "1 colher (sopa) de manteiga ou azeite",
+          "1 xícara (chá) de cogumelos fatiados (opcional)",
+          "3 colheres (sopa) de extrato de tomate",
+          "2 colheres (sopa) de mostarda",
+          "2 colheres (sopa) de ketchup",
+          "1 lata de creme de leite (sem soro)",
+          "Sal e pimenta do reino a gosto"
+        ],
+        "preparo": [
+          "Tempere as tiras de carne com sal e pimenta do reino.",
+          "Em uma panela ou frigideira grande, aqueça a manteiga ou azeite e doure a carne em porções para evitar que solte muita água. Retire a carne e reserve.",
+          "Na mesma panela, refogue a cebola picada até ficar transparente. Se for usar, adicione os cogumelos fatiados e refogue por alguns minutos.",
+          "Retorne a carne à panela. Adicione o extrato de tomate, a mostarda e o ketchup. Misture bem para incorporar os sabores.",
+          "Por último, adicione o creme de leite, misture delicadamente e aqueça sem deixar ferver. Ajuste o sal se necessário.",
+          "Sirva imediatamente acompanhado de arroz branco e batata palha (ou batata assada para uma versão mais saudável)."
+        ],
+        "id": "strogonoff-de-carne-r-pido-ffc105"
+      },
+      {
+        "nome": "Salada de Frutas Refrescante com Hortelã",
+        "curso": "sobremesa",
+        "tempo": "15 min",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEr1lP2CdxvVW4QXHVaOI16sx2U9JFMVg3oJTelEcWX_m9sJDEpcPxG_DJXJCPfLdSV8-PeJBOvCP6GrTiEK9aSza7kc6XTzIbDyQqjYLHdqKDnH9itpYbf0Z30ez6rI27yE3_iJG5AaAeGemWK8QYRs0B6-5pu5EZWYE_YQ2Y=",
+        "porque": "É uma sobremesa leve, saudável, refrescante, muito fácil de preparar e rica em vitaminas.",
+        "tags": [
+          "sobremesa",
+          "rapido",
+          "low_carb"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "1 manga média",
+          "1 banana",
+          "2 fatias de abacaxi",
+          "2 kiwis",
+          "6 morangos",
+          "6 uvas",
+          "Suco de 2 laranjas",
+          "Folhas de hortelã fresca a gosto"
+        ],
+        "preparo": [
+          "Lave, descasque e pique todas as frutas em pedaços médios.",
+          "Pique finamente as folhas de hortelã fresca.",
+          "Em uma tigela grande, misture as frutas picadas e a hortelã.",
+          "Esprema o suco das duas laranjas sobre as frutas e misture tudo delicadamente.",
+          "Leve à geladeira por pelo menos 30 minutos antes de servir para que a salada fique bem refrescante."
+        ],
+        "id": "salada-de-frutas-refrescante-com-hortel-fc5f17"
       }
     ]
   },
