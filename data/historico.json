@@ -2980,5 +2980,37 @@
       "low_carb"
     ],
     "data": "20/08/2026"
+  },
+  {
+    "id": "maminha-na-airfryer-com-batatas-r-sticas-0bf324",
+    "titulo": "Maminha na Airfryer com Batatas Rústicas",
+    "tags": [
+      "carne_vermelha",
+      "airfryer",
+      "rapido",
+      "equilibrado"
+    ],
+    "data": "21/08/2026"
+  },
+  {
+    "id": "contrafil-grelhado-com-legumes-salteados-46f326",
+    "titulo": "Contrafilé Grelhado com Legumes Salteados",
+    "tags": [
+      "carne_vermelha",
+      "grelhado",
+      "rapido",
+      "equilibrado"
+    ],
+    "data": "21/08/2026"
+  },
+  {
+    "id": "bruschetta-de-abobrinha-assada-2b6d86",
+    "titulo": "Bruschetta de Abobrinha Assada",
+    "tags": [
+      "vegetariano",
+      "rapido",
+      "low_carb"
+    ],
+    "data": "21/08/2026"
   }
 ]

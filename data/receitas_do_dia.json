@@ -1,165 +1,132 @@
 {
-  "gerado_em": "20/08/2026",
+  "gerado_em": "21/08/2026",
   "diario": {
     "tipo": "diario",
-    "data": "20/08/2026",
-    "dia_semana": "quinta",
+    "data": "21/08/2026",
+    "dia_semana": "sexta",
     "pratos": [
       {
-        "nome": "Salada de Rúcula com Tomate Seco e Parmesão",
-        "curso": "entrada",
-        "tempo": "10 min",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtbY0sG0mUDaaX4uwyiRa8bXyuOMRrgO_BWmNvQEQJB2rD3e4UJp5dnUTYahnpkXZO_AI58Dy5YTgp8lE_e7E5ncxTdQofemDPyue8GfDvGlbYDUKPXF3-vLPPP1Z-wgMgD0oZsC7TjEF1WoyxCJeP1-mIWu9gajQLWv3FfdgRQLF3t0ZDSQ==",
-        "porque": "É uma entrada leve, fresca, rápida de preparar e não requer cozimento, ideal para começar a refeição.",
+        "nome": "Maminha na Airfryer com Batatas Rústicas",
+        "curso": "principal",
+        "tempo": "45 min",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKJRUhCzIPUmSwk8JC4PZOzmoj33qlzvy5cIoq2051eDUkyfSSTAsTCX0ZncWLr8AbZlJ20cK7H9oIvgvH-nXcCE_4E5CPewFhPru_ytcXeBYzk1xQ4jjbZuU1-TOFitB66PrSrZjUVi9PR9Fp4nx89XufXDAlpx7qZw==",
+        "porque": "Esta receita é prática e rápida, utilizando a airfryer para um preparo sem fritura em óleo, combinando carne vermelha com batatas para um prato completo e com potencial para sobras.",
         "tags": [
-          "salada",
+          "carne_vermelha",
+          "airfryer",
           "rapido",
-          "vegetariano"
+          "equilibrado"
         ],
-        "rende_sobra": false,
+        "rende_sobra": true,
         "ingredientes": [
-          "1 maço pequeno de rúcula",
-          "2 colheres (sopa) de tomate seco picado",
-          "Lascas de queijo parmesão a gosto",
-          "Azeite extra virgem a gosto",
-          "Sal a gosto",
-          "Pimenta do reino a gosto"
+          "500g de maminha (inteira ou em bifes grossos)",
+          "2 batatas médias (tipo asterix ou inglesa)",
+          "2 colheres de sopa de azeite de oliva",
+          "1 colher de chá de sal grosso",
+          "1/2 colher de chá de pimenta-do-reino moída",
+          "1 ramo de alecrim fresco (opcional)",
+          "1 colher de sopa de manteiga (opcional, para finalizar)"
         ],
         "preparo": [
-          "Lave bem a rúcula e seque cuidadosamente.",
-          "Pique o tomate seco em pedaços pequenos.",
-          "Em uma tigela ou prato de servir, misture a rúcula, o tomate seco picado e as lascas de parmesão.",
-          "Regue com azeite extra virgem, tempere com sal e pimenta do reino a gosto e sirva imediatamente."
+          "Lave e corte as batatas em gomos rústicos, tempere com 1 colher de sopa de azeite, sal e pimenta. Reserve.",
+          "Tempere a maminha com sal, pimenta e o azeite restante. Se for usar alecrim, esfregue na carne.",
+          "Pré-aqueça a airfryer a 180°C por 5 minutos. Coloque a maminha e as batatas no cesto, sem sobrepor muito.",
+          "Cozinhe por 20 minutos, virando a carne e as batatas na metade do tempo.",
+          "Aumente a temperatura para 200°C e cozinhe por mais 10-15 minutos, ou até a carne atingir o ponto desejado e as batatas ficarem douradas e crocantes.",
+          "Retire a maminha e as batatas, deixe a carne descansar por 5 minutos antes de fatiar e, se desejar, pincele com manteiga derretida."
         ],
-        "id": "salada-de-r-cula-com-tomate-seco-e-parme-7feab5"
+        "id": "maminha-na-airfryer-com-batatas-r-sticas-0bf324"
       },
       {
-        "nome": "Bife Acebolado com Batata Sauté",
+        "nome": "Contrafilé Grelhado com Legumes Salteados",
         "curso": "principal",
-        "tempo": "40 min",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6XvMDaVbPnBcxBPJ00RzNE73QvXGo-nNCa-omA4Z-MNRwmkBWc9WT0OJxHy7jE1U-eGjjAHlARLcxk9slknz3aIIVcguxGDnldQeV6eGdx2hV6irXiEWKBdYy8EuPIpWp5gPMLn8VLk1wTV-gL7JROVHiNB1QYyfAKdh4Ivf3BzHoSyXQxwFTMZG67pD7LbO_gV_pB7Y1xhfpCYYIA8C-rVExSIYyQ4DWSl930gi3bjLLJOw419miQzqBGuI6DF6suN0JsHS17RpWOgXJPQ==",
-        "porque": "É um clássico de carne vermelha, rápido de preparar, suculento e as batatas são douradas sem fritura excessiva.",
+        "tempo": "20 min",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5F9eXkhHVPcRW0wXnjSIr00B4Sdu7PoXHcd-wcaKWvBVMh4u6PVzTIEK4xuNeIcfOJxlRbtzv23a25NPA5i93XT4iDqp5gn7wLix4cWqidRGMxTpV9YfM9ClXZ4zw1dhuRW0n-OAFKVH7f28HlOnytE1srpNV_RS4ljJCNOUD38QMaT1mddbKuMQc_Qj3I461HptbdJTTXB-MAiJSH5p-euIGY_1qlQnU5_GlZZJ71otHMvx_wkQ==",
+        "porque": "O contrafilé é uma carne vermelha de preparo rápido na grelha, garantindo alta proteína e sabor, e os legumes salteados adicionam equilíbrio e nutrição.",
         "tags": [
           "carne_vermelha",
           "grelhado",
-          "rapido"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "2 bifes de alcatra ou contrafilé (~180g cada)",
-          "2 batatas médias",
-          "1 cebola grande cortada em rodelas",
-          "Azeite extra virgem a gosto",
-          "Sal e pimenta do reino a gosto",
-          "Salsinha picada (opcional)",
-          "Queijo parmesão ralado (opcional, para as batatas)"
-        ],
-        "preparo": [
-          "Corte as batatas em cubos pequenos e cozinhe em água fervente com sal até ficarem macias, mas firmes. Escorra e reserve.",
-          "Tempere os bifes com sal e pimenta do reino dos dois lados.",
-          "Aqueça uma frigideira com um fio de azeite em fogo alto e sele os bifes por 3-4 minutos de cada lado, até o ponto desejado. Retire e reserve.",
-          "Na mesma frigideira, adicione um pouco mais de azeite e refogue as rodelas de cebola até ficarem macias e levemente caramelizadas.",
-          "Em outra frigideira (ou na mesma após retirar as cebolas), adicione um pouco de manteiga ou azeite e doure as batatas cozidas até ficarem levemente crocantes. Se desejar, misture com salsinha e parmesão.",
-          "Sirva os bifes com as cebolas por cima e as batatas sauté ao lado."
-        ],
-        "id": "bife-acebolado-com-batata-saut-51a9ee"
-      },
-      {
-        "nome": "Escondidinho de Carne Moída com Purê de Mandioca",
-        "curso": "principal",
-        "tempo": "40 min",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2HGZGt2aphOGfquxj07jxJYuQIU8Uu1V3uIc3ejW1ScPlq6KbQAEzzWfdclgQbsIGbTxRqtEbfCI-vPvvap3ve1mePzvYHvhTj3WagFNBzNsTlVuR2UFoCPtlFJ8_ADtSvgk66bKdc3xmwvwtcn8mSEi5yaSzg21_BAQ9hAsh9iTp",
-        "porque": "É uma refeição completa e saborosa, com boa fonte de proteína e carboidratos complexos, gratinado no forno.",
-        "tags": [
-          "carne_vermelha",
-          "forno",
-          "equilibrado"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "800g de mandioca cozida e espremida ainda quente",
-          "500g de carne moída (patinho)",
-          "1 cebola média picada",
-          "1/2 xícara (chá) de leite",
-          "1 colher (sopa) de manteiga",
-          "100g de muçarela ralada",
-          "1 sachê de tempero (ou sal e pimenta do reino a gosto)",
-          "1 colher (sopa) de azeite",
-          "1/2 xícara (chá) de polpa de tomate"
-        ],
-        "preparo": [
-          "Em uma panela, refogue a cebola picada no azeite. Adicione a carne moída e frite até dourar e secar o líquido. Tempere a gosto e adicione a polpa de tomate, cozinhando por mais alguns minutos. Reserve.",
-          "Em outra panela, misture a mandioca espremida com o leite, a manteiga e tempere a gosto. Cozinhe em fogo médio, mexendo, até obter um purê cremoso e homogêneo.",
-          "Em um refratário médio, faça uma camada com metade do purê de mandioca.",
-          "Espalhe a carne moída refogada por cima da camada de purê.",
-          "Cubra com o restante do purê de mandioca e finalize com a muçarela ralada por cima.",
-          "Leve ao forno médio (180°C) preaquecido por cerca de 10-15 minutos, ou até a muçarela derreter e gratinar."
-        ],
-        "id": "escondidinho-de-carne-mo-da-com-pur-de-m-541843"
-      },
-      {
-        "nome": "Strogonoff de Carne Rápido",
-        "curso": "principal",
-        "tempo": "35 min",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJshGSJELEScaAGnV2R1a7YQTylBqnyij9shEB-cIasDFYtva8-41KDV1tzDM6DbHCVmhE7ubwLMSchS0CBjEBjT6h0_OmWOsaLik4TkYPi2riQ2pCyo17o3TitZ27IGvIBNHkk71rhTttdmdX2LK82IGML9Ly1QpX_hXxIT1SRQX2zxpqpAXnsrjXCI6h3TQy_Axx",
-        "porque": "É um prato que agrada a maioria, é relativamente rápido de preparar e utiliza carne vermelha com um molho cremoso saboroso.",
-        "tags": [
-          "carne_vermelha",
           "rapido",
           "equilibrado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "500g de carne bovina (alcatra ou patinho) em tiras",
-          "1 cebola média picada",
-          "1 colher (sopa) de manteiga ou azeite",
-          "1 xícara (chá) de cogumelos fatiados (opcional)",
-          "3 colheres (sopa) de extrato de tomate",
-          "2 colheres (sopa) de mostarda",
-          "2 colheres (sopa) de ketchup",
-          "1 lata de creme de leite (sem soro)",
-          "Sal e pimenta do reino a gosto"
+          "2 bifes de contrafilé (cerca de 200g cada)",
+          "1/2 brócolis pequeno (somente os floretes)",
+          "1 cenoura média, cortada em rodelas finas",
+          "1 xícara de vagem picada",
+          "2 dentes de alho picados",
+          "2 colheres de sopa de azeite de oliva",
+          "Sal e pimenta-do-reino a gosto"
         ],
         "preparo": [
-          "Tempere as tiras de carne com sal e pimenta do reino.",
-          "Em uma panela ou frigideira grande, aqueça a manteiga ou azeite e doure a carne em porções para evitar que solte muita água. Retire a carne e reserve.",
-          "Na mesma panela, refogue a cebola picada até ficar transparente. Se for usar, adicione os cogumelos fatiados e refogue por alguns minutos.",
-          "Retorne a carne à panela. Adicione o extrato de tomate, a mostarda e o ketchup. Misture bem para incorporar os sabores.",
-          "Por último, adicione o creme de leite, misture delicadamente e aqueça sem deixar ferver. Ajuste o sal se necessário.",
-          "Sirva imediatamente acompanhado de arroz branco e batata palha (ou batata assada para uma versão mais saudável)."
+          "Tempere os bifes de contrafilé com sal e pimenta-do-reino dos dois lados.",
+          "Em uma frigideira grande ou chapa quente, adicione 1 colher de sopa de azeite e grelhe os bifes por 3-4 minutos de cada lado para um ponto médio, ou a gosto. Reserve.",
+          "Na mesma frigideira, adicione o azeite restante e refogue o alho picado por 30 segundos.",
+          "Adicione a cenoura e a vagem, salteie por 3-4 minutos. Em seguida, adicione os floretes de brócolis e salteie por mais 3 minutos, até ficarem al dente.",
+          "Tempere os legumes com sal e pimenta a gosto.",
+          "Sirva os bifes de contrafilé fatiados com os legumes salteados ao lado."
         ],
-        "id": "strogonoff-de-carne-r-pido-ffc105"
+        "id": "contrafil-grelhado-com-legumes-salteados-46f326"
       },
       {
-        "nome": "Salada de Frutas Refrescante com Hortelã",
-        "curso": "sobremesa",
+        "nome": "Bruschetta de Abobrinha Assada",
+        "curso": "entrada",
         "tempo": "15 min",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEr1lP2CdxvVW4QXHVaOI16sx2U9JFMVg3oJTelEcWX_m9sJDEpcPxG_DJXJCPfLdSV8-PeJBOvCP6GrTiEK9aSza7kc6XTzIbDyQqjYLHdqKDnH9itpYbf0Z30ez6rI27yE3_iJG5AaAeGemWK8QYRs0B6-5pu5EZWYE_YQ2Y=",
-        "porque": "É uma sobremesa leve, saudável, refrescante, muito fácil de preparar e rica em vitaminas.",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtuBwLinvhhr7hNkOvGnzTGs_7tqUWxSH-k0_oyKZndE3SRP0LeZmy8-1Uw4qVoVB741yDTT4bxnGSHS6tEacytbYWPqdtllNO8XnkD9uP2QZIrab0OOeWB0wv8500e9LyJS00rW2rAyD6P5yHNRPpZcbVqigcJziTE8k==",
+        "porque": "Uma entrada leve e saudável, fácil de preparar no forno ou frigideira, sem fritura e com ingredientes simples.",
         "tags": [
-          "sobremesa",
+          "vegetariano",
           "rapido",
           "low_carb"
         ],
-        "rende_sobra": true,
+        "rende_sobra": false,
         "ingredientes": [
-          "1 manga média",
-          "1 banana",
-          "2 fatias de abacaxi",
-          "2 kiwis",
-          "6 morangos",
-          "6 uvas",
-          "Suco de 2 laranjas",
-          "Folhas de hortelã fresca a gosto"
+          "4 fatias de pão italiano ou baguete",
+          "1 abobrinha pequena, cortada em rodelas finas",
+          "1 dente de alho picado",
+          "2 colheres de sopa de azeite de oliva",
+          "Sal e pimenta-do-reino a gosto",
+          "Folhas de manjericão fresco para decorar (opcional)",
+          "Queijo parmesão ralado (opcional)"
         ],
         "preparo": [
-          "Lave, descasque e pique todas as frutas em pedaços médios.",
-          "Pique finamente as folhas de hortelã fresca.",
-          "Em uma tigela grande, misture as frutas picadas e a hortelã.",
-          "Esprema o suco das duas laranjas sobre as frutas e misture tudo delicadamente.",
-          "Leve à geladeira por pelo menos 30 minutos antes de servir para que a salada fique bem refrescante."
+          "Preaqueça o forno a 180°C.",
+          "Em uma tigela, misture as rodelas de abobrinha com 1 colher de sopa de azeite, sal e pimenta.",
+          "Disponha as fatias de pão em uma assadeira e leve ao forno por 5 minutos para dourar levemente.",
+          "Enquanto o pão doura, refogue a abobrinha em uma frigideira com o azeite restante e o alho picado por cerca de 3-5 minutos, até ficar macia.",
+          "Retire o pão do forno, distribua a abobrinha refogada sobre as fatias. Se desejar, polvilhe queijo parmesão.",
+          "Leve ao forno novamente por mais 5 minutos, ou até o queijo derreter. Finalize com folhas de manjericão."
         ],
-        "id": "salada-de-frutas-refrescante-com-hortel-fc5f17"
+        "id": "bruschetta-de-abobrinha-assada-2b6d86"
+      },
+      {
+        "nome": "Brigadeiro de Colher Cremoso",
+        "curso": "sobremesa",
+        "tempo": "20 min",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTFoRx53i-UEKSD8c6NjkSwtLIDXOE02BTVJZyCmwkz4LDsdBZmYE3yXD7x344NGH2Bzj_o1zz3lTiFgK9hRU4TXwqmUM19Z3kSHSHctBJwzYRIgc6fMb_Ed4CE5uZqBU-fF0C1zyUmU4ZQGV2eSUE==",
+        "porque": "Uma sobremesa clássica brasileira, cremosa e fácil de fazer com poucos ingredientes, ideal para finalizar a refeição.",
+        "tags": [
+          "doce",
+          "rapido"
+        ],
+        "rende_sobra": false,
+        "ingredientes": [
+          "1 lata de leite condensado (395g)",
+          "1/3 xícara (chá) de chocolate em pó 50% cacau (ou 3 colheres de sopa)",
+          "1 colher (sopa) de manteiga sem sal",
+          "1/2 caixa de creme de leite (100g) (opcional, para mais cremosidade)",
+          "Chocolate granulado para decorar (opcional)"
+        ],
+        "preparo": [
+          "Em uma panela, misture o leite condensado, o chocolate em pó e a manteiga.",
+          "Leve ao fogo médio, mexendo sempre com uma espátula, até desgrudar do fundo da panela (cerca de 10-15 minutos).",
+          "Desligue o fogo e adicione o creme de leite, mexendo bem até incorporar.",
+          "Transfira para potinhos individuais ou uma travessa, cubra com plástico filme em contato com o brigadeiro para não criar película.",
+          "Deixe amornar ou leve à geladeira por pelo menos 30 minutos.",
+          "Sirva e decore com chocolate granulado, se desejar."
+        ],
+        "id": "brigadeiro-de-colher-cremoso-7937b3"
       }
     ]
   },
