@@ -3012,5 +3012,45 @@
       "low_carb"
     ],
     "data": "21/08/2026"
+  },
+  {
+    "id": "lagarto-na-panela-de-press-o-com-viradin-03d5b8",
+    "titulo": "Lagarto na Panela de Pressão com Viradinho de Couve e Purê de Mandioquinha",
+    "tags": [
+      "carne_vermelha",
+      "panela_pressao",
+      "equilibrado"
+    ],
+    "data": "22/08/2026"
+  },
+  {
+    "id": "rosbife-de-lagarto-na-air-fryer-com-pur--976550",
+    "titulo": "Rosbife de Lagarto na Air Fryer com Purê de Abóbora e Vagem Chamuscada",
+    "tags": [
+      "carne_vermelha",
+      "airfryer",
+      "equilibrado"
+    ],
+    "data": "22/08/2026"
+  },
+  {
+    "id": "salada-de-batata-com-ovo-ac7446",
+    "titulo": "Salada de Batata com Ovo",
+    "tags": [
+      "vegetariano",
+      "rapido",
+      "salada"
+    ],
+    "data": "22/08/2026"
+  },
+  {
+    "id": "mo-a-gelada-12bb9b",
+    "titulo": "Moça Gelada",
+    "tags": [
+      "rapido",
+      "doce",
+      "sem_forno"
+    ],
+    "data": "22/08/2026"
   }
 ]
