@@ -3052,5 +3052,35 @@
       "sem_forno"
     ],
     "data": "22/08/2026"
+  },
+  {
+    "id": "carne-mo-da-r-pida-temperada-654a2c",
+    "titulo": "Carne Moída Rápida Temperada",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "refogado"
+    ],
+    "data": "23/08/2026"
+  },
+  {
+    "id": "homus-a-jato-ec1ef5",
+    "titulo": "Homus a Jato",
+    "tags": [
+      "vegetariano",
+      "rapido",
+      "low_carb"
+    ],
+    "data": "23/08/2026"
+  },
+  {
+    "id": "pudim-r-pido-de-tapioca-b93ac8",
+    "titulo": "Pudim Rápido de Tapioca",
+    "tags": [
+      "rapido",
+      "sobremesa",
+      "vegetariano"
+    ],
+    "data": "23/08/2026"
   }
 ]

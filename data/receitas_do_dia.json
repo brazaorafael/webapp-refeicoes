@@ -1,16 +1,49 @@
 {
-  "gerado_em": "22/08/2026",
+  "gerado_em": "23/08/2026",
   "diario": {
     "tipo": "diario",
-    "data": "22/08/2026",
-    "dia_semana": "sábado",
+    "data": "23/08/2026",
+    "dia_semana": "domingo",
     "pratos": [
       {
-        "nome": "Lagarto na Panela de Pressão com Viradinho de Couve e Purê de Mandioquinha",
+        "nome": "Carne Moída Rápida Temperada",
         "curso": "principal",
-        "tempo": "1h 20 min",
-        "url": "https://receitas.globo.com/ana-maria-braga/",
-        "porque": "É um prato robusto de carne vermelha, cozido na panela de pressão para agilizar o preparo, incluindo legumes e carboidrato de forma equilibrada.",
+        "tempo": "35 min",
+        "url": "https://receitas.globo.com/ana-maria-braga/receitas/carne-moida-rapida-temperada-00511f59-3220-4328-910f-15520e5c8e31.ghtml",
+        "porque": "Uma receita versátil e rápida, com boa fonte de proteína, fácil de adaptar com acompanhamentos e ideal para render porções extras.",
+        "tags": [
+          "carne_vermelha",
+          "rapido",
+          "refogado"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "2 colheres (sopa) de azeite de oliva",
+          "2 colheres (sopa) de alho picado",
+          "200 g de cebola picada",
+          "1 kg de carne moída",
+          "1 xícara (chá) de vinho tinto seco (opcional)",
+          "1 e ¼ de xícara (chá) de extrato de tomate (340 g)",
+          "Tomilho, sálvia e manjericão picados a gosto",
+          "Sal e pimenta-do-reino a gosto",
+          "Água quente (o suficiente para cozinhar)"
+        ],
+        "preparo": [
+          "Aqueça o azeite em uma panela em fogo médio. Refogue o alho e a cebola picados por cerca de 3 minutos, até dourarem.",
+          "Adicione a carne moída e refogue, mexendo para que fique bem soltinha, até dourar por completo.",
+          "Despeje o vinho tinto (se usar) e deixe o álcool evaporar por alguns minutos.",
+          "Junte o extrato de tomate, as ervas frescas (tomilho, sálvia, manjericão), sal e pimenta-do-reino a gosto. Misture bem.",
+          "Adicione água quente aos poucos, o suficiente para cobrir a carne, e cozinhe em fogo baixo, mexendo ocasionalmente, até o molho encorpar (cerca de 15-20 minutos).",
+          "Sirva a carne moída quente com o acompanhamento de sua preferência."
+        ],
+        "id": "carne-mo-da-r-pida-temperada-654a2c"
+      },
+      {
+        "nome": "Maminha na Pressão",
+        "curso": "principal",
+        "tempo": "45 min",
+        "url": "https://www.panelinha.com.br/receita/maminha-na-pressao",
+        "porque": "Clássica e saborosa, a panela de pressão garante maciez e um molho encorpado em tempo hábil, ideal para render sobras.",
         "tags": [
           "carne_vermelha",
           "panela_pressao",
@@ -18,132 +51,85 @@
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "1 kg de lagarto",
-          "1 colher (sopa) de sal",
-          "2 dentes de alho espremidos",
-          "1 cebola picada (para marinar)",
-          "100 ml de vinagre",
-          "Azeite a gosto",
-          "1 cebola picada (para o viradinho)",
-          "2 dentes de alho picados (para o viradinho)",
-          "1 maço de couve picada",
-          "1 tomate picado",
-          "Sal a gosto",
-          "Molho de pimenta a gosto",
-          "1 xícara (chá) de farinha de milho",
-          "200g de mandioquinha cozida e espremida",
-          "1 colher (sopa) de manteiga",
-          "1 xícara (chá) de leite"
-        ],
-        "preparo": [
-          "Em um refratário, misture o sal, alho espremido, 1 cebola picada e vinagre com o lagarto. Tampe e deixe marinar por 30 minutos.",
-          "Transfira o lagarto com a marinada para a panela de pressão, cubra com água e cozinhe em fogo médio por 50 minutos após pegar pressão.",
-          "Libere a pressão, retire o lagarto da panela, fatie e reserve.",
-          "Para o viradinho, refogue a cebola e o alho no azeite. Adicione a couve e refogue rapidamente. Junte o tomate, tempere com sal e molho de pimenta. Acrescente a farinha de milho e misture até ficar úmida.",
-          "Para o purê, em uma panela, coloque a mandioquinha cozida e espremida, manteiga, leite e sal. Leve ao fogo médio, mexendo sempre, até obter um purê macio.",
-          "Sirva o lagarto fatiado com o viradinho de couve e o purê de mandioquinha."
-        ],
-        "id": "lagarto-na-panela-de-press-o-com-viradin-03d5b8"
-      },
-      {
-        "nome": "Rosbife de Lagarto na Air Fryer com Purê de Abóbora e Vagem Chamuscada",
-        "curso": "principal",
-        "tempo": "45 min",
-        "url": "https://www.panelinha.com.br/receita/rosbife-na-air-fryer-com-pure-de-abobora-e-vagem-chamuscada",
-        "porque": "Um prato elegante de carne vermelha preparado na Air Fryer, alternando a fritura, rico em proteínas e acompanhado de vegetais e carboidratos para equilíbrio.",
-        "tags": [
-          "carne_vermelha",
-          "airfryer",
-          "equilibrado"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "1 peça de lagarto (800g)",
-          "1 colher (sopa) de sal grosso",
-          "1 colher (sopa) de páprica doce",
-          "½ colher (chá) de pimenta-do-reino em grãos",
-          "2 colheres (chá) de azeite",
-          "800g de abóbora japonesa sem casca",
-          "3 colheres (sopa) de manteiga",
-          "1 dente de alho",
-          "1 xícara (chá) de água",
+          "1 peça de maminha (aproximadamente 1,2 kg)",
+          "1 colher (sopa) de azeite",
+          "1 colher (chá) de páprica",
           "1 colher (chá) de sal",
-          "Noz-moscada ralada na hora a gosto",
-          "250g de vagem holandesa",
-          "1 colher (sopa) de azeite (para a vagem)"
+          "Pimenta-do-reino moída na hora a gosto",
+          "1 pimentão vermelho médio picado",
+          "1 cebola média picada",
+          "2 dentes de alho picados",
+          "½ xícara (chá) de extrato de tomate",
+          "1 colher (sopa) de molho inglês",
+          "1 colher (sopa) de vinagre de vinho branco",
+          "1 ramo de alecrim",
+          "1 xícara (chá) de água (240 ml)"
         ],
         "preparo": [
-          "Seque bem a peça de lagarto com papel-toalha. No pilão, bata o sal grosso com a pimenta e a páprica. Besunte a carne com azeite e carimbe-a nas especiarias.",
-          "Preaqueça a Air Fryer a 200 ºC. Coloque o lagarto e asse por 20 minutos, virando na metade do tempo, para um rosbife ao ponto para malpassado. Ajuste o tempo para o ponto desejado.",
-          "Para o purê, corte a abóbora em cubos, leve ao fogo com água, alho e sal. Cozinhe até ficar macia. Escorra, amasse, volte à panela com manteiga e noz-moscada. Mexa até ficar cremoso.",
-          "Para a vagem, misture-as com azeite e sal. Leve à Air Fryer junto com o rosbife nos últimos 5-7 minutos, ou em uma frigideira quente para chamuscar.",
-          "Transfira o rosbife para a tábua e deixe descansar por 10 minutos antes de fatiar. Sirva o rosbife fatiado com o purê de abóbora e a vagem chamuscada."
+          "Tempere a maminha com a páprica, sal e pimenta-do-reino. Deixe em temperatura ambiente enquanto prepara os outros ingredientes.",
+          "Aqueça a panela de pressão (sem a tampa) em fogo médio. Regue com azeite e doure a maminha por cerca de 4 minutos de cada lado. Retire e reserve.",
+          "Na mesma panela, adicione o pimentão, a cebola e o alho. Refogue por 5 minutos, raspando o fundo da panela para soltar os sabores.",
+          "Acrescente o extrato de tomate, molho inglês, vinagre e alecrim. Mexa e adicione a água. Volte a maminha para a panela.",
+          "Tampe a panela de pressão e, após pegar pressão, abaixe o fogo e cozinhe por 30 a 40 minutos. Desligue o fogo e espere a pressão sair naturalmente.",
+          "Fatie a maminha e sirva com o molho formado na panela."
         ],
-        "id": "rosbife-de-lagarto-na-air-fryer-com-pur--976550"
+        "id": "maminha-na-press-o-fc410d"
       },
       {
-        "nome": "Salada de Batata com Ovo",
+        "nome": "Homus a Jato",
         "curso": "entrada",
-        "tempo": "30 min",
-        "url": "https://www.vitat.com.br/receita/salada-de-batata-leve",
-        "porque": "É uma entrada fácil de fazer, nutritiva e com boa fonte de proteína (ovos), utilizando batatas assadas e molho de iogurte para evitar fritura e maionese.",
+        "tempo": "15 min",
+        "url": "https://www.panelinha.com.br/receita/homus-a-jato",
+        "porque": "Uma entrada rápida, saudável e rica em fibras e proteínas vegetais, perfeita para abrir o apetite sem pesar.",
         "tags": [
           "vegetariano",
           "rapido",
-          "salada"
+          "low_carb"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "500g de batatas bolinhas",
-          "4 ovos cozidos",
-          "1 cebola roxa pequena fatiada finamente",
-          "1 colher (sopa) de alcaparras",
-          "2 colheres (sopa) de dill fresco picado",
-          "Raspas e suco de 1 limão siciliano",
-          "½ xícara (chá) de iogurte natural cremoso",
-          "2 colheres (sopa) de azeite",
-          "1 colher (chá) de mostarda Dijon",
+          "1 lata de grão-de-bico cozido (escorrido)",
+          "3 colheres (sopa) de tahine (pasta de gergelim)",
+          "1 dente de alho descascado",
+          "Caldo de ½ limão",
+          "Água filtrada (para dar ponto)",
           "Sal a gosto",
-          "Pimenta-do-reino a gosto"
+          "Azeite e páprica doce para finalizar (opcional)"
         ],
         "preparo": [
-          "Cozinhe as batatas bolinhas até ficarem macias, escorra e corte ao meio. Cozinhe os ovos, descasque e pique grosseiramente.",
-          "Em uma tigela grande, misture as batatas e os ovos picados. Adicione a cebola roxa fatiada, alcaparras e dill fresco.",
-          "Em outra tigela, prepare o molho: misture o iogurte natural, azeite, suco e raspas de limão siciliano, mostarda Dijon, sal e pimenta-do-reino.",
-          "Despeje o molho sobre a salada de batata e ovo. Misture delicadamente para envolver todos os ingredientes.",
-          "Leve à geladeira por pelo menos 15 minutos antes de servir para apurar os sabores."
+          "Escorra e lave bem o grão-de-bico cozido.",
+          "No liquidificador ou processador, junte o grão-de-bico, o tahine, o dente de alho, o caldo de limão e o sal.",
+          "Comece a bater, adicionando água filtrada aos poucos, até obter uma pasta lisa e homogênea na consistência desejada.",
+          "Transfira o homus para uma tigela, regue com um fio de azeite e polvilhe páprica doce se desejar. Sirva com pães ou vegetais crus."
         ],
-        "id": "salada-de-batata-com-ovo-ac7446"
+        "id": "homus-a-jato-ec1ef5"
       },
       {
-        "nome": "Moça Gelada",
+        "nome": "Pudim Rápido de Tapioca",
         "curso": "sobremesa",
-        "tempo": "20 min",
-        "url": "https://www.tudogostoso.com.br/receita/313828-moca-gelada.html",
-        "porque": "Uma sobremesa cremosa e deliciosa que não vai ao forno, sendo muito rápida de fazer e ideal após um jantar mais encorpado.",
+        "tempo": "25 min",
+        "url": "https://www.panelinha.com.br/receita/pudim-rapido-de-tapioca",
+        "porque": "Sobremesa leve, prática e incrivelmente fácil de fazer, ideal para ser preparada com antecedência.",
         "tags": [
           "rapido",
-          "doce",
-          "sem_forno"
+          "sobremesa",
+          "vegetariano"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "1 lata de leite condensado (395g)",
-          "1 caixinha de creme de leite (200g)",
-          "½ xícara de chá de leite em pó",
-          "200ml de chantilly líquido gelado",
-          "1 pacote de granulado de chocolate (140g)",
-          "1 barra de chocolate (90g) para decorar"
+          "1 xícara (chá) de leite",
+          "2 colheres (sopa) de tapioca granulada",
+          "1 colher (sopa) de açúcar"
         ],
         "preparo": [
-          "Em uma panela, coloque o leite condensado e o creme de leite. Leve ao fogo baixo, mexendo sempre, até ferver e engrossar, formando um brigadeiro mole.",
-          "Desligue o fogo, adicione o leite em pó e misture bem até incorporar. Deixe esfriar completamente.",
-          "Em uma batedeira, bata o chantilly líquido gelado até dobrar de volume e ficar em ponto de chantilly firme.",
-          "Adicione o brigadeiro de leite ninho (já frio) ao chantilly e bata em velocidade mínima até misturar bem. Incorpore o granulado de chocolate delicadamente.",
-          "Despeje o creme em um recipiente de vidro, decore com o chocolate picado, ralado ou em quadradinhos.",
-          "Cubra com plástico filme e leve à geladeira por no mínimo 4 horas antes de servir."
+          "Em uma panela, coloque o leite e o açúcar. Leve ao fogo médio.",
+          "Assim que as primeiras bolhas começarem a subir (antes de ferver), diminua o fogo.",
+          "Adicione a tapioca granulada e mexa continuamente por cerca de 2 minutos, até a tapioca ficar transparente e a mistura engrossar.",
+          "Transfira o creme ainda quente para 2 potinhos individuais ou uma tigela pequena.",
+          "Leve à geladeira para firmar por aproximadamente 20 minutos antes de servir.",
+          "Sirva gelado, acompanhado de frutas frescas, geleia ou doce de abóbora, se desejar."
         ],
-        "id": "mo-a-gelada-12bb9b"
+        "id": "pudim-r-pido-de-tapioca-b93ac8"
       }
     ]
   },
