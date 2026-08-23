@@ -3082,5 +3082,336 @@
       "vegetariano"
     ],
     "data": "23/08/2026"
+  },
+  {
+    "id": "picadinho-de-carne-com-batatas-e-cenoura-0c0b4c",
+    "titulo": "Picadinho de Carne com Batatas e Cenouras",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "refogado"
+    ],
+    "data": "23/08/2026"
+  },
+  {
+    "id": "fil-de-frango-grelhado-com-salada-colori-157526",
+    "titulo": "Filé de Frango Grelhado com Salada Colorida",
+    "tags": [
+      "frango",
+      "grelhado",
+      "low_carb"
+    ],
+    "data": "23/08/2026"
+  },
+  {
+    "id": "bife-milanesa-assado-na-airfryer-68c2a2",
+    "titulo": "Bife à Milanesa Assado na Airfryer",
+    "tags": [
+      "carne_vermelha",
+      "airfryer",
+      "rapido"
+    ],
+    "data": "23/08/2026"
+  },
+  {
+    "id": "salada-de-folhas-verdes-com-tomate-e-mol-552e63",
+    "titulo": "Salada de Folhas Verdes com Tomate e Molho de Mostarda e Mel",
+    "tags": [
+      "vegetariano",
+      "salada",
+      "rapido"
+    ],
+    "data": "23/08/2026"
+  },
+  {
+    "id": "gelatina-mosaico-cremosa-6c14ac",
+    "titulo": "Gelatina Mosaico Cremosa",
+    "tags": [
+      "vegetariano",
+      "rapido",
+      "sobremesa"
+    ],
+    "data": "23/08/2026"
+  },
+  {
+    "id": "bisteca-de-porco-na-airfryer-com-pur-de--7e915a",
+    "titulo": "Bisteca de Porco na Airfryer com Purê de Mandioquinha",
+    "tags": [
+      "porco",
+      "airfryer",
+      "rapido"
+    ],
+    "data": "23/08/2026"
+  },
+  {
+    "id": "fil-de-frango-grelhado-com-arroz-integra-d22d18",
+    "titulo": "Filé de Frango Grelhado com Arroz Integral e Brócolis",
+    "tags": [
+      "frango",
+      "grelhado",
+      "equilibrado"
+    ],
+    "data": "23/08/2026"
+  },
+  {
+    "id": "bife-de-alcatra-grelhado-com-arroz-e-fei-828230",
+    "titulo": "Bife de Alcatra Grelhado com Arroz e Feijão",
+    "tags": [
+      "carne_vermelha",
+      "grelhado",
+      "rapido"
+    ],
+    "data": "23/08/2026"
+  },
+  {
+    "id": "chips-de-batata-doce-assados-com-alecrim-624afb",
+    "titulo": "Chips de Batata Doce Assados com Alecrim",
+    "tags": [
+      "vegetariano",
+      "forno",
+      "low_carb"
+    ],
+    "data": "23/08/2026"
+  },
+  {
+    "id": "banana-grelhada-com-canela-e-mel-9306ef",
+    "titulo": "Banana Grelhada com Canela e Mel",
+    "tags": [
+      "vegetariano",
+      "grelhado",
+      "rapido"
+    ],
+    "data": "23/08/2026"
+  },
+  {
+    "id": "carne-louca-desfiada-na-panela-de-press--7b0da2",
+    "titulo": "Carne Louca Desfiada na Panela de Pressão",
+    "tags": [
+      "carne_vermelha",
+      "panela_pressao",
+      "rende_sobra"
+    ],
+    "data": "23/08/2026"
+  },
+  {
+    "id": "iscas-de-frango-aceboladas-cc5603",
+    "titulo": "Iscas de Frango Aceboladas",
+    "tags": [
+      "frango",
+      "rapido",
+      "refogado"
+    ],
+    "data": "23/08/2026"
+  },
+  {
+    "id": "bife-cavalo-com-arroz-e-ovo-frito-na-air-93542a",
+    "titulo": "Bife à Cavalo com Arroz e Ovo Frito na Airfryer",
+    "tags": [
+      "carne_vermelha",
+      "airfryer",
+      "rapido"
+    ],
+    "data": "23/08/2026"
+  },
+  {
+    "id": "salada-caprese-4a024c",
+    "titulo": "Salada Caprese",
+    "tags": [
+      "vegetariano",
+      "salada",
+      "rapido"
+    ],
+    "data": "23/08/2026"
+  },
+  {
+    "id": "bolo-de-caneca-de-chocolate-no-micro-ond-5a8a57",
+    "titulo": "Bolo de Caneca de Chocolate no Micro-ondas",
+    "tags": [
+      "vegetariano",
+      "rapido",
+      "sobremesa"
+    ],
+    "data": "23/08/2026"
+  },
+  {
+    "id": "torta-de-frango-cremosa-de-liquidificado-4d5d8f",
+    "titulo": "Torta de Frango Cremosa de Liquidificador (Assada)",
+    "tags": [
+      "frango",
+      "forno",
+      "rende_sobra"
+    ],
+    "data": "23/08/2026"
+  },
+  {
+    "id": "picadinho-de-carne-com-pur-de-ab-bora-13b584",
+    "titulo": "Picadinho de Carne com Purê de Abóbora",
+    "tags": [
+      "carne_vermelha",
+      "refogado",
+      "equilibrado"
+    ],
+    "data": "23/08/2026"
+  },
+  {
+    "id": "salada-de-gr-o-de-bico-com-atum-5d24d1",
+    "titulo": "Salada de Grão de Bico com Atum",
+    "tags": [
+      "vegetariano",
+      "salada",
+      "rapido"
+    ],
+    "data": "23/08/2026"
+  },
+  {
+    "id": "fil-mignon-com-molho-de-mostarda-e-arroz-e7539a",
+    "titulo": "Filé Mignon com Molho de Mostarda e Arroz Branco",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "grelhado"
+    ],
+    "data": "23/08/2026"
+  },
+  {
+    "id": "carne-mo-da-com-molho-cremoso-de-queijo-e6727b",
+    "titulo": "Carne Moída com Molho Cremoso de Queijo",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "refogado"
+    ],
+    "data": "23/08/2026"
+  },
+  {
+    "id": "frango-grelhado-com-abobrinha-e-tomate-c-c89c3c",
+    "titulo": "Frango Grelhado com Abobrinha e Tomate Cereja",
+    "tags": [
+      "frango",
+      "grelhado",
+      "low_carb"
+    ],
+    "data": "23/08/2026"
+  },
+  {
+    "id": "mini-quiches-de-queijo-e-presunto-massa--be84ae",
+    "titulo": "Mini Quiches de Queijo e Presunto (massa pronta)",
+    "tags": [
+      "rapido",
+      "forno",
+      "porco"
+    ],
+    "data": "23/08/2026"
+  },
+  {
+    "id": "mousse-de-chocolate-com-gua-panelinha-ad0728",
+    "titulo": "Mousse de Chocolate com Água (Panelinha)",
+    "tags": [
+      "vegetariano",
+      "rapido",
+      "sobremesa"
+    ],
+    "data": "23/08/2026"
+  },
+  {
+    "id": "churrasco-misto-na-airfryer-carne-frango-9cc28a",
+    "titulo": "Churrasco Misto na Airfryer (carne, frango e linguiça)",
+    "tags": [
+      "carne_vermelha",
+      "frango",
+      "porco",
+      "airfryer"
+    ],
+    "data": "23/08/2026"
+  },
+  {
+    "id": "til-pia-assada-com-legumes-coloridos-no--39824b",
+    "titulo": "Tilápia Assada com Legumes Coloridos no Forno",
+    "tags": [
+      "peixe",
+      "forno",
+      "equilibrado"
+    ],
+    "data": "23/08/2026"
+  },
+  {
+    "id": "carne-de-panela-com-mandioca-b76346",
+    "titulo": "Carne de Panela com Mandioca",
+    "tags": [
+      "carne_vermelha",
+      "panela_pressao",
+      "rende_sobra"
+    ],
+    "data": "23/08/2026"
+  },
+  {
+    "id": "bolinho-de-arroz-assado-na-airfryer-7e93fe",
+    "titulo": "Bolinho de Arroz Assado na Airfryer",
+    "tags": [
+      "vegetariano",
+      "airfryer",
+      "rapido"
+    ],
+    "data": "23/08/2026"
+  },
+  {
+    "id": "bolo-de-cenoura-com-cobertura-de-chocola-3c8454",
+    "titulo": "Bolo de Cenoura com Cobertura de Chocolate Rápida",
+    "tags": [
+      "vegetariano",
+      "forno",
+      "sobremesa"
+    ],
+    "data": "23/08/2026"
+  },
+  {
+    "id": "frango-com-quiabo-a4b76e",
+    "titulo": "Frango com Quiabo",
+    "tags": [
+      "frango",
+      "refogado",
+      "equilibrado"
+    ],
+    "data": "23/08/2026"
+  },
+  {
+    "id": "lombo-de-porco-recheado-com-provolone-e--2dbf8d",
+    "titulo": "Lombo de Porco Recheado com Provolone e Bacon (Forno)",
+    "tags": [
+      "porco",
+      "forno",
+      "rende_sobra"
+    ],
+    "data": "23/08/2026"
+  },
+  {
+    "id": "macarr-o-com-carne-mo-da-gratinado-no-fo-35b48a",
+    "titulo": "Macarrão com Carne Moída Gratinado no Forno",
+    "tags": [
+      "carne_vermelha",
+      "massa",
+      "forno"
+    ],
+    "data": "23/08/2026"
+  },
+  {
+    "id": "salada-de-gr-o-de-bico-com-tomate-e-pepi-6516ed",
+    "titulo": "Salada de Grão de Bico com Tomate e Pepino",
+    "tags": [
+      "vegetariano",
+      "salada",
+      "rapido"
+    ],
+    "data": "23/08/2026"
+  },
+  {
+    "id": "pudim-de-leite-condensado-tradicional-no-c0bf2d",
+    "titulo": "Pudim de Leite Condensado (tradicional no forno em banho-maria)",
+    "tags": [
+      "vegetariano",
+      "forno",
+      "sobremesa"
+    ],
+    "data": "23/08/2026"
   }
 ]
