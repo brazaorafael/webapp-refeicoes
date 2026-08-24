@@ -3413,5 +3413,35 @@
       "sobremesa"
     ],
     "data": "23/08/2026"
+  },
+  {
+    "id": "peito-de-frango-com-molho-de-mel-e-shoyu-3a5a8e",
+    "titulo": "Peito de Frango com Molho de Mel e Shoyu",
+    "tags": [
+      "frango",
+      "rapido",
+      "grelhado"
+    ],
+    "data": "24/08/2026"
+  },
+  {
+    "id": "salada-grega-1e425d",
+    "titulo": "Salada Grega",
+    "tags": [
+      "salada",
+      "vegetariano",
+      "rapido"
+    ],
+    "data": "24/08/2026"
+  },
+  {
+    "id": "mousse-de-lim-o-e0dc3b",
+    "titulo": "Mousse de Limão",
+    "tags": [
+      "sobremesa",
+      "rapido",
+      "sem_forno"
+    ],
+    "data": "24/08/2026"
   }
 ]

@@ -1,135 +1,132 @@
 {
-  "gerado_em": "23/08/2026",
+  "gerado_em": "24/08/2026",
   "diario": {
     "tipo": "diario",
-    "data": "23/08/2026",
-    "dia_semana": "domingo",
+    "data": "24/08/2026",
+    "dia_semana": "segunda",
     "pratos": [
-      {
-        "nome": "Carne Moída Rápida Temperada",
-        "curso": "principal",
-        "tempo": "35 min",
-        "url": "https://receitas.globo.com/ana-maria-braga/receitas/carne-moida-rapida-temperada-00511f59-3220-4328-910f-15520e5c8e31.ghtml",
-        "porque": "Uma receita versátil e rápida, com boa fonte de proteína, fácil de adaptar com acompanhamentos e ideal para render porções extras.",
-        "tags": [
-          "carne_vermelha",
-          "rapido",
-          "refogado"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "2 colheres (sopa) de azeite de oliva",
-          "2 colheres (sopa) de alho picado",
-          "200 g de cebola picada",
-          "1 kg de carne moída",
-          "1 xícara (chá) de vinho tinto seco (opcional)",
-          "1 e ¼ de xícara (chá) de extrato de tomate (340 g)",
-          "Tomilho, sálvia e manjericão picados a gosto",
-          "Sal e pimenta-do-reino a gosto",
-          "Água quente (o suficiente para cozinhar)"
-        ],
-        "preparo": [
-          "Aqueça o azeite em uma panela em fogo médio. Refogue o alho e a cebola picados por cerca de 3 minutos, até dourarem.",
-          "Adicione a carne moída e refogue, mexendo para que fique bem soltinha, até dourar por completo.",
-          "Despeje o vinho tinto (se usar) e deixe o álcool evaporar por alguns minutos.",
-          "Junte o extrato de tomate, as ervas frescas (tomilho, sálvia, manjericão), sal e pimenta-do-reino a gosto. Misture bem.",
-          "Adicione água quente aos poucos, o suficiente para cobrir a carne, e cozinhe em fogo baixo, mexendo ocasionalmente, até o molho encorpar (cerca de 15-20 minutos).",
-          "Sirva a carne moída quente com o acompanhamento de sua preferência."
-        ],
-        "id": "carne-mo-da-r-pida-temperada-654a2c"
-      },
       {
         "nome": "Maminha na Pressão",
         "curso": "principal",
-        "tempo": "45 min",
+        "tempo": "20 min (preparo ativo) + 35 min (pressão)",
         "url": "https://www.panelinha.com.br/receita/maminha-na-pressao",
-        "porque": "Clássica e saborosa, a panela de pressão garante maciez e um molho encorpado em tempo hábil, ideal para render sobras.",
+        "porque": "Este prato de carne vermelha é feito na panela de pressão, o que garante uma carne macia e suculenta em tempo reduzido, ideal para um jantar rápido e com excelentes sobras.",
         "tags": [
           "carne_vermelha",
-          "panela_pressao",
-          "equilibrado"
+          "rapido",
+          "pressao"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "1 peça de maminha (aproximadamente 1,2 kg)",
-          "1 colher (sopa) de azeite",
+          "1 peça de maminha (aprox. 1,2 kg)",
           "1 colher (chá) de páprica",
-          "1 colher (chá) de sal",
-          "Pimenta-do-reino moída na hora a gosto",
-          "1 pimentão vermelho médio picado",
+          "Sal e pimenta-do-reino a gosto",
+          "1 colher (sopa) de azeite",
           "1 cebola média picada",
           "2 dentes de alho picados",
-          "½ xícara (chá) de extrato de tomate",
-          "1 colher (sopa) de molho inglês",
-          "1 colher (sopa) de vinagre de vinho branco",
-          "1 ramo de alecrim",
-          "1 xícara (chá) de água (240 ml)"
+          "200 ml de água ou caldo de carne",
+          "1 folha de louro (opcional)"
         ],
         "preparo": [
-          "Tempere a maminha com a páprica, sal e pimenta-do-reino. Deixe em temperatura ambiente enquanto prepara os outros ingredientes.",
-          "Aqueça a panela de pressão (sem a tampa) em fogo médio. Regue com azeite e doure a maminha por cerca de 4 minutos de cada lado. Retire e reserve.",
-          "Na mesma panela, adicione o pimentão, a cebola e o alho. Refogue por 5 minutos, raspando o fundo da panela para soltar os sabores.",
-          "Acrescente o extrato de tomate, molho inglês, vinagre e alecrim. Mexa e adicione a água. Volte a maminha para a panela.",
-          "Tampe a panela de pressão e, após pegar pressão, abaixe o fogo e cozinhe por 30 a 40 minutos. Desligue o fogo e espere a pressão sair naturalmente.",
-          "Fatie a maminha e sirva com o molho formado na panela."
+          "Tempere a maminha com páprica, sal e pimenta-do-reino a gosto.",
+          "Aqueça o azeite na panela de pressão e doure a maminha por cerca de 4 minutos de cada lado. Retire e reserve.",
+          "Na mesma panela, refogue a cebola e o alho picados até dourarem.",
+          "Retorne a maminha à panela, adicione a água (ou caldo) e a folha de louro.",
+          "Tampe a panela de pressão e, após pegar pressão, cozinhe por 35 minutos. Desligue o fogo e espere a pressão sair naturalmente antes de abrir.",
+          "Fatie a maminha e sirva com o molho que se formou na panela."
         ],
         "id": "maminha-na-press-o-fc410d"
       },
       {
-        "nome": "Homus a Jato",
-        "curso": "entrada",
-        "tempo": "15 min",
-        "url": "https://www.panelinha.com.br/receita/homus-a-jato",
-        "porque": "Uma entrada rápida, saudável e rica em fibras e proteínas vegetais, perfeita para abrir o apetite sem pesar.",
+        "nome": "Peito de Frango com Molho de Mel e Shoyu",
+        "curso": "principal",
+        "tempo": "25 min",
+        "url": "https://receitas.globo.com/ana-maria-braga/peito-de-frango-com-molho-de-mel-e-shoyu.ghtml",
+        "porque": "Uma opção de proteína branca rápida e saborosa, o frango é selado e finalizado com um molho agridoce que evita a fritura profunda, sendo prático e equilibrado.",
         "tags": [
-          "vegetariano",
+          "frango",
           "rapido",
-          "low_carb"
+          "grelhado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "1 lata de grão-de-bico cozido (escorrido)",
-          "3 colheres (sopa) de tahine (pasta de gergelim)",
-          "1 dente de alho descascado",
-          "Caldo de ½ limão",
-          "Água filtrada (para dar ponto)",
-          "Sal a gosto",
-          "Azeite e páprica doce para finalizar (opcional)"
+          "1 peito de frango (aprox. 400g), cortado ao meio",
+          "Sal e pimenta-do-reino a gosto",
+          "40g de farinha de trigo (aprox. 4 colheres de sopa)",
+          "4 colheres (sopa) de manteiga",
+          "1 colher (sopa) de alho picado frito",
+          "1 colher (sopa) de shoyu",
+          "4 colheres (sopa) de mel",
+          "2 colheres (sopa) de vinagre branco",
+          "Salsinha a gosto para finalizar"
         ],
         "preparo": [
-          "Escorra e lave bem o grão-de-bico cozido.",
-          "No liquidificador ou processador, junte o grão-de-bico, o tahine, o dente de alho, o caldo de limão e o sal.",
-          "Comece a bater, adicionando água filtrada aos poucos, até obter uma pasta lisa e homogênea na consistência desejada.",
-          "Transfira o homus para uma tigela, regue com um fio de azeite e polvilhe páprica doce se desejar. Sirva com pães ou vegetais crus."
+          "Corte o peito de frango ao meio no sentido do comprimento e faça cortes superficiais em xadrez. Tempere com sal e pimenta-do-reino a gosto.",
+          "Passe os dois lados do frango na farinha de trigo e reserve.",
+          "Em uma frigideira, derreta a manteiga em fogo médio e doure os peitos de frango por cerca de 2 minutos de cada lado.",
+          "Adicione o alho picado frito, shoyu, mel e vinagre branco à frigideira, misturando bem.",
+          "Cozinhe por mais 1 minuto, garantindo que o molho envolva o frango.",
+          "Apague o fogo, salpique salsinha picada e sirva."
         ],
-        "id": "homus-a-jato-ec1ef5"
+        "id": "peito-de-frango-com-molho-de-mel-e-shoyu-3a5a8e"
       },
       {
-        "nome": "Pudim Rápido de Tapioca",
-        "curso": "sobremesa",
-        "tempo": "25 min",
-        "url": "https://www.panelinha.com.br/receita/pudim-rapido-de-tapioca",
-        "porque": "Sobremesa leve, prática e incrivelmente fácil de fazer, ideal para ser preparada com antecedência.",
+        "nome": "Salada Grega",
+        "curso": "entrada",
+        "tempo": "15 min",
+        "url": "https://www.panelinha.com.br/receita/salada-grega",
+        "porque": "Uma salada fresca, colorida e muito fácil de montar, rica em vegetais e com o queijo feta adicionando uma boa dose de proteína para equilibrar a refeição.",
         "tags": [
-          "rapido",
+          "salada",
+          "vegetariano",
+          "rapido"
+        ],
+        "rende_sobra": false,
+        "ingredientes": [
+          "3 tomates maduros",
+          "1 pepino comum",
+          "1 cebola-roxa pequena",
+          "100g de queijo feta em peça",
+          "⅓ de xícara (chá) de azeitona preta grega",
+          "Azeite a gosto",
+          "Pimenta-do-reino moída na hora a gosto",
+          "Sal a gosto (para o tomate)"
+        ],
+        "preparo": [
+          "Corte os tomates em gomos, o pepino em rodelas e a cebola roxa em meias-luas finas.",
+          "Pique o queijo feta em cubos.",
+          "Em uma tigela grande, junte os tomates, pepino, cebola, queijo feta e as azeitonas.",
+          "Regue com bastante azeite e tempere com pimenta-do-reino moída na hora. Misture delicadamente.",
+          "Sirva imediatamente como entrada refrescante."
+        ],
+        "id": "salada-grega-1e425d"
+      },
+      {
+        "nome": "Mousse de Limão",
+        "curso": "sobremesa",
+        "tempo": "10 min (preparo) + 2h (geladeira)",
+        "url": "https://www.tudogostoso.com.br/receita/155693-mousse-de-limao-rapido.html",
+        "porque": "Uma sobremesa clássica, fácil e rápida de fazer, que não exige forno, sendo leve e refrescante para finalizar o jantar.",
+        "tags": [
           "sobremesa",
-          "vegetariano"
+          "rapido",
+          "sem_forno"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "1 xícara (chá) de leite",
-          "2 colheres (sopa) de tapioca granulada",
-          "1 colher (sopa) de açúcar"
+          "1 lata de leite condensado",
+          "1 lata de creme de leite",
+          "½ copo (americano) de suco de limão (aprox. 120ml)",
+          "Raspas de limão a gosto (opcional, para decorar)"
         ],
         "preparo": [
-          "Em uma panela, coloque o leite e o açúcar. Leve ao fogo médio.",
-          "Assim que as primeiras bolhas começarem a subir (antes de ferver), diminua o fogo.",
-          "Adicione a tapioca granulada e mexa continuamente por cerca de 2 minutos, até a tapioca ficar transparente e a mistura engrossar.",
-          "Transfira o creme ainda quente para 2 potinhos individuais ou uma tigela pequena.",
-          "Leve à geladeira para firmar por aproximadamente 20 minutos antes de servir.",
-          "Sirva gelado, acompanhado de frutas frescas, geleia ou doce de abóbora, se desejar."
+          "No liquidificador, bata o leite condensado por 2 minutos.",
+          "Adicione o creme de leite (com soro) e bata por mais alguns segundos até incorporar.",
+          "Com o liquidificador ligado, adicione o suco de limão aos poucos, até a mistura começar a ficar consistente.",
+          "Transfira o mousse para um recipiente e leve à geladeira por no mínimo 2 horas para firmar.",
+          "Se desejar, decore com raspas de limão antes de servir."
         ],
-        "id": "pudim-r-pido-de-tapioca-b93ac8"
+        "id": "mousse-de-lim-o-e0dc3b"
       }
     ]
   },
