@@ -1,132 +1,129 @@
 {
-  "gerado_em": "24/08/2026",
+  "gerado_em": "25/08/2026",
   "diario": {
     "tipo": "diario",
-    "data": "24/08/2026",
-    "dia_semana": "segunda",
+    "data": "25/08/2026",
+    "dia_semana": "terça",
     "pratos": [
       {
-        "nome": "Maminha na Pressão",
+        "nome": "Picanha Assada com Sal Grosso",
         "curso": "principal",
-        "tempo": "20 min (preparo ativo) + 35 min (pressão)",
-        "url": "https://www.panelinha.com.br/receita/maminha-na-pressao",
-        "porque": "Este prato de carne vermelha é feito na panela de pressão, o que garante uma carne macia e suculenta em tempo reduzido, ideal para um jantar rápido e com excelentes sobras.",
+        "tempo": "45 min",
+        "url": "https://www.panelinha.com.br/receita/Picanha-assada-com-sal-grosso",
+        "porque": "Uma opção deliciosa de carne vermelha, preparada no forno, prática e sem fritura, com sobras para o dia seguinte.",
         "tags": [
           "carne_vermelha",
-          "rapido",
-          "pressao"
+          "forno",
+          "equilibrado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "1 peça de maminha (aprox. 1,2 kg)",
-          "1 colher (chá) de páprica",
-          "Sal e pimenta-do-reino a gosto",
-          "1 colher (sopa) de azeite",
-          "1 cebola média picada",
-          "2 dentes de alho picados",
-          "200 ml de água ou caldo de carne",
-          "1 folha de louro (opcional)"
+          "1 peça de picanha (~1 kg a 1,2 kg)",
+          "4 claras de ovo",
+          "1 kg de sal grosso",
+          "½ xícara (chá) de farinha de trigo",
+          "Ramos de tomilho fresco a gosto (opcional)"
         ],
         "preparo": [
-          "Tempere a maminha com páprica, sal e pimenta-do-reino a gosto.",
-          "Aqueça o azeite na panela de pressão e doure a maminha por cerca de 4 minutos de cada lado. Retire e reserve.",
-          "Na mesma panela, refogue a cebola e o alho picados até dourarem.",
-          "Retorne a maminha à panela, adicione a água (ou caldo) e a folha de louro.",
-          "Tampe a panela de pressão e, após pegar pressão, cozinhe por 35 minutos. Desligue o fogo e espere a pressão sair naturalmente antes de abrir.",
-          "Fatie a maminha e sirva com o molho que se formou na panela."
+          "Preaqueça o forno a 220 ºC. Numa tigela, misture as claras, o sal grosso e a farinha de trigo rapidamente.",
+          "Numa assadeira, espalhe cerca de ⅓ da mistura de sal grosso para formar uma base um pouco maior que a picanha. Adicione ramos de tomilho, se usar.",
+          "Seque bem a peça de picanha com um pano de prato limpo e coloque-a sobre a camada de sal com a gordura para cima.",
+          "Cubra toda a picanha com o restante da mistura de sal, formando uma capa firme, pressionando com as mãos.",
+          "Leve ao forno por cerca de 35-40 minutos para carne mal passada a ao ponto. Para carne bem passada, aumente o tempo.",
+          "Retire a picanha do forno, quebre a crosta de sal com uma faca e raspe o excesso de sal da carne. Fatie fino e sirva."
         ],
-        "id": "maminha-na-press-o-fc410d"
+        "id": "picanha-assada-com-sal-grosso-686788"
       },
       {
-        "nome": "Peito de Frango com Molho de Mel e Shoyu",
+        "nome": "Frango com Mel e Especiarias na Air Fryer",
         "curso": "principal",
-        "tempo": "25 min",
-        "url": "https://receitas.globo.com/ana-maria-braga/peito-de-frango-com-molho-de-mel-e-shoyu.ghtml",
-        "porque": "Uma opção de proteína branca rápida e saborosa, o frango é selado e finalizado com um molho agridoce que evita a fritura profunda, sendo prático e equilibrado.",
+        "tempo": "35 min",
+        "url": "https://www.panelinha.com.br/receita/Frango-com-mel-e-especiarias-na-Air-Fryer-da-Rita-Lobo",
+        "porque": "Uma alternativa de proteína magra, muito fácil e rápida de fazer na Air Fryer, sem sujeira e sem fritura.",
         "tags": [
           "frango",
-          "rapido",
-          "grelhado"
+          "airfryer",
+          "rapido"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "1 peito de frango (aprox. 400g), cortado ao meio",
-          "Sal e pimenta-do-reino a gosto",
-          "40g de farinha de trigo (aprox. 4 colheres de sopa)",
-          "4 colheres (sopa) de manteiga",
-          "1 colher (sopa) de alho picado frito",
-          "1 colher (sopa) de shoyu",
-          "4 colheres (sopa) de mel",
-          "2 colheres (sopa) de vinagre branco",
-          "Salsinha a gosto para finalizar"
+          "500g de pedaços de frango (coxa e sobrecoxa desossadas ou filés de peito)",
+          "1 colher (sopa) de mel",
+          "1 colher (chá) de páprica doce",
+          "½ colher (chá) de cominho em pó",
+          "1 dente de alho picado",
+          "1 colher (sopa) de azeite",
+          "Sal e pimenta-do-reino moída na hora a gosto"
         ],
         "preparo": [
-          "Corte o peito de frango ao meio no sentido do comprimento e faça cortes superficiais em xadrez. Tempere com sal e pimenta-do-reino a gosto.",
-          "Passe os dois lados do frango na farinha de trigo e reserve.",
-          "Em uma frigideira, derreta a manteiga em fogo médio e doure os peitos de frango por cerca de 2 minutos de cada lado.",
-          "Adicione o alho picado frito, shoyu, mel e vinagre branco à frigideira, misturando bem.",
-          "Cozinhe por mais 1 minuto, garantindo que o molho envolva o frango.",
-          "Apague o fogo, salpique salsinha picada e sirva."
+          "Corte o frango em pedaços de cerca de 3 cm para que assem por igual.",
+          "Numa tigela, misture o mel, a páprica, o cominho, o alho picado, o azeite, sal e pimenta-do-reino.",
+          "Adicione os pedaços de frango à marinada, misture bem e deixe descansar por pelo menos 15 minutos (ou mais, se tiver tempo).",
+          "Preaqueça a Air Fryer a 180 ºC por 5 minutos.",
+          "Disponha os pedaços de frango temperados na cesta da Air Fryer, sem sobrepor.",
+          "Asse por 20 a 25 minutos, virando na metade do tempo, até ficarem dourados e cozidos."
         ],
-        "id": "peito-de-frango-com-molho-de-mel-e-shoyu-3a5a8e"
+        "id": "frango-com-mel-e-especiarias-na-air-frye-4e186e"
       },
       {
-        "nome": "Salada Grega",
+        "nome": "Salada de Tomate com Azeite Crocante",
         "curso": "entrada",
         "tempo": "15 min",
-        "url": "https://www.panelinha.com.br/receita/salada-grega",
-        "porque": "Uma salada fresca, colorida e muito fácil de montar, rica em vegetais e com o queijo feta adicionando uma boa dose de proteína para equilibrar a refeição.",
+        "url": "https://www.panelinha.com.br/receita/Salada-de-tomate-com-azeite-crocante",
+        "porque": "Uma entrada leve, fresca e super rápida de montar, ideal para equilibrar as refeições principais.",
         "tags": [
-          "salada",
           "vegetariano",
+          "salada",
           "rapido"
         ],
         "rende_sobra": false,
         "ingredientes": [
-          "3 tomates maduros",
-          "1 pepino comum",
-          "1 cebola-roxa pequena",
-          "100g de queijo feta em peça",
-          "⅓ de xícara (chá) de azeitona preta grega",
-          "Azeite a gosto",
-          "Pimenta-do-reino moída na hora a gosto",
-          "Sal a gosto (para o tomate)"
+          "3 tomates maduros (variados, se possível)",
+          "2 fatias de pão amanhecido (tipo italiano ou ciabatta)",
+          "2 dentes de alho",
+          "½ xícara (chá) de azeite de oliva extra virgem",
+          "¼ xícara (chá) de castanhas-de-caju picadas (ou amêndoas, nozes)",
+          "1 colher (chá) de sementes de girassol (opcional)",
+          "Folhas de manjericão fresco a gosto",
+          "Sal e pimenta-do-reino moída na hora a gosto"
         ],
         "preparo": [
-          "Corte os tomates em gomos, o pepino em rodelas e a cebola roxa em meias-luas finas.",
-          "Pique o queijo feta em cubos.",
-          "Em uma tigela grande, junte os tomates, pepino, cebola, queijo feta e as azeitonas.",
-          "Regue com bastante azeite e tempere com pimenta-do-reino moída na hora. Misture delicadamente.",
-          "Sirva imediatamente como entrada refrescante."
+          "Lave e seque bem os tomates. Corte cada um em rodelas finas de cerca de 0,5 cm ou em gomos.",
+          "Para o azeite crocante: Descasque e corte 1 dente de alho em fatias finas. Pique as castanhas.",
+          "Numa frigideira pequena, coloque ½ xícara de azeite, as castanhas, as sementes de girassol (se usar) e o alho. Leve ao fogo baixo por alguns minutos, até o alho dourar levemente e as castanhas ficarem crocantes. Retire do fogo.",
+          "Corte o pão amanhecido em cubos pequenos. Regue com um fio de azeite e leve à Air Fryer ou forno até ficarem crocantes (cerca de 5-7 min a 180°C). Esfregue o outro dente de alho nos pães torrados.",
+          "Disponha as rodelas de tomate numa travessa, regue com o azeite crocante ainda morno.",
+          "Finalize com os cubos de pão crocante, folhas de manjericão fresco, sal e pimenta-do-reino a gosto."
         ],
-        "id": "salada-grega-1e425d"
+        "id": "salada-de-tomate-com-azeite-crocante-bdb7a1"
       },
       {
-        "nome": "Mousse de Limão",
+        "nome": "Brigadeiro de Colher com Chocolate Amargo",
         "curso": "sobremesa",
-        "tempo": "10 min (preparo) + 2h (geladeira)",
-        "url": "https://www.tudogostoso.com.br/receita/155693-mousse-de-limao-rapido.html",
-        "porque": "Uma sobremesa clássica, fácil e rápida de fazer, que não exige forno, sendo leve e refrescante para finalizar o jantar.",
+        "tempo": "20 min",
+        "url": "https://www.panelinha.com.br/receita/Brigadeiro-de-colher-com-chocolate-amargo",
+        "porque": "Um clássico brasileiro, super fácil e rápido de fazer, com chocolate amargo para um toque mais sofisticado e menos doce.",
         "tags": [
-          "sobremesa",
+          "doce",
           "rapido",
-          "sem_forno"
+          "sobremesa"
         ],
-        "rende_sobra": true,
+        "rende_sobra": false,
         "ingredientes": [
-          "1 lata de leite condensado",
-          "1 lata de creme de leite",
-          "½ copo (americano) de suco de limão (aprox. 120ml)",
-          "Raspas de limão a gosto (opcional, para decorar)"
+          "1 lata de leite condensado (395 g)",
+          "2 colheres (sopa) de cacau em pó (ou chocolate em pó 50%)",
+          "1 colher (sopa) de manteiga sem sal",
+          "50 g de chocolate amargo picado (70% ou 85% cacau, opcional)"
         ],
         "preparo": [
-          "No liquidificador, bata o leite condensado por 2 minutos.",
-          "Adicione o creme de leite (com soro) e bata por mais alguns segundos até incorporar.",
-          "Com o liquidificador ligado, adicione o suco de limão aos poucos, até a mistura começar a ficar consistente.",
-          "Transfira o mousse para um recipiente e leve à geladeira por no mínimo 2 horas para firmar.",
-          "Se desejar, decore com raspas de limão antes de servir."
+          "Numa panela pequena, junte a manteiga, o leite condensado e o cacau em pó (ou chocolate em pó).",
+          "Leve ao fogo médio, mexendo sempre com uma colher ou batedor de arame para não grudar no fundo.",
+          "Continue mexendo até a mistura desgrudar do fundo da panela e atingir a consistência de brigadeiro de colher (cerca de 8-10 minutos).",
+          "Se estiver usando, adicione o chocolate amargo picado nos últimos minutos, mexendo até derreter e incorporar.",
+          "Retire do fogo e transfira para uma travessa ou para cumbucas individuais.",
+          "Sirva morno ou em temperatura ambiente."
         ],
-        "id": "mousse-de-lim-o-e0dc3b"
+        "id": "brigadeiro-de-colher-com-chocolate-amarg-0adc04"
       }
     ]
   },

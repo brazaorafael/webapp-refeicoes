@@ -3443,5 +3443,45 @@
       "sem_forno"
     ],
     "data": "24/08/2026"
+  },
+  {
+    "id": "picanha-assada-com-sal-grosso-686788",
+    "titulo": "Picanha Assada com Sal Grosso",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "equilibrado"
+    ],
+    "data": "25/08/2026"
+  },
+  {
+    "id": "frango-com-mel-e-especiarias-na-air-frye-4e186e",
+    "titulo": "Frango com Mel e Especiarias na Air Fryer",
+    "tags": [
+      "frango",
+      "airfryer",
+      "rapido"
+    ],
+    "data": "25/08/2026"
+  },
+  {
+    "id": "salada-de-tomate-com-azeite-crocante-bdb7a1",
+    "titulo": "Salada de Tomate com Azeite Crocante",
+    "tags": [
+      "vegetariano",
+      "salada",
+      "rapido"
+    ],
+    "data": "25/08/2026"
+  },
+  {
+    "id": "brigadeiro-de-colher-com-chocolate-amarg-0adc04",
+    "titulo": "Brigadeiro de Colher com Chocolate Amargo",
+    "tags": [
+      "doce",
+      "rapido",
+      "sobremesa"
+    ],
+    "data": "25/08/2026"
   }
 ]
