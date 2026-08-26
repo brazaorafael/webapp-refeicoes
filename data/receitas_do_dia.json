@@ -1,129 +1,126 @@
 {
-  "gerado_em": "25/08/2026",
+  "gerado_em": "26/08/2026",
   "diario": {
     "tipo": "diario",
-    "data": "25/08/2026",
-    "dia_semana": "terça",
+    "data": "26/08/2026",
+    "dia_semana": "quarta",
     "pratos": [
       {
-        "nome": "Picanha Assada com Sal Grosso",
+        "nome": "Bife Ancho Grelhado com Arroz e Brócolis no Vapor",
         "curso": "principal",
-        "tempo": "45 min",
-        "url": "https://www.panelinha.com.br/receita/Picanha-assada-com-sal-grosso",
-        "porque": "Uma opção deliciosa de carne vermelha, preparada no forno, prática e sem fritura, com sobras para o dia seguinte.",
+        "tempo": "35 min",
+        "url": "https://www.friboi.com.br/receitas/bife-ancho-grelhado-com-pure-de-batata/",
+        "porque": "Este prato combina a carne vermelha preferida do casal, é rápido de grelhar e oferece um bom equilíbrio com arroz e brócolis cozidos no vapor.",
         "tags": [
           "carne_vermelha",
-          "forno",
+          "grelhado",
+          "rapido"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "2 bifes de ancho (aprox. 300g cada)",
+          "Sal e pimenta-do-reino a gosto",
+          "1 fio de azeite",
+          "1 xícara (chá) de arroz branco",
+          "2 xícaras (chá) de água",
+          "1/2 cabeça de brócolis (cerca de 200g)"
+        ],
+        "preparo": [
+          "Tempere os bifes de ancho com sal e pimenta-do-reino dos dois lados.",
+          "Aqueça uma frigideira ou chapa em fogo alto com um fio de azeite.",
+          "Grelhe os bifes por cerca de 4-6 minutos de cada lado para um ponto malpassado a médio, ajustando conforme a preferência. Deixe descansar por alguns minutos antes de cortar.",
+          "Enquanto isso, cozinhe o arroz: em uma panela, refogue o arroz em um fio de óleo, adicione a água e sal, e cozinhe até secar.",
+          "Corte o brócolis em floretes e cozinhe no vapor ou em água fervente com sal por cerca de 5-7 minutos, até ficar al dente. Sirva o bife com arroz e brócolis."
+        ],
+        "id": "bife-ancho-grelhado-com-arroz-e-br-colis-63f675"
+      },
+      {
+        "nome": "Estrogonofe de Frango Light",
+        "curso": "principal",
+        "tempo": "30 min",
+        "url": "https://www.saboresajinomoto.com.br/receita/estrogonofe-light-de-frango",
+        "porque": "Uma opção de frango prática e saborosa, feita de forma leve e refogada, ideal para uma refeição equilibrada e rápida.",
+        "tags": [
+          "frango",
+          "rapido",
           "equilibrado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "1 peça de picanha (~1 kg a 1,2 kg)",
-          "4 claras de ovo",
-          "1 kg de sal grosso",
-          "½ xícara (chá) de farinha de trigo",
-          "Ramos de tomilho fresco a gosto (opcional)"
+          "500g de peito de frango cortado em cubos",
+          "1 cebola média picada",
+          "2 dentes de alho picados",
+          "1 colher (sopa) de azeite",
+          "1/2 xícara (chá) de molho de tomate (ou extrato de tomate diluído)",
+          "1 colher (sopa) de mostarda",
+          "1/2 xícara (chá) de água (ou caldo de frango light)",
+          "1 lata de creme de leite light (ou 1 pote de iogurte natural desnatado)",
+          "Sal e pimenta-do-reino a gosto",
+          "Cogumelos fatiados (opcional)"
         ],
         "preparo": [
-          "Preaqueça o forno a 220 ºC. Numa tigela, misture as claras, o sal grosso e a farinha de trigo rapidamente.",
-          "Numa assadeira, espalhe cerca de ⅓ da mistura de sal grosso para formar uma base um pouco maior que a picanha. Adicione ramos de tomilho, se usar.",
-          "Seque bem a peça de picanha com um pano de prato limpo e coloque-a sobre a camada de sal com a gordura para cima.",
-          "Cubra toda a picanha com o restante da mistura de sal, formando uma capa firme, pressionando com as mãos.",
-          "Leve ao forno por cerca de 35-40 minutos para carne mal passada a ao ponto. Para carne bem passada, aumente o tempo.",
-          "Retire a picanha do forno, quebre a crosta de sal com uma faca e raspe o excesso de sal da carne. Fatie fino e sirva."
+          "Tempere o frango em cubos com sal e pimenta-do-reino.",
+          "Em uma panela, aqueça o azeite em fogo médio e refogue a cebola e o alho até dourarem. Adicione o frango e doure por todos os lados.",
+          "Acrescente o molho de tomate, a mostarda, a água (e os cogumelos, se usar). Deixe cozinhar por cerca de 5-7 minutos, até o molho encorpar um pouco.",
+          "Desligue o fogo, adicione o creme de leite light (ou iogurte) e misture bem até incorporar. Não deixe ferver após adicionar o creme de leite.",
+          "Ajuste o sal e a pimenta, se necessário. Sirva imediatamente com arroz branco ou integral."
         ],
-        "id": "picanha-assada-com-sal-grosso-686788"
+        "id": "estrogonofe-de-frango-light-0601b9"
       },
       {
-        "nome": "Frango com Mel e Especiarias na Air Fryer",
-        "curso": "principal",
-        "tempo": "35 min",
-        "url": "https://www.panelinha.com.br/receita/Frango-com-mel-e-especiarias-na-Air-Fryer-da-Rita-Lobo",
-        "porque": "Uma alternativa de proteína magra, muito fácil e rápida de fazer na Air Fryer, sem sujeira e sem fritura.",
+        "nome": "Bruschetta de Tomate e Manjericão (assada)",
+        "curso": "entrada",
+        "tempo": "20 min",
+        "url": "https://claudia.abril.com.br/receitas/bruschetta-de-tomate-e-manjericao/",
+        "porque": "Uma entrada italiana clássica, fresca e muito prática, perfeita para abrir o apetite com sabores vibrantes e sem fritura.",
         "tags": [
-          "frango",
-          "airfryer",
+          "vegetariano",
+          "rapido",
+          "forno"
+        ],
+        "rende_sobra": false,
+        "ingredientes": [
+          "4 fatias de pão italiano (ou rústico)",
+          "1 dente de alho",
+          "2 tomates médios (sem sementes, picados em cubos)",
+          "1 colher (sopa) de manjericão fresco picado",
+          "2 colheres (sopa) de azeite de oliva extra virgem",
+          "Sal e pimenta-do-reino a gosto"
+        ],
+        "preparo": [
+          "Preaqueça o forno a 180°C.",
+          "Corte o pão em fatias e esfregue um dente de alho cortado ao meio em cada fatia.",
+          "Disponha as fatias em uma assadeira e leve ao forno por cerca de 8-10 minutos, ou até dourarem levemente e ficarem crocantes.",
+          "Em uma tigela, misture os tomates picados, o manjericão, sal, pimenta-do-reino e 1 colher (sopa) de azeite.",
+          "Retire o pão do forno, distribua a mistura de tomate sobre cada fatia e regue com o azeite restante. Sirva imediatamente."
+        ],
+        "id": "bruschetta-de-tomate-e-manjeric-o-assada-a4143a"
+      },
+      {
+        "nome": "Mousse de Maracujá",
+        "curso": "sobremesa",
+        "tempo": "5 min",
+        "url": "https://receitadaboa.com.br/mousse-de-maracuja-cremosa-de-liquidificador-com-3-ingredientes/",
+        "porque": "Uma sobremesa incrivelmente fácil e rápida de fazer no liquidificador, sem necessidade de cozimento, oferecendo um toque refrescante e azedinho.",
+        "tags": [
+          "sobremesa",
           "rapido"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "500g de pedaços de frango (coxa e sobrecoxa desossadas ou filés de peito)",
-          "1 colher (sopa) de mel",
-          "1 colher (chá) de páprica doce",
-          "½ colher (chá) de cominho em pó",
-          "1 dente de alho picado",
-          "1 colher (sopa) de azeite",
-          "Sal e pimenta-do-reino moída na hora a gosto"
+          "1 lata de leite condensado (395g)",
+          "1 lata de creme de leite (200g)",
+          "1 xícara (chá) de suco de maracujá concentrado (aproximadamente 2 maracujás grandes)",
+          "Polpa de 1 maracujá para calda (opcional)"
         ],
         "preparo": [
-          "Corte o frango em pedaços de cerca de 3 cm para que assem por igual.",
-          "Numa tigela, misture o mel, a páprica, o cominho, o alho picado, o azeite, sal e pimenta-do-reino.",
-          "Adicione os pedaços de frango à marinada, misture bem e deixe descansar por pelo menos 15 minutos (ou mais, se tiver tempo).",
-          "Preaqueça a Air Fryer a 180 ºC por 5 minutos.",
-          "Disponha os pedaços de frango temperados na cesta da Air Fryer, sem sobrepor.",
-          "Asse por 20 a 25 minutos, virando na metade do tempo, até ficarem dourados e cozidos."
+          "No liquidificador, adicione o leite condensado, o creme de leite e o suco de maracujá concentrado.",
+          "Bata por cerca de 3-5 minutos, até obter uma mistura homogênea e aerada.",
+          "Transfira a mousse para taças individuais ou um refratário maior.",
+          "Leve à geladeira por pelo menos 2-3 horas, ou até que a mousse esteja firme e bem gelada.",
+          "Se desejar, prepare uma calda com a polpa de um maracujá e um pouco de açúcar, aquecendo em fogo baixo até engrossar. Sirva a calda sobre a mousse gelada."
         ],
-        "id": "frango-com-mel-e-especiarias-na-air-frye-4e186e"
-      },
-      {
-        "nome": "Salada de Tomate com Azeite Crocante",
-        "curso": "entrada",
-        "tempo": "15 min",
-        "url": "https://www.panelinha.com.br/receita/Salada-de-tomate-com-azeite-crocante",
-        "porque": "Uma entrada leve, fresca e super rápida de montar, ideal para equilibrar as refeições principais.",
-        "tags": [
-          "vegetariano",
-          "salada",
-          "rapido"
-        ],
-        "rende_sobra": false,
-        "ingredientes": [
-          "3 tomates maduros (variados, se possível)",
-          "2 fatias de pão amanhecido (tipo italiano ou ciabatta)",
-          "2 dentes de alho",
-          "½ xícara (chá) de azeite de oliva extra virgem",
-          "¼ xícara (chá) de castanhas-de-caju picadas (ou amêndoas, nozes)",
-          "1 colher (chá) de sementes de girassol (opcional)",
-          "Folhas de manjericão fresco a gosto",
-          "Sal e pimenta-do-reino moída na hora a gosto"
-        ],
-        "preparo": [
-          "Lave e seque bem os tomates. Corte cada um em rodelas finas de cerca de 0,5 cm ou em gomos.",
-          "Para o azeite crocante: Descasque e corte 1 dente de alho em fatias finas. Pique as castanhas.",
-          "Numa frigideira pequena, coloque ½ xícara de azeite, as castanhas, as sementes de girassol (se usar) e o alho. Leve ao fogo baixo por alguns minutos, até o alho dourar levemente e as castanhas ficarem crocantes. Retire do fogo.",
-          "Corte o pão amanhecido em cubos pequenos. Regue com um fio de azeite e leve à Air Fryer ou forno até ficarem crocantes (cerca de 5-7 min a 180°C). Esfregue o outro dente de alho nos pães torrados.",
-          "Disponha as rodelas de tomate numa travessa, regue com o azeite crocante ainda morno.",
-          "Finalize com os cubos de pão crocante, folhas de manjericão fresco, sal e pimenta-do-reino a gosto."
-        ],
-        "id": "salada-de-tomate-com-azeite-crocante-bdb7a1"
-      },
-      {
-        "nome": "Brigadeiro de Colher com Chocolate Amargo",
-        "curso": "sobremesa",
-        "tempo": "20 min",
-        "url": "https://www.panelinha.com.br/receita/Brigadeiro-de-colher-com-chocolate-amargo",
-        "porque": "Um clássico brasileiro, super fácil e rápido de fazer, com chocolate amargo para um toque mais sofisticado e menos doce.",
-        "tags": [
-          "doce",
-          "rapido",
-          "sobremesa"
-        ],
-        "rende_sobra": false,
-        "ingredientes": [
-          "1 lata de leite condensado (395 g)",
-          "2 colheres (sopa) de cacau em pó (ou chocolate em pó 50%)",
-          "1 colher (sopa) de manteiga sem sal",
-          "50 g de chocolate amargo picado (70% ou 85% cacau, opcional)"
-        ],
-        "preparo": [
-          "Numa panela pequena, junte a manteiga, o leite condensado e o cacau em pó (ou chocolate em pó).",
-          "Leve ao fogo médio, mexendo sempre com uma colher ou batedor de arame para não grudar no fundo.",
-          "Continue mexendo até a mistura desgrudar do fundo da panela e atingir a consistência de brigadeiro de colher (cerca de 8-10 minutos).",
-          "Se estiver usando, adicione o chocolate amargo picado nos últimos minutos, mexendo até derreter e incorporar.",
-          "Retire do fogo e transfira para uma travessa ou para cumbucas individuais.",
-          "Sirva morno ou em temperatura ambiente."
-        ],
-        "id": "brigadeiro-de-colher-com-chocolate-amarg-0adc04"
+        "id": "mousse-de-maracuj-03a12c"
       }
     ]
   },

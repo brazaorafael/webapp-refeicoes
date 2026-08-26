@@ -3483,5 +3483,34 @@
       "sobremesa"
     ],
     "data": "25/08/2026"
+  },
+  {
+    "id": "bife-ancho-grelhado-com-arroz-e-br-colis-63f675",
+    "titulo": "Bife Ancho Grelhado com Arroz e Brócolis no Vapor",
+    "tags": [
+      "carne_vermelha",
+      "grelhado",
+      "rapido"
+    ],
+    "data": "26/08/2026"
+  },
+  {
+    "id": "bruschetta-de-tomate-e-manjeric-o-assada-a4143a",
+    "titulo": "Bruschetta de Tomate e Manjericão (assada)",
+    "tags": [
+      "vegetariano",
+      "rapido",
+      "forno"
+    ],
+    "data": "26/08/2026"
+  },
+  {
+    "id": "mousse-de-maracuj-03a12c",
+    "titulo": "Mousse de Maracujá",
+    "tags": [
+      "sobremesa",
+      "rapido"
+    ],
+    "data": "26/08/2026"
   }
 ]
