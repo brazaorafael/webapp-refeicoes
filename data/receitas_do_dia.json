@@ -1,126 +1,126 @@
 {
-  "gerado_em": "26/08/2026",
+  "gerado_em": "28/08/2026",
   "diario": {
     "tipo": "diario",
-    "data": "26/08/2026",
-    "dia_semana": "quarta",
+    "data": "28/08/2026",
+    "dia_semana": "sexta",
     "pratos": [
       {
-        "nome": "Bife Ancho Grelhado com Arroz e Brócolis no Vapor",
+        "nome": "Rosbife com Batata e Brócolis na Air Fryer",
         "curso": "principal",
-        "tempo": "35 min",
-        "url": "https://www.friboi.com.br/receitas/bife-ancho-grelhado-com-pure-de-batata/",
-        "porque": "Este prato combina a carne vermelha preferida do casal, é rápido de grelhar e oferece um bom equilíbrio com arroz e brócolis cozidos no vapor.",
+        "tempo": "45 min",
+        "url": "https://www.panelinha.com.br/receita/rosbife-com-batata-e-brocolis-na-air-fryer-com-vapor",
+        "porque": "É uma receita prática de carne vermelha, preparada na Air Fryer para evitar fritura, e já inclui carboidrato e vegetais para uma refeição equilibrada.",
         "tags": [
           "carne_vermelha",
-          "grelhado",
-          "rapido"
+          "airfryer",
+          "equilibrado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "2 bifes de ancho (aprox. 300g cada)",
-          "Sal e pimenta-do-reino a gosto",
-          "1 fio de azeite",
-          "1 xícara (chá) de arroz branco",
-          "2 xícaras (chá) de água",
-          "1/2 cabeça de brócolis (cerca de 200g)"
+          "1 peça de filé mignon (~500g a 600g)",
+          "400g de batata-bolinha",
+          "1 brócolis americano",
+          "2 dentes de alho picados",
+          "2 colheres (sopa) de azeite",
+          "1 colher (chá) de sal grosso",
+          "½ colher (chá) de páprica doce",
+          "Pimenta-do-reino moída na hora a gosto"
         ],
         "preparo": [
-          "Tempere os bifes de ancho com sal e pimenta-do-reino dos dois lados.",
-          "Aqueça uma frigideira ou chapa em fogo alto com um fio de azeite.",
-          "Grelhe os bifes por cerca de 4-6 minutos de cada lado para um ponto malpassado a médio, ajustando conforme a preferência. Deixe descansar por alguns minutos antes de cortar.",
-          "Enquanto isso, cozinhe o arroz: em uma panela, refogue o arroz em um fio de óleo, adicione a água e sal, e cozinhe até secar.",
-          "Corte o brócolis em floretes e cozinhe no vapor ou em água fervente com sal por cerca de 5-7 minutos, até ficar al dente. Sirva o bife com arroz e brócolis."
+          "Descasque e pique o alho. Lave e seque as batatas e separe os buquês do brócolis.",
+          "Tempere a carne com sal grosso e pimenta-do-reino. Em uma tigela grande, misture as batatas, o brócolis, o alho, a páprica e o azeite.",
+          "Preaqueça a Air Fryer a 200°C por 5 minutos. Coloque a carne e os legumes na cesta da Air Fryer, evitando sobrepor demais.",
+          "Cozinhe por 20 a 30 minutos, virando a carne na metade do tempo, até o rosbife atingir o ponto desejado.",
+          "Retire da Air Fryer, fatie o rosbife e sirva com os legumes assados."
         ],
-        "id": "bife-ancho-grelhado-com-arroz-e-br-colis-63f675"
+        "id": "rosbife-com-batata-e-br-colis-na-air-fry-a27d78"
       },
       {
-        "nome": "Estrogonofe de Frango Light",
+        "nome": "Bife Completo na Pressão",
         "curso": "principal",
-        "tempo": "30 min",
-        "url": "https://www.saboresajinomoto.com.br/receita/estrogonofe-light-de-frango",
-        "porque": "Uma opção de frango prática e saborosa, feita de forma leve e refogada, ideal para uma refeição equilibrada e rápida.",
+        "tempo": "35 min",
+        "url": "https://receitas.globo.com/ana-maria-braga/receitas/bife-completo-na-pressao-00e99d3e-1081-4286-bc17-48f8c92a95c9.ghtml",
+        "porque": "Este prato de carne vermelha é rápido e prático, cozido na panela de pressão com batatas, cebola e repolho, oferecendo uma refeição completa e equilibrada.",
         "tags": [
-          "frango",
+          "carne_vermelha",
           "rapido",
           "equilibrado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "500g de peito de frango cortado em cubos",
-          "1 cebola média picada",
-          "2 dentes de alho picados",
-          "1 colher (sopa) de azeite",
-          "1/2 xícara (chá) de molho de tomate (ou extrato de tomate diluído)",
-          "1 colher (sopa) de mostarda",
-          "1/2 xícara (chá) de água (ou caldo de frango light)",
-          "1 lata de creme de leite light (ou 1 pote de iogurte natural desnatado)",
+          "4 bifes de coxão mole (~150g cada)",
+          "1 colher (sopa) de óleo",
+          "1 cebola grande em rodelas",
+          "2 batatas médias em rodelas grossas",
+          "½ repolho pequeno picado",
+          "1 xícara (chá) de molho de tomate",
+          "½ xícara (chá) de azeitonas verdes picadas",
           "Sal e pimenta-do-reino a gosto",
-          "Cogumelos fatiados (opcional)"
+          "Salsinha picada para finalizar"
         ],
         "preparo": [
-          "Tempere o frango em cubos com sal e pimenta-do-reino.",
-          "Em uma panela, aqueça o azeite em fogo médio e refogue a cebola e o alho até dourarem. Adicione o frango e doure por todos os lados.",
-          "Acrescente o molho de tomate, a mostarda, a água (e os cogumelos, se usar). Deixe cozinhar por cerca de 5-7 minutos, até o molho encorpar um pouco.",
-          "Desligue o fogo, adicione o creme de leite light (ou iogurte) e misture bem até incorporar. Não deixe ferver após adicionar o creme de leite.",
-          "Ajuste o sal e a pimenta, se necessário. Sirva imediatamente com arroz branco ou integral."
+          "Tempere os bifes de coxão mole com sal e pimenta-do-reino a gosto.",
+          "Em uma panela de pressão, aqueça o óleo e doure os bifes dos dois lados. Retire e reserve.",
+          "Na mesma panela, refogue a cebola até murchar. Volte os bifes para a panela e adicione as batatas, o repolho, o molho de tomate e as azeitonas.",
+          "Cubra com água quente até cobrir os ingredientes. Feche a panela de pressão e cozinhe por 15 a 20 minutos após pegar pressão.",
+          "Desligue o fogo, espere a pressão sair naturalmente, abra a panela e finalize com salsinha picada antes de servir."
         ],
-        "id": "estrogonofe-de-frango-light-0601b9"
+        "id": "bife-completo-na-press-o-b6090a"
       },
       {
-        "nome": "Bruschetta de Tomate e Manjericão (assada)",
+        "nome": "Queijo Brie Aperitivo na Air Fryer",
         "curso": "entrada",
-        "tempo": "20 min",
-        "url": "https://claudia.abril.com.br/receitas/bruschetta-de-tomate-e-manjericao/",
-        "porque": "Uma entrada italiana clássica, fresca e muito prática, perfeita para abrir o apetite com sabores vibrantes e sem fritura.",
+        "tempo": "10 min",
+        "url": "https://www.panelinha.com.br/receita/queijo-brie-aperitivo-na-air-fryer",
+        "porque": "Uma entrada elegante e extremamente rápida de preparar na Air Fryer, sem adição de óleo, ideal para começar a refeição.",
         "tags": [
           "vegetariano",
-          "rapido",
-          "forno"
+          "airfryer",
+          "rapido"
         ],
         "rende_sobra": false,
         "ingredientes": [
-          "4 fatias de pão italiano (ou rústico)",
-          "1 dente de alho",
-          "2 tomates médios (sem sementes, picados em cubos)",
-          "1 colher (sopa) de manjericão fresco picado",
-          "2 colheres (sopa) de azeite de oliva extra virgem",
-          "Sal e pimenta-do-reino a gosto"
+          "1 queijo brie pequeno (~125g a 150g)",
+          "1 colher (sopa) de mel (opcional)",
+          "Nozes picadas a gosto (opcional)",
+          "Torradas ou pães para acompanhar"
         ],
         "preparo": [
-          "Preaqueça o forno a 180°C.",
-          "Corte o pão em fatias e esfregue um dente de alho cortado ao meio em cada fatia.",
-          "Disponha as fatias em uma assadeira e leve ao forno por cerca de 8-10 minutos, ou até dourarem levemente e ficarem crocantes.",
-          "Em uma tigela, misture os tomates picados, o manjericão, sal, pimenta-do-reino e 1 colher (sopa) de azeite.",
-          "Retire o pão do forno, distribua a mistura de tomate sobre cada fatia e regue com o azeite restante. Sirva imediatamente."
+          "Preaqueça a Air Fryer a 180°C por 3 minutos.",
+          "Coloque o queijo brie inteiro na cesta da Air Fryer.",
+          "Asse por 5 a 7 minutos, ou até o queijo estar macio e começando a derreter.",
+          "Retire com cuidado da Air Fryer, transfira para um prato.",
+          "Regue com mel e salpique as nozes, se desejar. Sirva imediatamente com torradas ou pães."
         ],
-        "id": "bruschetta-de-tomate-e-manjeric-o-assada-a4143a"
+        "id": "queijo-brie-aperitivo-na-air-fryer-f9b408"
       },
       {
-        "nome": "Mousse de Maracujá",
+        "nome": "Brigadeiro de Micro-ondas",
         "curso": "sobremesa",
-        "tempo": "5 min",
-        "url": "https://receitadaboa.com.br/mousse-de-maracuja-cremosa-de-liquidificador-com-3-ingredientes/",
-        "porque": "Uma sobremesa incrivelmente fácil e rápida de fazer no liquidificador, sem necessidade de cozimento, oferecendo um toque refrescante e azedinho.",
+        "tempo": "7 min",
+        "url": "https://www.panelinha.com.br/receita/brigadeiro-de-micro-ondas",
+        "porque": "O brigadeiro é um clássico brasileiro e esta versão de micro-ondas é a epítome da praticidade e rapidez, perfeita para uma sobremesa reconfortante.",
         "tags": [
-          "sobremesa",
-          "rapido"
+          "doce",
+          "rapido",
+          "micro-ondas"
         ],
-        "rende_sobra": true,
+        "rende_sobra": false,
         "ingredientes": [
           "1 lata de leite condensado (395g)",
-          "1 lata de creme de leite (200g)",
-          "1 xícara (chá) de suco de maracujá concentrado (aproximadamente 2 maracujás grandes)",
-          "Polpa de 1 maracujá para calda (opcional)"
+          "3 colheres (sopa) de chocolate em pó 50% cacau",
+          "1 colher (sopa) de manteiga sem sal",
+          "Granulado de chocolate para decorar (opcional)"
         ],
         "preparo": [
-          "No liquidificador, adicione o leite condensado, o creme de leite e o suco de maracujá concentrado.",
-          "Bata por cerca de 3-5 minutos, até obter uma mistura homogênea e aerada.",
-          "Transfira a mousse para taças individuais ou um refratário maior.",
-          "Leve à geladeira por pelo menos 2-3 horas, ou até que a mousse esteja firme e bem gelada.",
-          "Se desejar, prepare uma calda com a polpa de um maracujá e um pouco de açúcar, aquecendo em fogo baixo até engrossar. Sirva a calda sobre a mousse gelada."
+          "Em um recipiente de vidro fundo que possa ir ao micro-ondas, misture o leite condensado, o chocolate em pó e a manteiga.",
+          "Leve ao micro-ondas em potência alta por 3 minutos.",
+          "Retire, misture bem com uma espátula e leve novamente ao micro-ondas por mais 2 minutos.",
+          "Retire, misture novamente e verifique a consistência (deve estar desgrudando do fundo da tigela). Se necessário, retorne por mais 30 segundos.",
+          "Deixe esfriar um pouco antes de servir. Se desejar, salpique granulado de chocolate."
         ],
-        "id": "mousse-de-maracuj-03a12c"
+        "id": "brigadeiro-de-micro-ondas-be57f7"
       }
     ]
   },

@@ -3512,5 +3512,35 @@
       "rapido"
     ],
     "data": "26/08/2026"
+  },
+  {
+    "id": "bife-completo-na-press-o-b6090a",
+    "titulo": "Bife Completo na Pressão",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "equilibrado"
+    ],
+    "data": "28/08/2026"
+  },
+  {
+    "id": "queijo-brie-aperitivo-na-air-fryer-f9b408",
+    "titulo": "Queijo Brie Aperitivo na Air Fryer",
+    "tags": [
+      "vegetariano",
+      "airfryer",
+      "rapido"
+    ],
+    "data": "28/08/2026"
+  },
+  {
+    "id": "brigadeiro-de-micro-ondas-be57f7",
+    "titulo": "Brigadeiro de Micro-ondas",
+    "tags": [
+      "doce",
+      "rapido",
+      "micro-ondas"
+    ],
+    "data": "28/08/2026"
   }
 ]
