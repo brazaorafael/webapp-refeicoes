@@ -1,47 +1,80 @@
 {
-  "gerado_em": "28/08/2026",
+  "gerado_em": "29/08/2026",
   "diario": {
     "tipo": "diario",
-    "data": "28/08/2026",
-    "dia_semana": "sexta",
+    "data": "29/08/2026",
+    "dia_semana": "sábado",
     "pratos": [
       {
-        "nome": "Rosbife com Batata e Brócolis na Air Fryer",
+        "nome": "Bife Grelhado com Salada Completa de Legumes",
         "curso": "principal",
-        "tempo": "45 min",
-        "url": "https://www.panelinha.com.br/receita/rosbife-com-batata-e-brocolis-na-air-fryer-com-vapor",
-        "porque": "É uma receita prática de carne vermelha, preparada na Air Fryer para evitar fritura, e já inclui carboidrato e vegetais para uma refeição equilibrada.",
+        "tempo": "30 min",
+        "url": "https://www.guiadacozinha.com.br/receitas/bife-grelhado-com-salada-de-legumes/",
+        "porque": "Rápido de preparar e saudável, este prato utiliza a carne vermelha preferida do casal em uma refeição equilibrada com muitos vegetais frescos.",
         "tags": [
           "carne_vermelha",
-          "airfryer",
+          "grelhado",
+          "salada"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "4 bifes de alcatra ou contrafilé (~180g cada)",
+          "Sal e pimenta-do-reino a gosto",
+          "2 colheres (sopa) de azeite",
+          "1 maço de agrião (ou folhas verdes variadas)",
+          "1 xícara (chá) de brócolis em buquês pequenos",
+          "1 batata média em cubos",
+          "1 cenoura média em cubos",
+          "1/2 xícara (chá) de tomate-cereja cortado ao meio",
+          "Suco de 1/2 limão",
+          "1 colher (café) de orégano"
+        ],
+        "preparo": [
+          "Tempere os bifes com sal e pimenta-do-reino a gosto.",
+          "Em uma frigideira ou grelha quente com um fio de azeite, doure os bifes por 3 a 4 minutos de cada lado, conforme o ponto desejado.",
+          "Cozinhe a cenoura e a batata no vapor por cerca de 5 minutos, adicione o brócolis e cozinhe por mais 3 minutos, ou até ficarem al dente.",
+          "Em uma tigela grande, misture o agrião, os legumes cozidos, o tomate-cereja. Prepare o molho com azeite, suco de limão, orégano, sal e pimenta.",
+          "Arrume os bifes na travessa com a salada de legumes e regue com o molho antes de servir."
+        ],
+        "id": "bife-grelhado-com-salada-completa-de-leg-b1043c"
+      },
+      {
+        "nome": "Fraldinha Assada no Forno com Mostarda",
+        "curso": "principal",
+        "tempo": "15 min (preparo)",
+        "url": "https://www.tvgazeta.com.br/receitas/fraldinha-em-crosta-de-mostarda-batata-crocante-e-salada-de-pao-amanhecido/",
+        "porque": "Utiliza a carne vermelha preferida do casal, preparada no forno para evitar fritura, e a mostarda adiciona um sabor delicioso e reconhecido, com bom rendimento para sobras.",
+        "tags": [
+          "carne_vermelha",
+          "forno",
           "equilibrado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "1 peça de filé mignon (~500g a 600g)",
-          "400g de batata-bolinha",
-          "1 brócolis americano",
+          "1 peça de fraldinha (~1 kg)",
+          "Sal e pimenta-do-reino a gosto",
+          "3 colheres (sopa) de mostarda (Dijon ou amarela)",
+          "1 colher (sopa) de mel (opcional)",
           "2 dentes de alho picados",
-          "2 colheres (sopa) de azeite",
-          "1 colher (chá) de sal grosso",
-          "½ colher (chá) de páprica doce",
-          "Pimenta-do-reino moída na hora a gosto"
+          "2 colheres (sopa) de azeite de oliva",
+          "Ervas frescas picadas a gosto (alecrim, tomilho)"
         ],
         "preparo": [
-          "Descasque e pique o alho. Lave e seque as batatas e separe os buquês do brócolis.",
-          "Tempere a carne com sal grosso e pimenta-do-reino. Em uma tigela grande, misture as batatas, o brócolis, o alho, a páprica e o azeite.",
-          "Preaqueça a Air Fryer a 200°C por 5 minutos. Coloque a carne e os legumes na cesta da Air Fryer, evitando sobrepor demais.",
-          "Cozinhe por 20 a 30 minutos, virando a carne na metade do tempo, até o rosbife atingir o ponto desejado.",
-          "Retire da Air Fryer, fatie o rosbife e sirva com os legumes assados."
+          "Preaqueça o forno a 180°C. Forre uma assadeira com papel alumínio.",
+          "Tempere a fraldinha com sal e pimenta-do-reino.",
+          "Em um recipiente, misture a mostarda, o mel (se usar), o alho picado, o azeite e as ervas frescas para formar uma pasta.",
+          "Espalhe a pasta uniformemente por toda a peça de fraldinha.",
+          "Leve a fraldinha para assar no forno preaquecido por cerca de 40 a 50 minutos, virando na metade do tempo para dourar por igual.",
+          "Retire do forno, deixe descansar por 10 minutos antes de fatiar e servir."
         ],
-        "id": "rosbife-com-batata-e-br-colis-na-air-fry-a27d78"
+        "id": "fraldinha-assada-no-forno-com-mostarda-d9cb07"
       },
       {
-        "nome": "Bife Completo na Pressão",
+        "nome": "Carne Moída Refogada com Mix de Legumes",
         "curso": "principal",
         "tempo": "35 min",
-        "url": "https://receitas.globo.com/ana-maria-braga/receitas/bife-completo-na-pressao-00e99d3e-1081-4286-bc17-48f8c92a95c9.ghtml",
-        "porque": "Este prato de carne vermelha é rápido e prático, cozido na panela de pressão com batatas, cebola e repolho, oferecendo uma refeição completa e equilibrada.",
+        "url": "https://www.guiadacozinha.com.br/receitas/carne-moida-refogada-com-legumes-almoco-pratico/",
+        "porque": "Extremamente versátil e rápida de refogar, é uma excelente fonte de proteína e, com legumes variados, torna-se uma refeição completa e nutritiva, perfeita para render sobras.",
         "tags": [
           "carne_vermelha",
           "rapido",
@@ -49,78 +82,86 @@
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "4 bifes de coxão mole (~150g cada)",
-          "1 colher (sopa) de óleo",
-          "1 cebola grande em rodelas",
-          "2 batatas médias em rodelas grossas",
-          "½ repolho pequeno picado",
-          "1 xícara (chá) de molho de tomate",
-          "½ xícara (chá) de azeitonas verdes picadas",
+          "500g de carne moída (patinho ou acém)",
+          "1 colher (sopa) de azeite",
+          "1 cebola média picada",
+          "2 dentes de alho picados",
+          "1 cenoura média em cubos pequenos",
+          "1 abobrinha média em cubos pequenos",
+          "1/2 pimentão (qualquer cor) em cubos",
+          "1 tomate sem sementes em cubos",
+          "2 colheres (sopa) de extrato de tomate",
+          "1/2 xícara (chá) de água ou caldo de carne",
           "Sal e pimenta-do-reino a gosto",
-          "Salsinha picada para finalizar"
+          "Cheiro-verde picado a gosto"
         ],
         "preparo": [
-          "Tempere os bifes de coxão mole com sal e pimenta-do-reino a gosto.",
-          "Em uma panela de pressão, aqueça o óleo e doure os bifes dos dois lados. Retire e reserve.",
-          "Na mesma panela, refogue a cebola até murchar. Volte os bifes para a panela e adicione as batatas, o repolho, o molho de tomate e as azeitonas.",
-          "Cubra com água quente até cobrir os ingredientes. Feche a panela de pressão e cozinhe por 15 a 20 minutos após pegar pressão.",
-          "Desligue o fogo, espere a pressão sair naturalmente, abra a panela e finalize com salsinha picada antes de servir."
+          "Aqueça o azeite em uma panela grande em fogo médio. Adicione a carne moída e refogue, quebrando os pedaços, até dourar e secar a água.",
+          "Adicione a cebola e o alho e refogue até ficarem macios e levemente dourados.",
+          "Acrescente a cenoura, a abobrinha e o pimentão. Refogue por cerca de 5-7 minutos, até os legumes começarem a amolecer.",
+          "Junte o tomate em cubos, o extrato de tomate e a água (ou caldo). Tempere com sal e pimenta-do-reino.",
+          "Tampe a panela e cozinhe em fogo baixo por 10-15 minutos, mexendo ocasionalmente, até os legumes ficarem macios e o molho encorpado.",
+          "Finalize com cheiro-verde picado e sirva."
         ],
-        "id": "bife-completo-na-press-o-b6090a"
+        "id": "carne-mo-da-refogada-com-mix-de-legumes-f5c05d"
       },
       {
-        "nome": "Queijo Brie Aperitivo na Air Fryer",
+        "nome": "Crudités de Legumes com Molho Cremoso de Iogurte e Ervas",
         "curso": "entrada",
-        "tempo": "10 min",
-        "url": "https://www.panelinha.com.br/receita/queijo-brie-aperitivo-na-air-fryer",
-        "porque": "Uma entrada elegante e extremamente rápida de preparar na Air Fryer, sem adição de óleo, ideal para começar a refeição.",
+        "tempo": "20 min",
+        "url": "https://www.panelinha.com.br/receita/Crudites-com-molho-de-iogurte",
+        "porque": "Uma entrada leve, fresca e saudável que não exige cozimento, rica em fibras e vitaminas, com um molho cremoso à base de iogurte.",
         "tags": [
           "vegetariano",
-          "airfryer",
-          "rapido"
+          "rapido",
+          "low_carb"
         ],
         "rende_sobra": false,
         "ingredientes": [
-          "1 queijo brie pequeno (~125g a 150g)",
-          "1 colher (sopa) de mel (opcional)",
-          "Nozes picadas a gosto (opcional)",
-          "Torradas ou pães para acompanhar"
+          "2 cenouras médias",
+          "2 pepinos japoneses",
+          "2 talos de salsão",
+          "1 pimentão (amarelo ou vermelho)",
+          "1 pote de iogurte natural (sem açúcar)",
+          "2 colheres (sopa) de azeite de oliva",
+          "1 colher (sopa) de suco de limão",
+          "10 folhas de hortelã fresca picada (ou salsinha/cebolinha)",
+          "Sal e pimenta-do-reino moída na hora a gosto"
         ],
         "preparo": [
-          "Preaqueça a Air Fryer a 180°C por 3 minutos.",
-          "Coloque o queijo brie inteiro na cesta da Air Fryer.",
-          "Asse por 5 a 7 minutos, ou até o queijo estar macio e começando a derreter.",
-          "Retire com cuidado da Air Fryer, transfira para um prato.",
-          "Regue com mel e salpique as nozes, se desejar. Sirva imediatamente com torradas ou pães."
+          "Lave e seque bem todos os legumes.",
+          "Descasque as cenouras e corte-as em palitos. Corte os pepinos e o pimentão em tiras. Corte os talos de salsão em tiras.",
+          "Para o molho, em uma tigela, misture o iogurte natural, o azeite, o suco de limão e as ervas frescas picadas.",
+          "Tempere o molho com sal e pimenta-do-reino a gosto e misture bem.",
+          "Arrume os legumes cortados em um prato ou em copinhos e sirva com o molho cremoso de iogurte."
         ],
-        "id": "queijo-brie-aperitivo-na-air-fryer-f9b408"
+        "id": "crudit-s-de-legumes-com-molho-cremoso-de-d8b221"
       },
       {
-        "nome": "Brigadeiro de Micro-ondas",
+        "nome": "Cocada de Forno de 3 Ingredientes",
         "curso": "sobremesa",
-        "tempo": "7 min",
-        "url": "https://www.panelinha.com.br/receita/brigadeiro-de-micro-ondas",
-        "porque": "O brigadeiro é um clássico brasileiro e esta versão de micro-ondas é a epítome da praticidade e rapidez, perfeita para uma sobremesa reconfortante.",
+        "tempo": "30 min",
+        "url": "https://www.campograndenews.com.br/lado-b/so-3-ingredientes-aprenda-uma-cocada-fit-que-fica-pronta-em-20-minutos",
+        "porque": "Uma sobremesa deliciosa e incrivelmente simples, que exige apenas três ingredientes e o forno, ficando pronta rapidamente e agradando a todos.",
         "tags": [
-          "doce",
+          "sobremesa",
           "rapido",
-          "micro-ondas"
+          "forno"
         ],
-        "rende_sobra": false,
+        "rende_sobra": true,
         "ingredientes": [
-          "1 lata de leite condensado (395g)",
-          "3 colheres (sopa) de chocolate em pó 50% cacau",
-          "1 colher (sopa) de manteiga sem sal",
-          "Granulado de chocolate para decorar (opcional)"
+          "1 ovo grande",
+          "1 xícara (chá) de coco ralado grosso (seco ou fresco)",
+          "1/4 colher (sopa) de adoçante culinário (ou a gosto, se preferir açúcar)"
         ],
         "preparo": [
-          "Em um recipiente de vidro fundo que possa ir ao micro-ondas, misture o leite condensado, o chocolate em pó e a manteiga.",
-          "Leve ao micro-ondas em potência alta por 3 minutos.",
-          "Retire, misture bem com uma espátula e leve novamente ao micro-ondas por mais 2 minutos.",
-          "Retire, misture novamente e verifique a consistência (deve estar desgrudando do fundo da tigela). Se necessário, retorne por mais 30 segundos.",
-          "Deixe esfriar um pouco antes de servir. Se desejar, salpique granulado de chocolate."
+          "Preaqueça o forno a 180°C. Unte levemente forminhas de silicone ou uma assadeira pequena.",
+          "Em uma tigela, misture o ovo, o coco ralado e o adoçante (ou açúcar) até formar uma massa homogênea.",
+          "Distribua a mistura nas forminhas ou na assadeira, pressionando levemente.",
+          "Leve ao forno preaquecido por cerca de 15 a 20 minutos, ou até dourar levemente nas bordas.",
+          "Retire do forno e deixe esfriar um pouco antes de servir. Pode ser consumida quente ou fria."
         ],
-        "id": "brigadeiro-de-micro-ondas-be57f7"
+        "id": "cocada-de-forno-de-3-ingredientes-dd4c3e"
       }
     ]
   },

@@ -3542,5 +3542,55 @@
       "micro-ondas"
     ],
     "data": "28/08/2026"
+  },
+  {
+    "id": "bife-grelhado-com-salada-completa-de-leg-b1043c",
+    "titulo": "Bife Grelhado com Salada Completa de Legumes",
+    "tags": [
+      "carne_vermelha",
+      "grelhado",
+      "salada"
+    ],
+    "data": "29/08/2026"
+  },
+  {
+    "id": "fraldinha-assada-no-forno-com-mostarda-d9cb07",
+    "titulo": "Fraldinha Assada no Forno com Mostarda",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "equilibrado"
+    ],
+    "data": "29/08/2026"
+  },
+  {
+    "id": "carne-mo-da-refogada-com-mix-de-legumes-f5c05d",
+    "titulo": "Carne Moída Refogada com Mix de Legumes",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "equilibrado"
+    ],
+    "data": "29/08/2026"
+  },
+  {
+    "id": "crudit-s-de-legumes-com-molho-cremoso-de-d8b221",
+    "titulo": "Crudités de Legumes com Molho Cremoso de Iogurte e Ervas",
+    "tags": [
+      "vegetariano",
+      "rapido",
+      "low_carb"
+    ],
+    "data": "29/08/2026"
+  },
+  {
+    "id": "cocada-de-forno-de-3-ingredientes-dd4c3e",
+    "titulo": "Cocada de Forno de 3 Ingredientes",
+    "tags": [
+      "sobremesa",
+      "rapido",
+      "forno"
+    ],
+    "data": "29/08/2026"
   }
 ]
