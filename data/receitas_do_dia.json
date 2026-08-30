@@ -1,167 +1,135 @@
 {
-  "gerado_em": "29/08/2026",
+  "gerado_em": "30/08/2026",
   "diario": {
     "tipo": "diario",
-    "data": "29/08/2026",
-    "dia_semana": "sábado",
+    "data": "30/08/2026",
+    "dia_semana": "domingo",
     "pratos": [
       {
-        "nome": "Bife Grelhado com Salada Completa de Legumes",
+        "nome": "Fraldinha Grelhada com Farofa de Couve e Arroz Branco",
         "curso": "principal",
-        "tempo": "30 min",
-        "url": "https://www.guiadacozinha.com.br/receitas/bife-grelhado-com-salada-de-legumes/",
-        "porque": "Rápido de preparar e saudável, este prato utiliza a carne vermelha preferida do casal em uma refeição equilibrada com muitos vegetais frescos.",
+        "tempo": "40 min",
+        "url": "https://www.bonde.com.br/gastronomia/receitas/fraldinha-grelhada-na-frigideira-com-manteiga-de-ervas-337581.html",
+        "porque": "É um prato principal de carne vermelha, rápido de grelhar e equilibrado com carboidrato e vegetais na farofa, ideal para um jantar prático.",
         "tags": [
           "carne_vermelha",
           "grelhado",
-          "salada"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "4 bifes de alcatra ou contrafilé (~180g cada)",
-          "Sal e pimenta-do-reino a gosto",
-          "2 colheres (sopa) de azeite",
-          "1 maço de agrião (ou folhas verdes variadas)",
-          "1 xícara (chá) de brócolis em buquês pequenos",
-          "1 batata média em cubos",
-          "1 cenoura média em cubos",
-          "1/2 xícara (chá) de tomate-cereja cortado ao meio",
-          "Suco de 1/2 limão",
-          "1 colher (café) de orégano"
-        ],
-        "preparo": [
-          "Tempere os bifes com sal e pimenta-do-reino a gosto.",
-          "Em uma frigideira ou grelha quente com um fio de azeite, doure os bifes por 3 a 4 minutos de cada lado, conforme o ponto desejado.",
-          "Cozinhe a cenoura e a batata no vapor por cerca de 5 minutos, adicione o brócolis e cozinhe por mais 3 minutos, ou até ficarem al dente.",
-          "Em uma tigela grande, misture o agrião, os legumes cozidos, o tomate-cereja. Prepare o molho com azeite, suco de limão, orégano, sal e pimenta.",
-          "Arrume os bifes na travessa com a salada de legumes e regue com o molho antes de servir."
-        ],
-        "id": "bife-grelhado-com-salada-completa-de-leg-b1043c"
-      },
-      {
-        "nome": "Fraldinha Assada no Forno com Mostarda",
-        "curso": "principal",
-        "tempo": "15 min (preparo)",
-        "url": "https://www.tvgazeta.com.br/receitas/fraldinha-em-crosta-de-mostarda-batata-crocante-e-salada-de-pao-amanhecido/",
-        "porque": "Utiliza a carne vermelha preferida do casal, preparada no forno para evitar fritura, e a mostarda adiciona um sabor delicioso e reconhecido, com bom rendimento para sobras.",
-        "tags": [
-          "carne_vermelha",
-          "forno",
-          "equilibrado"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "1 peça de fraldinha (~1 kg)",
-          "Sal e pimenta-do-reino a gosto",
-          "3 colheres (sopa) de mostarda (Dijon ou amarela)",
-          "1 colher (sopa) de mel (opcional)",
-          "2 dentes de alho picados",
-          "2 colheres (sopa) de azeite de oliva",
-          "Ervas frescas picadas a gosto (alecrim, tomilho)"
-        ],
-        "preparo": [
-          "Preaqueça o forno a 180°C. Forre uma assadeira com papel alumínio.",
-          "Tempere a fraldinha com sal e pimenta-do-reino.",
-          "Em um recipiente, misture a mostarda, o mel (se usar), o alho picado, o azeite e as ervas frescas para formar uma pasta.",
-          "Espalhe a pasta uniformemente por toda a peça de fraldinha.",
-          "Leve a fraldinha para assar no forno preaquecido por cerca de 40 a 50 minutos, virando na metade do tempo para dourar por igual.",
-          "Retire do forno, deixe descansar por 10 minutos antes de fatiar e servir."
-        ],
-        "id": "fraldinha-assada-no-forno-com-mostarda-d9cb07"
-      },
-      {
-        "nome": "Carne Moída Refogada com Mix de Legumes",
-        "curso": "principal",
-        "tempo": "35 min",
-        "url": "https://www.guiadacozinha.com.br/receitas/carne-moida-refogada-com-legumes-almoco-pratico/",
-        "porque": "Extremamente versátil e rápida de refogar, é uma excelente fonte de proteína e, com legumes variados, torna-se uma refeição completa e nutritiva, perfeita para render sobras.",
-        "tags": [
-          "carne_vermelha",
           "rapido",
           "equilibrado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "500g de carne moída (patinho ou acém)",
-          "1 colher (sopa) de azeite",
-          "1 cebola média picada",
-          "2 dentes de alho picados",
-          "1 cenoura média em cubos pequenos",
-          "1 abobrinha média em cubos pequenos",
-          "1/2 pimentão (qualquer cor) em cubos",
-          "1 tomate sem sementes em cubos",
-          "2 colheres (sopa) de extrato de tomate",
-          "1/2 xícara (chá) de água ou caldo de carne",
+          "1 peça de fraldinha (~800g)",
           "Sal e pimenta-do-reino a gosto",
-          "Cheiro-verde picado a gosto"
+          "2 colheres (sopa) de azeite de oliva",
+          "1 xícara (chá) de arroz branco",
+          "2 xícaras (chá) de água",
+          "1/2 cebola picada (para o arroz)",
+          "1 dente de alho picado (para o arroz)",
+          "1/2 maço de couve manteiga, fatiada finamente",
+          "1/2 cebola pequena picada (para a farofa)",
+          "2 dentes de alho picados (para a farofa)",
+          "1/4 xícara (chá) de bacon picado (opcional, para a farofa)",
+          "2 colheres (sopa) de azeite ou manteiga (para a farofa)",
+          "1 xícara (chá) de farinha de mandioca"
         ],
         "preparo": [
-          "Aqueça o azeite em uma panela grande em fogo médio. Adicione a carne moída e refogue, quebrando os pedaços, até dourar e secar a água.",
-          "Adicione a cebola e o alho e refogue até ficarem macios e levemente dourados.",
-          "Acrescente a cenoura, a abobrinha e o pimentão. Refogue por cerca de 5-7 minutos, até os legumes começarem a amolecer.",
-          "Junte o tomate em cubos, o extrato de tomate e a água (ou caldo). Tempere com sal e pimenta-do-reino.",
-          "Tampe a panela e cozinhe em fogo baixo por 10-15 minutos, mexendo ocasionalmente, até os legumes ficarem macios e o molho encorpado.",
-          "Finalize com cheiro-verde picado e sirva."
+          "Tempere a fraldinha com sal e pimenta-do-reino. Aqueça uma frigideira grande ou chapa em fogo médio-alto com azeite.",
+          "Grelhe a fraldinha por cerca de 5-7 minutos de cada lado para um ponto malpassado a ao ponto, ajustando conforme preferência. Retire e deixe descansar por 5 minutos antes de fatiar.",
+          "Para o arroz, refogue 1/2 cebola e 1 dente de alho em um fio de óleo, adicione o arroz, refogue por 1 minuto e acrescente a água e sal. Cozinhe em fogo baixo até secar.",
+          "Para a farofa, doure o bacon (se usar) em uma frigideira. Retire o bacon e, na mesma gordura (ou com azeite/manteiga), refogue 1/2 cebola e 2 dentes de alho.",
+          "Adicione a couve fatiada e refogue até murchar. Junte a farinha de mandioca e o bacon dourado, misturando bem até aquecer. Sirva a fraldinha fatiada com a farofa de couve e o arroz branco."
         ],
-        "id": "carne-mo-da-refogada-com-mix-de-legumes-f5c05d"
+        "id": "fraldinha-grelhada-com-farofa-de-couve-e-c69f00"
       },
       {
-        "nome": "Crudités de Legumes com Molho Cremoso de Iogurte e Ervas",
+        "nome": "Bife de Chorizo na Chapa com Purê de Batata e Vinagrete",
+        "curso": "principal",
+        "tempo": "40 min",
+        "url": "https://paladar.estadao.com.br/receitas/bife-de-chorizo-na-frigideira,10000030553",
+        "porque": "Satisfaz a preferência por carne vermelha, é rápido de preparar na chapa e oferece um acompanhamento equilibrado com carboidrato e vegetais frescos.",
+        "tags": [
+          "carne_vermelha",
+          "grelhado",
+          "rapido",
+          "equilibrado"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "2 bifes de chorizo (~300g cada)",
+          "Sal e pimenta-do-reino a gosto",
+          "1 colher (sopa) de azeite ou manteiga",
+          "4 batatas médias",
+          "1/2 xícara (chá) de leite quente",
+          "1 colher (sopa) de manteiga",
+          "Sal a gosto (para o purê)",
+          "1 tomate médio picado",
+          "1/2 cebola roxa picada",
+          "1/4 xícara (chá) de salsinha picada",
+          "3 colheres (sopa) de vinagre de vinho tinto",
+          "4 colheres (sopa) de azeite extra virgem"
+        ],
+        "preparo": [
+          "Cozinhe as batatas em água com sal até ficarem macias. Escorra, descasque e amasse-as.",
+          "Em uma panela, aqueça a manteiga, adicione o purê de batatas e o leite quente, misturando bem até obter uma consistência cremosa. Tempere com sal e reserve.",
+          "Para o vinagrete, misture o tomate picado, a cebola roxa picada, a salsinha, o vinagre e o azeite. Tempere com sal e pimenta-do-reino a gosto e reserve.",
+          "Tempere os bifes de chorizo com sal e pimenta. Aqueça bem uma chapa ou frigideira com azeite/manteiga em fogo alto. Grelhe os bifes por 3-4 minutos de cada lado para o ponto desejado. Sirva os bifes fatiados com o purê de batata e o vinagrete."
+        ],
+        "id": "bife-de-chorizo-na-chapa-com-pur-de-bata-fd2d2b"
+      },
+      {
+        "nome": "Queijo Coalho Grelhado com Mel",
         "curso": "entrada",
         "tempo": "20 min",
-        "url": "https://www.panelinha.com.br/receita/Crudites-com-molho-de-iogurte",
-        "porque": "Uma entrada leve, fresca e saudável que não exige cozimento, rica em fibras e vitaminas, com um molho cremoso à base de iogurte.",
+        "url": "https://guiadacozinha.com.br/queijo-coalho-com-mel/",
+        "porque": "É uma entrada proteica, prática e rápida de preparar na grelha, com um contraste delicioso de sabores.",
         "tags": [
           "vegetariano",
-          "rapido",
-          "low_carb"
+          "grelhado",
+          "rapido"
         ],
         "rende_sobra": false,
         "ingredientes": [
-          "2 cenouras médias",
-          "2 pepinos japoneses",
-          "2 talos de salsão",
-          "1 pimentão (amarelo ou vermelho)",
-          "1 pote de iogurte natural (sem açúcar)",
-          "2 colheres (sopa) de azeite de oliva",
-          "1 colher (sopa) de suco de limão",
-          "10 folhas de hortelã fresca picada (ou salsinha/cebolinha)",
-          "Sal e pimenta-do-reino moída na hora a gosto"
+          "400g de queijo coalho em espetos ou em fatias grossas",
+          "2 colheres (sopa) de azeite (para untar a grelha/frigideira)",
+          "Mel a gosto (cerca de 4 colheres de sopa)"
         ],
         "preparo": [
-          "Lave e seque bem todos os legumes.",
-          "Descasque as cenouras e corte-as em palitos. Corte os pepinos e o pimentão em tiras. Corte os talos de salsão em tiras.",
-          "Para o molho, em uma tigela, misture o iogurte natural, o azeite, o suco de limão e as ervas frescas picadas.",
-          "Tempere o molho com sal e pimenta-do-reino a gosto e misture bem.",
-          "Arrume os legumes cortados em um prato ou em copinhos e sirva com o molho cremoso de iogurte."
+          "Corte o queijo coalho em fatias de aproximadamente 1,5 cm de espessura ou utilize os espetos prontos.",
+          "Preaqueça a grelha, frigideira ou airfryer em temperatura alta e unte levemente com azeite.",
+          "Coloque o queijo coalho na grelha e asse por cerca de 2-3 minutos de cada lado, até dourar.",
+          "Pincele o mel sobre o queijo enquanto ele doura, virando para cobrir ambos os lados. Sirva imediatamente."
         ],
-        "id": "crudit-s-de-legumes-com-molho-cremoso-de-d8b221"
+        "id": "queijo-coalho-grelhado-com-mel-c2ee31"
       },
       {
-        "nome": "Cocada de Forno de 3 Ingredientes",
+        "nome": "Brownie de Caneca",
         "curso": "sobremesa",
-        "tempo": "30 min",
-        "url": "https://www.campograndenews.com.br/lado-b/so-3-ingredientes-aprenda-uma-cocada-fit-que-fica-pronta-em-20-minutos",
-        "porque": "Uma sobremesa deliciosa e incrivelmente simples, que exige apenas três ingredientes e o forno, ficando pronta rapidamente e agradando a todos.",
+        "tempo": "10 min",
+        "url": "https://revistamaria.com.br/receitas/brownie-de-micro-ondas-muito-facil/",
+        "porque": "Uma sobremesa individual, super rápida e prática para satisfazer a vontade de doce, feita no micro-ondas com poucos ingredientes.",
         "tags": [
-          "sobremesa",
           "rapido",
-          "forno"
+          "sobremesa"
         ],
-        "rende_sobra": true,
+        "rende_sobra": false,
         "ingredientes": [
-          "1 ovo grande",
-          "1 xícara (chá) de coco ralado grosso (seco ou fresco)",
-          "1/4 colher (sopa) de adoçante culinário (ou a gosto, se preferir açúcar)"
+          "4 colheres (sopa) de farinha de trigo",
+          "4 colheres (sopa) de açúcar",
+          "2 colheres (sopa) de cacau em pó (ou chocolate em pó)",
+          "2 colheres (sopa) de manteiga derretida (ou óleo)",
+          "2 colheres (sopa) de leite",
+          "1 pitada de sal",
+          "Gotas de chocolate ou pedaços de chocolate (opcional, 2 colheres de sopa)"
         ],
         "preparo": [
-          "Preaqueça o forno a 180°C. Unte levemente forminhas de silicone ou uma assadeira pequena.",
-          "Em uma tigela, misture o ovo, o coco ralado e o adoçante (ou açúcar) até formar uma massa homogênea.",
-          "Distribua a mistura nas forminhas ou na assadeira, pressionando levemente.",
-          "Leve ao forno preaquecido por cerca de 15 a 20 minutos, ou até dourar levemente nas bordas.",
-          "Retire do forno e deixe esfriar um pouco antes de servir. Pode ser consumida quente ou fria."
+          "Em uma caneca grande própria para micro-ondas, misture a farinha de trigo, o açúcar, o cacau em pó e a pitada de sal.",
+          "Adicione a manteiga derretida, o leite e misture bem até obter uma massa homogênea.",
+          "Se desejar, incorpore as gotas ou pedaços de chocolate na massa.",
+          "Leve ao micro-ondas em potência alta por cerca de 1 minuto e 30 segundos a 2 minutos, dependendo da potência do aparelho. O centro deve ficar levemente úmido.",
+          "Retire com cuidado e deixe esfriar por alguns minutos antes de consumir."
         ],
-        "id": "cocada-de-forno-de-3-ingredientes-dd4c3e"
+        "id": "brownie-de-caneca-bf4b41"
       }
     ]
   },

@@ -3592,5 +3592,46 @@
       "forno"
     ],
     "data": "29/08/2026"
+  },
+  {
+    "id": "fraldinha-grelhada-com-farofa-de-couve-e-c69f00",
+    "titulo": "Fraldinha Grelhada com Farofa de Couve e Arroz Branco",
+    "tags": [
+      "carne_vermelha",
+      "grelhado",
+      "rapido",
+      "equilibrado"
+    ],
+    "data": "30/08/2026"
+  },
+  {
+    "id": "bife-de-chorizo-na-chapa-com-pur-de-bata-fd2d2b",
+    "titulo": "Bife de Chorizo na Chapa com Purê de Batata e Vinagrete",
+    "tags": [
+      "carne_vermelha",
+      "grelhado",
+      "rapido",
+      "equilibrado"
+    ],
+    "data": "30/08/2026"
+  },
+  {
+    "id": "queijo-coalho-grelhado-com-mel-c2ee31",
+    "titulo": "Queijo Coalho Grelhado com Mel",
+    "tags": [
+      "vegetariano",
+      "grelhado",
+      "rapido"
+    ],
+    "data": "30/08/2026"
+  },
+  {
+    "id": "brownie-de-caneca-bf4b41",
+    "titulo": "Brownie de Caneca",
+    "tags": [
+      "rapido",
+      "sobremesa"
+    ],
+    "data": "30/08/2026"
   }
 ]
