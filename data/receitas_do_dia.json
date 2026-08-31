@@ -1,135 +1,133 @@
 {
-  "gerado_em": "30/08/2026",
+  "gerado_em": "31/08/2026",
   "diario": {
     "tipo": "diario",
-    "data": "30/08/2026",
-    "dia_semana": "domingo",
+    "data": "31/08/2026",
+    "dia_semana": "segunda",
     "pratos": [
       {
-        "nome": "Fraldinha Grelhada com Farofa de Couve e Arroz Branco",
+        "nome": "Estrogonofe de Carne",
         "curso": "principal",
-        "tempo": "40 min",
-        "url": "https://www.bonde.com.br/gastronomia/receitas/fraldinha-grelhada-na-frigideira-com-manteiga-de-ervas-337581.html",
-        "porque": "É um prato principal de carne vermelha, rápido de grelhar e equilibrado com carboidrato e vegetais na farofa, ideal para um jantar prático.",
+        "tempo": "35 min",
+        "url": "https://www.panelinha.com.br/receita/estrogonofe-para-dois",
+        "porque": "Um clássico reconfortante, rápido de preparar na panela e rico em proteína da carne, ideal para uma refeição equilibrada.",
         "tags": [
           "carne_vermelha",
-          "grelhado",
           "rapido",
-          "equilibrado"
+          "refogado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "1 peça de fraldinha (~800g)",
-          "Sal e pimenta-do-reino a gosto",
-          "2 colheres (sopa) de azeite de oliva",
-          "1 xícara (chá) de arroz branco",
-          "2 xícaras (chá) de água",
-          "1/2 cebola picada (para o arroz)",
-          "1 dente de alho picado (para o arroz)",
-          "1/2 maço de couve manteiga, fatiada finamente",
-          "1/2 cebola pequena picada (para a farofa)",
-          "2 dentes de alho picados (para a farofa)",
-          "1/4 xícara (chá) de bacon picado (opcional, para a farofa)",
-          "2 colheres (sopa) de azeite ou manteiga (para a farofa)",
-          "1 xícara (chá) de farinha de mandioca"
+          "250g de carne bovina (miolo de alcatra ou patinho) em tiras finas",
+          "1/2 cebola média picada",
+          "1 dente de alho picado",
+          "1 colher (sopa) de azeite",
+          "1 colher (sopa) de molho inglês",
+          "1/4 xícara (chá) de conhaque (opcional)",
+          "100g de cogumelos frescos fatiados",
+          "1/2 xícara (chá) de extrato de tomate",
+          "1/2 xícara (chá) de creme de leite fresco (ou de caixinha)",
+          "Sal e pimenta-do-reino a gosto"
         ],
         "preparo": [
-          "Tempere a fraldinha com sal e pimenta-do-reino. Aqueça uma frigideira grande ou chapa em fogo médio-alto com azeite.",
-          "Grelhe a fraldinha por cerca de 5-7 minutos de cada lado para um ponto malpassado a ao ponto, ajustando conforme preferência. Retire e deixe descansar por 5 minutos antes de fatiar.",
-          "Para o arroz, refogue 1/2 cebola e 1 dente de alho em um fio de óleo, adicione o arroz, refogue por 1 minuto e acrescente a água e sal. Cozinhe em fogo baixo até secar.",
-          "Para a farofa, doure o bacon (se usar) em uma frigideira. Retire o bacon e, na mesma gordura (ou com azeite/manteiga), refogue 1/2 cebola e 2 dentes de alho.",
-          "Adicione a couve fatiada e refogue até murchar. Junte a farinha de mandioca e o bacon dourado, misturando bem até aquecer. Sirva a fraldinha fatiada com a farofa de couve e o arroz branco."
+          "Tempere a carne com sal e pimenta-do-reino.",
+          "Em uma panela média, aqueça o azeite em fogo médio-alto. Doure a carne em levas para não juntar água e reserve.",
+          "Na mesma panela, refogue a cebola e o alho até ficarem macios. Adicione o molho inglês e o conhaque (se usar), deixando evaporar.",
+          "Junte os cogumelos e o extrato de tomate, misture bem e cozinhe por 2 minutos.",
+          "Volte a carne para a panela, adicione o creme de leite e cozinhe em fogo médio, mexendo, até o molho engrossar (cerca de 5 minutos).",
+          "Sirva imediatamente, acompanhado de arroz branco e batata palha (opcional)."
         ],
-        "id": "fraldinha-grelhada-com-farofa-de-couve-e-c69f00"
+        "id": "estrogonofe-de-carne-f31d88"
       },
       {
-        "nome": "Bife de Chorizo na Chapa com Purê de Batata e Vinagrete",
+        "nome": "Bife Grelhado com Vinagrete",
         "curso": "principal",
-        "tempo": "40 min",
-        "url": "https://paladar.estadao.com.br/receitas/bife-de-chorizo-na-frigideira,10000030553",
-        "porque": "Satisfaz a preferência por carne vermelha, é rápido de preparar na chapa e oferece um acompanhamento equilibrado com carboidrato e vegetais frescos.",
-        "tags": [
-          "carne_vermelha",
-          "grelhado",
-          "rapido",
-          "equilibrado"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "2 bifes de chorizo (~300g cada)",
-          "Sal e pimenta-do-reino a gosto",
-          "1 colher (sopa) de azeite ou manteiga",
-          "4 batatas médias",
-          "1/2 xícara (chá) de leite quente",
-          "1 colher (sopa) de manteiga",
-          "Sal a gosto (para o purê)",
-          "1 tomate médio picado",
-          "1/2 cebola roxa picada",
-          "1/4 xícara (chá) de salsinha picada",
-          "3 colheres (sopa) de vinagre de vinho tinto",
-          "4 colheres (sopa) de azeite extra virgem"
-        ],
-        "preparo": [
-          "Cozinhe as batatas em água com sal até ficarem macias. Escorra, descasque e amasse-as.",
-          "Em uma panela, aqueça a manteiga, adicione o purê de batatas e o leite quente, misturando bem até obter uma consistência cremosa. Tempere com sal e reserve.",
-          "Para o vinagrete, misture o tomate picado, a cebola roxa picada, a salsinha, o vinagre e o azeite. Tempere com sal e pimenta-do-reino a gosto e reserve.",
-          "Tempere os bifes de chorizo com sal e pimenta. Aqueça bem uma chapa ou frigideira com azeite/manteiga em fogo alto. Grelhe os bifes por 3-4 minutos de cada lado para o ponto desejado. Sirva os bifes fatiados com o purê de batata e o vinagrete."
-        ],
-        "id": "bife-de-chorizo-na-chapa-com-pur-de-bata-fd2d2b"
-      },
-      {
-        "nome": "Queijo Coalho Grelhado com Mel",
-        "curso": "entrada",
         "tempo": "20 min",
-        "url": "https://guiadacozinha.com.br/queijo-coalho-com-mel/",
-        "porque": "É uma entrada proteica, prática e rápida de preparar na grelha, com um contraste delicioso de sabores.",
+        "url": "https://www.panelinha.com.br/receita/bife-grelhado-com-vinagrete",
+        "porque": "Uma opção extremamente rápida e com alta concentração de proteína, o bife é grelhado e o vinagrete adiciona frescor e vegetais.",
         "tags": [
-          "vegetariano",
+          "carne_vermelha",
           "grelhado",
           "rapido"
         ],
         "rende_sobra": false,
         "ingredientes": [
-          "400g de queijo coalho em espetos ou em fatias grossas",
-          "2 colheres (sopa) de azeite (para untar a grelha/frigideira)",
-          "Mel a gosto (cerca de 4 colheres de sopa)"
+          "2 bifes de contrafilé ou alcatra (cerca de 180g cada)",
+          "1 colher (chá) de azeite",
+          "Tempero para carnes caseiro ou sal e pimenta-do-reino a gosto",
+          "Para o vinagrete:",
+          "1 tomate médio em cubos pequenos",
+          "1/4 cebola-roxa picada fino",
+          "2 colheres (sopa) de azeite",
+          "1/2 colher (sopa) de vinagre (de vinho branco ou maçã)",
+          "Salsinha picada a gosto",
+          "Sal e pimenta-do-reino a gosto"
         ],
         "preparo": [
-          "Corte o queijo coalho em fatias de aproximadamente 1,5 cm de espessura ou utilize os espetos prontos.",
-          "Preaqueça a grelha, frigideira ou airfryer em temperatura alta e unte levemente com azeite.",
-          "Coloque o queijo coalho na grelha e asse por cerca de 2-3 minutos de cada lado, até dourar.",
-          "Pincele o mel sobre o queijo enquanto ele doura, virando para cobrir ambos os lados. Sirva imediatamente."
+          "Para o vinagrete: Em uma tigela, misture o tomate, cebola, azeite, vinagre, salsinha, sal e pimenta. Reserve.",
+          "Retire os bifes da geladeira e deixe em temperatura ambiente por alguns minutos. Tempere os bifes com sal e pimenta (ou tempero caseiro).",
+          "Aqueça uma frigideira antiaderente em fogo alto com um fio de azeite.",
+          "Grelhe os bifes por 2-3 minutos de cada lado para o ponto desejado (malpassado a médio).",
+          "Sirva os bifes imediatamente acompanhados do vinagrete."
         ],
-        "id": "queijo-coalho-grelhado-com-mel-c2ee31"
+        "id": "bife-grelhado-com-vinagrete-0cfa78"
       },
       {
-        "nome": "Brownie de Caneca",
-        "curso": "sobremesa",
-        "tempo": "10 min",
-        "url": "https://revistamaria.com.br/receitas/brownie-de-micro-ondas-muito-facil/",
-        "porque": "Uma sobremesa individual, super rápida e prática para satisfazer a vontade de doce, feita no micro-ondas com poucos ingredientes.",
+        "nome": "Grão-de-bico Assado com Especiarias",
+        "curso": "entrada",
+        "tempo": "30 min",
+        "url": "https://www.panelinha.com.br/receita/grao-de-bico-assado-com-especiarias",
+        "porque": "Um petisco saudável, crocante e rico em fibras e proteína vegetal, preparado no forno sem fritura.",
         "tags": [
-          "rapido",
-          "sobremesa"
+          "vegetariano",
+          "forno",
+          "rapido"
         ],
-        "rende_sobra": false,
+        "rende_sobra": true,
         "ingredientes": [
-          "4 colheres (sopa) de farinha de trigo",
-          "4 colheres (sopa) de açúcar",
-          "2 colheres (sopa) de cacau em pó (ou chocolate em pó)",
-          "2 colheres (sopa) de manteiga derretida (ou óleo)",
-          "2 colheres (sopa) de leite",
-          "1 pitada de sal",
-          "Gotas de chocolate ou pedaços de chocolate (opcional, 2 colheres de sopa)"
+          "1 lata de grão-de-bico cozido (cerca de 240g escorrido)",
+          "1 colher (sopa) de azeite",
+          "1 colher (chá) de páprica doce (ou picante, a gosto)",
+          "1/2 colher (chá) de cominho em pó",
+          "1/2 colher (chá) de alho em pó (opcional)",
+          "Sal e pimenta-do-reino a gosto"
         ],
         "preparo": [
-          "Em uma caneca grande própria para micro-ondas, misture a farinha de trigo, o açúcar, o cacau em pó e a pitada de sal.",
-          "Adicione a manteiga derretida, o leite e misture bem até obter uma massa homogênea.",
-          "Se desejar, incorpore as gotas ou pedaços de chocolate na massa.",
-          "Leve ao micro-ondas em potência alta por cerca de 1 minuto e 30 segundos a 2 minutos, dependendo da potência do aparelho. O centro deve ficar levemente úmido.",
-          "Retire com cuidado e deixe esfriar por alguns minutos antes de consumir."
+          "Pré-aqueça o forno a 200°C. Escorra bem o grão-de-bico e seque-o com papel toalha.",
+          "Em uma tigela, misture o grão-de-bico com o azeite e as especiarias (páprica, cominho, alho em pó, sal e pimenta).",
+          "Espalhe o grão-de-bico temperado em uma assadeira em uma única camada.",
+          "Leve ao forno por cerca de 25-30 minutos, mexendo na metade do tempo, até ficarem crocantes e dourados."
         ],
-        "id": "brownie-de-caneca-bf4b41"
+        "id": "gr-o-de-bico-assado-com-especiarias-0189ee"
+      },
+      {
+        "nome": "Moça Gelada",
+        "curso": "sobremesa",
+        "tempo": "20 min",
+        "url": "https://www.tudogostoso.com.br/receita/313828-moca-gelada.html",
+        "porque": "Uma sobremesa deliciosa e refrescante que não vai ao forno, fácil de fazer e perfeita para um doce rápido após o jantar.",
+        "tags": [
+          "rapido",
+          "sem_forno",
+          "sobremesa"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "1 lata de leite condensado (395g)",
+          "1 caixinha de creme de leite (200g)",
+          "1/2 xícara (chá) de leite em pó",
+          "200g de chantilly líquido gelado (ou 1 caixinha de creme de leite fresco batido)",
+          "10 biscoitos de chocolate com recheio de baunilha (tipo Negresco) ou 100g de chocolate granulado/picado"
+        ],
+        "preparo": [
+          "Em uma panela, misture o leite condensado, 1 caixinha de creme de leite e o leite em pó.",
+          "Leve ao fogo baixo, mexendo sempre, até obter um brigadeiro mole que comece a desgrudar do fundo da panela. Retire do fogo e deixe esfriar completamente.",
+          "Bata o chantilly líquido gelado (ou creme de leite fresco) até atingir o ponto de chantilly firme.",
+          "Com o brigadeiro já frio, adicione-o ao chantilly batido e misture delicadamente até incorporar.",
+          "Incorpore os biscoitos picados ou o chocolate granulado/picado à mistura.",
+          "Despeje em um refratário, cubra com plástico filme e leve à geladeira por no mínimo 4 horas, ou até firmar."
+        ],
+        "id": "mo-a-gelada-12bb9b"
       }
     ]
   },

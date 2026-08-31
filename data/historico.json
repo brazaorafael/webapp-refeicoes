@@ -3868,5 +3868,35 @@
       "forno"
     ],
     "data": "30/08/2026"
+  },
+  {
+    "id": "estrogonofe-de-carne-f31d88",
+    "titulo": "Estrogonofe de Carne",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "refogado"
+    ],
+    "data": "31/08/2026"
+  },
+  {
+    "id": "bife-grelhado-com-vinagrete-0cfa78",
+    "titulo": "Bife Grelhado com Vinagrete",
+    "tags": [
+      "carne_vermelha",
+      "grelhado",
+      "rapido"
+    ],
+    "data": "31/08/2026"
+  },
+  {
+    "id": "gr-o-de-bico-assado-com-especiarias-0189ee",
+    "titulo": "Grão-de-bico Assado com Especiarias",
+    "tags": [
+      "vegetariano",
+      "forno",
+      "rapido"
+    ],
+    "data": "31/08/2026"
   }
 ]
