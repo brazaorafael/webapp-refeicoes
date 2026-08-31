@@ -3633,5 +3633,240 @@
       "sobremesa"
     ],
     "data": "30/08/2026"
+  },
+  {
+    "id": "bife-rol-com-arroz-e-pur-de-batata-0792d6",
+    "titulo": "Bife à Rolê com Arroz e Purê de Batata",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "refogado"
+    ],
+    "data": "30/08/2026"
+  },
+  {
+    "id": "frango-xadrez-simples-da4047",
+    "titulo": "Frango Xadrez Simples",
+    "tags": [
+      "frango",
+      "rapido",
+      "refogado"
+    ],
+    "data": "30/08/2026"
+  },
+  {
+    "id": "salada-de-pepino-com-iogurte-e-hortel-6f9e1c",
+    "titulo": "Salada de Pepino com Iogurte e Hortelã",
+    "tags": [
+      "vegetariano",
+      "salada",
+      "rapido"
+    ],
+    "data": "30/08/2026"
+  },
+  {
+    "id": "bolo-de-caneca-de-lim-o-6e023d",
+    "titulo": "Bolo de Caneca de Limão",
+    "tags": [
+      "rapido",
+      "sobremesa",
+      "microondas"
+    ],
+    "data": "30/08/2026"
+  },
+  {
+    "id": "picadinho-de-carne-com-ab-bora-e-vagem-89ba3f",
+    "titulo": "Picadinho de Carne com Abóbora e Vagem",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "refogado"
+    ],
+    "data": "30/08/2026"
+  },
+  {
+    "id": "frango-parmegiana-na-airfryer-5809ab",
+    "titulo": "Frango à Parmegiana na Airfryer",
+    "tags": [
+      "frango",
+      "airfryer",
+      "rapido"
+    ],
+    "data": "30/08/2026"
+  },
+  {
+    "id": "salada-de-repolho-agridoce-com-uvas-pass-f9b35f",
+    "titulo": "Salada de Repolho Agridoce com Uvas Passas",
+    "tags": [
+      "vegetariano",
+      "salada",
+      "rapido"
+    ],
+    "data": "30/08/2026"
+  },
+  {
+    "id": "pudim-de-chia-com-frutas-vermelhas-e0c28a",
+    "titulo": "Pudim de Chia com Frutas Vermelhas",
+    "tags": [
+      "low_carb",
+      "vegetariano",
+      "rapido"
+    ],
+    "data": "30/08/2026"
+  },
+  {
+    "id": "iscas-de-carne-aceboladas-com-piment-es-3d4c22",
+    "titulo": "Iscas de Carne Aceboladas com Pimentões",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "refogado"
+    ],
+    "data": "30/08/2026"
+  },
+  {
+    "id": "salada-de-br-colis-com-bacon-crocante-89cdb3",
+    "titulo": "Salada de Brócolis com Bacon Crocante",
+    "tags": [
+      "salada",
+      "rapido",
+      "low_carb"
+    ],
+    "data": "30/08/2026"
+  },
+  {
+    "id": "manjar-de-coco-com-calda-de-ameixa-15fe31",
+    "titulo": "Manjar de Coco com Calda de Ameixa",
+    "tags": [
+      "sobremesa",
+      "rapido"
+    ],
+    "data": "30/08/2026"
+  },
+  {
+    "id": "bife-grelhado-com-arroz-e-br-colis-ef713d",
+    "titulo": "Bife Grelhado com Arroz e Brócolis",
+    "tags": [
+      "carne_vermelha",
+      "grelhado",
+      "rapido"
+    ],
+    "data": "30/08/2026"
+  },
+  {
+    "id": "frango-com-creme-de-milho-gratinado-forn-175a99",
+    "titulo": "Frango com Creme de Milho Gratinado (Forno)",
+    "tags": [
+      "frango",
+      "forno",
+      "equilibrado"
+    ],
+    "data": "30/08/2026"
+  },
+  {
+    "id": "brigadeiro-de-panela-simples-63a6b5",
+    "titulo": "Brigadeiro de Panela Simples",
+    "tags": [
+      "rapido",
+      "sobremesa"
+    ],
+    "data": "30/08/2026"
+  },
+  {
+    "id": "alcatra-grelhada-com-legumes-salteados-57ec15",
+    "titulo": "Alcatra Grelhada com Legumes Salteados",
+    "tags": [
+      "carne_vermelha",
+      "grelhado",
+      "low_carb"
+    ],
+    "data": "30/08/2026"
+  },
+  {
+    "id": "pescada-branca-assada-com-batatas-e-pime-12b0b7",
+    "titulo": "Pescada Branca Assada com Batatas e Pimentões",
+    "tags": [
+      "peixe",
+      "forno",
+      "equilibrado"
+    ],
+    "data": "30/08/2026"
+  },
+  {
+    "id": "torta-de-lim-o-r-pida-no-copinho-ab5cfd",
+    "titulo": "Torta de Limão Rápida no Copinho",
+    "tags": [
+      "rapido",
+      "sobremesa"
+    ],
+    "data": "30/08/2026"
+  },
+  {
+    "id": "alm-ndegas-de-carne-ao-molho-sugo-refoga-a453ec",
+    "titulo": "Almôndegas de Carne ao Molho Sugo (Refogadas)",
+    "tags": [
+      "carne_vermelha",
+      "massa",
+      "refogado"
+    ],
+    "data": "30/08/2026"
+  },
+  {
+    "id": "espetinhos-de-frango-com-legumes-na-grel-91997a",
+    "titulo": "Espetinhos de Frango com Legumes na Grelha",
+    "tags": [
+      "frango",
+      "grelhado",
+      "rapido"
+    ],
+    "data": "30/08/2026"
+  },
+  {
+    "id": "mini-sandu-ches-naturais-de-frango-com-c-1eeabb",
+    "titulo": "Mini Sanduíches Naturais de Frango com Cenoura",
+    "tags": [
+      "rapido",
+      "salada",
+      "frango"
+    ],
+    "data": "30/08/2026"
+  },
+  {
+    "id": "gelatina-colorida-em-camadas-1c9662",
+    "titulo": "Gelatina Colorida em Camadas",
+    "tags": [
+      "rapido",
+      "sobremesa"
+    ],
+    "data": "30/08/2026"
+  },
+  {
+    "id": "churrasco-misto-na-grelha-carne-frango-l-ddd349",
+    "titulo": "Churrasco Misto na Grelha (Carne, Frango, Linguiça)",
+    "tags": [
+      "carne_vermelha",
+      "frango",
+      "grelhado"
+    ],
+    "data": "30/08/2026"
+  },
+  {
+    "id": "p-o-de-alho-caseiro-assado-no-forno-3aff76",
+    "titulo": "Pão de Alho Caseiro Assado no Forno",
+    "tags": [
+      "rapido",
+      "forno",
+      "vegetariano"
+    ],
+    "data": "30/08/2026"
+  },
+  {
+    "id": "bolo-de-cenoura-com-cobertura-de-chocola-591fc2",
+    "titulo": "Bolo de Cenoura com Cobertura de Chocolate Simples",
+    "tags": [
+      "sobremesa",
+      "forno"
+    ],
+    "data": "30/08/2026"
   }
 ]
