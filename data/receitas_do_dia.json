@@ -1,133 +1,165 @@
 {
-  "gerado_em": "31/08/2026",
+  "gerado_em": "01/09/2026",
   "diario": {
     "tipo": "diario",
-    "data": "31/08/2026",
-    "dia_semana": "segunda",
+    "data": "01/09/2026",
+    "dia_semana": "terça",
     "pratos": [
       {
-        "nome": "Estrogonofe de Carne",
+        "nome": "Almôndegas Assadas ao Molho de Tomate",
         "curso": "principal",
-        "tempo": "35 min",
-        "url": "https://www.panelinha.com.br/receita/estrogonofe-para-dois",
-        "porque": "Um clássico reconfortante, rápido de preparar na panela e rico em proteína da carne, ideal para uma refeição equilibrada.",
+        "tempo": "45 min",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGN38lseypCordTYhQvC4YKppKSdKwyXlCPUXQh0miT2ze8p4zKY5j3nZSEmKHSw9xtp9gjZ_jM48Bz9mq-Fr0WlnQFVw5QSKJXekW8AkO7TsFNy7y8YokZ1itkCgDd9gavDjkPwxcdgrorNlx7RqZrTT65IXjyzWaH",
+        "porque": "Encaixa porque são assadas no forno, evitando fritura, ricas em proteína e o molho de tomate complementa o equilíbrio nutricional, sendo um prato saboroso e que rende sobras.",
         "tags": [
           "carne_vermelha",
-          "rapido",
-          "refogado"
+          "forno",
+          "equilibrado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "250g de carne bovina (miolo de alcatra ou patinho) em tiras finas",
-          "1/2 cebola média picada",
-          "1 dente de alho picado",
-          "1 colher (sopa) de azeite",
-          "1 colher (sopa) de molho inglês",
-          "1/4 xícara (chá) de conhaque (opcional)",
-          "100g de cogumelos frescos fatiados",
-          "1/2 xícara (chá) de extrato de tomate",
-          "1/2 xícara (chá) de creme de leite fresco (ou de caixinha)",
-          "Sal e pimenta-do-reino a gosto"
+          "500g de carne moída",
+          "1/2 xícara de farinha de trigo",
+          "1 cebola média ralada",
+          "2 dentes de alho picados",
+          "1 ovo",
+          "Sal a gosto",
+          "2 xícaras de molho de tomate (pronto ou caseiro)",
+          "1/4 xícara de água",
+          "1/4 de xícara de queijo parmesão ralado (para polvilhar)",
+          "Orégano a gosto (para polvilhar)",
+          "Azeite para untar"
         ],
         "preparo": [
-          "Tempere a carne com sal e pimenta-do-reino.",
-          "Em uma panela média, aqueça o azeite em fogo médio-alto. Doure a carne em levas para não juntar água e reserve.",
-          "Na mesma panela, refogue a cebola e o alho até ficarem macios. Adicione o molho inglês e o conhaque (se usar), deixando evaporar.",
-          "Junte os cogumelos e o extrato de tomate, misture bem e cozinhe por 2 minutos.",
-          "Volte a carne para a panela, adicione o creme de leite e cozinhe em fogo médio, mexendo, até o molho engrossar (cerca de 5 minutos).",
-          "Sirva imediatamente, acompanhado de arroz branco e batata palha (opcional)."
+          "Em uma vasilha, misture a carne moída, a farinha de trigo, a cebola ralada, o alho picado, o ovo e o sal até obter uma massa homogênea.",
+          "Modele a massa em pequenas bolinhas (almôndegas) e coloque-as em um refratário untado com azeite.",
+          "Cubra o refratário com papel alumínio e leve ao forno pré-aquecido a 200ºC por 20 minutos.",
+          "Retire o papel alumínio, adicione o molho de tomate misturado com a água e retorne ao forno por mais 20 minutos.",
+          "Polvilhe queijo parmesão ralado e orégano a gosto antes de servir."
         ],
-        "id": "estrogonofe-de-carne-f31d88"
+        "id": "alm-ndegas-assadas-ao-molho-de-tomate-a557f0"
       },
       {
-        "nome": "Bife Grelhado com Vinagrete",
+        "nome": "Bife à Parmegiana Assado (sem fritura)",
         "curso": "principal",
-        "tempo": "20 min",
-        "url": "https://www.panelinha.com.br/receita/bife-grelhado-com-vinagrete",
-        "porque": "Uma opção extremamente rápida e com alta concentração de proteína, o bife é grelhado e o vinagrete adiciona frescor e vegetais.",
+        "tempo": "35 min",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUy51MRGHo1om76v4VFD6c_swEVuIJRSGPT0FNTMAltdhltUZ7PTocwRpI8vpdcd-Sz64yjClC_rPi-LckQJe1nZRW6ExOI2qP_jp2XoHNex6aoJlT5IEg5itb2JVdcDY8VXQXIfi5nlRzRfbScNuhRINcGoJGKHQaost-LUdYpEvdFlyOcOhY3wFyBa79xtiRg12DsnWaiM_qhGkcgSSSLf-3OkiRIqyNsDLV5-L8OLqEpCvXz_eJZ3TCc5S6uASQSl79Us2ong==",
+        "porque": "Esta versão assada do bife à parmegiana oferece o sabor clássico que o casal aprecia, com a vantagem de ser preparada no forno, evitando a fritura e mantendo a carne vermelha como preferência.",
         "tags": [
           "carne_vermelha",
-          "grelhado",
-          "rapido"
-        ],
-        "rende_sobra": false,
-        "ingredientes": [
-          "2 bifes de contrafilé ou alcatra (cerca de 180g cada)",
-          "1 colher (chá) de azeite",
-          "Tempero para carnes caseiro ou sal e pimenta-do-reino a gosto",
-          "Para o vinagrete:",
-          "1 tomate médio em cubos pequenos",
-          "1/4 cebola-roxa picada fino",
-          "2 colheres (sopa) de azeite",
-          "1/2 colher (sopa) de vinagre (de vinho branco ou maçã)",
-          "Salsinha picada a gosto",
-          "Sal e pimenta-do-reino a gosto"
-        ],
-        "preparo": [
-          "Para o vinagrete: Em uma tigela, misture o tomate, cebola, azeite, vinagre, salsinha, sal e pimenta. Reserve.",
-          "Retire os bifes da geladeira e deixe em temperatura ambiente por alguns minutos. Tempere os bifes com sal e pimenta (ou tempero caseiro).",
-          "Aqueça uma frigideira antiaderente em fogo alto com um fio de azeite.",
-          "Grelhe os bifes por 2-3 minutos de cada lado para o ponto desejado (malpassado a médio).",
-          "Sirva os bifes imediatamente acompanhados do vinagrete."
-        ],
-        "id": "bife-grelhado-com-vinagrete-0cfa78"
-      },
-      {
-        "nome": "Grão-de-bico Assado com Especiarias",
-        "curso": "entrada",
-        "tempo": "30 min",
-        "url": "https://www.panelinha.com.br/receita/grao-de-bico-assado-com-especiarias",
-        "porque": "Um petisco saudável, crocante e rico em fibras e proteína vegetal, preparado no forno sem fritura.",
-        "tags": [
-          "vegetariano",
           "forno",
           "rapido"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "1 lata de grão-de-bico cozido (cerca de 240g escorrido)",
-          "1 colher (sopa) de azeite",
-          "1 colher (chá) de páprica doce (ou picante, a gosto)",
-          "1/2 colher (chá) de cominho em pó",
-          "1/2 colher (chá) de alho em pó (opcional)",
-          "Sal e pimenta-do-reino a gosto"
+          "2 bifes de carne (alcatra ou contrafilé)",
+          "Sal e pimenta do reino a gosto",
+          "1 clara de ovo batida",
+          "1/2 xícara de farinha de trigo",
+          "1/2 xícara de farinha de rosca",
+          "1 xícara de molho de tomate (pronto ou caseiro)",
+          "100g de queijo mussarela fatiado",
+          "Manjericão fresco ou desidratado a gosto",
+          "Azeite para untar"
         ],
         "preparo": [
-          "Pré-aqueça o forno a 200°C. Escorra bem o grão-de-bico e seque-o com papel toalha.",
-          "Em uma tigela, misture o grão-de-bico com o azeite e as especiarias (páprica, cominho, alho em pó, sal e pimenta).",
-          "Espalhe o grão-de-bico temperado em uma assadeira em uma única camada.",
-          "Leve ao forno por cerca de 25-30 minutos, mexendo na metade do tempo, até ficarem crocantes e dourados."
+          "Tempere os bifes com sal e pimenta. Passe cada bife na farinha de trigo, depois na clara de ovo batida e, por último, na farinha de rosca, apertando bem.",
+          "Unte uma assadeira com azeite e acomode os bifes empanados. Regue com um fio de azeite por cima.",
+          "Leve ao forno pré-aquecido a 180°C por 8 minutos, virando os bifes na metade do tempo para dourar ambos os lados.",
+          "Retire do forno, cubra cada bife com o molho de tomate, fatias de queijo mussarela e polvilhe manjericão.",
+          "Retorne ao forno por mais 4-5 minutos, ou até o queijo derreter e gratinar levemente. Sirva imediatamente."
         ],
-        "id": "gr-o-de-bico-assado-com-especiarias-0189ee"
+        "id": "bife-parmegiana-assado-sem-fritura-094f79"
       },
       {
-        "nome": "Moça Gelada",
-        "curso": "sobremesa",
-        "tempo": "20 min",
-        "url": "https://www.tudogostoso.com.br/receita/313828-moca-gelada.html",
-        "porque": "Uma sobremesa deliciosa e refrescante que não vai ao forno, fácil de fazer e perfeita para um doce rápido após o jantar.",
+        "nome": "Frango Assado com Batatas e Ervas",
+        "curso": "principal",
+        "tempo": "20 min (preparo) + 40-50 min (forno)",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJCGE15CITSwfdf8iJYQdfFZudDR42hsnkzxXFBipYxxCSRc8f-suYrCPUNlhat4MQnbZV3kQETBsFV-kAdlLMn3XM9UU41EezcRFCN6KOmnnjJFPmajUwhkCrfokKCZ8DGJPYkIt8qZzhHrn-oplPKYAfxIwHQLW4fWVSwSUta5koR_Ts",
+        "porque": "É uma opção de frango prática e saborosa, assada no forno com batatas e ervas, garantindo uma refeição equilibrada com boa fonte de proteína e carboidratos, perfeita para o casal.",
         "tags": [
-          "rapido",
-          "sem_forno",
-          "sobremesa"
+          "frango",
+          "forno",
+          "equilibrado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "1 lata de leite condensado (395g)",
-          "1 caixinha de creme de leite (200g)",
-          "1/2 xícara (chá) de leite em pó",
-          "200g de chantilly líquido gelado (ou 1 caixinha de creme de leite fresco batido)",
-          "10 biscoitos de chocolate com recheio de baunilha (tipo Negresco) ou 100g de chocolate granulado/picado"
+          "1 frango inteiro (aprox. 1,5 kg) ou 800g de pedaços de frango (coxa e sobrecoxa)",
+          "4 batatas grandes (cortadas em cubos)",
+          "4 dentes de alho picados",
+          "Suco de 1 limão",
+          "4 colheres de sopa de azeite de oliva",
+          "2 colheres de chá de alecrim fresco picado",
+          "2 colheres de chá de tomilho fresco picado",
+          "1 colher de chá de páprica doce (opcional)",
+          "Sal e pimenta do reino a gosto"
         ],
         "preparo": [
-          "Em uma panela, misture o leite condensado, 1 caixinha de creme de leite e o leite em pó.",
-          "Leve ao fogo baixo, mexendo sempre, até obter um brigadeiro mole que comece a desgrudar do fundo da panela. Retire do fogo e deixe esfriar completamente.",
-          "Bata o chantilly líquido gelado (ou creme de leite fresco) até atingir o ponto de chantilly firme.",
-          "Com o brigadeiro já frio, adicione-o ao chantilly batido e misture delicadamente até incorporar.",
-          "Incorpore os biscoitos picados ou o chocolate granulado/picado à mistura.",
-          "Despeje em um refratário, cubra com plástico filme e leve à geladeira por no mínimo 4 horas, ou até firmar."
+          "Pré-aqueça o forno a 200°C. Em uma tigela pequena, misture o alho picado, suco de limão, 2 colheres de sopa de azeite, alecrim, tomilho, páprica, sal e pimenta.",
+          "Esfregue essa mistura sobre o frango (inteiro ou pedaços), cobrindo bem todos os lados. Deixe marinar por 15 minutos.",
+          "Em uma assadeira grande, coloque as batatas cortadas. Regue com o restante do azeite (2 colheres de sopa) e tempere com sal e pimenta. Misture bem.",
+          "Acomode o frango sobre as batatas na assadeira.",
+          "Leve ao forno pré-aquecido e asse por aproximadamente 40-50 minutos, virando o frango e mexendo as batatas na metade do tempo, até dourar e cozinhar completamente."
         ],
-        "id": "mo-a-gelada-12bb9b"
+        "id": "frango-assado-com-batatas-e-ervas-056666"
+      },
+      {
+        "nome": "Patê de Atum com Maionese Caseira e Hortelã",
+        "curso": "entrada",
+        "tempo": "15 min (preparo) + 30 min (geladeira)",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0K9R_PGTNOCrIzyvt7WpTehIG_3yWollyKpCh0rI1dEBQpsBeOFRuDYUrJX-Xyw4JMGz5iwLdvkzTYILigoIn3AqGVvSpy-1b3_MiF75hWWFMIebAsD2siTFc6oc656znM5gAmC-eFDevG4JCt1TL",
+        "porque": "É uma entrada rápida e prática, sem cozimento, que oferece proteína do atum e um toque refrescante de hortelã, ideal para iniciar a refeição.",
+        "tags": [
+          "rapido",
+          "low_carb",
+          "peixe"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "1 lata de atum ralado em água (170g)",
+          "1/2 xícara (chá) de maionese caseira (ou industrializada de boa qualidade)",
+          "1/2 cebola pequena (picada fino)",
+          "1 1/2 colher (sopa) de alcaparras (picadas fino, opcional)",
+          "Raspas de 1 limão",
+          "2 ramos de hortelã (picados fino)",
+          "1 colher (sopa) de azeite"
+        ],
+        "preparo": [
+          "Descasque e pique fino a cebola e as alcaparras (se usar).",
+          "Em uma frigideira pequena, aqueça o azeite em fogo médio, adicione a cebola e refogue por 2 minutos até murchar. Se usar, acrescente as alcaparras e mexa por 1 minuto. Transfira para uma tigela e deixe esfriar.",
+          "Abra a lata de atum, escorra bem a água e aperte com uma colher para remover o excesso de líquido.",
+          "Junte o atum à cebola refogada (já fria), adicione a maionese e as raspas de limão. Misture bem.",
+          "Leve à geladeira por pelo menos 30 minutos para firmar os sabores. Na hora de servir, misture a hortelã picada."
+        ],
+        "id": "pat-de-atum-com-maionese-caseira-e-horte-cdb7d9"
+      },
+      {
+        "nome": "Salada de Frutas Cremosa com Iogurte",
+        "curso": "sobremesa",
+        "tempo": "15 min (preparo) + 1-2h (geladeira)",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKiw05WM6ITNWqcqNvq365h4zXUtHfLRl5jSKKQzRdI5ene9hj7pN-shCelXw7vCUwvzH6tfCK3mdztLt7nigXOXwqR3M6l5r8QT8liFXpyWso4xOogaVn4RD4T5BUuOOgStF1htTi_kjXce0DSS38awGtCPjRTNgf7nZmpvYASfTkF8gfEwbqiR0fij4G-YcgvR73cx5qrcXtQxJHno01pVKLkz4g48rcTOakGYF_ljQBB60cw6yJGkZjNUNygkFHGwDpcdgLVpI7vv7Td4wV",
+        "porque": "Uma sobremesa leve, refrescante e nutritiva, que combina a doçura das frutas frescas com a cremosidade do iogurte, sendo prática e saudável para finalizar a refeição.",
+        "tags": [
+          "rapido",
+          "low_carb",
+          "vegetariano"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "2 xícaras de frutas variadas picadas (ex: manga, kiwi, banana, uva, morango, maçã)",
+          "1 lata de leite condensado (395g)",
+          "1 caixa de creme de leite (200g)",
+          "1 pote de iogurte natural (170g)",
+          "Suco de 1 laranja (ou limão)"
+        ],
+        "preparo": [
+          "Lave bem as frutas e corte-as em pedaços pequenos. Coloque-as em uma tigela grande.",
+          "Em outro recipiente, misture o leite condensado, o creme de leite, o iogurte natural e o suco de laranja (ou limão) até obter um creme homogêneo.",
+          "Despeje o creme sobre as frutas picadas e misture delicadamente para não amassá-las.",
+          "Cubra a tigela e leve à geladeira por pelo menos 1 a 2 horas para que o creme incorpore os sabores das frutas e fique bem gelado.",
+          "Sirva a salada de frutas cremosa bem gelada."
+        ],
+        "id": "salada-de-frutas-cremosa-com-iogurte-3369f5"
       }
     ]
   },

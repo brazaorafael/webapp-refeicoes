@@ -3898,5 +3898,55 @@
       "rapido"
     ],
     "data": "31/08/2026"
+  },
+  {
+    "id": "alm-ndegas-assadas-ao-molho-de-tomate-a557f0",
+    "titulo": "Almôndegas Assadas ao Molho de Tomate",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "equilibrado"
+    ],
+    "data": "01/09/2026"
+  },
+  {
+    "id": "bife-parmegiana-assado-sem-fritura-094f79",
+    "titulo": "Bife à Parmegiana Assado (sem fritura)",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "rapido"
+    ],
+    "data": "01/09/2026"
+  },
+  {
+    "id": "frango-assado-com-batatas-e-ervas-056666",
+    "titulo": "Frango Assado com Batatas e Ervas",
+    "tags": [
+      "frango",
+      "forno",
+      "equilibrado"
+    ],
+    "data": "01/09/2026"
+  },
+  {
+    "id": "pat-de-atum-com-maionese-caseira-e-horte-cdb7d9",
+    "titulo": "Patê de Atum com Maionese Caseira e Hortelã",
+    "tags": [
+      "rapido",
+      "low_carb",
+      "peixe"
+    ],
+    "data": "01/09/2026"
+  },
+  {
+    "id": "salada-de-frutas-cremosa-com-iogurte-3369f5",
+    "titulo": "Salada de Frutas Cremosa com Iogurte",
+    "tags": [
+      "rapido",
+      "low_carb",
+      "vegetariano"
+    ],
+    "data": "01/09/2026"
   }
 ]
