@@ -3948,5 +3948,35 @@
       "vegetariano"
     ],
     "data": "01/09/2026"
+  },
+  {
+    "id": "bife-de-panela-com-batatas-e-cenouras-139d81",
+    "titulo": "Bife de Panela com Batatas e Cenouras",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "equilibrado"
+    ],
+    "data": "02/09/2026"
+  },
+  {
+    "id": "salada-caprese-desconstru-da-c5e4ad",
+    "titulo": "Salada Caprese Desconstruída",
+    "tags": [
+      "salada",
+      "rapido",
+      "vegetariano"
+    ],
+    "data": "02/09/2026"
+  },
+  {
+    "id": "ma-s-assadas-com-canela-216478",
+    "titulo": "Maçãs Assadas com Canela",
+    "tags": [
+      "sobremesa",
+      "forno",
+      "rapido"
+    ],
+    "data": "02/09/2026"
   }
 ]

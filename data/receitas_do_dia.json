@@ -1,16 +1,16 @@
 {
-  "gerado_em": "01/09/2026",
+  "gerado_em": "02/09/2026",
   "diario": {
     "tipo": "diario",
-    "data": "01/09/2026",
-    "dia_semana": "terça",
+    "data": "02/09/2026",
+    "dia_semana": "quarta",
     "pratos": [
       {
-        "nome": "Almôndegas Assadas ao Molho de Tomate",
+        "nome": "Escondidinho de Carne Moída",
         "curso": "principal",
-        "tempo": "45 min",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGN38lseypCordTYhQvC4YKppKSdKwyXlCPUXQh0miT2ze8p4zKY5j3nZSEmKHSw9xtp9gjZ_jM48Bz9mq-Fr0WlnQFVw5QSKJXekW8AkO7TsFNy7y8YokZ1itkCgDd9gavDjkPwxcdgrorNlx7RqZrTT65IXjyzWaH",
-        "porque": "Encaixa porque são assadas no forno, evitando fritura, ricas em proteína e o molho de tomate complementa o equilíbrio nutricional, sendo um prato saboroso e que rende sobras.",
+        "tempo": "50 min",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHm86yNjtKmzcEGeDptEHrxoKNy_AwKkfeJmM5snTywhKmAtreDpMRTuNajuUIZh80mLqO92nkC-0aFQHIUbwJc6nFSj5PxNpAuGlqmgp0mmG4_mRG2_7eRlGWtS_wK0nauf698_9aTnz00-OjLmf5DPn3AYc7lL4uYtNnk0HOjJuh0TWVNPmt1Qfqnd6atWkc_k4o",
+        "porque": "Um clássico brasileiro fácil de montar e assar no forno, rico em proteína e carboidrato, ideal para sobras.",
         "tags": [
           "carne_vermelha",
           "forno",
@@ -18,148 +18,118 @@
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "500g de carne moída",
-          "1/2 xícara de farinha de trigo",
-          "1 cebola média ralada",
-          "2 dentes de alho picados",
-          "1 ovo",
+          "1 kg de batatas",
+          "2 colheres (sopa) de manteiga",
+          "~1/2 xícara (chá) de leite",
           "Sal a gosto",
-          "2 xícaras de molho de tomate (pronto ou caseiro)",
-          "1/4 xícara de água",
-          "1/4 de xícara de queijo parmesão ralado (para polvilhar)",
-          "Orégano a gosto (para polvilhar)",
-          "Azeite para untar"
+          "500g de carne moída",
+          "1 cebola picada",
+          "2 dentes de alho amassados",
+          "1/2 xícara (chá) de molho de tomate",
+          "Azeite para refogar",
+          "Pimenta do reino a gosto",
+          "Cheiro-verde a gosto",
+          "200g de muçarela ralada"
         ],
         "preparo": [
-          "Em uma vasilha, misture a carne moída, a farinha de trigo, a cebola ralada, o alho picado, o ovo e o sal até obter uma massa homogênea.",
-          "Modele a massa em pequenas bolinhas (almôndegas) e coloque-as em um refratário untado com azeite.",
-          "Cubra o refratário com papel alumínio e leve ao forno pré-aquecido a 200ºC por 20 minutos.",
-          "Retire o papel alumínio, adicione o molho de tomate misturado com a água e retorne ao forno por mais 20 minutos.",
-          "Polvilhe queijo parmesão ralado e orégano a gosto antes de servir."
+          "Cozinhe as batatas até ficarem bem macias. Amasse e misture com a manteiga, o leite e o sal para fazer um purê. Reserve.",
+          "Em uma panela, aqueça um fio de azeite e refogue a cebola e o alho até murcharem.",
+          "Adicione a carne moída e cozinhe em fogo alto, mexendo sempre, até dourar bem. Tempere com sal, pimenta e o molho de tomate.",
+          "Acrescente o cheiro-verde e misture. Em um refratário, espalhe metade do purê, cubra com a carne refogada e finalize com o restante do purê.",
+          "Cubra com a muçarela ralada e leve ao forno pré-aquecido a 180°C por cerca de 20 minutos, ou até gratinar."
         ],
-        "id": "alm-ndegas-assadas-ao-molho-de-tomate-a557f0"
+        "id": "escondidinho-de-carne-mo-da-177454"
       },
       {
-        "nome": "Bife à Parmegiana Assado (sem fritura)",
+        "nome": "Bife de Panela com Batatas e Cenouras",
         "curso": "principal",
-        "tempo": "35 min",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUy51MRGHo1om76v4VFD6c_swEVuIJRSGPT0FNTMAltdhltUZ7PTocwRpI8vpdcd-Sz64yjClC_rPi-LckQJe1nZRW6ExOI2qP_jp2XoHNex6aoJlT5IEg5itb2JVdcDY8VXQXIfi5nlRzRfbScNuhRINcGoJGKHQaost-LUdYpEvdFlyOcOhY3wFyBa79xtiRg12DsnWaiM_qhGkcgSSSLf-3OkiRIqyNsDLV5-L8OLqEpCvXz_eJZ3TCc5S6uASQSl79Us2ong==",
-        "porque": "Esta versão assada do bife à parmegiana oferece o sabor clássico que o casal aprecia, com a vantagem de ser preparada no forno, evitando a fritura e mantendo a carne vermelha como preferência.",
+        "tempo": "45 min",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFc4dkkEmPCtgcZQQblpJLSFU2XjJ2HVOY6LoizGUxAcoMhddsbiAVT_J5xiaYoLwZ7CBGyY3BzB76Sh-YJGR1ZzWxScblZD_deY8Wd2Uy3bXVKKQ4vhsonsRLmB3Iuxe2bgJaP5ddxXwT7xFP0vQ7MjcD0iBuOKK0B9-q0-DyFvyboi-NML16cyYcbI-YVnU75EJc",
+        "porque": "Prato feito em uma panela só, com a carne vermelha preferida do casal, legumes cozidos juntos para equilíbrio e que rende sobras.",
         "tags": [
           "carne_vermelha",
+          "rapido",
+          "equilibrado"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "4 bifes (patinho, alcatra ou coxão duro)",
+          "1/2 cenoura",
+          "1 batata grande",
+          "1/2 lata de tomate pelado",
+          "1 xícara de caldo de legumes",
+          "3 dentes de alho picados",
+          "1/2 colher (chá) de páprica doce",
+          "Sal a gosto",
+          "Pimenta a gosto",
+          "Cominho a gosto",
+          "Azeite"
+        ],
+        "preparo": [
+          "Tempere os bifes com sal, pimenta e cominho a gosto. Pique o alho, descasque e corte a cenoura e a batata em pedaços menores.",
+          "Em uma panela em fogo médio, despeje um fio de azeite e sele todos os bifes dos dois lados. Retire e reserve.",
+          "Na mesma panela, adicione o alho e a páprica. Misture raspando o fundo para pegar o sabor da carne. Junte o tomate pelado.",
+          "Retorne os bifes à panela, adicione a batata e a cenoura cortadas. Despeje o caldo de legumes.",
+          "Mexa delicadamente, tampe e cozinhe até a batata e a cenoura ficarem macias e o molho encorpado. Sirva quente."
+        ],
+        "id": "bife-de-panela-com-batatas-e-cenouras-139d81"
+      },
+      {
+        "nome": "Salada Caprese Desconstruída",
+        "curso": "entrada",
+        "tempo": "10 min",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQER4z4VFZHWDa3qGmSAEaF1J-_MXJ9z1BmU7fr12mVrfoNjM_8ITtKRyAyLV_n2P80fGA78QDffYhBvU1P9uokn7qrCfqBx7uZNeUvvn5xEtJmsqabxuk1xwVhq6GzXdIFBkGFmHCL2ijduaiZrdY7ODiA=",
+        "porque": "Extremamente fácil e rápida de preparar, com ingredientes frescos e saborosos, perfeita para abrir o apetite.",
+        "tags": [
+          "salada",
+          "rapido",
+          "vegetariano"
+        ],
+        "rende_sobra": false,
+        "ingredientes": [
+          "2 bolas grandes de burrata (ou 4 pequenas de muçarela de búfala)",
+          "1 xícara de tomate cereja cortado ao meio",
+          "3 colheres (sopa) de pesto pronto",
+          "Azeite extra virgem a gosto",
+          "Sal marinho a gosto",
+          "Mix de folhas verdes (opcional)"
+        ],
+        "preparo": [
+          "Em uma travessa ou prato grande, coloque as bolinhas de burrata (ou muçarela de búfala).",
+          "Adicione os tomates cereja cortados ao meio ao redor da burrata e polvilhe com sal marinho.",
+          "Distribua pequenas porções de pesto sobre os tomates e a burrata.",
+          "Regue com um bom azeite extra virgem. Opcionalmente, adicione algumas folhas de mix de primavera para um toque verde.",
+          "Sirva imediatamente."
+        ],
+        "id": "salada-caprese-desconstru-da-c5e4ad"
+      },
+      {
+        "nome": "Maçãs Assadas com Canela",
+        "curso": "sobremesa",
+        "tempo": "35 min",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRUMtYoijjQ09pZg1OhRZTxyivr4okbQmN2acZs7fQMCwgHll2maCi7tt-QhAtcCCcSZLy_BJCDwg4Bqt5Tt6UEiLQkNfatHPSHvgaFAwRK5GkrmiqG75cdnmIDJryb-9NLD6UCEJZ75iQHJ0cExHsUE8=",
+        "porque": "Sobremesa saudável, leve e muito fácil de fazer no forno, com preparo mínimo e sabor reconfortante.",
+        "tags": [
+          "sobremesa",
           "forno",
           "rapido"
         ],
-        "rende_sobra": true,
+        "rende_sobra": false,
         "ingredientes": [
-          "2 bifes de carne (alcatra ou contrafilé)",
-          "Sal e pimenta do reino a gosto",
-          "1 clara de ovo batida",
-          "1/2 xícara de farinha de trigo",
-          "1/2 xícara de farinha de rosca",
-          "1 xícara de molho de tomate (pronto ou caseiro)",
-          "100g de queijo mussarela fatiado",
-          "Manjericão fresco ou desidratado a gosto",
-          "Azeite para untar"
+          "4 maçãs (Reineta ou similar)",
+          "4 colheres (chá) de açúcar mascavado (ou mel, opcional)",
+          "Canela em pó a gosto",
+          "2 paus de canela (opcional)",
+          "1/4 xícara (chá) de água"
         ],
         "preparo": [
-          "Tempere os bifes com sal e pimenta. Passe cada bife na farinha de trigo, depois na clara de ovo batida e, por último, na farinha de rosca, apertando bem.",
-          "Unte uma assadeira com azeite e acomode os bifes empanados. Regue com um fio de azeite por cima.",
-          "Leve ao forno pré-aquecido a 180°C por 8 minutos, virando os bifes na metade do tempo para dourar ambos os lados.",
-          "Retire do forno, cubra cada bife com o molho de tomate, fatias de queijo mussarela e polvilhe manjericão.",
-          "Retorne ao forno por mais 4-5 minutos, ou até o queijo derreter e gratinar levemente. Sirva imediatamente."
+          "Pré-aqueça o forno a 180°C. Lave bem as maçãs e retire os caroços com um descaroçador, tendo cuidado para não furar o fundo.",
+          "Disponha as maçãs num tabuleiro de forno. Coloque uma colher de chá de açúcar mascavado (ou um fio de mel) no centro de cada maçã.",
+          "Polvilhe generosamente com canela em pó e adicione os paus de canela ao tabuleiro, se usar.",
+          "Regue o fundo do tabuleiro com a água.",
+          "Leve ao forno por 30 a 40 minutos, ou até as maçãs estarem tenras e levemente douradas. Sirva mornas."
         ],
-        "id": "bife-parmegiana-assado-sem-fritura-094f79"
-      },
-      {
-        "nome": "Frango Assado com Batatas e Ervas",
-        "curso": "principal",
-        "tempo": "20 min (preparo) + 40-50 min (forno)",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJCGE15CITSwfdf8iJYQdfFZudDR42hsnkzxXFBipYxxCSRc8f-suYrCPUNlhat4MQnbZV3kQETBsFV-kAdlLMn3XM9UU41EezcRFCN6KOmnnjJFPmajUwhkCrfokKCZ8DGJPYkIt8qZzhHrn-oplPKYAfxIwHQLW4fWVSwSUta5koR_Ts",
-        "porque": "É uma opção de frango prática e saborosa, assada no forno com batatas e ervas, garantindo uma refeição equilibrada com boa fonte de proteína e carboidratos, perfeita para o casal.",
-        "tags": [
-          "frango",
-          "forno",
-          "equilibrado"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "1 frango inteiro (aprox. 1,5 kg) ou 800g de pedaços de frango (coxa e sobrecoxa)",
-          "4 batatas grandes (cortadas em cubos)",
-          "4 dentes de alho picados",
-          "Suco de 1 limão",
-          "4 colheres de sopa de azeite de oliva",
-          "2 colheres de chá de alecrim fresco picado",
-          "2 colheres de chá de tomilho fresco picado",
-          "1 colher de chá de páprica doce (opcional)",
-          "Sal e pimenta do reino a gosto"
-        ],
-        "preparo": [
-          "Pré-aqueça o forno a 200°C. Em uma tigela pequena, misture o alho picado, suco de limão, 2 colheres de sopa de azeite, alecrim, tomilho, páprica, sal e pimenta.",
-          "Esfregue essa mistura sobre o frango (inteiro ou pedaços), cobrindo bem todos os lados. Deixe marinar por 15 minutos.",
-          "Em uma assadeira grande, coloque as batatas cortadas. Regue com o restante do azeite (2 colheres de sopa) e tempere com sal e pimenta. Misture bem.",
-          "Acomode o frango sobre as batatas na assadeira.",
-          "Leve ao forno pré-aquecido e asse por aproximadamente 40-50 minutos, virando o frango e mexendo as batatas na metade do tempo, até dourar e cozinhar completamente."
-        ],
-        "id": "frango-assado-com-batatas-e-ervas-056666"
-      },
-      {
-        "nome": "Patê de Atum com Maionese Caseira e Hortelã",
-        "curso": "entrada",
-        "tempo": "15 min (preparo) + 30 min (geladeira)",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0K9R_PGTNOCrIzyvt7WpTehIG_3yWollyKpCh0rI1dEBQpsBeOFRuDYUrJX-Xyw4JMGz5iwLdvkzTYILigoIn3AqGVvSpy-1b3_MiF75hWWFMIebAsD2siTFc6oc656znM5gAmC-eFDevG4JCt1TL",
-        "porque": "É uma entrada rápida e prática, sem cozimento, que oferece proteína do atum e um toque refrescante de hortelã, ideal para iniciar a refeição.",
-        "tags": [
-          "rapido",
-          "low_carb",
-          "peixe"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "1 lata de atum ralado em água (170g)",
-          "1/2 xícara (chá) de maionese caseira (ou industrializada de boa qualidade)",
-          "1/2 cebola pequena (picada fino)",
-          "1 1/2 colher (sopa) de alcaparras (picadas fino, opcional)",
-          "Raspas de 1 limão",
-          "2 ramos de hortelã (picados fino)",
-          "1 colher (sopa) de azeite"
-        ],
-        "preparo": [
-          "Descasque e pique fino a cebola e as alcaparras (se usar).",
-          "Em uma frigideira pequena, aqueça o azeite em fogo médio, adicione a cebola e refogue por 2 minutos até murchar. Se usar, acrescente as alcaparras e mexa por 1 minuto. Transfira para uma tigela e deixe esfriar.",
-          "Abra a lata de atum, escorra bem a água e aperte com uma colher para remover o excesso de líquido.",
-          "Junte o atum à cebola refogada (já fria), adicione a maionese e as raspas de limão. Misture bem.",
-          "Leve à geladeira por pelo menos 30 minutos para firmar os sabores. Na hora de servir, misture a hortelã picada."
-        ],
-        "id": "pat-de-atum-com-maionese-caseira-e-horte-cdb7d9"
-      },
-      {
-        "nome": "Salada de Frutas Cremosa com Iogurte",
-        "curso": "sobremesa",
-        "tempo": "15 min (preparo) + 1-2h (geladeira)",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKiw05WM6ITNWqcqNvq365h4zXUtHfLRl5jSKKQzRdI5ene9hj7pN-shCelXw7vCUwvzH6tfCK3mdztLt7nigXOXwqR3M6l5r8QT8liFXpyWso4xOogaVn4RD4T5BUuOOgStF1htTi_kjXce0DSS38awGtCPjRTNgf7nZmpvYASfTkF8gfEwbqiR0fij4G-YcgvR73cx5qrcXtQxJHno01pVKLkz4g48rcTOakGYF_ljQBB60cw6yJGkZjNUNygkFHGwDpcdgLVpI7vv7Td4wV",
-        "porque": "Uma sobremesa leve, refrescante e nutritiva, que combina a doçura das frutas frescas com a cremosidade do iogurte, sendo prática e saudável para finalizar a refeição.",
-        "tags": [
-          "rapido",
-          "low_carb",
-          "vegetariano"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "2 xícaras de frutas variadas picadas (ex: manga, kiwi, banana, uva, morango, maçã)",
-          "1 lata de leite condensado (395g)",
-          "1 caixa de creme de leite (200g)",
-          "1 pote de iogurte natural (170g)",
-          "Suco de 1 laranja (ou limão)"
-        ],
-        "preparo": [
-          "Lave bem as frutas e corte-as em pedaços pequenos. Coloque-as em uma tigela grande.",
-          "Em outro recipiente, misture o leite condensado, o creme de leite, o iogurte natural e o suco de laranja (ou limão) até obter um creme homogêneo.",
-          "Despeje o creme sobre as frutas picadas e misture delicadamente para não amassá-las.",
-          "Cubra a tigela e leve à geladeira por pelo menos 1 a 2 horas para que o creme incorpore os sabores das frutas e fique bem gelado.",
-          "Sirva a salada de frutas cremosa bem gelada."
-        ],
-        "id": "salada-de-frutas-cremosa-com-iogurte-3369f5"
+        "id": "ma-s-assadas-com-canela-216478"
       }
     ]
   },
