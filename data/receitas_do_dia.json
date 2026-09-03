@@ -1,135 +1,134 @@
 {
-  "gerado_em": "02/09/2026",
+  "gerado_em": "03/09/2026",
   "diario": {
     "tipo": "diario",
-    "data": "02/09/2026",
-    "dia_semana": "quarta",
+    "data": "03/09/2026",
+    "dia_semana": "quinta",
     "pratos": [
       {
-        "nome": "Escondidinho de Carne Moída",
+        "nome": "Bife de Contrafilé na Chapa com Batata Rústica Assada e Salada Verde",
         "curso": "principal",
-        "tempo": "50 min",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHm86yNjtKmzcEGeDptEHrxoKNy_AwKkfeJmM5snTywhKmAtreDpMRTuNajuUIZh80mLqO92nkC-0aFQHIUbwJc6nFSj5PxNpAuGlqmgp0mmG4_mRG2_7eRlGWtS_wK0nauf698_9aTnz00-OjLmf5DPn3AYc7lL4uYtNnk0HOjJuh0TWVNPmt1Qfqnd6atWkc_k4o",
-        "porque": "Um clássico brasileiro fácil de montar e assar no forno, rico em proteína e carboidrato, ideal para sobras.",
+        "tempo": "40 min",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHU54FHB66q1MfYKptcII35Lmu-geGOvNjcEo89Ah3Je1x-WSapzl_VmIg-guPuir47KLCHWlxXkl1goAv9PK8fxRZoK7daVU4Z-Rc04wfnK_Pre1ha_fsF0T9ZL1afYkMS_U4zaLVTOiow3qWpMSn1gK9kw0CBmMptoqLdy_6ofNphlYlzIvbv-O_ZCqkvF5KbkDwRh6itPQlcr1mYawvr2Tua95VJFR5s-qsl",
+        "porque": "É um prato clássico com carne vermelha, rápido de preparar na chapa, acompanhado de batatas assadas e uma salada fresca para um jantar equilibrado e com pouca fritura.",
         "tags": [
           "carne_vermelha",
-          "forno",
+          "grelhado",
+          "rapido",
           "equilibrado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "1 kg de batatas",
-          "2 colheres (sopa) de manteiga",
-          "~1/2 xícara (chá) de leite",
-          "Sal a gosto",
-          "500g de carne moída",
-          "1 cebola picada",
-          "2 dentes de alho amassados",
-          "1/2 xícara (chá) de molho de tomate",
-          "Azeite para refogar",
-          "Pimenta do reino a gosto",
-          "Cheiro-verde a gosto",
-          "200g de muçarela ralada"
+          "400g de contrafilé (2 bifes de ~200g)",
+          "4 batatas médias",
+          "1 dente de alho picado",
+          "2 colheres (sopa) de azeite",
+          "Sal e pimenta-do-reino a gosto",
+          "Páprica defumada a gosto (para a batata)",
+          "1/2 maço de folhas verdes (alface, rúcula)",
+          "1 tomate pequeno",
+          "Vinagre balsâmico ou limão (para a salada)"
         ],
         "preparo": [
-          "Cozinhe as batatas até ficarem bem macias. Amasse e misture com a manteiga, o leite e o sal para fazer um purê. Reserve.",
-          "Em uma panela, aqueça um fio de azeite e refogue a cebola e o alho até murcharem.",
-          "Adicione a carne moída e cozinhe em fogo alto, mexendo sempre, até dourar bem. Tempere com sal, pimenta e o molho de tomate.",
-          "Acrescente o cheiro-verde e misture. Em um refratário, espalhe metade do purê, cubra com a carne refogada e finalize com o restante do purê.",
-          "Cubra com a muçarela ralada e leve ao forno pré-aquecido a 180°C por cerca de 20 minutos, ou até gratinar."
+          "Corte as batatas em gomos com a casca. Cozinhe em água e sal por 5 minutos após ferver para pré-cozinhar. Escorra bem.",
+          "Tempere as batatas pré-cozidas com azeite, sal, pimenta-do-reino e páprica. Leve ao forno preaquecido a 200°C por cerca de 25-30 minutos, virando na metade do tempo, até dourarem e ficarem crocantes.",
+          "Tempere os bifes de contrafilé com sal, pimenta-do-reino e alho picado.",
+          "Aqueça uma frigideira ou chapa em fogo alto com um fio de azeite. Grelhe os bifes por 3-4 minutos de cada lado para médio-mal, ou ao seu gosto. Deixe descansar por 5 minutos antes de fatiar.",
+          "Lave as folhas verdes e o tomate. Monte uma salada simples com as folhas, tomate em rodelas e tempere com azeite e vinagre/limão.",
+          "Sirva os bifes fatiados com as batatas rústicas e a salada verde."
         ],
-        "id": "escondidinho-de-carne-mo-da-177454"
+        "id": "bife-de-contrafil-na-chapa-com-batata-r--448e88"
       },
       {
-        "nome": "Bife de Panela com Batatas e Cenouras",
+        "nome": "Escondidinho de Carne Moída com Purê de Batata",
         "curso": "principal",
         "tempo": "45 min",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFc4dkkEmPCtgcZQQblpJLSFU2XjJ2HVOY6LoizGUxAcoMhddsbiAVT_J5xiaYoLwZ7CBGyY3BzB76Sh-YJGR1ZzWxScblZD_deY8Wd2Uy3bXVKKQ4vhsonsRLmB3Iuxe2bgJaP5ddxXwT7xFP0vQ7MjcD0iBuOKK0B9-q0-DyFvyboi-NML16cyYcbI-YVnU75EJc",
-        "porque": "Prato feito em uma panela só, com a carne vermelha preferida do casal, legumes cozidos juntos para equilíbrio e que rende sobras.",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYZQGF0oMVBIwV9T3ASq-u-ZasnomyNDzCQT6hs166UlPyUC7NLzbllzXhdnVH8rAHgtRPFGT414h0iYb08YeP5SArdo-QfG8jbvM1dEa83jqbPUERY2BzhYu4NeJs1GNt5gMtugmePqlDXzcdtpS7lexaGsEl9-Ao7di4kTx41bX-Vk7bWkkZLnXCkADH_2WErNTj",
+        "porque": "Um prato clássico e reconfortante, com carne vermelha e purê, assado no forno para uma refeição completa, prática e que rende excelentes sobras.",
         "tags": [
           "carne_vermelha",
-          "rapido",
+          "forno",
           "equilibrado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "4 bifes (patinho, alcatra ou coxão duro)",
-          "1/2 cenoura",
-          "1 batata grande",
-          "1/2 lata de tomate pelado",
-          "1 xícara de caldo de legumes",
-          "3 dentes de alho picados",
-          "1/2 colher (chá) de páprica doce",
-          "Sal a gosto",
-          "Pimenta a gosto",
-          "Cominho a gosto",
-          "Azeite"
+          "600g de carne moída",
+          "1 cebola picada",
+          "2 dentes de alho picados",
+          "2 tomates picados",
+          "3 colheres (sopa) de óleo ou azeite",
+          "Sal, pimenta-do-reino e cheiro-verde a gosto",
+          "6 batatas médias",
+          "2 colheres (sopa) de manteiga",
+          "1/2 xícara (chá) de leite",
+          "200g de queijo muçarela ralado"
         ],
         "preparo": [
-          "Tempere os bifes com sal, pimenta e cominho a gosto. Pique o alho, descasque e corte a cenoura e a batata em pedaços menores.",
-          "Em uma panela em fogo médio, despeje um fio de azeite e sele todos os bifes dos dois lados. Retire e reserve.",
-          "Na mesma panela, adicione o alho e a páprica. Misture raspando o fundo para pegar o sabor da carne. Junte o tomate pelado.",
-          "Retorne os bifes à panela, adicione a batata e a cenoura cortadas. Despeje o caldo de legumes.",
-          "Mexa delicadamente, tampe e cozinhe até a batata e a cenoura ficarem macias e o molho encorpado. Sirva quente."
+          "Cozinhe as batatas em água e sal até ficarem bem macias. Amasse e misture com a manteiga, o leite e o sal até obter um purê homogêneo. Reserve.",
+          "Em uma panela, refogue a cebola e o alho no óleo ou azeite. Adicione a carne moída e deixe dourar, mexendo para soltar.",
+          "Acrescente os tomates picados, tempere com sal e pimenta-do-reino, e cozinhe até formar um molho encorpado. Finalize com cheiro-verde picado.",
+          "Em um refratário, faça uma camada com metade do purê de batata, espalhe toda a carne moída por cima e cubra com o restante do purê.",
+          "Finalize com o queijo muçarela ralado e leve ao forno preaquecido a 200°C por cerca de 10 minutos, ou até gratinar."
         ],
-        "id": "bife-de-panela-com-batatas-e-cenouras-139d81"
+        "id": "escondidinho-de-carne-mo-da-com-pur-de-b-cefa65"
       },
       {
-        "nome": "Salada Caprese Desconstruída",
+        "nome": "Palitos de Cenoura e Pepino com Hummus Caseiro",
         "curso": "entrada",
-        "tempo": "10 min",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQER4z4VFZHWDa3qGmSAEaF1J-_MXJ9z1BmU7fr12mVrfoNjM_8ITtKRyAyLV_n2P80fGA78QDffYhBvU1P9uokn7qrCfqBx7uZNeUvvn5xEtJmsqabxuk1xwVhq6GzXdIFBkGFmHCL2ijduaiZrdY7ODiA=",
-        "porque": "Extremamente fácil e rápida de preparar, com ingredientes frescos e saborosos, perfeita para abrir o apetite.",
+        "tempo": "20 min",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgzV0TohvlUCuKK8jGdw5kAdqwc9qj_GbnzGEYoySGMGlstFtwO41zCH9oC2sfEvdrSxGatAzT4l84B-336qc3BPlGCTIM_7vJePm9B7yQPhx-t_5vj6MzkDhllUa-Q0UV40IpJR8gIhVqD3kvNjMtu9scYo-kO8FpDjM9xwDGbqgUL84zhF4ZEDD6GrtUy-7TUOFLDtMgR0PtfWhBEUHSPG_C",
+        "porque": "Uma entrada leve, fresca e saudável, de preparo rápido e sem fritura, ideal para abrir o apetite.",
         "tags": [
-          "salada",
+          "vegetariano",
           "rapido",
-          "vegetariano"
+          "low_carb"
         ],
-        "rende_sobra": false,
+        "rende_sobra": true,
         "ingredientes": [
-          "2 bolas grandes de burrata (ou 4 pequenas de muçarela de búfala)",
-          "1 xícara de tomate cereja cortado ao meio",
-          "3 colheres (sopa) de pesto pronto",
-          "Azeite extra virgem a gosto",
-          "Sal marinho a gosto",
-          "Mix de folhas verdes (opcional)"
+          "1 lata de grão-de-bico cozido (cerca de 240g escorrido)",
+          "1 dente de alho pequeno",
+          "2 colheres (sopa) de tahini (pasta de gergelim)",
+          "Suco de 1/2 limão",
+          "3 colheres (sopa) de azeite extra virgem",
+          "2-3 colheres (sopa) de água (ou da água do cozimento do grão)",
+          "Sal a gosto",
+          "Páprica doce para polvilhar (opcional)",
+          "1 cenoura média",
+          "1/2 pepino"
         ],
         "preparo": [
-          "Em uma travessa ou prato grande, coloque as bolinhas de burrata (ou muçarela de búfala).",
-          "Adicione os tomates cereja cortados ao meio ao redor da burrata e polvilhe com sal marinho.",
-          "Distribua pequenas porções de pesto sobre os tomates e a burrata.",
-          "Regue com um bom azeite extra virgem. Opcionalmente, adicione algumas folhas de mix de primavera para um toque verde.",
-          "Sirva imediatamente."
+          "Escorra o grão-de-bico e reserve um pouco da água do cozimento.",
+          "No processador, coloque o grão-de-bico, o alho, o tahini, o suco de limão, 2 colheres de azeite e o sal. Bata até obter uma pasta.",
+          "Adicione a água aos poucos, batendo até atingir a consistência desejada. Prove e ajuste o sal e o limão.",
+          "Descasque a cenoura e o pepino. Corte-os em palitos.",
+          "Transfira o hummus para uma tigela, regue com um fio de azeite e polvilhe com páprica (se usar). Sirva com os palitos de cenoura e pepino."
         ],
-        "id": "salada-caprese-desconstru-da-c5e4ad"
+        "id": "palitos-de-cenoura-e-pepino-com-hummus-c-a86aca"
       },
       {
-        "nome": "Maçãs Assadas com Canela",
+        "nome": "Creme de Papaia com Cassis",
         "curso": "sobremesa",
-        "tempo": "35 min",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRUMtYoijjQ09pZg1OhRZTxyivr4okbQmN2acZs7fQMCwgHll2maCi7tt-QhAtcCCcSZLy_BJCDwg4Bqt5Tt6UEiLQkNfatHPSHvgaFAwRK5GkrmiqG75cdnmIDJryb-9NLD6UCEJZ75iQHJ0cExHsUE8=",
-        "porque": "Sobremesa saudável, leve e muito fácil de fazer no forno, com preparo mínimo e sabor reconfortante.",
+        "tempo": "15 min",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFecyejvWXDe2L653PK7cmsJLG-bP8H9rGBNLjzw3YG0S_TdNZd7in3AEKT7Jg71ZYV6TVGbxiDU_mI3M1CJMmY5os2XDyYxY0FAeKzqoM4Tlkk_pHx4dPJx_F2gcISa_WU_BJ6nm4Gr2kiOAUEq7x4o2d87uZEblhuISsu",
+        "porque": "Uma sobremesa clássica, leve, refrescante e muito rápida de preparar, ideal para finalizar a refeição de forma suave.",
         "tags": [
-          "sobremesa",
-          "forno",
-          "rapido"
+          "rapido",
+          "equilibrado"
         ],
         "rende_sobra": false,
         "ingredientes": [
-          "4 maçãs (Reineta ou similar)",
-          "4 colheres (chá) de açúcar mascavado (ou mel, opcional)",
-          "Canela em pó a gosto",
-          "2 paus de canela (opcional)",
-          "1/4 xícara (chá) de água"
+          "2 mamões papaias médios",
+          "500ml de sorvete de creme",
+          "Licor de cassis a gosto (25ml por porção)"
         ],
         "preparo": [
-          "Pré-aqueça o forno a 180°C. Lave bem as maçãs e retire os caroços com um descaroçador, tendo cuidado para não furar o fundo.",
-          "Disponha as maçãs num tabuleiro de forno. Coloque uma colher de chá de açúcar mascavado (ou um fio de mel) no centro de cada maçã.",
-          "Polvilhe generosamente com canela em pó e adicione os paus de canela ao tabuleiro, se usar.",
-          "Regue o fundo do tabuleiro com a água.",
-          "Leve ao forno por 30 a 40 minutos, ou até as maçãs estarem tenras e levemente douradas. Sirva mornas."
+          "Descasque os mamões papaia, retire as sementes e corte a polpa em pedaços.",
+          "No liquidificador, coloque os pedaços de mamão e o sorvete de creme.",
+          "Bata até obter um creme homogêneo e consistente.",
+          "Sirva o creme imediatamente em taças individuais.",
+          "Regue cada porção com licor de cassis a gosto."
         ],
-        "id": "ma-s-assadas-com-canela-216478"
+        "id": "creme-de-papaia-com-cassis-446b9f"
       }
     ]
   },

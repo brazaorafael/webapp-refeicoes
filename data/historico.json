@@ -3978,5 +3978,36 @@
       "rapido"
     ],
     "data": "02/09/2026"
+  },
+  {
+    "id": "bife-de-contrafil-na-chapa-com-batata-r--448e88",
+    "titulo": "Bife de Contrafilé na Chapa com Batata Rústica Assada e Salada Verde",
+    "tags": [
+      "carne_vermelha",
+      "grelhado",
+      "rapido",
+      "equilibrado"
+    ],
+    "data": "03/09/2026"
+  },
+  {
+    "id": "escondidinho-de-carne-mo-da-com-pur-de-b-cefa65",
+    "titulo": "Escondidinho de Carne Moída com Purê de Batata",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "equilibrado"
+    ],
+    "data": "03/09/2026"
+  },
+  {
+    "id": "palitos-de-cenoura-e-pepino-com-hummus-c-a86aca",
+    "titulo": "Palitos de Cenoura e Pepino com Hummus Caseiro",
+    "tags": [
+      "vegetariano",
+      "rapido",
+      "low_carb"
+    ],
+    "data": "03/09/2026"
   }
 ]
