@@ -1,50 +1,43 @@
 {
-  "gerado_em": "03/09/2026",
+  "gerado_em": "04/09/2026",
   "diario": {
     "tipo": "diario",
-    "data": "03/09/2026",
-    "dia_semana": "quinta",
+    "data": "04/09/2026",
+    "dia_semana": "sexta",
     "pratos": [
       {
-        "nome": "Bife de Contrafilé na Chapa com Batata Rústica Assada e Salada Verde",
+        "nome": "Maminha Assada na Airfryer",
         "curso": "principal",
-        "tempo": "40 min",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHU54FHB66q1MfYKptcII35Lmu-geGOvNjcEo89Ah3Je1x-WSapzl_VmIg-guPuir47KLCHWlxXkl1goAv9PK8fxRZoK7daVU4Z-Rc04wfnK_Pre1ha_fsF0T9ZL1afYkMS_U4zaLVTOiow3qWpMSn1gK9kw0CBmMptoqLdy_6ofNphlYlzIvbv-O_ZCqkvF5KbkDwRh6itPQlcr1mYawvr2Tua95VJFR5s-qsl",
-        "porque": "É um prato clássico com carne vermelha, rápido de preparar na chapa, acompanhado de batatas assadas e uma salada fresca para um jantar equilibrado e com pouca fritura.",
+        "tempo": "45 min",
+        "url": "https://paladar.estadao.com.br/receitas/maminha-na-airfryer,10000096536",
+        "porque": "Uma opção de carne vermelha suculenta e saborosa, preparada na airfryer para praticidade e sem fritura em óleo, ideal para o jantar.",
         "tags": [
           "carne_vermelha",
-          "grelhado",
-          "rapido",
-          "equilibrado"
+          "airfryer",
+          "rapido"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "400g de contrafilé (2 bifes de ~200g)",
-          "4 batatas médias",
-          "1 dente de alho picado",
-          "2 colheres (sopa) de azeite",
-          "Sal e pimenta-do-reino a gosto",
-          "Páprica defumada a gosto (para a batata)",
-          "1/2 maço de folhas verdes (alface, rúcula)",
-          "1 tomate pequeno",
-          "Vinagre balsâmico ou limão (para a salada)"
+          "500g a 750g de maminha",
+          "Azeite a gosto",
+          "Sal a gosto",
+          "Manteiga a gosto"
         ],
         "preparo": [
-          "Corte as batatas em gomos com a casca. Cozinhe em água e sal por 5 minutos após ferver para pré-cozinhar. Escorra bem.",
-          "Tempere as batatas pré-cozidas com azeite, sal, pimenta-do-reino e páprica. Leve ao forno preaquecido a 200°C por cerca de 25-30 minutos, virando na metade do tempo, até dourarem e ficarem crocantes.",
-          "Tempere os bifes de contrafilé com sal, pimenta-do-reino e alho picado.",
-          "Aqueça uma frigideira ou chapa em fogo alto com um fio de azeite. Grelhe os bifes por 3-4 minutos de cada lado para médio-mal, ou ao seu gosto. Deixe descansar por 5 minutos antes de fatiar.",
-          "Lave as folhas verdes e o tomate. Monte uma salada simples com as folhas, tomate em rodelas e tempere com azeite e vinagre/limão.",
-          "Sirva os bifes fatiados com as batatas rústicas e a salada verde."
+          "Tempere a maminha com azeite e sal, espalhando bem por toda a peça.",
+          "Pré-aqueça a Airfryer a 180ºC por 5 minutos, se a sua tiver essa função.",
+          "Coloque a maminha na Airfryer e asse a 180ºC por 40 minutos.",
+          "A cada 10 minutos, abra a Airfryer e vire a carne para um cozimento uniforme.",
+          "Ao final, retire a maminha, deixe descansar por 5 minutos, fatie e pincele manteiga a gosto."
         ],
-        "id": "bife-de-contrafil-na-chapa-com-batata-r--448e88"
+        "id": "maminha-assada-na-airfryer-555c3a"
       },
       {
-        "nome": "Escondidinho de Carne Moída com Purê de Batata",
+        "nome": "Rosbife de Filé Mignon",
         "curso": "principal",
         "tempo": "45 min",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYZQGF0oMVBIwV9T3ASq-u-ZasnomyNDzCQT6hs166UlPyUC7NLzbllzXhdnVH8rAHgtRPFGT414h0iYb08YeP5SArdo-QfG8jbvM1dEa83jqbPUERY2BzhYu4NeJs1GNt5gMtugmePqlDXzcdtpS7lexaGsEl9-Ao7di4kTx41bX-Vk7bWkkZLnXCkADH_2WErNTj",
-        "porque": "Um prato clássico e reconfortante, com carne vermelha e purê, assado no forno para uma refeição completa, prática e que rende excelentes sobras.",
+        "url": "https://www.panelinha.com.br/receita/Rosbife",
+        "porque": "Um prato elegante de carne vermelha, assado no forno para um preparo limpo e sem fritura, perfeito para quem aprecia um filé mignon bem preparado.",
         "tags": [
           "carne_vermelha",
           "forno",
@@ -52,83 +45,76 @@
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "600g de carne moída",
-          "1 cebola picada",
-          "2 dentes de alho picados",
-          "2 tomates picados",
-          "3 colheres (sopa) de óleo ou azeite",
-          "Sal, pimenta-do-reino e cheiro-verde a gosto",
-          "6 batatas médias",
-          "2 colheres (sopa) de manteiga",
-          "1/2 xícara (chá) de leite",
-          "200g de queijo muçarela ralado"
+          "600g a 750g de filé mignon em peça",
+          "1 colher (chá) de mostarda amarela em pó",
+          "1 colher (chá) de páprica defumada",
+          "1/2 a 2 colheres (sopa) de azeite",
+          "Sal e pimenta-do-reino moída na hora a gosto"
         ],
         "preparo": [
-          "Cozinhe as batatas em água e sal até ficarem bem macias. Amasse e misture com a manteiga, o leite e o sal até obter um purê homogêneo. Reserve.",
-          "Em uma panela, refogue a cebola e o alho no óleo ou azeite. Adicione a carne moída e deixe dourar, mexendo para soltar.",
-          "Acrescente os tomates picados, tempere com sal e pimenta-do-reino, e cozinhe até formar um molho encorpado. Finalize com cheiro-verde picado.",
-          "Em um refratário, faça uma camada com metade do purê de batata, espalhe toda a carne moída por cima e cubra com o restante do purê.",
-          "Finalize com o queijo muçarela ralado e leve ao forno preaquecido a 200°C por cerca de 10 minutos, ou até gratinar."
+          "Retire o filé mignon da geladeira 15 minutos antes. Preaqueça o forno a 220 ºC (temperatura alta).",
+          "Em uma tigela pequena, misture a mostarda em pó, a páprica, sal e pimenta-do-reino.",
+          "Tempere a peça de filé mignon com a mistura de temperos e regue com azeite, espalhando bem.",
+          "Transfira a carne para uma assadeira e leve ao forno a 220 ºC por 15 minutos.",
+          "Diminua a temperatura para 180 ºC e asse por mais 15-20 minutos, dependendo do ponto desejado.",
+          "Retire do forno, cubra com papel-alumínio e deixe repousar por 10 minutos antes de fatiar."
         ],
-        "id": "escondidinho-de-carne-mo-da-com-pur-de-b-cefa65"
+        "id": "rosbife-de-fil-mignon-a380c3"
       },
       {
-        "nome": "Palitos de Cenoura e Pepino com Hummus Caseiro",
+        "nome": "Enroladinho de Queijo e Presunto na Airfryer",
         "curso": "entrada",
         "tempo": "20 min",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgzV0TohvlUCuKK8jGdw5kAdqwc9qj_GbnzGEYoySGMGlstFtwO41zCH9oC2sfEvdrSxGatAzT4l84B-336qc3BPlGCTIM_7vJePm9B7yQPhx-t_5vj6MzkDhllUa-Q0UV40IpJR8gIhVqD3kvNjMtu9scYo-kO8FpDjM9xwDGbqgUL84zhF4ZEDD6GrtUy-7TUOFLDtMgR0PtfWhBEUHSPG_C",
-        "porque": "Uma entrada leve, fresca e saudável, de preparo rápido e sem fritura, ideal para abrir o apetite.",
-        "tags": [
-          "vegetariano",
-          "rapido",
-          "low_carb"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "1 lata de grão-de-bico cozido (cerca de 240g escorrido)",
-          "1 dente de alho pequeno",
-          "2 colheres (sopa) de tahini (pasta de gergelim)",
-          "Suco de 1/2 limão",
-          "3 colheres (sopa) de azeite extra virgem",
-          "2-3 colheres (sopa) de água (ou da água do cozimento do grão)",
-          "Sal a gosto",
-          "Páprica doce para polvilhar (opcional)",
-          "1 cenoura média",
-          "1/2 pepino"
-        ],
-        "preparo": [
-          "Escorra o grão-de-bico e reserve um pouco da água do cozimento.",
-          "No processador, coloque o grão-de-bico, o alho, o tahini, o suco de limão, 2 colheres de azeite e o sal. Bata até obter uma pasta.",
-          "Adicione a água aos poucos, batendo até atingir a consistência desejada. Prove e ajuste o sal e o limão.",
-          "Descasque a cenoura e o pepino. Corte-os em palitos.",
-          "Transfira o hummus para uma tigela, regue com um fio de azeite e polvilhe com páprica (se usar). Sirva com os palitos de cenoura e pepino."
-        ],
-        "id": "palitos-de-cenoura-e-pepino-com-hummus-c-a86aca"
-      },
-      {
-        "nome": "Creme de Papaia com Cassis",
-        "curso": "sobremesa",
-        "tempo": "15 min",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFecyejvWXDe2L653PK7cmsJLG-bP8H9rGBNLjzw3YG0S_TdNZd7in3AEKT7Jg71ZYV6TVGbxiDU_mI3M1CJMmY5os2XDyYxY0FAeKzqoM4Tlkk_pHx4dPJx_F2gcISa_WU_BJ6nm4Gr2kiOAUEq7x4o2d87uZEblhuISsu",
-        "porque": "Uma sobremesa clássica, leve, refrescante e muito rápida de preparar, ideal para finalizar a refeição de forma suave.",
+        "url": "https://www.receiteria.com.br/receita/enroladinho-de-queijo-e-presunto-na-air-fryer/",
+        "porque": "Uma entrada crocante e saborosa, feita na airfryer para ser prática, rápida e sem fritura em óleo, ideal para abrir o apetite.",
         "tags": [
           "rapido",
-          "equilibrado"
+          "airfryer",
+          "salgado"
         ],
         "rende_sobra": false,
         "ingredientes": [
-          "2 mamões papaias médios",
-          "500ml de sorvete de creme",
-          "Licor de cassis a gosto (25ml por porção)"
+          "200g de massa para pastel redonda",
+          "150g de queijo muçarela fatiado (aprox. 6 fatias)",
+          "150g de presunto fatiado (aprox. 6 fatias)",
+          "Molho de tomate (aprox. 1 colher de chá por enroladinho)",
+          "Maionese (aprox. 1 colher de chá por enroladinho)",
+          "Orégano a gosto"
         ],
         "preparo": [
-          "Descasque os mamões papaia, retire as sementes e corte a polpa em pedaços.",
-          "No liquidificador, coloque os pedaços de mamão e o sorvete de creme.",
-          "Bata até obter um creme homogêneo e consistente.",
-          "Sirva o creme imediatamente em taças individuais.",
-          "Regue cada porção com licor de cassis a gosto."
+          "Abra a massa de pastel e coloque sobre cada folha uma fatia de muçarela e uma de presunto.",
+          "Adicione uma colher de chá de molho de tomate e uma de maionese em cada massa, espalhando bem.",
+          "Enrole a massa cuidadosamente, formando os enroladinhos.",
+          "Pressione as laterais com um garfo para selar bem.",
+          "Acomode os enroladinhos na Airfryer preaquecida a 180ºC e pincele maionese sobre eles.",
+          "Asse por 7 minutos ou até dourar e ficar crocante."
         ],
-        "id": "creme-de-papaia-com-cassis-446b9f"
+        "id": "enroladinho-de-queijo-e-presunto-na-airf-8550b0"
+      },
+      {
+        "nome": "Mousse de Coco com 2 Ingredientes",
+        "curso": "sobremesa",
+        "tempo": "5 min",
+        "url": "https://receitas.globo.com/ana-maria-braga/receitas/mousse-de-coco-com-2-ingredientes-da-ana-maria-braga-no-mais-voce-20-06-2025.ghtml",
+        "porque": "Uma sobremesa extremamente fácil e rápida de fazer, com apenas dois ingredientes, perfeita para finalizar o jantar de forma leve e saborosa.",
+        "tags": [
+          "rapido",
+          "sobremesa",
+          "doce"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "200g de marshmallow branco (tipo rolha)",
+          "1 litro de leite de coco"
+        ],
+        "preparo": [
+          "Em uma tigela, combine o marshmallow branco e o leite de coco.",
+          "Leve ao micro-ondas por cerca de 2 minutos, ou até aquecer e o marshmallow começar a derreter.",
+          "Transfira a mistura para um liquidificador e bata bem por 2 minutos, até ficar homogêneo.",
+          "Distribua a mousse em taças ou potes individuais.",
+          "Leve à geladeira por no mínimo 2 horas, ou ao freezer por 2 horas, até firmar."
+        ],
+        "id": "mousse-de-coco-com-2-ingredientes-c96981"
       }
     ]
   },
