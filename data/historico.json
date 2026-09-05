@@ -4049,5 +4049,34 @@
       "doce"
     ],
     "data": "04/09/2026"
+  },
+  {
+    "id": "rosbife-de-lagarto-na-panela-c58584",
+    "titulo": "Rosbife de Lagarto na Panela",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "refogado"
+    ],
+    "data": "05/09/2026"
+  },
+  {
+    "id": "bife-acebolado-com-molho-de-tomate-e-vin-83564b",
+    "titulo": "Bife Acebolado com Molho de Tomate e Vinho",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "refogado"
+    ],
+    "data": "05/09/2026"
+  },
+  {
+    "id": "mousse-de-chocolate-com-3-ingredientes-94e3ee",
+    "titulo": "Mousse de Chocolate com 3 Ingredientes",
+    "tags": [
+      "rapido",
+      "sobremesa"
+    ],
+    "data": "05/09/2026"
   }
 ]

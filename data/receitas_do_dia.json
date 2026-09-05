@@ -1,120 +1,127 @@
 {
-  "gerado_em": "04/09/2026",
+  "gerado_em": "05/09/2026",
   "diario": {
     "tipo": "diario",
-    "data": "04/09/2026",
-    "dia_semana": "sexta",
+    "data": "05/09/2026",
+    "dia_semana": "sábado",
     "pratos": [
       {
-        "nome": "Maminha Assada na Airfryer",
+        "nome": "Rosbife de Lagarto na Panela",
         "curso": "principal",
-        "tempo": "45 min",
-        "url": "https://paladar.estadao.com.br/receitas/maminha-na-airfryer,10000096536",
-        "porque": "Uma opção de carne vermelha suculenta e saborosa, preparada na airfryer para praticidade e sem fritura em óleo, ideal para o jantar.",
+        "tempo": "40 min",
+        "url": "https://www.tudogostoso.com.br/receita/23616-lagarto-de-panela-rapido.html",
+        "porque": "Carne vermelha magra e suculenta, preparada rapidamente na panela com temperos simples, resultando em um prato proteico e equilibrado com acompanhamentos.",
         "tags": [
           "carne_vermelha",
-          "airfryer",
-          "rapido"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "500g a 750g de maminha",
-          "Azeite a gosto",
-          "Sal a gosto",
-          "Manteiga a gosto"
-        ],
-        "preparo": [
-          "Tempere a maminha com azeite e sal, espalhando bem por toda a peça.",
-          "Pré-aqueça a Airfryer a 180ºC por 5 minutos, se a sua tiver essa função.",
-          "Coloque a maminha na Airfryer e asse a 180ºC por 40 minutos.",
-          "A cada 10 minutos, abra a Airfryer e vire a carne para um cozimento uniforme.",
-          "Ao final, retire a maminha, deixe descansar por 5 minutos, fatie e pincele manteiga a gosto."
-        ],
-        "id": "maminha-assada-na-airfryer-555c3a"
-      },
-      {
-        "nome": "Rosbife de Filé Mignon",
-        "curso": "principal",
-        "tempo": "45 min",
-        "url": "https://www.panelinha.com.br/receita/Rosbife",
-        "porque": "Um prato elegante de carne vermelha, assado no forno para um preparo limpo e sem fritura, perfeito para quem aprecia um filé mignon bem preparado.",
-        "tags": [
-          "carne_vermelha",
-          "forno",
-          "equilibrado"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "600g a 750g de filé mignon em peça",
-          "1 colher (chá) de mostarda amarela em pó",
-          "1 colher (chá) de páprica defumada",
-          "1/2 a 2 colheres (sopa) de azeite",
-          "Sal e pimenta-do-reino moída na hora a gosto"
-        ],
-        "preparo": [
-          "Retire o filé mignon da geladeira 15 minutos antes. Preaqueça o forno a 220 ºC (temperatura alta).",
-          "Em uma tigela pequena, misture a mostarda em pó, a páprica, sal e pimenta-do-reino.",
-          "Tempere a peça de filé mignon com a mistura de temperos e regue com azeite, espalhando bem.",
-          "Transfira a carne para uma assadeira e leve ao forno a 220 ºC por 15 minutos.",
-          "Diminua a temperatura para 180 ºC e asse por mais 15-20 minutos, dependendo do ponto desejado.",
-          "Retire do forno, cubra com papel-alumínio e deixe repousar por 10 minutos antes de fatiar."
-        ],
-        "id": "rosbife-de-fil-mignon-a380c3"
-      },
-      {
-        "nome": "Enroladinho de Queijo e Presunto na Airfryer",
-        "curso": "entrada",
-        "tempo": "20 min",
-        "url": "https://www.receiteria.com.br/receita/enroladinho-de-queijo-e-presunto-na-air-fryer/",
-        "porque": "Uma entrada crocante e saborosa, feita na airfryer para ser prática, rápida e sem fritura em óleo, ideal para abrir o apetite.",
-        "tags": [
           "rapido",
-          "airfryer",
-          "salgado"
+          "refogado"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "500g de lagarto redondo em peça",
+          "1 colher de sopa de mostarda dijon",
+          "1 colher de chá de páprica defumada",
+          "1/2 colher de chá de alho em pó",
+          "Sal e pimenta-do-reino a gosto",
+          "2 colheres de sopa de azeite",
+          "1 xícara de caldo de carne (ou água)",
+          "1 maço pequeno de brócolis",
+          "2 xícaras de arroz branco cozido"
+        ],
+        "preparo": [
+          "Tempere o lagarto com a mostarda, páprica, alho em pó, sal e pimenta-do-reino, massageando bem a carne.",
+          "Aqueça o azeite em uma panela de fundo grosso em fogo alto. Doure a carne por todos os lados por cerca de 3-4 minutos de cada lado até formar uma crosta.",
+          "Adicione o caldo de carne (ou água), tampe a panela e cozinhe em fogo médio-baixo por 20 minutos, virando a carne na metade do tempo. Retire da panela e deixe descansar por 5 minutos antes de fatiar fino.",
+          "Enquanto a carne cozinha, cozinhe o brócolis no vapor ou em água fervente por 5 minutos, até ficar al dente.",
+          "Sirva o rosbife de lagarto fatiado com o arroz branco e o brócolis cozido."
+        ],
+        "id": "rosbife-de-lagarto-na-panela-c58584"
+      },
+      {
+        "nome": "Bife Acebolado com Molho de Tomate e Vinho",
+        "curso": "principal",
+        "tempo": "30 min",
+        "url": "https://www.receitas.com/receita/bife-acebolado-ao-vinho-ana-maria-braga-55822",
+        "porque": "Uma opção rápida e saborosa de carne vermelha, preparada na frigideira com um molho rico em tomate e vinho, ideal para um jantar prático e com acompanhamentos equilibrados.",
+        "tags": [
+          "carne_vermelha",
+          "rapido",
+          "refogado"
         ],
         "rende_sobra": false,
         "ingredientes": [
-          "200g de massa para pastel redonda",
-          "150g de queijo muçarela fatiado (aprox. 6 fatias)",
-          "150g de presunto fatiado (aprox. 6 fatias)",
-          "Molho de tomate (aprox. 1 colher de chá por enroladinho)",
-          "Maionese (aprox. 1 colher de chá por enroladinho)",
-          "Orégano a gosto"
+          "4 bifes de contrafilé ou alcatra (aproximadamente 180g cada)",
+          "Sal e pimenta-do-reino a gosto",
+          "1 colher de sopa de manteiga",
+          "1 cebola grande em rodelas",
+          "1 tomate médio picado",
+          "1/2 xícara de chá de vinho branco seco",
+          "2 xícaras de arroz branco cozido",
+          "Folhas verdes para salada (alface, rúcula)"
         ],
         "preparo": [
-          "Abra a massa de pastel e coloque sobre cada folha uma fatia de muçarela e uma de presunto.",
-          "Adicione uma colher de chá de molho de tomate e uma de maionese em cada massa, espalhando bem.",
-          "Enrole a massa cuidadosamente, formando os enroladinhos.",
-          "Pressione as laterais com um garfo para selar bem.",
-          "Acomode os enroladinhos na Airfryer preaquecida a 180ºC e pincele maionese sobre eles.",
-          "Asse por 7 minutos ou até dourar e ficar crocante."
+          "Tempere os bifes com sal e pimenta-do-reino a gosto.",
+          "Em uma frigideira grande, derreta a manteiga em fogo alto. Frite os bifes por 2-3 minutos de cada lado, ou até o ponto desejado. Retire e reserve.",
+          "Na mesma frigideira, refogue a cebola em rodelas até ficarem macias e levemente douradas. Adicione o tomate picado e o vinho branco seco.",
+          "Deixe o molho ferver por cerca de 5 minutos, raspando o fundo da panela para soltar os sabores. O molho deve encorpar levemente.",
+          "Sirva os bifes com o molho acebolado por cima, acompanhados de arroz branco e uma salada de folhas verdes."
         ],
-        "id": "enroladinho-de-queijo-e-presunto-na-airf-8550b0"
+        "id": "bife-acebolado-com-molho-de-tomate-e-vin-83564b"
       },
       {
-        "nome": "Mousse de Coco com 2 Ingredientes",
-        "curso": "sobremesa",
-        "tempo": "5 min",
-        "url": "https://receitas.globo.com/ana-maria-braga/receitas/mousse-de-coco-com-2-ingredientes-da-ana-maria-braga-no-mais-voce-20-06-2025.ghtml",
-        "porque": "Uma sobremesa extremamente fácil e rápida de fazer, com apenas dois ingredientes, perfeita para finalizar o jantar de forma leve e saborosa.",
+        "nome": "Ricota Grelhada com Ervas",
+        "curso": "entrada",
+        "tempo": "15 min",
+        "url": "https://www.panelinha.com.br/receita/ricota-grelhada-azeite-ervas",
+        "porque": "Uma entrada leve, saudável e muito rápida de preparar, com ricota grelhada e temperada com ervas frescas, perfeita para abrir o apetite.",
         "tags": [
-          "rapido",
-          "sobremesa",
-          "doce"
+          "vegetariano",
+          "grelhado",
+          "rapido"
         ],
-        "rende_sobra": true,
+        "rende_sobra": false,
         "ingredientes": [
-          "200g de marshmallow branco (tipo rolha)",
-          "1 litro de leite de coco"
+          "200g de ricota fresca em fatias de 2cm de espessura",
+          "2 colheres de sopa de azeite extra virgem",
+          "Sal e pimenta-do-reino moída na hora a gosto",
+          "1 colher de sopa de manjericão fresco picado",
+          "1 colher de sopa de salsinha fresca picada",
+          "Pimenta rosa em grãos (opcional, para decorar)"
         ],
         "preparo": [
-          "Em uma tigela, combine o marshmallow branco e o leite de coco.",
-          "Leve ao micro-ondas por cerca de 2 minutos, ou até aquecer e o marshmallow começar a derreter.",
-          "Transfira a mistura para um liquidificador e bata bem por 2 minutos, até ficar homogêneo.",
-          "Distribua a mousse em taças ou potes individuais.",
-          "Leve à geladeira por no mínimo 2 horas, ou ao freezer por 2 horas, até firmar."
+          "Corte a ricota em fatias de aproximadamente 2 cm de espessura.",
+          "Aqueça uma frigideira antiaderente em fogo médio. Adicione 1 colher de sopa de azeite.",
+          "Grelhe as fatias de ricota por 3-4 minutos de cada lado, ou até ficarem douradas e com marcas de grelha. Repita com o restante do azeite e ricota, se necessário.",
+          "Transfira a ricota grelhada para um prato, tempere com sal e pimenta-do-reino.",
+          "Salpique o manjericão e a salsinha picados por cima. Se desejar, adicione alguns grãos de pimenta rosa.",
+          "Regue com um fio de azeite e sirva imediatamente."
         ],
-        "id": "mousse-de-coco-com-2-ingredientes-c96981"
+        "id": "ricota-grelhada-com-ervas-70fadd"
+      },
+      {
+        "nome": "Mousse de Chocolate com 3 Ingredientes",
+        "curso": "sobremesa",
+        "tempo": "25 min (mais tempo de geladeira)",
+        "url": "https://www.receitas.com/receita/mousse-de-chocolate-com-3-ingredientes-ana-maria-braga-55822",
+        "porque": "Uma sobremesa clássica, fácil e rápida de fazer, com apenas três ingredientes, resultando em uma mousse aerada e deliciosa.",
+        "tags": [
+          "rapido",
+          "sobremesa"
+        ],
+        "rende_sobra": false,
+        "ingredientes": [
+          "250g de chocolate meio amargo picado",
+          "200g de creme de leite de caixinha",
+          "200g de leite condensado"
+        ],
+        "preparo": [
+          "Derreta o chocolate meio amargo picado em banho-maria ou no micro-ondas, em intervalos de 30 segundos, misturando a cada vez, até ficar liso.",
+          "Retire o chocolate derretido do fogo (ou micro-ondas) e adicione o creme de leite e o leite condensado. Misture bem até obter um creme homogêneo.",
+          "Leve o creme ao freezer por 20 minutos para firmar um pouco.",
+          "Após os 20 minutos, transfira o creme para uma batedeira e bata em velocidade alta por 3 minutos, até o mousse ficar aerado e mais claro.",
+          "Despeje o mousse em taças individuais ou em uma travessa grande e leve à geladeira por pelo menos 2 horas antes de servir."
+        ],
+        "id": "mousse-de-chocolate-com-3-ingredientes-94e3ee"
       }
     ]
   },
