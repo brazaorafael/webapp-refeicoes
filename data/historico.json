@@ -4078,5 +4078,48 @@
       "sobremesa"
     ],
     "data": "05/09/2026"
+  },
+  {
+    "id": "bolo-de-carne-assado-com-pur-de-batata-e-27aa89",
+    "titulo": "Bolo de Carne Assado com Purê de Batata e Cenoura no Vapor",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "equilibrado",
+      "rende_sobra"
+    ],
+    "data": "06/09/2026"
+  },
+  {
+    "id": "bife-rol-de-frango-recheado-com-cenoura--384d72",
+    "titulo": "Bife à Rolê de Frango Recheado com Cenoura e Queijo, Molho de Tomate Rústico e Arroz Branco",
+    "tags": [
+      "frango",
+      "panela",
+      "equilibrado",
+      "rapido"
+    ],
+    "data": "06/09/2026"
+  },
+  {
+    "id": "cogumelos-paris-salteados-com-alho-e-aze-a21db0",
+    "titulo": "Cogumelos Paris Salteados com Alho e Azeite e Pão Crocante",
+    "tags": [
+      "vegetariano",
+      "rapido",
+      "refogado"
+    ],
+    "data": "06/09/2026"
+  },
+  {
+    "id": "pav-de-biscoito-maisena-com-creme-e-gana-bb462f",
+    "titulo": "Pavê de Biscoito Maisena com Creme e Ganache de Chocolate",
+    "tags": [
+      "rapido",
+      "sobremesa",
+      "gelado",
+      "rende_sobra"
+    ],
+    "data": "06/09/2026"
   }
 ]

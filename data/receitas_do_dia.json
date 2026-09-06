@@ -1,127 +1,143 @@
 {
-  "gerado_em": "05/09/2026",
+  "gerado_em": "06/09/2026",
   "diario": {
     "tipo": "diario",
-    "data": "05/09/2026",
-    "dia_semana": "sábado",
+    "data": "06/09/2026",
+    "dia_semana": "domingo",
     "pratos": [
       {
-        "nome": "Rosbife de Lagarto na Panela",
+        "nome": "Bolo de Carne Assado com Purê de Batata e Cenoura no Vapor",
         "curso": "principal",
         "tempo": "40 min",
-        "url": "https://www.tudogostoso.com.br/receita/23616-lagarto-de-panela-rapido.html",
-        "porque": "Carne vermelha magra e suculenta, preparada rapidamente na panela com temperos simples, resultando em um prato proteico e equilibrado com acompanhamentos.",
+        "url": "https://www.panelinha.com.br/receita/Bolo-de-carne-com-molho-de-tomate-fresco",
+        "porque": "Prato de carne vermelha assado no forno, sem fritura, com purê de batata e cenoura para equilíbrio, e rende porções extras para o dia seguinte.",
         "tags": [
           "carne_vermelha",
-          "rapido",
-          "refogado"
+          "forno",
+          "equilibrado",
+          "rende_sobra"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "500g de lagarto redondo em peça",
-          "1 colher de sopa de mostarda dijon",
-          "1 colher de chá de páprica defumada",
-          "1/2 colher de chá de alho em pó",
+          "500g de carne moída (patinho ou acém)",
+          "1 ovo grande",
+          "1/2 xícara de farinha de rosca",
+          "1/4 xícara de leite",
+          "1 cebola média picada",
+          "2 dentes de alho picados",
+          "1/4 xícara de salsinha picada",
           "Sal e pimenta-do-reino a gosto",
-          "2 colheres de sopa de azeite",
-          "1 xícara de caldo de carne (ou água)",
-          "1 maço pequeno de brócolis",
-          "2 xícaras de arroz branco cozido"
+          "4 batatas médias",
+          "1/2 xícara de leite (para o purê)",
+          "2 colheres (sopa) de manteiga",
+          "2 cenouras médias"
         ],
         "preparo": [
-          "Tempere o lagarto com a mostarda, páprica, alho em pó, sal e pimenta-do-reino, massageando bem a carne.",
-          "Aqueça o azeite em uma panela de fundo grosso em fogo alto. Doure a carne por todos os lados por cerca de 3-4 minutos de cada lado até formar uma crosta.",
-          "Adicione o caldo de carne (ou água), tampe a panela e cozinhe em fogo médio-baixo por 20 minutos, virando a carne na metade do tempo. Retire da panela e deixe descansar por 5 minutos antes de fatiar fino.",
-          "Enquanto a carne cozinha, cozinhe o brócolis no vapor ou em água fervente por 5 minutos, até ficar al dente.",
-          "Sirva o rosbife de lagarto fatiado com o arroz branco e o brócolis cozido."
+          "Pré-aqueça o forno a 200°C. Em uma tigela, misture a carne moída, ovo, farinha de rosca, leite, cebola, alho, salsinha, sal e pimenta até incorporar bem.",
+          "Modele a carne em formato de bolo e coloque em uma assadeira untada. Leve ao forno por cerca de 30-40 minutos, ou até dourar e cozinhar por completo.",
+          "Enquanto o bolo assa, descasque e corte as batatas em cubos. Cozinhe em água salgada até ficarem macias. Escorra, amasse bem e misture com o leite e a manteiga, ajustando o sal para fazer o purê.",
+          "Descasque as cenouras e corte em rodelas. Cozinhe no vapor ou em água fervente com sal até ficarem al dente.",
+          "Sirva o bolo de carne fatiado com o purê de batata e as cenouras cozidas no vapor."
         ],
-        "id": "rosbife-de-lagarto-na-panela-c58584"
+        "id": "bolo-de-carne-assado-com-pur-de-batata-e-27aa89"
       },
       {
-        "nome": "Bife Acebolado com Molho de Tomate e Vinho",
+        "nome": "Bife à Rolê de Frango Recheado com Cenoura e Queijo, Molho de Tomate Rústico e Arroz Branco",
         "curso": "principal",
-        "tempo": "30 min",
-        "url": "https://www.receitas.com/receita/bife-acebolado-ao-vinho-ana-maria-braga-55822",
-        "porque": "Uma opção rápida e saborosa de carne vermelha, preparada na frigideira com um molho rico em tomate e vinho, ideal para um jantar prático e com acompanhamentos equilibrados.",
+        "tempo": "40 min",
+        "url": "https://www.tudogostoso.com.br/receita/20163-bife-a-role-de-frango.html",
+        "porque": "Uma alternativa saborosa e prática à carne vermelha, com frango recheado e cozido em molho de tomate caseiro, acompanhado de arroz branco.",
         "tags": [
-          "carne_vermelha",
+          "frango",
+          "panela",
+          "equilibrado",
+          "rapido"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "4 filés de peito de frango (cerca de 150g cada)",
+          "1 cenoura pequena cortada em tiras finas",
+          "100g de queijo mussarela em tiras ou requeijão cremoso",
+          "Sal e pimenta-do-reino a gosto",
+          "Palitos de dente",
+          "1 colher (sopa) de azeite",
+          "1 cebola média picada",
+          "2 dentes de alho picados",
+          "1 lata de tomate pelado picado (ou 3 tomates frescos maduros)",
+          "1/2 xícara (chá) de água ou caldo de galinha",
+          "Salsinha picada a gosto",
+          "2 xícaras (chá) de arroz branco",
+          "4 xícaras (chá) de água (para o arroz)"
+        ],
+        "preparo": [
+          "Tempere os filés de frango com sal e pimenta. Coloque as tiras de cenoura e queijo em uma das extremidades de cada filé e enrole, prendendo com palitos de dente.",
+          "Em uma panela média, aqueça o azeite e doure os bifes à rolê de frango por todos os lados. Retire e reserve.",
+          "Na mesma panela, refogue a cebola e o alho até dourarem. Adicione o tomate pelado picado (ou tomates frescos), a água/caldo e tempere com sal e pimenta. Deixe ferver.",
+          "Retorne os bifes à rolê para a panela, tampe e cozinhe em fogo baixo por cerca de 20-25 minutos, ou até o frango ficar macio e cozido.",
+          "Enquanto o molho cozinha, prepare o arroz branco. Sirva os bifes à rolê com o molho de tomate rústico, salpicados com salsinha e o arroz branco."
+        ],
+        "id": "bife-rol-de-frango-recheado-com-cenoura--384d72"
+      },
+      {
+        "nome": "Cogumelos Paris Salteados com Alho e Azeite e Pão Crocante",
+        "curso": "entrada",
+        "tempo": "15 min",
+        "url": "https://www.panelinha.com.br/receita/Cogumelos-salteados-com-alho-e-salsinha",
+        "porque": "Entrada leve e saborosa, com cogumelos salteados rapidamente em azeite e alho, sem fritura profunda, ideal para acompanhar com pão.",
+        "tags": [
+          "vegetariano",
           "rapido",
           "refogado"
         ],
         "rende_sobra": false,
         "ingredientes": [
-          "4 bifes de contrafilé ou alcatra (aproximadamente 180g cada)",
-          "Sal e pimenta-do-reino a gosto",
-          "1 colher de sopa de manteiga",
-          "1 cebola grande em rodelas",
-          "1 tomate médio picado",
-          "1/2 xícara de chá de vinho branco seco",
-          "2 xícaras de arroz branco cozido",
-          "Folhas verdes para salada (alface, rúcula)"
-        ],
-        "preparo": [
-          "Tempere os bifes com sal e pimenta-do-reino a gosto.",
-          "Em uma frigideira grande, derreta a manteiga em fogo alto. Frite os bifes por 2-3 minutos de cada lado, ou até o ponto desejado. Retire e reserve.",
-          "Na mesma frigideira, refogue a cebola em rodelas até ficarem macias e levemente douradas. Adicione o tomate picado e o vinho branco seco.",
-          "Deixe o molho ferver por cerca de 5 minutos, raspando o fundo da panela para soltar os sabores. O molho deve encorpar levemente.",
-          "Sirva os bifes com o molho acebolado por cima, acompanhados de arroz branco e uma salada de folhas verdes."
-        ],
-        "id": "bife-acebolado-com-molho-de-tomate-e-vin-83564b"
-      },
-      {
-        "nome": "Ricota Grelhada com Ervas",
-        "curso": "entrada",
-        "tempo": "15 min",
-        "url": "https://www.panelinha.com.br/receita/ricota-grelhada-azeite-ervas",
-        "porque": "Uma entrada leve, saudável e muito rápida de preparar, com ricota grelhada e temperada com ervas frescas, perfeita para abrir o apetite.",
-        "tags": [
-          "vegetariano",
-          "grelhado",
-          "rapido"
-        ],
-        "rende_sobra": false,
-        "ingredientes": [
-          "200g de ricota fresca em fatias de 2cm de espessura",
-          "2 colheres de sopa de azeite extra virgem",
+          "200g de cogumelos Paris frescos",
+          "2 colheres (sopa) de azeite de oliva extra virgem",
+          "2 dentes de alho picados",
+          "2 ramos de salsinha fresca picada",
           "Sal e pimenta-do-reino moída na hora a gosto",
-          "1 colher de sopa de manjericão fresco picado",
-          "1 colher de sopa de salsinha fresca picada",
-          "Pimenta rosa em grãos (opcional, para decorar)"
+          "4 fatias de pão italiano ou baguete"
         ],
         "preparo": [
-          "Corte a ricota em fatias de aproximadamente 2 cm de espessura.",
-          "Aqueça uma frigideira antiaderente em fogo médio. Adicione 1 colher de sopa de azeite.",
-          "Grelhe as fatias de ricota por 3-4 minutos de cada lado, ou até ficarem douradas e com marcas de grelha. Repita com o restante do azeite e ricota, se necessário.",
-          "Transfira a ricota grelhada para um prato, tempere com sal e pimenta-do-reino.",
-          "Salpique o manjericão e a salsinha picados por cima. Se desejar, adicione alguns grãos de pimenta rosa.",
-          "Regue com um fio de azeite e sirva imediatamente."
+          "Limpe os cogumelos com um pano úmido, sem lavar. Corte-os em quartos ou ao meio, se forem pequenos.",
+          "Aqueça uma frigideira em fogo médio com o azeite. Refogue o alho picado por 1 minuto, sem deixar dourar.",
+          "Adicione os cogumelos à frigideira e salteie por cerca de 5-7 minutos, mexendo ocasionalmente, até dourarem e murcharem.",
+          "Tempere com sal, pimenta e misture a salsinha picada. Sirva imediatamente com fatias de pão crocante."
         ],
-        "id": "ricota-grelhada-com-ervas-70fadd"
+        "id": "cogumelos-paris-salteados-com-alho-e-aze-a21db0"
       },
       {
-        "nome": "Mousse de Chocolate com 3 Ingredientes",
+        "nome": "Pavê de Biscoito Maisena com Creme e Ganache de Chocolate",
         "curso": "sobremesa",
-        "tempo": "25 min (mais tempo de geladeira)",
-        "url": "https://www.receitas.com/receita/mousse-de-chocolate-com-3-ingredientes-ana-maria-braga-55822",
-        "porque": "Uma sobremesa clássica, fácil e rápida de fazer, com apenas três ingredientes, resultando em uma mousse aerada e deliciosa.",
+        "tempo": "30 min",
+        "url": "https://www.tudogostoso.com.br/receita/11494-pave-de-biscoito-maisena-com-ganache.html",
+        "porque": "Sobremesa clássica e indulgente, preparada sem forno e com ingredientes acessíveis, perfeita para fazer com antecedência.",
         "tags": [
           "rapido",
-          "sobremesa"
+          "sobremesa",
+          "gelado",
+          "rende_sobra"
         ],
-        "rende_sobra": false,
+        "rende_sobra": true,
         "ingredientes": [
-          "250g de chocolate meio amargo picado",
-          "200g de creme de leite de caixinha",
-          "200g de leite condensado"
+          "1 lata de leite condensado",
+          "1 lata de creme de leite (sem soro)",
+          "1 lata de leite (use a medida da lata de leite condensado)",
+          "2 gemas peneiradas",
+          "1 colher (sopa) de amido de milho",
+          "1 colher (chá) de essência de baunilha (opcional)",
+          "1 pacote (200g) de biscoito maisena",
+          "200g de chocolate meio amargo picado",
+          "1/2 lata de creme de leite (para o ganache)"
         ],
         "preparo": [
-          "Derreta o chocolate meio amargo picado em banho-maria ou no micro-ondas, em intervalos de 30 segundos, misturando a cada vez, até ficar liso.",
-          "Retire o chocolate derretido do fogo (ou micro-ondas) e adicione o creme de leite e o leite condensado. Misture bem até obter um creme homogêneo.",
-          "Leve o creme ao freezer por 20 minutos para firmar um pouco.",
-          "Após os 20 minutos, transfira o creme para uma batedeira e bata em velocidade alta por 3 minutos, até o mousse ficar aerado e mais claro.",
-          "Despeje o mousse em taças individuais ou em uma travessa grande e leve à geladeira por pelo menos 2 horas antes de servir."
+          "Para o creme: Em uma panela, misture o leite condensado, o leite, as gemas peneiradas e o amido de milho dissolvido em um pouco de leite. Leve ao fogo médio, mexendo sempre, até engrossar.",
+          "Retire do fogo, adicione o creme de leite (sem soro) e a essência de baunilha. Misture bem e reserve.",
+          "Em um refratário, faça uma camada de biscoitos maisena levemente umedecidos em leite. Cubra com uma camada do creme. Repita as camadas, terminando com o creme.",
+          "Para o ganache: Derreta o chocolate meio amargo no micro-ondas ou em banho-maria. Misture com o creme de leite (1/2 lata) até obter um creme liso e brilhante.",
+          "Despeje o ganache sobre o pavê. Leve à geladeira por no mínimo 3 horas antes de servir, ou até firmar bem."
         ],
-        "id": "mousse-de-chocolate-com-3-ingredientes-94e3ee"
+        "id": "pav-de-biscoito-maisena-com-creme-e-gana-bb462f"
       }
     ]
   },
