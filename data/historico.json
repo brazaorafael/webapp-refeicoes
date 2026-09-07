@@ -4121,5 +4121,345 @@
       "rende_sobra"
     ],
     "data": "06/09/2026"
+  },
+  {
+    "id": "picadinho-de-carne-com-legumes-e-arroz-b-c5f04b",
+    "titulo": "Picadinho de Carne com Legumes e Arroz Branco",
+    "tags": [
+      "carne_vermelha",
+      "refogado",
+      "rapido"
+    ],
+    "data": "06/09/2026"
+  },
+  {
+    "id": "bife-acebolado-com-arroz-integral-e-br-c-fdc1b0",
+    "titulo": "Bife Acebolado com Arroz Integral e Brócolis no Vapor",
+    "tags": [
+      "carne_vermelha",
+      "grelhado",
+      "rapido",
+      "equilibrado"
+    ],
+    "data": "06/09/2026"
+  },
+  {
+    "id": "frango-grelhado-com-ervas-e-lim-o-quinoa-16af63",
+    "titulo": "Frango Grelhado com Ervas e Limão, Quinoa e Salada Verde",
+    "tags": [
+      "frango",
+      "grelhado",
+      "low_carb",
+      "equilibrado"
+    ],
+    "data": "06/09/2026"
+  },
+  {
+    "id": "salada-de-tomate-cereja-com-r-cula-e-las-9bb243",
+    "titulo": "Salada de Tomate Cereja com Rúcula e Lascas de Parmesão",
+    "tags": [
+      "salada",
+      "vegetariano",
+      "rapido"
+    ],
+    "data": "06/09/2026"
+  },
+  {
+    "id": "espetinhos-de-carne-bovina-com-legumes-n-bede8b",
+    "titulo": "Espetinhos de Carne Bovina com Legumes na Grelha (ou forno)",
+    "tags": [
+      "carne_vermelha",
+      "grelhado",
+      "forno",
+      "rapido"
+    ],
+    "data": "06/09/2026"
+  },
+  {
+    "id": "bolo-de-carne-recheado-com-queijo-e-pres-644190",
+    "titulo": "Bolo de Carne Recheado com Queijo e Presunto (assado no forno)",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "equilibrio"
+    ],
+    "data": "06/09/2026"
+  },
+  {
+    "id": "frango-ao-curry-com-leite-de-coco-e-arro-3ea250",
+    "titulo": "Frango ao Curry com Leite de Coco e Arroz Branco",
+    "tags": [
+      "frango",
+      "refogado",
+      "rapido",
+      "exotico"
+    ],
+    "data": "06/09/2026"
+  },
+  {
+    "id": "mini-salada-caprese-no-palito-61ead2",
+    "titulo": "Mini Salada Caprese no Palito",
+    "tags": [
+      "vegetariano",
+      "rapido",
+      "salada"
+    ],
+    "data": "06/09/2026"
+  },
+  {
+    "id": "ambrosia-de-leite-condensado-micro-ondas-80ee2a",
+    "titulo": "Ambrosia de Leite Condensado (micro-ondas)",
+    "tags": [
+      "sobremesa",
+      "rapido",
+      "doce"
+    ],
+    "data": "06/09/2026"
+  },
+  {
+    "id": "carne-de-panela-com-legumes-cenoura-e-ba-a765f9",
+    "titulo": "Carne de Panela com Legumes (cenoura e batata)",
+    "tags": [
+      "carne_vermelha",
+      "panela_de_pressao",
+      "equilibrio",
+      "rende_sobra"
+    ],
+    "data": "06/09/2026"
+  },
+  {
+    "id": "pernil-assado-desfiado-com-pur-de-mandio-0b430c",
+    "titulo": "Pernil Assado Desfiado com Purê de Mandioca",
+    "tags": [
+      "porco",
+      "forno",
+      "equilibrio",
+      "rende_sobra"
+    ],
+    "data": "06/09/2026"
+  },
+  {
+    "id": "dadinhos-de-tapioca-assados-com-geleia-d-51089c",
+    "titulo": "Dadinhos de Tapioca Assados com Geleia de Pimenta",
+    "tags": [
+      "vegetariano",
+      "forno",
+      "rapido"
+    ],
+    "data": "06/09/2026"
+  },
+  {
+    "id": "fil-mignon-su-no-grelhado-com-molho-agri-a66e82",
+    "titulo": "Filé Mignon Suíno Grelhado com Molho Agridoce e Arroz de Couve-Flor",
+    "tags": [
+      "porco",
+      "grelhado",
+      "low_carb",
+      "rapido"
+    ],
+    "data": "06/09/2026"
+  },
+  {
+    "id": "pa-oca-de-carne-seca-com-arroz-branco-e--32b5cc",
+    "titulo": "Paçoca de Carne Seca com Arroz Branco e Couve Refogada",
+    "tags": [
+      "carne_vermelha",
+      "refogado",
+      "rapido",
+      "equilibrio"
+    ],
+    "data": "06/09/2026"
+  },
+  {
+    "id": "frango-milanesa-assado-na-airfryer-com-p-4e11d8",
+    "titulo": "Frango à Milanesa Assado na Airfryer com Purê de Batata",
+    "tags": [
+      "frango",
+      "airfryer",
+      "rapido",
+      "equilibrio"
+    ],
+    "data": "06/09/2026"
+  },
+  {
+    "id": "sopa-creme-de-ab-bora-com-gengibre-173e5e",
+    "titulo": "Sopa Creme de Abóbora com Gengibre",
+    "tags": [
+      "sopa",
+      "vegetariano",
+      "rapido",
+      "low_carb"
+    ],
+    "data": "06/09/2026"
+  },
+  {
+    "id": "creme-de-abacate-com-lim-o-d9148e",
+    "titulo": "Creme de Abacate com Limão",
+    "tags": [
+      "fruta",
+      "rapido",
+      "low_carb",
+      "sobremesa"
+    ],
+    "data": "06/09/2026"
+  },
+  {
+    "id": "picanha-na-airfryer-ou-grelhada-com-faro-135a5f",
+    "titulo": "Picanha na Airfryer ou Grelhada com Farofa de Ovos",
+    "tags": [
+      "carne_vermelha",
+      "airfryer",
+      "grelhado",
+      "rapido"
+    ],
+    "data": "06/09/2026"
+  },
+  {
+    "id": "risoto-de-cogumelos-vers-o-express-de7668",
+    "titulo": "Risoto de Cogumelos (versão express)",
+    "tags": [
+      "vegetariano",
+      "massa",
+      "rapido",
+      "equilibrio"
+    ],
+    "data": "06/09/2026"
+  },
+  {
+    "id": "carne-de-sol-na-chapa-com-bai-o-de-dois--fe6a03",
+    "titulo": "Carne de Sol na Chapa com Baião de Dois (simples)",
+    "tags": [
+      "carne_vermelha",
+      "refogado",
+      "rapido",
+      "regional"
+    ],
+    "data": "06/09/2026"
+  },
+  {
+    "id": "carpaccio-de-abobrinha-com-lim-o-e-horte-c40ce2",
+    "titulo": "Carpaccio de Abobrinha com Limão e Hortelã",
+    "tags": [
+      "vegetariano",
+      "rapido",
+      "low_carb",
+      "salada"
+    ],
+    "data": "06/09/2026"
+  },
+  {
+    "id": "bolo-de-fub-cremoso-forno-86737e",
+    "titulo": "Bolo de Fubá Cremoso (forno)",
+    "tags": [
+      "doce",
+      "forno",
+      "sobremesa"
+    ],
+    "data": "06/09/2026"
+  },
+  {
+    "id": "salm-o-assado-com-aspargos-e-batatas-bol-468d26",
+    "titulo": "Salmão Assado com Aspargos e Batatas Bolinha",
+    "tags": [
+      "peixe",
+      "forno",
+      "rapido",
+      "equilibrio"
+    ],
+    "data": "06/09/2026"
+  },
+  {
+    "id": "hamb-rguer-caseiro-de-carne-bovina-no-fo-0c2a9b",
+    "titulo": "Hambúrguer Caseiro de Carne Bovina (no forno ou grelha)",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "grelhado",
+      "rapido"
+    ],
+    "data": "06/09/2026"
+  },
+  {
+    "id": "costelinha-de-porco-assada-com-barbecue--afdb5b",
+    "titulo": "Costelinha de Porco Assada com Barbecue Caseiro",
+    "tags": [
+      "porco",
+      "forno",
+      "rende_sobra"
+    ],
+    "data": "06/09/2026"
+  },
+  {
+    "id": "guacamole-com-nachos-assados-f76819",
+    "titulo": "Guacamole com Nachos Assados",
+    "tags": [
+      "vegetariano",
+      "rapido",
+      "low_carb"
+    ],
+    "data": "06/09/2026"
+  },
+  {
+    "id": "creme-brul-e-de-micro-ondas-d8af76",
+    "titulo": "Creme Brulée de Micro-ondas",
+    "tags": [
+      "doce",
+      "rapido",
+      "sobremesa"
+    ],
+    "data": "06/09/2026"
+  },
+  {
+    "id": "maminha-recheada-com-queijo-e-presunto-f-307b9d",
+    "titulo": "Maminha Recheada com Queijo e Presunto (forno)",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "equilibrio",
+      "rende_sobra"
+    ],
+    "data": "06/09/2026"
+  },
+  {
+    "id": "galinhada-simples-na-panela-de-press-o-3e5763",
+    "titulo": "Galinhada Simples na Panela de Pressão",
+    "tags": [
+      "frango",
+      "panela_de_pressao",
+      "rapido",
+      "equilibrio"
+    ],
+    "data": "06/09/2026"
+  },
+  {
+    "id": "maminha-assada-com-batatas-r-sticas-76d8ea",
+    "titulo": "Maminha Assada com Batatas Rústicas",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "equilibrio",
+      "rende_sobra"
+    ],
+    "data": "06/09/2026"
+  },
+  {
+    "id": "queijo-coalho-grelhado-com-geleia-de-pim-341d09",
+    "titulo": "Queijo Coalho Grelhado com Geleia de Pimenta",
+    "tags": [
+      "vegetariano",
+      "grelhado",
+      "rapido"
+    ],
+    "data": "06/09/2026"
+  },
+  {
+    "id": "brownie-de-chocolate-com-sorvete-assado--a182a3",
+    "titulo": "Brownie de Chocolate com Sorvete (assado no forno)",
+    "tags": [
+      "doce",
+      "forno",
+      "sobremesa"
+    ],
+    "data": "06/09/2026"
   }
 ]
