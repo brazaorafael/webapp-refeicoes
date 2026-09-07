@@ -4461,5 +4461,35 @@
       "sobremesa"
     ],
     "data": "06/09/2026"
+  },
+  {
+    "id": "fraldinha-assada-na-air-fryer-da-rita-lo-55efd7",
+    "titulo": "Fraldinha Assada na Air Fryer da Rita Lobo",
+    "tags": [
+      "carne_vermelha",
+      "airfryer",
+      "rapido"
+    ],
+    "data": "07/09/2026"
+  },
+  {
+    "id": "carne-mo-da-refogada-com-vegetais-675d1f",
+    "titulo": "Carne Moída Refogada com Vegetais",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "equilibrado"
+    ],
+    "data": "07/09/2026"
+  },
+  {
+    "id": "mousse-de-morango-aad8f8",
+    "titulo": "Mousse de Morango",
+    "tags": [
+      "rapido",
+      "fruta",
+      "doce"
+    ],
+    "data": "07/09/2026"
   }
 ]

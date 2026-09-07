@@ -1,143 +1,126 @@
 {
-  "gerado_em": "06/09/2026",
+  "gerado_em": "07/09/2026",
   "diario": {
     "tipo": "diario",
-    "data": "06/09/2026",
-    "dia_semana": "domingo",
+    "data": "07/09/2026",
+    "dia_semana": "segunda",
     "pratos": [
       {
-        "nome": "Bolo de Carne Assado com Purê de Batata e Cenoura no Vapor",
+        "nome": "Fraldinha Assada na Air Fryer da Rita Lobo",
         "curso": "principal",
-        "tempo": "40 min",
-        "url": "https://www.panelinha.com.br/receita/Bolo-de-carne-com-molho-de-tomate-fresco",
-        "porque": "Prato de carne vermelha assado no forno, sem fritura, com purê de batata e cenoura para equilíbrio, e rende porções extras para o dia seguinte.",
+        "tempo": "35 min",
+        "url": "https://www.panelinha.com.br/receita/Fraldinha-na-Airfryer",
+        "porque": "Uma carne vermelha suculenta e saborosa, preparada na Air Fryer para um cozimento uniforme e sem excesso de óleo, perfeita para o dia a dia e para gerar sobras.",
         "tags": [
           "carne_vermelha",
-          "forno",
-          "equilibrado",
-          "rende_sobra"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "500g de carne moída (patinho ou acém)",
-          "1 ovo grande",
-          "1/2 xícara de farinha de rosca",
-          "1/4 xícara de leite",
-          "1 cebola média picada",
-          "2 dentes de alho picados",
-          "1/4 xícara de salsinha picada",
-          "Sal e pimenta-do-reino a gosto",
-          "4 batatas médias",
-          "1/2 xícara de leite (para o purê)",
-          "2 colheres (sopa) de manteiga",
-          "2 cenouras médias"
-        ],
-        "preparo": [
-          "Pré-aqueça o forno a 200°C. Em uma tigela, misture a carne moída, ovo, farinha de rosca, leite, cebola, alho, salsinha, sal e pimenta até incorporar bem.",
-          "Modele a carne em formato de bolo e coloque em uma assadeira untada. Leve ao forno por cerca de 30-40 minutos, ou até dourar e cozinhar por completo.",
-          "Enquanto o bolo assa, descasque e corte as batatas em cubos. Cozinhe em água salgada até ficarem macias. Escorra, amasse bem e misture com o leite e a manteiga, ajustando o sal para fazer o purê.",
-          "Descasque as cenouras e corte em rodelas. Cozinhe no vapor ou em água fervente com sal até ficarem al dente.",
-          "Sirva o bolo de carne fatiado com o purê de batata e as cenouras cozidas no vapor."
-        ],
-        "id": "bolo-de-carne-assado-com-pur-de-batata-e-27aa89"
-      },
-      {
-        "nome": "Bife à Rolê de Frango Recheado com Cenoura e Queijo, Molho de Tomate Rústico e Arroz Branco",
-        "curso": "principal",
-        "tempo": "40 min",
-        "url": "https://www.tudogostoso.com.br/receita/20163-bife-a-role-de-frango.html",
-        "porque": "Uma alternativa saborosa e prática à carne vermelha, com frango recheado e cozido em molho de tomate caseiro, acompanhado de arroz branco.",
-        "tags": [
-          "frango",
-          "panela",
-          "equilibrado",
+          "airfryer",
           "rapido"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "4 filés de peito de frango (cerca de 150g cada)",
-          "1 cenoura pequena cortada em tiras finas",
-          "100g de queijo mussarela em tiras ou requeijão cremoso",
-          "Sal e pimenta-do-reino a gosto",
-          "Palitos de dente",
-          "1 colher (sopa) de azeite",
-          "1 cebola média picada",
-          "2 dentes de alho picados",
-          "1 lata de tomate pelado picado (ou 3 tomates frescos maduros)",
-          "1/2 xícara (chá) de água ou caldo de galinha",
-          "Salsinha picada a gosto",
-          "2 xícaras (chá) de arroz branco",
-          "4 xícaras (chá) de água (para o arroz)"
+          "1 peça de fraldinha (cerca de 1 kg)",
+          "2 colheres (sopa) de azeite",
+          "1 colher (chá) de sal",
+          "½ colher (chá) de pimenta-do-reino moída na hora"
         ],
         "preparo": [
-          "Tempere os filés de frango com sal e pimenta. Coloque as tiras de cenoura e queijo em uma das extremidades de cada filé e enrole, prendendo com palitos de dente.",
-          "Em uma panela média, aqueça o azeite e doure os bifes à rolê de frango por todos os lados. Retire e reserve.",
-          "Na mesma panela, refogue a cebola e o alho até dourarem. Adicione o tomate pelado picado (ou tomates frescos), a água/caldo e tempere com sal e pimenta. Deixe ferver.",
-          "Retorne os bifes à rolê para a panela, tampe e cozinhe em fogo baixo por cerca de 20-25 minutos, ou até o frango ficar macio e cozido.",
-          "Enquanto o molho cozinha, prepare o arroz branco. Sirva os bifes à rolê com o molho de tomate rústico, salpicados com salsinha e o arroz branco."
+          "Preaqueça a Air Fryer a 200 ºC.",
+          "Seque bem a fraldinha com papel toalha e tempere com azeite, sal e pimenta-do-reino, massageando bem a carne.",
+          "Coloque a fraldinha na cesta da Air Fryer e asse por 25 minutos, virando na metade do tempo.",
+          "Retire a fraldinha, transfira para uma tábua, cubra com papel alumínio e deixe descansar por 5 minutos antes de fatiar e servir."
         ],
-        "id": "bife-rol-de-frango-recheado-com-cenoura--384d72"
+        "id": "fraldinha-assada-na-air-fryer-da-rita-lo-55efd7"
       },
       {
-        "nome": "Cogumelos Paris Salteados com Alho e Azeite e Pão Crocante",
-        "curso": "entrada",
-        "tempo": "15 min",
-        "url": "https://www.panelinha.com.br/receita/Cogumelos-salteados-com-alho-e-salsinha",
-        "porque": "Entrada leve e saborosa, com cogumelos salteados rapidamente em azeite e alho, sem fritura profunda, ideal para acompanhar com pão.",
-        "tags": [
-          "vegetariano",
-          "rapido",
-          "refogado"
-        ],
-        "rende_sobra": false,
-        "ingredientes": [
-          "200g de cogumelos Paris frescos",
-          "2 colheres (sopa) de azeite de oliva extra virgem",
-          "2 dentes de alho picados",
-          "2 ramos de salsinha fresca picada",
-          "Sal e pimenta-do-reino moída na hora a gosto",
-          "4 fatias de pão italiano ou baguete"
-        ],
-        "preparo": [
-          "Limpe os cogumelos com um pano úmido, sem lavar. Corte-os em quartos ou ao meio, se forem pequenos.",
-          "Aqueça uma frigideira em fogo médio com o azeite. Refogue o alho picado por 1 minuto, sem deixar dourar.",
-          "Adicione os cogumelos à frigideira e salteie por cerca de 5-7 minutos, mexendo ocasionalmente, até dourarem e murcharem.",
-          "Tempere com sal, pimenta e misture a salsinha picada. Sirva imediatamente com fatias de pão crocante."
-        ],
-        "id": "cogumelos-paris-salteados-com-alho-e-aze-a21db0"
-      },
-      {
-        "nome": "Pavê de Biscoito Maisena com Creme e Ganache de Chocolate",
-        "curso": "sobremesa",
+        "nome": "Carne Moída Refogada com Vegetais",
+        "curso": "principal",
         "tempo": "30 min",
-        "url": "https://www.tudogostoso.com.br/receita/11494-pave-de-biscoito-maisena-com-ganache.html",
-        "porque": "Sobremesa clássica e indulgente, preparada sem forno e com ingredientes acessíveis, perfeita para fazer com antecedência.",
+        "url": "https://www.tudogostoso.com.br/receita/18858-carne-moida-com-legumes.html",
+        "porque": "Um prato versátil e rico em proteína, fácil de preparar em uma panela só, com a adição de vegetais para um jantar equilibrado e saudável.",
         "tags": [
+          "carne_vermelha",
           "rapido",
-          "sobremesa",
-          "gelado",
-          "rende_sobra"
+          "equilibrado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "1 lata de leite condensado",
-          "1 lata de creme de leite (sem soro)",
-          "1 lata de leite (use a medida da lata de leite condensado)",
-          "2 gemas peneiradas",
-          "1 colher (sopa) de amido de milho",
-          "1 colher (chá) de essência de baunilha (opcional)",
-          "1 pacote (200g) de biscoito maisena",
-          "200g de chocolate meio amargo picado",
-          "1/2 lata de creme de leite (para o ganache)"
+          "500g de carne moída",
+          "1 cebola picada",
+          "2 dentes de alho amassados",
+          "1 tomate picado",
+          "1/2 pimentão picado (opcional)",
+          "1 cenoura pequena em cubos",
+          "1/2 xícara de ervilha fresca (ou congelada)",
+          "1/2 xícara de milho verde",
+          "Sal e pimenta-do-reino a gosto",
+          "Cheiro-verde picado a gosto",
+          "2 colheres (sopa) de azeite"
         ],
         "preparo": [
-          "Para o creme: Em uma panela, misture o leite condensado, o leite, as gemas peneiradas e o amido de milho dissolvido em um pouco de leite. Leve ao fogo médio, mexendo sempre, até engrossar.",
-          "Retire do fogo, adicione o creme de leite (sem soro) e a essência de baunilha. Misture bem e reserve.",
-          "Em um refratário, faça uma camada de biscoitos maisena levemente umedecidos em leite. Cubra com uma camada do creme. Repita as camadas, terminando com o creme.",
-          "Para o ganache: Derreta o chocolate meio amargo no micro-ondas ou em banho-maria. Misture com o creme de leite (1/2 lata) até obter um creme liso e brilhante.",
-          "Despeje o ganache sobre o pavê. Leve à geladeira por no mínimo 3 horas antes de servir, ou até firmar bem."
+          "Em uma panela, aqueça o azeite e refogue a cebola e o alho até dourarem.",
+          "Adicione a carne moída e refogue, mexendo sempre, até que esteja bem soltinha e dourada. Escorra o excesso de gordura se houver.",
+          "Junte o tomate, o pimentão (se usar) e a cenoura. Refogue por mais alguns minutos.",
+          "Acrescente a ervilha e o milho. Tempere com sal e pimenta-do-reino a gosto. Cozinhe por cerca de 5 a 7 minutos, ou até os legumes ficarem cozidos, mas ainda firmes.",
+          "Finalize com cheiro-verde picado e sirva."
         ],
-        "id": "pav-de-biscoito-maisena-com-creme-e-gana-bb462f"
+        "id": "carne-mo-da-refogada-com-vegetais-675d1f"
+      },
+      {
+        "nome": "Ricota Grelhada com Ervas",
+        "curso": "entrada",
+        "tempo": "15 min",
+        "url": "https://www.panelinha.com.br/receita/Ricota-grelhada",
+        "porque": "Uma entrada leve, fresca e com boa dose de proteína, preparada rapidamente na frigideira com um fio de azeite, sendo uma opção simples e elegante.",
+        "tags": [
+          "vegetariano",
+          "grelhado",
+          "rapido",
+          "low_carb"
+        ],
+        "rende_sobra": false,
+        "ingredientes": [
+          "1 ricota fresca (de 400g, aproximadamente)",
+          "4 colheres (sopa) de azeite",
+          "8 folhas de manjericão",
+          "8 folhas de hortelã",
+          "8 folhas de salsa crespa",
+          "Sal e pimenta-do-reino moída na hora a gosto",
+          "Grãos de pimenta rosa para perfumar"
+        ],
+        "preparo": [
+          "Corte a ricota em fatias de 2 cm de espessura. Lave e seque as ervas.",
+          "Aqueça uma frigideira antiaderente em fogo médio. Junte 1 colher (sopa) de azeite e coloque as fatias de ricota, até duas por vez.",
+          "Deixe dourar de cada lado por cerca de 4 minutos.",
+          "Transfira a ricota grelhada para um prato, tempere com sal e pimenta-do-reino, salpique as ervas frescas e os grãos de pimenta-rosa e regue com um fio de azeite. Sirva a seguir."
+        ],
+        "id": "ricota-grelhada-com-ervas-70fadd"
+      },
+      {
+        "nome": "Mousse de Morango",
+        "curso": "sobremesa",
+        "tempo": "10 min",
+        "url": "https://www.tudogostoso.com.br/receita/13291-mousse-de-morango-da-carmelita.html",
+        "porque": "Uma sobremesa frutada e deliciosa, feita no liquidificador, que não requer forno e é uma opção refrescante e prática.",
+        "tags": [
+          "rapido",
+          "fruta",
+          "doce"
+        ],
+        "rende_sobra": false,
+        "ingredientes": [
+          "2 caixas de morangos frescos (cerca de 600g)",
+          "1 lata de leite condensado",
+          "1 lata de creme de leite",
+          "1 caixinha de gelatina de morango"
+        ],
+        "preparo": [
+          "Lave e pique os morangos. Reserve alguns para decorar.",
+          "Prepare a gelatina de morango conforme as instruções da embalagem, usando metade da água indicada para ficar mais firme. Reserve.",
+          "No liquidificador, bata os morangos picados, o leite condensado e o creme de leite até obter uma mistura homogênea.",
+          "Adicione a gelatina de morango já preparada e bata novamente por alguns segundos para incorporar.",
+          "Despeje a mousse em taças individuais ou em um refratário e leve à geladeira por no mínimo 3 horas, ou até firmar. Decore com os morangos reservados antes de servir."
+        ],
+        "id": "mousse-de-morango-aad8f8"
       }
     ]
   },
