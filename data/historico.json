@@ -4491,5 +4491,37 @@
       "doce"
     ],
     "data": "07/09/2026"
+  },
+  {
+    "id": "panqueca-de-carne-mo-da-assada-8f0552",
+    "titulo": "Panqueca de Carne Moída Assada",
+    "tags": [
+      "carne_vermelha",
+      "massa",
+      "forno",
+      "equilibrado"
+    ],
+    "data": "08/09/2026"
+  },
+  {
+    "id": "frango-cremoso-com-legumes-refogado-7600e8",
+    "titulo": "Frango Cremoso com Legumes Refogado",
+    "tags": [
+      "frango",
+      "rapido",
+      "equilibrado",
+      "refogado"
+    ],
+    "data": "08/09/2026"
+  },
+  {
+    "id": "bruschetta-de-tomate-e-manjeric-o-assada-fab065",
+    "titulo": "Bruschetta de Tomate e Manjericão (assada no forno)",
+    "tags": [
+      "vegetariano",
+      "rapido",
+      "forno"
+    ],
+    "data": "08/09/2026"
   }
 ]

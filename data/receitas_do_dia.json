@@ -1,126 +1,135 @@
 {
-  "gerado_em": "07/09/2026",
+  "gerado_em": "08/09/2026",
   "diario": {
     "tipo": "diario",
-    "data": "07/09/2026",
-    "dia_semana": "segunda",
+    "data": "08/09/2026",
+    "dia_semana": "terça",
     "pratos": [
       {
-        "nome": "Fraldinha Assada na Air Fryer da Rita Lobo",
+        "nome": "Panqueca de Carne Moída Assada",
         "curso": "principal",
-        "tempo": "35 min",
-        "url": "https://www.panelinha.com.br/receita/Fraldinha-na-Airfryer",
-        "porque": "Uma carne vermelha suculenta e saborosa, preparada na Air Fryer para um cozimento uniforme e sem excesso de óleo, perfeita para o dia a dia e para gerar sobras.",
+        "tempo": "45 min",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwJyWWkWXtChxGd3FfOqSPhxIjgfiQAoeOWeWYdDZxdVz2Eq2WFdHufeHf2G7TGgr2qkqsphpa2ECjktamEXWQ_RdaA28iO7rN5OstcxuMqx8gyu8OwWSrCFjo5usbx47gLV6QRNz3h7OoNlLIUA3hg8QR1nzHJyQUD6k_JZHVBeLaRaZwALrgOlHqVVndc-hNUbC6VO21V4=",
+        "porque": "Uma opção saborosa e equilibrada de carne vermelha, assada no forno para evitar frituras e perfeita para render sobras.",
         "tags": [
           "carne_vermelha",
-          "airfryer",
-          "rapido"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "1 peça de fraldinha (cerca de 1 kg)",
-          "2 colheres (sopa) de azeite",
-          "1 colher (chá) de sal",
-          "½ colher (chá) de pimenta-do-reino moída na hora"
-        ],
-        "preparo": [
-          "Preaqueça a Air Fryer a 200 ºC.",
-          "Seque bem a fraldinha com papel toalha e tempere com azeite, sal e pimenta-do-reino, massageando bem a carne.",
-          "Coloque a fraldinha na cesta da Air Fryer e asse por 25 minutos, virando na metade do tempo.",
-          "Retire a fraldinha, transfira para uma tábua, cubra com papel alumínio e deixe descansar por 5 minutos antes de fatiar e servir."
-        ],
-        "id": "fraldinha-assada-na-air-fryer-da-rita-lo-55efd7"
-      },
-      {
-        "nome": "Carne Moída Refogada com Vegetais",
-        "curso": "principal",
-        "tempo": "30 min",
-        "url": "https://www.tudogostoso.com.br/receita/18858-carne-moida-com-legumes.html",
-        "porque": "Um prato versátil e rico em proteína, fácil de preparar em uma panela só, com a adição de vegetais para um jantar equilibrado e saudável.",
-        "tags": [
-          "carne_vermelha",
-          "rapido",
+          "massa",
+          "forno",
           "equilibrado"
         ],
         "rende_sobra": true,
         "ingredientes": [
+          "2 ovos",
+          "2 xícaras (chá) de leite",
+          "1 e 1/2 xícaras (chá) de farinha de trigo",
+          "2 colheres (sopa) de óleo",
+          "1 pitada de sal",
           "500g de carne moída",
-          "1 cebola picada",
-          "2 dentes de alho amassados",
+          "1/2 cebola picada",
+          "2 dentes de alho picados",
           "1 tomate picado",
-          "1/2 pimentão picado (opcional)",
-          "1 cenoura pequena em cubos",
-          "1/2 xícara de ervilha fresca (ou congelada)",
-          "1/2 xícara de milho verde",
-          "Sal e pimenta-do-reino a gosto",
-          "Cheiro-verde picado a gosto",
-          "2 colheres (sopa) de azeite"
+          "1/2 xícara (chá) de molho de tomate",
+          "Sal, pimenta-do-reino e cheiro-verde a gosto",
+          "1 sachê de molho de tomate (340g)",
+          "200g de queijo muçarela ralado"
         ],
         "preparo": [
-          "Em uma panela, aqueça o azeite e refogue a cebola e o alho até dourarem.",
-          "Adicione a carne moída e refogue, mexendo sempre, até que esteja bem soltinha e dourada. Escorra o excesso de gordura se houver.",
-          "Junte o tomate, o pimentão (se usar) e a cenoura. Refogue por mais alguns minutos.",
-          "Acrescente a ervilha e o milho. Tempere com sal e pimenta-do-reino a gosto. Cozinhe por cerca de 5 a 7 minutos, ou até os legumes ficarem cozidos, mas ainda firmes.",
-          "Finalize com cheiro-verde picado e sirva."
+          "Bata no liquidificador os ovos, leite, farinha, óleo e sal até a massa ficar lisa. Deixe descansar por 10 minutos.",
+          "Em uma panela, refogue a cebola e o alho. Adicione a carne moída, tempere e cozinhe até dourar. Misture o tomate, 1/2 xícara de molho e cheiro-verde.",
+          "Aqueça uma frigideira untada, faça discos finos com a massa. Recheie cada disco com a carne, enrole e disponha em um refratário.",
+          "Cubra as panquecas com o restante do molho de tomate e espalhe o queijo muçarela ralado por cima.",
+          "Leve ao forno pré-aquecido a 180°C por cerca de 20 minutos, ou até gratinar. Sirva quente."
         ],
-        "id": "carne-mo-da-refogada-com-vegetais-675d1f"
+        "id": "panqueca-de-carne-mo-da-assada-8f0552"
       },
       {
-        "nome": "Ricota Grelhada com Ervas",
+        "nome": "Frango Cremoso com Legumes Refogado",
+        "curso": "principal",
+        "tempo": "30 min",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF80nBW0OzZaLukGkwGMPa1EiZ9lx3V2w7xxLrXE8N8n-HEGE2LBGvH6xqSZ0eoMaJfzRtkxcQXSUllj0zd6JkHCUjd-PCzwLecC5saNr1GMwNaYLQ-cNHayTncsUjwQ9c8v6cJLGEdRHYxgex9VotAd5BzLphDUPFLyZTw5dtIph84tpw5xRNv-IfYE410BFUJ32PopmP4EbN_kxlQHzsUIKh_wMenr8JGqMz4_KWc0Ie-9uxcn0OyTTrJEvTyyOSAqHZTMKxRwfBGsFoBkiAw5DtyaTFjGvWfBg==",
+        "porque": "Prato rápido e completo, com frango e legumes refogados em um creme leve, ideal para uma refeição equilibrada.",
+        "tags": [
+          "frango",
+          "rapido",
+          "equilibrado",
+          "refogado"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "500g de peito de frango em cubos",
+          "1 cebola picada",
+          "2 dentes de alho picados",
+          "1 cenoura média em cubos",
+          "1/2 xícara de ervilhas (frescas ou congeladas)",
+          "1/2 xícara de milho verde (fresco ou congelado)",
+          "1 lata de creme de leite (200g, sem soro)",
+          "2 colheres (sopa) de azeite",
+          "Sal, pimenta-do-reino e cheiro-verde a gosto"
+        ],
+        "preparo": [
+          "Tempere o frango em cubos com sal, pimenta-do-reino e alho.",
+          "Em uma panela grande, aqueça o azeite e refogue a cebola até ficar transparente. Adicione o frango e doure bem.",
+          "Acrescente a cenoura, as ervilhas e o milho. Refogue por alguns minutos, adicionando um pouco de água se necessário para cozinhar os legumes.",
+          "Desligue o fogo e misture o creme de leite, mexendo até incorporar e obter um molho cremoso.",
+          "Finalize com cheiro-verde picado. Sirva quente, acompanhado de arroz branco."
+        ],
+        "id": "frango-cremoso-com-legumes-refogado-7600e8"
+      },
+      {
+        "nome": "Bruschetta de Tomate e Manjericão (assada no forno)",
         "curso": "entrada",
         "tempo": "15 min",
-        "url": "https://www.panelinha.com.br/receita/Ricota-grelhada",
-        "porque": "Uma entrada leve, fresca e com boa dose de proteína, preparada rapidamente na frigideira com um fio de azeite, sendo uma opção simples e elegante.",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG03v6UcnVFYhOu_cfaYUWRlfAZoya2Y2qhKjURb-GEXTzTfiyPph-dMHE2cXnrBvFn3BTvaEjSBUAPWLuLI_3M0rb8M958cG-tZamfTWS2ncQA3s_eGtFuWddgkKLwySPuu_Xz--kwSvfTfd1UYpTt",
+        "porque": "Uma entrada leve e fresca, fácil de preparar no forno, que complementa bem os pratos principais.",
         "tags": [
           "vegetariano",
-          "grelhado",
           "rapido",
-          "low_carb"
+          "forno"
         ],
         "rende_sobra": false,
         "ingredientes": [
-          "1 ricota fresca (de 400g, aproximadamente)",
-          "4 colheres (sopa) de azeite",
-          "8 folhas de manjericão",
-          "8 folhas de hortelã",
-          "8 folhas de salsa crespa",
-          "Sal e pimenta-do-reino moída na hora a gosto",
-          "Grãos de pimenta rosa para perfumar"
+          "6 fatias de pão italiano ou baguete",
+          "3 tomates médios, sem sementes, cortados em cubos pequenos",
+          "1 dente de alho pequeno, descascado",
+          "Folhas frescas de manjericão a gosto",
+          "Azeite extra virgem a gosto",
+          "Sal e pimenta-do-reino a gosto"
         ],
         "preparo": [
-          "Corte a ricota em fatias de 2 cm de espessura. Lave e seque as ervas.",
-          "Aqueça uma frigideira antiaderente em fogo médio. Junte 1 colher (sopa) de azeite e coloque as fatias de ricota, até duas por vez.",
-          "Deixe dourar de cada lado por cerca de 4 minutos.",
-          "Transfira a ricota grelhada para um prato, tempere com sal e pimenta-do-reino, salpique as ervas frescas e os grãos de pimenta-rosa e regue com um fio de azeite. Sirva a seguir."
+          "Pré-aqueça o forno a 180°C. Disponha as fatias de pão em uma assadeira e leve ao forno por 5 a 10 minutos, até ficarem crocantes.",
+          "Enquanto o pão assa, misture os tomates picados, as folhas de manjericão rasgadas, um fio de azeite, sal e pimenta em uma tigela.",
+          "Retire o pão do forno. Esfregue o dente de alho descascado nas fatias de pão ainda quentes.",
+          "Distribua a mistura de tomate e manjericão sobre cada fatia de pão e regue com um fio de azeite.",
+          "Sirva imediatamente."
         ],
-        "id": "ricota-grelhada-com-ervas-70fadd"
+        "id": "bruschetta-de-tomate-e-manjeric-o-assada-fab065"
       },
       {
-        "nome": "Mousse de Morango",
+        "nome": "Mousse de Maracujá Simples",
         "curso": "sobremesa",
         "tempo": "10 min",
-        "url": "https://www.tudogostoso.com.br/receita/13291-mousse-de-morango-da-carmelita.html",
-        "porque": "Uma sobremesa frutada e deliciosa, feita no liquidificador, que não requer forno e é uma opção refrescante e prática.",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENznEDi8elkDB41uyGFQyEJLs2HQvv0W3Adiba7fqtzjdTQTcAaWaxVqIW_ij77CxKjpbVjYMa-quYzR0QZX3-5vVc44QkjPGeneT4I7Og0pcmSgRO5VJ0clZfYBi6ZlewPkJ6gPLQ8uotQnIcIm-BDpsr4tF9G2nzLaBOxC9s",
+        "porque": "Uma sobremesa refrescante, rápida de preparar e que agrada a maioria, sem a necessidade de cozimento.",
         "tags": [
           "rapido",
-          "fruta",
-          "doce"
+          "sobremesa",
+          "fruta"
         ],
-        "rende_sobra": false,
+        "rende_sobra": true,
         "ingredientes": [
-          "2 caixas de morangos frescos (cerca de 600g)",
-          "1 lata de leite condensado",
-          "1 lata de creme de leite",
-          "1 caixinha de gelatina de morango"
+          "1 lata de leite condensado (395g)",
+          "1 lata de creme de leite (200g, sem soro)",
+          "1 xícara (chá) de suco concentrado de maracujá (aproximadamente 200ml)",
+          "Opcional: polpa de 1 maracujá para decorar"
         ],
         "preparo": [
-          "Lave e pique os morangos. Reserve alguns para decorar.",
-          "Prepare a gelatina de morango conforme as instruções da embalagem, usando metade da água indicada para ficar mais firme. Reserve.",
-          "No liquidificador, bata os morangos picados, o leite condensado e o creme de leite até obter uma mistura homogênea.",
-          "Adicione a gelatina de morango já preparada e bata novamente por alguns segundos para incorporar.",
-          "Despeje a mousse em taças individuais ou em um refratário e leve à geladeira por no mínimo 3 horas, ou até firmar. Decore com os morangos reservados antes de servir."
+          "No liquidificador, adicione o leite condensado, o creme de leite e o suco concentrado de maracujá.",
+          "Bata por cerca de 3 a 5 minutos, ou até a mistura ficar homogênea e cremosa.",
+          "Despeje a mousse em taças individuais ou em uma travessa.",
+          "Leve à geladeira por no mínimo 2 a 4 horas, ou até firmar bem.",
+          "Se desejar, decore com a polpa fresca do maracujá antes de servir."
         ],
-        "id": "mousse-de-morango-aad8f8"
+        "id": "mousse-de-maracuj-simples-1edc80"
       }
     ]
   },
