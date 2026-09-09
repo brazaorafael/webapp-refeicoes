@@ -1,133 +1,122 @@
 {
-  "gerado_em": "08/09/2026",
+  "gerado_em": "09/09/2026",
   "diario": {
     "tipo": "diario",
-    "data": "08/09/2026",
-    "dia_semana": "terça",
+    "data": "09/09/2026",
+    "dia_semana": "quarta",
     "pratos": [
       {
-        "nome": "Panqueca de Carne Moída Assada",
+        "nome": "Kafta Assada no Forno",
         "curso": "principal",
         "tempo": "45 min",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwJyWWkWXtChxGd3FfOqSPhxIjgfiQAoeOWeWYdDZxdVz2Eq2WFdHufeHf2G7TGgr2qkqsphpa2ECjktamEXWQ_RdaA28iO7rN5OstcxuMqx8gyu8OwWSrCFjo5usbx47gLV6QRNz3h7OoNlLIUA3hg8QR1nzHJyQUD6k_JZHVBeLaRaZwALrgOlHqVVndc-hNUbC6VO21V4=",
-        "porque": "Uma opção saborosa e equilibrada de carne vermelha, assada no forno para evitar frituras e perfeita para render sobras.",
+        "url": "https://www.tudogostoso.com.br/receita/11388-kafta-assada-no-forno.html",
+        "porque": "Uma saborosa opção de carne vermelha, assada no forno para praticidade e pouca gordura, perfeita para um jantar equilibrado e que rende sobras.",
         "tags": [
           "carne_vermelha",
-          "massa",
           "forno",
+          "rapido",
           "equilibrado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "2 ovos",
-          "2 xícaras (chá) de leite",
-          "1 e 1/2 xícaras (chá) de farinha de trigo",
-          "2 colheres (sopa) de óleo",
-          "1 pitada de sal",
-          "500g de carne moída",
-          "1/2 cebola picada",
-          "2 dentes de alho picados",
-          "1 tomate picado",
-          "1/2 xícara (chá) de molho de tomate",
-          "Sal, pimenta-do-reino e cheiro-verde a gosto",
-          "1 sachê de molho de tomate (340g)",
-          "200g de queijo muçarela ralado"
+          "500g de carne moída (patinho ou acém)",
+          "1 cebola média ralada",
+          "2 dentes de alho amassados",
+          "1/4 xícara de hortelã fresca picada",
+          "1/4 xícara de salsinha fresca picada",
+          "1 colher de chá de pimenta síria (ou cominho e canela)",
+          "Sal a gosto",
+          "Pimenta-do-reino a gosto",
+          "Azeite para untar"
         ],
         "preparo": [
-          "Bata no liquidificador os ovos, leite, farinha, óleo e sal até a massa ficar lisa. Deixe descansar por 10 minutos.",
-          "Em uma panela, refogue a cebola e o alho. Adicione a carne moída, tempere e cozinhe até dourar. Misture o tomate, 1/2 xícara de molho e cheiro-verde.",
-          "Aqueça uma frigideira untada, faça discos finos com a massa. Recheie cada disco com a carne, enrole e disponha em um refratário.",
-          "Cubra as panquecas com o restante do molho de tomate e espalhe o queijo muçarela ralado por cima.",
-          "Leve ao forno pré-aquecido a 180°C por cerca de 20 minutos, ou até gratinar. Sirva quente."
+          "Em uma tigela, misture a carne moída com a cebola ralada, alho, hortelã, salsinha, pimenta síria, sal e pimenta-do-reino até incorporar bem.",
+          "Modele a carne em formato de espetos ou pequenas almôndegas alongadas.",
+          "Unte uma assadeira com azeite e disponha as kaftas.",
+          "Leve ao forno pré-aquecido a 200°C por cerca de 25 a 30 minutos, virando na metade do tempo para dourar por igual."
         ],
-        "id": "panqueca-de-carne-mo-da-assada-8f0552"
+        "id": "kafta-assada-no-forno-066279"
       },
       {
-        "nome": "Frango Cremoso com Legumes Refogado",
+        "nome": "Bife Acebolado Suculento",
         "curso": "principal",
-        "tempo": "30 min",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF80nBW0OzZaLukGkwGMPa1EiZ9lx3V2w7xxLrXE8N8n-HEGE2LBGvH6xqSZ0eoMaJfzRtkxcQXSUllj0zd6JkHCUjd-PCzwLecC5saNr1GMwNaYLQ-cNHayTncsUjwQ9c8v6cJLGEdRHYxgex9VotAd5BzLphDUPFLyZTw5dtIph84tpw5xRNv-IfYE410BFUJ32PopmP4EbN_kxlQHzsUIKh_wMenr8JGqMz4_KWc0Ie-9uxcn0OyTTrJEvTyyOSAqHZTMKxRwfBGsFoBkiAw5DtyaTFjGvWfBg==",
-        "porque": "Prato rápido e completo, com frango e legumes refogados em um creme leve, ideal para uma refeição equilibrada.",
+        "tempo": "20 min",
+        "url": "https://www.panelinha.com.br/receita/Bife-acebolado",
+        "porque": "É um clássico rápido e fácil de preparar, com carne vermelha grelhada e cebolas douradas, atendendo à preferência do casal por praticidade e rendendo sobras.",
         "tags": [
-          "frango",
+          "carne_vermelha",
+          "grelhado",
           "rapido",
-          "equilibrado",
-          "refogado"
+          "equilibrado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "500g de peito de frango em cubos",
-          "1 cebola picada",
+          "2 bifes de contrafilé ou alcatra (aprox. 180g cada)",
+          "2 cebolas médias fatiadas em rodelas",
           "2 dentes de alho picados",
-          "1 cenoura média em cubos",
-          "1/2 xícara de ervilhas (frescas ou congeladas)",
-          "1/2 xícara de milho verde (fresco ou congelado)",
-          "1 lata de creme de leite (200g, sem soro)",
-          "2 colheres (sopa) de azeite",
-          "Sal, pimenta-do-reino e cheiro-verde a gosto"
+          "Azeite de oliva",
+          "Sal a gosto",
+          "Pimenta-do-reino a gosto"
         ],
         "preparo": [
-          "Tempere o frango em cubos com sal, pimenta-do-reino e alho.",
-          "Em uma panela grande, aqueça o azeite e refogue a cebola até ficar transparente. Adicione o frango e doure bem.",
-          "Acrescente a cenoura, as ervilhas e o milho. Refogue por alguns minutos, adicionando um pouco de água se necessário para cozinhar os legumes.",
-          "Desligue o fogo e misture o creme de leite, mexendo até incorporar e obter um molho cremoso.",
-          "Finalize com cheiro-verde picado. Sirva quente, acompanhado de arroz branco."
+          "Tempere os bifes com sal e pimenta-do-reino dos dois lados.",
+          "Aqueça um fio de azeite em uma frigideira grande em fogo alto e sele os bifes por 2-3 minutos de cada lado para o ponto desejado. Retire e reserve.",
+          "Na mesma frigideira, adicione um pouco mais de azeite e refogue as cebolas fatiadas com o alho picado até ficarem macias e douradas.",
+          "Retorne os bifes à frigideira, misture com as cebolas por alguns segundos e sirva imediatamente."
         ],
-        "id": "frango-cremoso-com-legumes-refogado-7600e8"
+        "id": "bife-acebolado-suculento-372bc8"
       },
       {
-        "nome": "Bruschetta de Tomate e Manjericão (assada no forno)",
+        "nome": "Salada Caprese Tradicional",
         "curso": "entrada",
-        "tempo": "15 min",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG03v6UcnVFYhOu_cfaYUWRlfAZoya2Y2qhKjURb-GEXTzTfiyPph-dMHE2cXnrBvFn3BTvaEjSBUAPWLuLI_3M0rb8M958cG-tZamfTWS2ncQA3s_eGtFuWddgkKLwySPuu_Xz--kwSvfTfd1UYpTt",
-        "porque": "Uma entrada leve e fresca, fácil de preparar no forno, que complementa bem os pratos principais.",
+        "tempo": "10 min",
+        "url": "https://www.panelinha.com.br/receita/Salada-caprese-classica",
+        "porque": "Uma entrada leve, refrescante e rápida de montar, que combina perfeitamente com um jantar de carne vermelha.",
         "tags": [
-          "vegetariano",
+          "salada",
           "rapido",
-          "forno"
+          "vegetariano",
+          "low_carb"
         ],
         "rende_sobra": false,
         "ingredientes": [
-          "6 fatias de pão italiano ou baguete",
-          "3 tomates médios, sem sementes, cortados em cubos pequenos",
-          "1 dente de alho pequeno, descascado",
-          "Folhas frescas de manjericão a gosto",
-          "Azeite extra virgem a gosto",
-          "Sal e pimenta-do-reino a gosto"
+          "2 tomates médios maduros",
+          "1 bola de muçarela de búfala (aproximadamente 150g)",
+          "Folhas frescas de manjericão",
+          "Azeite extra virgem",
+          "Sal a gosto",
+          "Pimenta-do-reino moída na hora a gosto"
         ],
         "preparo": [
-          "Pré-aqueça o forno a 180°C. Disponha as fatias de pão em uma assadeira e leve ao forno por 5 a 10 minutos, até ficarem crocantes.",
-          "Enquanto o pão assa, misture os tomates picados, as folhas de manjericão rasgadas, um fio de azeite, sal e pimenta em uma tigela.",
-          "Retire o pão do forno. Esfregue o dente de alho descascado nas fatias de pão ainda quentes.",
-          "Distribua a mistura de tomate e manjericão sobre cada fatia de pão e regue com um fio de azeite.",
-          "Sirva imediatamente."
+          "Lave e seque bem os tomates e as folhas de manjericão.",
+          "Fatie os tomates em rodelas de espessura média e a muçarela de búfala em fatias similares.",
+          "Em um prato, intercale as fatias de tomate, muçarela e folhas de manjericão.",
+          "Regue generosamente com azeite extra virgem e tempere com sal e pimenta-do-reino moída na hora antes de servir."
         ],
-        "id": "bruschetta-de-tomate-e-manjeric-o-assada-fab065"
+        "id": "salada-caprese-tradicional-621d41"
       },
       {
         "nome": "Mousse de Maracujá Simples",
         "curso": "sobremesa",
-        "tempo": "10 min",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENznEDi8elkDB41uyGFQyEJLs2HQvv0W3Adiba7fqtzjdTQTcAaWaxVqIW_ij77CxKjpbVjYMa-quYzR0QZX3-5vVc44QkjPGeneT4I7Og0pcmSgRO5VJ0clZfYBi6ZlewPkJ6gPLQ8uotQnIcIm-BDpsr4tF9G2nzLaBOxC9s",
-        "porque": "Uma sobremesa refrescante, rápida de preparar e que agrada a maioria, sem a necessidade de cozimento.",
+        "tempo": "15 min (+ 2h geladeira)",
+        "url": "https://anamariabraga.globo.com/receita/mousse-de-maracuja-simples/",
+        "porque": "Uma sobremesa clássica, leve e refrescante, que não exige cozimento e é muito simples de preparar.",
         "tags": [
-          "rapido",
           "sobremesa",
-          "fruta"
+          "rapido",
+          "gelado"
         ],
         "rende_sobra": true,
         "ingredientes": [
           "1 lata de leite condensado (395g)",
           "1 lata de creme de leite (200g, sem soro)",
-          "1 xícara (chá) de suco concentrado de maracujá (aproximadamente 200ml)",
-          "Opcional: polpa de 1 maracujá para decorar"
+          "1 xícara (chá) de suco concentrado de maracujá (aproximadamente 200ml)"
         ],
         "preparo": [
           "No liquidificador, adicione o leite condensado, o creme de leite e o suco concentrado de maracujá.",
-          "Bata por cerca de 3 a 5 minutos, ou até a mistura ficar homogênea e cremosa.",
-          "Despeje a mousse em taças individuais ou em uma travessa.",
-          "Leve à geladeira por no mínimo 2 a 4 horas, ou até firmar bem.",
-          "Se desejar, decore com a polpa fresca do maracujá antes de servir."
+          "Bata por cerca de 3 a 5 minutos, ou até a mistura ficar homogênea e aerada.",
+          "Despeje a mousse em taças individuais ou em um refratário grande.",
+          "Leve à geladeira por no mínimo 2 horas, ou até firmar bem. Se desejar, decore com sementes de maracujá antes de servir."
         ],
         "id": "mousse-de-maracuj-simples-1edc80"
       }
