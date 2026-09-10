@@ -4556,5 +4556,46 @@
       "low_carb"
     ],
     "data": "09/09/2026"
+  },
+  {
+    "id": "bife-de-ancho-grelhado-com-salada-de-qui-087081",
+    "titulo": "Bife de Ancho Grelhado com Salada de Quinoa e Legumes",
+    "tags": [
+      "carne_vermelha",
+      "grelhado",
+      "rapido",
+      "equilibrado"
+    ],
+    "data": "10/09/2026"
+  },
+  {
+    "id": "escondidinho-de-carne-seca-com-mandioca--b50298",
+    "titulo": "Escondidinho de Carne Seca com Mandioca Cremosa",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "equilibrado"
+    ],
+    "data": "10/09/2026"
+  },
+  {
+    "id": "crudit-s-de-legumes-com-molho-de-iogurte-ba7e27",
+    "titulo": "Crudités de Legumes com Molho de Iogurte",
+    "tags": [
+      "vegetariano",
+      "rapido",
+      "salada"
+    ],
+    "data": "10/09/2026"
+  },
+  {
+    "id": "mousse-de-maracuj-com-3-ingredientes-f1f237",
+    "titulo": "Mousse de Maracujá com 3 Ingredientes",
+    "tags": [
+      "rapido",
+      "sobremesa",
+      "sem_forno"
+    ],
+    "data": "10/09/2026"
   }
 ]

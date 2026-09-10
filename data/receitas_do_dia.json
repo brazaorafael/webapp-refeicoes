@@ -1,48 +1,16 @@
 {
-  "gerado_em": "09/09/2026",
+  "gerado_em": "10/09/2026",
   "diario": {
     "tipo": "diario",
-    "data": "09/09/2026",
-    "dia_semana": "quarta",
+    "data": "10/09/2026",
+    "dia_semana": "quinta",
     "pratos": [
       {
-        "nome": "Kafta Assada no Forno",
+        "nome": "Bife de Ancho Grelhado com Salada de Quinoa e Legumes",
         "curso": "principal",
-        "tempo": "45 min",
-        "url": "https://www.tudogostoso.com.br/receita/11388-kafta-assada-no-forno.html",
-        "porque": "Uma saborosa opção de carne vermelha, assada no forno para praticidade e pouca gordura, perfeita para um jantar equilibrado e que rende sobras.",
-        "tags": [
-          "carne_vermelha",
-          "forno",
-          "rapido",
-          "equilibrado"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "500g de carne moída (patinho ou acém)",
-          "1 cebola média ralada",
-          "2 dentes de alho amassados",
-          "1/4 xícara de hortelã fresca picada",
-          "1/4 xícara de salsinha fresca picada",
-          "1 colher de chá de pimenta síria (ou cominho e canela)",
-          "Sal a gosto",
-          "Pimenta-do-reino a gosto",
-          "Azeite para untar"
-        ],
-        "preparo": [
-          "Em uma tigela, misture a carne moída com a cebola ralada, alho, hortelã, salsinha, pimenta síria, sal e pimenta-do-reino até incorporar bem.",
-          "Modele a carne em formato de espetos ou pequenas almôndegas alongadas.",
-          "Unte uma assadeira com azeite e disponha as kaftas.",
-          "Leve ao forno pré-aquecido a 200°C por cerca de 25 a 30 minutos, virando na metade do tempo para dourar por igual."
-        ],
-        "id": "kafta-assada-no-forno-066279"
-      },
-      {
-        "nome": "Bife Acebolado Suculento",
-        "curso": "principal",
-        "tempo": "20 min",
-        "url": "https://www.panelinha.com.br/receita/Bife-acebolado",
-        "porque": "É um clássico rápido e fácil de preparar, com carne vermelha grelhada e cebolas douradas, atendendo à preferência do casal por praticidade e rendendo sobras.",
+        "tempo": "35 min",
+        "url": "https://www.tudoreceitas.com/receita-de-bife-ancho-grelhado-com-legumes-14399.html",
+        "porque": "Corte nobre de carne vermelha, rápido de grelhar e acompanhamento balanceado com quinoa e legumes, evitando repetições de pratos já sugeridos.",
         "tags": [
           "carne_vermelha",
           "grelhado",
@@ -51,74 +19,120 @@
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "2 bifes de contrafilé ou alcatra (aprox. 180g cada)",
-          "2 cebolas médias fatiadas em rodelas",
-          "2 dentes de alho picados",
-          "Azeite de oliva",
-          "Sal a gosto",
-          "Pimenta-do-reino a gosto"
+          "2 bifes de ancho (cerca de 250g cada)",
+          "Sal e pimenta-do-reino a gosto",
+          "2 colheres (sopa) de azeite de oliva",
+          "1 xícara (chá) de quinoa",
+          "2 xícaras (chá) de água ou caldo de legumes",
+          "1 cenoura média (cortada em cubos pequenos)",
+          "1 pepino médio (cortado em cubos pequenos)",
+          "1/2 pimentão vermelho (cortado em cubos pequenos)",
+          "Folhas de rúcula ou alface a gosto",
+          "Suco de 1/2 limão"
         ],
         "preparo": [
-          "Tempere os bifes com sal e pimenta-do-reino dos dois lados.",
-          "Aqueça um fio de azeite em uma frigideira grande em fogo alto e sele os bifes por 2-3 minutos de cada lado para o ponto desejado. Retire e reserve.",
-          "Na mesma frigideira, adicione um pouco mais de azeite e refogue as cebolas fatiadas com o alho picado até ficarem macias e douradas.",
-          "Retorne os bifes à frigideira, misture com as cebolas por alguns segundos e sirva imediatamente."
+          "Cozinhe a quinoa: Lave a quinoa em água corrente e cozinhe em 2 xícaras de água ou caldo de legumes por cerca de 15-20 minutos, até que a água seque e os grãos fiquem macios. Reserve.",
+          "Prepare os legumes: Corte a cenoura, o pepino e o pimentão em cubos pequenos. Se preferir, salteie os legumes em um fio de azeite por 3-5 minutos para ficarem levemente macios, ou use-os crus para a salada.",
+          "Grelhe o bife: Tempere os bifes de ancho com sal e pimenta-do-reino a gosto. Aqueça uma frigideira ou chapa com um fio de azeite e grelhe os bifes por 3-4 minutos de cada lado para um ponto malpassado, ou até o ponto desejado.",
+          "Monte a salada: Em uma tigela grande, misture a quinoa cozida e fria, os legumes cortados e as folhas de rúcula ou alface. Tempere a salada com azeite de oliva, suco de limão, sal e pimenta-do-reino a gosto.",
+          "Sirva: Fatie o bife ancho grelhado e sirva imediatamente acompanhado da salada de quinoa e legumes."
         ],
-        "id": "bife-acebolado-suculento-372bc8"
+        "id": "bife-de-ancho-grelhado-com-salada-de-qui-087081"
       },
       {
-        "nome": "Salada Caprese Tradicional",
-        "curso": "entrada",
-        "tempo": "10 min",
-        "url": "https://www.panelinha.com.br/receita/Salada-caprese-classica",
-        "porque": "Uma entrada leve, refrescante e rápida de montar, que combina perfeitamente com um jantar de carne vermelha.",
+        "nome": "Escondidinho de Carne Seca com Mandioca Cremosa",
+        "curso": "principal",
+        "tempo": "45 min",
+        "url": "https://band.uol.com.br/receitas/escondidinho-de-carne-seca-com-mandioca-1510107",
+        "porque": "Prato tradicional brasileiro com carne vermelha, cremoso e reconfortante, diferente do escondidinho de carne moída já sugerido, e rende bem para sobras.",
         "tags": [
-          "salada",
-          "rapido",
-          "vegetariano",
-          "low_carb"
+          "carne_vermelha",
+          "forno",
+          "equilibrado"
         ],
-        "rende_sobra": false,
+        "rende_sobra": true,
         "ingredientes": [
-          "2 tomates médios maduros",
-          "1 bola de muçarela de búfala (aproximadamente 150g)",
-          "Folhas frescas de manjericão",
-          "Azeite extra virgem",
-          "Sal a gosto",
-          "Pimenta-do-reino moída na hora a gosto"
+          "500g de carne seca dessalgada, cozida e desfiada",
+          "1 kg de mandioca (aipim) cozida e espremida",
+          "1 cebola média picada",
+          "2 dentes de alho picados",
+          "1/2 xícara (chá) de molho de tomate (ou 1 tomate picado)",
+          "1/2 xícara (chá) de leite",
+          "1 caixa de creme de leite (200g)",
+          "2 colheres (sopa) de manteiga ou margarina",
+          "200g de queijo muçarela ralado ou em fatias",
+          "Salsinha e cebolinha picadas a gosto",
+          "Sal e pimenta-do-reino a gosto",
+          "Azeite para refogar"
         ],
         "preparo": [
-          "Lave e seque bem os tomates e as folhas de manjericão.",
-          "Fatie os tomates em rodelas de espessura média e a muçarela de búfala em fatias similares.",
-          "Em um prato, intercale as fatias de tomate, muçarela e folhas de manjericão.",
-          "Regue generosamente com azeite extra virgem e tempere com sal e pimenta-do-reino moída na hora antes de servir."
+          "Prepare o purê de mandioca: Amasse a mandioca cozida ainda quente. Numa panela, derreta a manteiga, adicione a mandioca amassada, o leite e o creme de leite. Mexa bem em fogo médio até obter um purê cremoso e homogêneo. Tempere com sal a gosto e reserve.",
+          "Refogue a carne seca: Em outra panela, aqueça um fio de azeite e refogue a cebola e o alho picados até dourarem. Adicione a carne seca desfiada e o molho de tomate (ou tomate picado), refogando por alguns minutos. Tempere com sal, pimenta-do-reino e cheiro-verde a gosto.",
+          "Monte o escondidinho: Em um refratário médio, faça uma camada com metade do purê de mandioca. Espalhe todo o recheio de carne seca refogada por cima. Cubra com o restante do purê de mandioca.",
+          "Gratine no forno: Cubra a última camada de purê com o queijo muçarela ralado ou em fatias. Leve ao forno pré-aquecido a 180°C por cerca de 20-25 minutos, ou até o queijo derreter e gratinar.",
+          "Sirva: Retire do forno e finalize com salsinha picada, se desejar. Sirva o escondidinho quente."
         ],
-        "id": "salada-caprese-tradicional-621d41"
+        "id": "escondidinho-de-carne-seca-com-mandioca--b50298"
       },
       {
-        "nome": "Mousse de Maracujá Simples",
-        "curso": "sobremesa",
-        "tempo": "15 min (+ 2h geladeira)",
-        "url": "https://anamariabraga.globo.com/receita/mousse-de-maracuja-simples/",
-        "porque": "Uma sobremesa clássica, leve e refrescante, que não exige cozimento e é muito simples de preparar.",
+        "nome": "Crudités de Legumes com Molho de Iogurte",
+        "curso": "entrada",
+        "tempo": "15 min",
+        "url": "https://www.panelinha.com.br/receita/Crudites-com-molho-de-iogurte",
+        "porque": "Entrada leve, saudável, refrescante, fácil e muito rápida de preparar, sem cozimento.",
         "tags": [
-          "sobremesa",
+          "vegetariano",
           "rapido",
-          "gelado"
+          "salada"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "Para o molho:",
+          "1 xícara (chá) de iogurte natural",
+          "2 colheres (sopa) de azeite",
+          "1 colher (sopa) de caldo de limão",
+          "10 folhas de hortelã frescas picadas (ou salsinha/cebolinha)",
+          "Sal e pimenta-do-reino moída na hora a gosto",
+          "Para os legumes:",
+          "2 cenouras médias",
+          "2 pepinos japoneses",
+          "2 talos de salsão",
+          "Opcional: pimentão colorido, rabanetes"
+        ],
+        "preparo": [
+          "Prepare o molho: Lave e pique finamente as folhas de hortelã. Em uma tigela, misture o iogurte natural, o azeite, o caldo de limão, a hortelã picada, sal e pimenta-do-reino a gosto. Misture bem e reserve na geladeira.",
+          "Lave e prepare os legumes: Lave e seque bem as cenouras, pepinos e talos de salsão.",
+          "Corte os legumes: Descasque as cenouras e corte-as em bastões (palitos) de aproximadamente 1 cm de espessura. Repita o processo com os pepinos e os talos de salsão.",
+          "Sirva: Arrume os bastões de legumes em um prato ou em copinhos individuais. Sirva imediatamente acompanhado do molho de iogurte gelado."
+        ],
+        "id": "crudit-s-de-legumes-com-molho-de-iogurte-ba7e27"
+      },
+      {
+        "nome": "Mousse de Maracujá com 3 Ingredientes",
+        "curso": "sobremesa",
+        "tempo": "10 min + 3h de geladeira",
+        "url": "https://www.guiadacozinha.com.br/receitas/mousse-de-maracuja-rapida-sobremesa-com-so-3-ingredientes-faceis/",
+        "porque": "Sobremesa clássica, refrescante, fácil e muito rápida de preparar com poucos ingredientes, ideal para finalizar a refeição.",
+        "tags": [
+          "rapido",
+          "sobremesa",
+          "sem_forno"
         ],
         "rende_sobra": true,
         "ingredientes": [
           "1 lata de leite condensado (395g)",
-          "1 lata de creme de leite (200g, sem soro)",
-          "1 xícara (chá) de suco concentrado de maracujá (aproximadamente 200ml)"
+          "1 caixa de creme de leite (200g)",
+          "1 xícara (chá) de suco concentrado de maracujá (pode ser da fruta ou concentrado pronto)",
+          "Opcional: Sementes de maracujá para decorar"
         ],
         "preparo": [
-          "No liquidificador, adicione o leite condensado, o creme de leite e o suco concentrado de maracujá.",
-          "Bata por cerca de 3 a 5 minutos, ou até a mistura ficar homogênea e aerada.",
-          "Despeje a mousse em taças individuais ou em um refratário grande.",
-          "Leve à geladeira por no mínimo 2 horas, ou até firmar bem. Se desejar, decore com sementes de maracujá antes de servir."
+          "Bata os líquidos: No liquidificador, coloque o leite condensado e o creme de leite. Bata por cerca de 1 minuto para misturar bem.",
+          "Adicione o suco: Com o liquidificador ainda ligado, adicione o suco concentrado de maracujá aos poucos. Continue batendo até a mistura ficar cremosa e homogênea, por aproximadamente 2-3 minutos.",
+          "Transfira e gele: Despeje a mousse em um refratário grande ou distribua em taças individuais, conforme sua preferência.",
+          "Refrigere: Leve à geladeira por, no mínimo, 3 horas para que a mousse firme completamente e fique com a consistência ideal.",
+          "Sirva: Se desejar, decore a mousse com algumas sementes frescas de maracujá antes de servir para um toque extra de sabor e textura."
         ],
-        "id": "mousse-de-maracuj-simples-1edc80"
+        "id": "mousse-de-maracuj-com-3-ingredientes-f1f237"
       }
     ]
   },
