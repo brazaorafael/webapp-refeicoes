@@ -4597,5 +4597,35 @@
       "sem_forno"
     ],
     "data": "10/09/2026"
+  },
+  {
+    "id": "panelinha-de-carne-mo-da-gratinada-f2a64f",
+    "titulo": "Panelinha de Carne Moída Gratinada",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "equilibrio"
+    ],
+    "data": "11/09/2026"
+  },
+  {
+    "id": "chips-de-berinjela-assados-com-molho-de--f81148",
+    "titulo": "Chips de Berinjela Assados com Molho de Tahine",
+    "tags": [
+      "vegetariano",
+      "forno",
+      "rapido"
+    ],
+    "data": "11/09/2026"
+  },
+  {
+    "id": "docinho-de-coco-pr-tico-abc35a",
+    "titulo": "Docinho de Coco Prático",
+    "tags": [
+      "rapido",
+      "doce",
+      "forno"
+    ],
+    "data": "11/09/2026"
   }
 ]

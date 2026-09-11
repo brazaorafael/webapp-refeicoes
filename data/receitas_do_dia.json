@@ -1,138 +1,129 @@
 {
-  "gerado_em": "10/09/2026",
+  "gerado_em": "11/09/2026",
   "diario": {
     "tipo": "diario",
-    "data": "10/09/2026",
-    "dia_semana": "quinta",
+    "data": "11/09/2026",
+    "dia_semana": "sexta",
     "pratos": [
       {
-        "nome": "Bife de Ancho Grelhado com Salada de Quinoa e Legumes",
+        "nome": "Panelinha de Carne Moída Gratinada",
         "curso": "principal",
-        "tempo": "35 min",
-        "url": "https://www.tudoreceitas.com/receita-de-bife-ancho-grelhado-com-legumes-14399.html",
-        "porque": "Corte nobre de carne vermelha, rápido de grelhar e acompanhamento balanceado com quinoa e legumes, evitando repetições de pratos já sugeridos.",
-        "tags": [
-          "carne_vermelha",
-          "grelhado",
-          "rapido",
-          "equilibrado"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "2 bifes de ancho (cerca de 250g cada)",
-          "Sal e pimenta-do-reino a gosto",
-          "2 colheres (sopa) de azeite de oliva",
-          "1 xícara (chá) de quinoa",
-          "2 xícaras (chá) de água ou caldo de legumes",
-          "1 cenoura média (cortada em cubos pequenos)",
-          "1 pepino médio (cortado em cubos pequenos)",
-          "1/2 pimentão vermelho (cortado em cubos pequenos)",
-          "Folhas de rúcula ou alface a gosto",
-          "Suco de 1/2 limão"
-        ],
-        "preparo": [
-          "Cozinhe a quinoa: Lave a quinoa em água corrente e cozinhe em 2 xícaras de água ou caldo de legumes por cerca de 15-20 minutos, até que a água seque e os grãos fiquem macios. Reserve.",
-          "Prepare os legumes: Corte a cenoura, o pepino e o pimentão em cubos pequenos. Se preferir, salteie os legumes em um fio de azeite por 3-5 minutos para ficarem levemente macios, ou use-os crus para a salada.",
-          "Grelhe o bife: Tempere os bifes de ancho com sal e pimenta-do-reino a gosto. Aqueça uma frigideira ou chapa com um fio de azeite e grelhe os bifes por 3-4 minutos de cada lado para um ponto malpassado, ou até o ponto desejado.",
-          "Monte a salada: Em uma tigela grande, misture a quinoa cozida e fria, os legumes cortados e as folhas de rúcula ou alface. Tempere a salada com azeite de oliva, suco de limão, sal e pimenta-do-reino a gosto.",
-          "Sirva: Fatie o bife ancho grelhado e sirva imediatamente acompanhado da salada de quinoa e legumes."
-        ],
-        "id": "bife-de-ancho-grelhado-com-salada-de-qui-087081"
-      },
-      {
-        "nome": "Escondidinho de Carne Seca com Mandioca Cremosa",
-        "curso": "principal",
-        "tempo": "45 min",
-        "url": "https://band.uol.com.br/receitas/escondidinho-de-carne-seca-com-mandioca-1510107",
-        "porque": "Prato tradicional brasileiro com carne vermelha, cremoso e reconfortante, diferente do escondidinho de carne moída já sugerido, e rende bem para sobras.",
+        "tempo": "~30 min",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWdPyIxMke8H27cR8p4gQ9IhXAt5dpW5jriHGkozbP2hpvz05M7wksYKiKm1VLdzu5XjZ01iNzjL9VX_qmH8jYkbNY4RrEFxN9IhYNNQPVUY-oqI1EiQIgpd97paUFgFLtp6yY5X-VMdK__k21HpAreZjhY6jOleKfx1Oj",
+        "porque": "É uma opção saborosa de carne vermelha, feita no forno para evitar frituras, com boa proteína e o potencial de render sobras.",
         "tags": [
           "carne_vermelha",
           "forno",
-          "equilibrado"
+          "equilibrio"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "500g de carne seca dessalgada, cozida e desfiada",
-          "1 kg de mandioca (aipim) cozida e espremida",
-          "1 cebola média picada",
-          "2 dentes de alho picados",
-          "1/2 xícara (chá) de molho de tomate (ou 1 tomate picado)",
-          "1/2 xícara (chá) de leite",
-          "1 caixa de creme de leite (200g)",
-          "2 colheres (sopa) de manteiga ou margarina",
-          "200g de queijo muçarela ralado ou em fatias",
-          "Salsinha e cebolinha picadas a gosto",
-          "Sal e pimenta-do-reino a gosto",
-          "Azeite para refogar"
+          "750 g de carne de boi moída",
+          "750 g de carne de porco moída",
+          "1 pacote de bacon em fatias",
+          "1 pacote de seleta de legumes",
+          "200 g de presunto picado",
+          "200 g de ricota picada",
+          "1 ovo",
+          "2 colheres (sopa) de farinha de trigo",
+          "300 g de queijo colonial ralado grosso",
+          "Sal e especiarias a gosto"
         ],
         "preparo": [
-          "Prepare o purê de mandioca: Amasse a mandioca cozida ainda quente. Numa panela, derreta a manteiga, adicione a mandioca amassada, o leite e o creme de leite. Mexa bem em fogo médio até obter um purê cremoso e homogêneo. Tempere com sal a gosto e reserve.",
-          "Refogue a carne seca: Em outra panela, aqueça um fio de azeite e refogue a cebola e o alho picados até dourarem. Adicione a carne seca desfiada e o molho de tomate (ou tomate picado), refogando por alguns minutos. Tempere com sal, pimenta-do-reino e cheiro-verde a gosto.",
-          "Monte o escondidinho: Em um refratário médio, faça uma camada com metade do purê de mandioca. Espalhe todo o recheio de carne seca refogada por cima. Cubra com o restante do purê de mandioca.",
-          "Gratine no forno: Cubra a última camada de purê com o queijo muçarela ralado ou em fatias. Leve ao forno pré-aquecido a 180°C por cerca de 20-25 minutos, ou até o queijo derreter e gratinar.",
-          "Sirva: Retire do forno e finalize com salsinha picada, se desejar. Sirva o escondidinho quente."
+          "Misture as carnes moídas, tempere com sal e especiarias, adicione o ovo e a farinha, formando uma massa homogênea.",
+          "Divida a massa em porções e molde as 'panelinhas' usando um copo como base.",
+          "Em uma tigela, misture a seleta de legumes, a ricota e o presunto picado para o recheio.",
+          "Recheie as panelinhas com a mistura, coloque uma tira de bacon como arremate e disponha em uma fôrma.",
+          "Asse em forno preaquecido a 220 °C por 40 minutos, retire, polvilhe queijo e gratine até dourar."
         ],
-        "id": "escondidinho-de-carne-seca-com-mandioca--b50298"
+        "id": "panelinha-de-carne-mo-da-gratinada-f2a64f"
       },
       {
-        "nome": "Crudités de Legumes com Molho de Iogurte",
+        "nome": "Rosbife de Filé Mignon ao Forno",
+        "curso": "principal",
+        "tempo": "~30 min",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyvWKZqIdK_Y4F69TmVzwo8t3zgK-gweDoWSJogGbh7c0xu6jyq0QVgv1LBOFXynl1q3QYJtdtWNQPHLfYIZGxPXjEbQKErrLSmGlUdHIeD3XP6lvGQd7mo3l87DhrguY8Lg==",
+        "porque": "Uma opção elegante de carne vermelha, preparada no forno para suculência, ideal para quem aprecia um bom corte e pode render sobras. O tempo indicado refere-se ao preparo ativo e cozimento em forno, que é em grande parte não supervisionado.",
+        "tags": [
+          "carne_vermelha",
+          "forno",
+          "grelhado"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "750 g de filé mignon em peça para rosbife",
+          "1 colher (chá) de mostarda amarela em pó",
+          "1 colher (chá) de páprica defumada",
+          "Azeite a gosto",
+          "Sal e pimenta-do-reino moída na hora a gosto"
+        ],
+        "preparo": [
+          "Retire o filé mignon da geladeira e deixe em temperatura ambiente por 15 minutos enquanto preaquece o forno a 220 ºC.",
+          "Em uma tigela pequena, misture a páprica com a mostarda em pó.",
+          "Tempere a carne com sal, pimenta e a mistura de especiarias, regando com azeite e espalhando bem.",
+          "Transfira a carne para uma assadeira e asse por 15 minutos em forno alto, depois diminua para 180 ºC e asse por mais 10-15 minutos (para malpassado a ao ponto).",
+          "Retire do forno, cubra com papel-alumínio e deixe repousar por 10 minutos antes de fatiar e servir."
+        ],
+        "id": "rosbife-de-fil-mignon-ao-forno-61101a"
+      },
+      {
+        "nome": "Chips de Berinjela Assados com Molho de Tahine",
         "curso": "entrada",
-        "tempo": "15 min",
-        "url": "https://www.panelinha.com.br/receita/Crudites-com-molho-de-iogurte",
-        "porque": "Entrada leve, saudável, refrescante, fácil e muito rápida de preparar, sem cozimento.",
+        "tempo": "~40 min",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUd2ssnraNS6nm3ed84GdWbbsJ-x-HmT6qPER6zpJqVWtBSWcTel5jtwhG2v9R6kvyLbGyq5ND_YgV8-FS0cDg5VNdJIpCFCat2PYOUFg0IIkUhfWkO7slc61ZVzVXaalwgHlpZ1QyTYDn8CcKWmonhf1f58M=",
+        "porque": "Uma entrada leve e saudável, feita no forno para substituir petiscos fritos, com tempo de preparo ativo e cozimento eficientes.",
         "tags": [
           "vegetariano",
-          "rapido",
-          "salada"
+          "forno",
+          "rapido"
         ],
-        "rende_sobra": true,
+        "rende_sobra": false,
         "ingredientes": [
-          "Para o molho:",
-          "1 xícara (chá) de iogurte natural",
-          "2 colheres (sopa) de azeite",
+          "1 berinjela média",
+          "1 litro de água filtrada",
+          "2 colheres (sopa) de sal",
+          "1/3 de xícara (chá) de azeite",
+          "2 colheres (sopa) de tahine",
+          "1 dente de alho pequeno",
+          "2 colheres (sopa) de água",
           "1 colher (sopa) de caldo de limão",
-          "10 folhas de hortelã frescas picadas (ou salsinha/cebolinha)",
-          "Sal e pimenta-do-reino moída na hora a gosto",
-          "Para os legumes:",
-          "2 cenouras médias",
-          "2 pepinos japoneses",
-          "2 talos de salsão",
-          "Opcional: pimentão colorido, rabanetes"
+          "Sal a gosto"
         ],
         "preparo": [
-          "Prepare o molho: Lave e pique finamente as folhas de hortelã. Em uma tigela, misture o iogurte natural, o azeite, o caldo de limão, a hortelã picada, sal e pimenta-do-reino a gosto. Misture bem e reserve na geladeira.",
-          "Lave e prepare os legumes: Lave e seque bem as cenouras, pepinos e talos de salsão.",
-          "Corte os legumes: Descasque as cenouras e corte-as em bastões (palitos) de aproximadamente 1 cm de espessura. Repita o processo com os pepinos e os talos de salsão.",
-          "Sirva: Arrume os bastões de legumes em um prato ou em copinhos individuais. Sirva imediatamente acompanhado do molho de iogurte gelado."
+          "Misture a água e o sal em uma tigela grande. Corte a berinjela em rodelas bem finas e deixe de molho na água salgada por 30 minutos.",
+          "Preaqueça o forno a 180 °C. Retire as rodelas da água e seque bem com um pano de prato limpo.",
+          "Distribua as rodelas em uma assadeira, pincele azeite nos dois lados.",
+          "Asse por 10 minutos, vire as rodelas e asse por mais 10 minutos, até dourar e ficarem crocantes.",
+          "Para o molho, misture o tahine, o alho picado, a água, o caldo de limão e sal a gosto. Sirva os chips com o molho."
         ],
-        "id": "crudit-s-de-legumes-com-molho-de-iogurte-ba7e27"
+        "id": "chips-de-berinjela-assados-com-molho-de--f81148"
       },
       {
-        "nome": "Mousse de Maracujá com 3 Ingredientes",
+        "nome": "Docinho de Coco Prático",
         "curso": "sobremesa",
-        "tempo": "10 min + 3h de geladeira",
-        "url": "https://www.guiadacozinha.com.br/receitas/mousse-de-maracuja-rapida-sobremesa-com-so-3-ingredientes-faceis/",
-        "porque": "Sobremesa clássica, refrescante, fácil e muito rápida de preparar com poucos ingredientes, ideal para finalizar a refeição.",
+        "tempo": "~20 min",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5lyY1CaNhUHFj54eF1u3V5pgQ64z29GWKgR3xY0o96qkHtkt5VRwDVF9v5iyg9pmx-DGZS6TiWtbCZhVgBz3HSkY_Kh240x9qoS6xpRAhu7pA20sAfQ_NltIGfpOKuOcLnv5HlznFzxmvHCbBV6mkNH6JZfAy23Io3PV41_2zUSt5SXg5X0acqgS-RzvgWn8wjeUz9xMGcyJ2wTm0",
+        "porque": "Uma sobremesa rápida e deliciosa, com poucos ingredientes e preparo simples, perfeita para finalizar a refeição.",
         "tags": [
           "rapido",
-          "sobremesa",
-          "sem_forno"
+          "doce",
+          "forno"
         ],
-        "rende_sobra": true,
+        "rende_sobra": false,
         "ingredientes": [
-          "1 lata de leite condensado (395g)",
-          "1 caixa de creme de leite (200g)",
-          "1 xícara (chá) de suco concentrado de maracujá (pode ser da fruta ou concentrado pronto)",
-          "Opcional: Sementes de maracujá para decorar"
+          "100 g de coco em flocos (ou 1 xícara de chá + 1 colher de sopa)",
+          "100 g de açúcar refinado (ou 1/2 xícara de chá)",
+          "1 ovo (aproximadamente 55 g)",
+          "16 cravos-da-índia"
         ],
         "preparo": [
-          "Bata os líquidos: No liquidificador, coloque o leite condensado e o creme de leite. Bata por cerca de 1 minuto para misturar bem.",
-          "Adicione o suco: Com o liquidificador ainda ligado, adicione o suco concentrado de maracujá aos poucos. Continue batendo até a mistura ficar cremosa e homogênea, por aproximadamente 2-3 minutos.",
-          "Transfira e gele: Despeje a mousse em um refratário grande ou distribua em taças individuais, conforme sua preferência.",
-          "Refrigere: Leve à geladeira por, no mínimo, 3 horas para que a mousse firme completamente e fique com a consistência ideal.",
-          "Sirva: Se desejar, decore a mousse com algumas sementes frescas de maracujá antes de servir para um toque extra de sabor e textura."
+          "Em um processador, coloque o coco, o açúcar e o ovo. Bata por cerca de 2 minutos, até formar uma massa homogênea.",
+          "Com uma colher de sopa, retire porções da massa e enrole com as mãos em formato de bolinhas.",
+          "Disponha as bolinhas em uma assadeira forrada com papel-manteiga, deixando um espaço de 5 cm entre elas.",
+          "Espete um cravo-da-índia no centro de cada bolinha.",
+          "Leve ao forno preaquecido a 180 °C por aproximadamente 15 minutos, ou até dourar. Retire, deixe esfriar e sirva."
         ],
-        "id": "mousse-de-maracuj-com-3-ingredientes-f1f237"
+        "id": "docinho-de-coco-pr-tico-abc35a"
       }
     ]
   },
