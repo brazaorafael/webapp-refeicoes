@@ -4627,5 +4627,45 @@
       "forno"
     ],
     "data": "11/09/2026"
+  },
+  {
+    "id": "bife-ao-molho-na-panela-de-press-o-28819b",
+    "titulo": "Bife ao Molho na Panela de Pressão",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "panela_pressao"
+    ],
+    "data": "12/09/2026"
+  },
+  {
+    "id": "gratinado-de-legumes-com-carne-mo-da-87a211",
+    "titulo": "Gratinado de Legumes com Carne Moída",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "equilibrado"
+    ],
+    "data": "12/09/2026"
+  },
+  {
+    "id": "cogumelos-recheados-na-air-fryer-c143b7",
+    "titulo": "Cogumelos Recheados na Air Fryer",
+    "tags": [
+      "vegetariano",
+      "airfryer",
+      "rapido"
+    ],
+    "data": "12/09/2026"
+  },
+  {
+    "id": "travessa-gelada-cremosa-de-3-ingrediente-bd5c1f",
+    "titulo": "Travessa Gelada Cremosa de 3 Ingredientes (sabor limão)",
+    "tags": [
+      "rapido",
+      "sobremesa",
+      "gelado"
+    ],
+    "data": "12/09/2026"
   }
 ]

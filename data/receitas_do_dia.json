@@ -1,129 +1,136 @@
 {
-  "gerado_em": "11/09/2026",
+  "gerado_em": "12/09/2026",
   "diario": {
     "tipo": "diario",
-    "data": "11/09/2026",
-    "dia_semana": "sexta",
+    "data": "12/09/2026",
+    "dia_semana": "sábado",
     "pratos": [
       {
-        "nome": "Panelinha de Carne Moída Gratinada",
+        "nome": "Bife ao Molho na Panela de Pressão",
         "curso": "principal",
-        "tempo": "~30 min",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWdPyIxMke8H27cR8p4gQ9IhXAt5dpW5jriHGkozbP2hpvz05M7wksYKiKm1VLdzu5XjZ01iNzjL9VX_qmH8jYkbNY4RrEFxN9IhYNNQPVUY-oqI1EiQIgpd97paUFgFLtp6yY5X-VMdK__k21HpAreZjhY6jOleKfx1Oj",
-        "porque": "É uma opção saborosa de carne vermelha, feita no forno para evitar frituras, com boa proteína e o potencial de render sobras.",
+        "tempo": "30 min",
+        "url": "https://www.tudoreceitas.com/receita-de-bife-ao-molho-na-panela-de-pressao-8321.html",
+        "porque": "É um prato de carne vermelha suculento e rápido, sem fritura profunda, ideal para um jantar prático e com sobras.",
         "tags": [
           "carne_vermelha",
-          "forno",
-          "equilibrio"
+          "rapido",
+          "panela_pressao"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "750 g de carne de boi moída",
-          "750 g de carne de porco moída",
-          "1 pacote de bacon em fatias",
-          "1 pacote de seleta de legumes",
-          "200 g de presunto picado",
-          "200 g de ricota picada",
-          "1 ovo",
-          "2 colheres (sopa) de farinha de trigo",
-          "300 g de queijo colonial ralado grosso",
-          "Sal e especiarias a gosto"
+          "900g de bifes de carne bovina (coxão mole, alcatra ou patinho)",
+          "3 colheres de sopa de vinagre de álcool",
+          "2 dentes de alho amassados",
+          "1 pitada de pimenta-do-reino",
+          "1 colher de chá de sal",
+          "4 colheres de sopa de óleo (ou azeite)",
+          "340g de molho de tomate",
+          "300ml de água"
         ],
         "preparo": [
-          "Misture as carnes moídas, tempere com sal e especiarias, adicione o ovo e a farinha, formando uma massa homogênea.",
-          "Divida a massa em porções e molde as 'panelinhas' usando um copo como base.",
-          "Em uma tigela, misture a seleta de legumes, a ricota e o presunto picado para o recheio.",
-          "Recheie as panelinhas com a mistura, coloque uma tira de bacon como arremate e disponha em uma fôrma.",
-          "Asse em forno preaquecido a 220 °C por 40 minutos, retire, polvilhe queijo e gratine até dourar."
+          "Tempere os bifes com vinagre, alho, sal e pimenta-do-reino. Reserve por 10 minutos.",
+          "Na panela de pressão, aqueça o óleo e sele os bifes dos dois lados, em levas se necessário.",
+          "Adicione o molho de tomate e a água à panela.",
+          "Tampe a panela de pressão e, após pegar pressão, cozinhe por 15 minutos em fogo baixo.",
+          "Desligue o fogo, espere a pressão sair naturalmente e sirva quente, acompanhado de arroz e salada."
         ],
-        "id": "panelinha-de-carne-mo-da-gratinada-f2a64f"
+        "id": "bife-ao-molho-na-panela-de-press-o-28819b"
       },
       {
-        "nome": "Rosbife de Filé Mignon ao Forno",
+        "nome": "Gratinado de Legumes com Carne Moída",
         "curso": "principal",
-        "tempo": "~30 min",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyvWKZqIdK_Y4F69TmVzwo8t3zgK-gweDoWSJogGbh7c0xu6jyq0QVgv1LBOFXynl1q3QYJtdtWNQPHLfYIZGxPXjEbQKErrLSmGlUdHIeD3XP6lvGQd7mo3l87DhrguY8Lg==",
-        "porque": "Uma opção elegante de carne vermelha, preparada no forno para suculência, ideal para quem aprecia um bom corte e pode render sobras. O tempo indicado refere-se ao preparo ativo e cozimento em forno, que é em grande parte não supervisionado.",
+        "tempo": "45 min",
+        "url": "https://casa.abril.com.br/receitas/gratinado-de-legumes-com-carne-moida/",
+        "porque": "Prato completo com carne vermelha e muitos legumes, assado no forno para evitar fritura, ideal para uma refeição equilibrada e saborosa.",
         "tags": [
           "carne_vermelha",
           "forno",
-          "grelhado"
+          "equilibrado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "750 g de filé mignon em peça para rosbife",
-          "1 colher (chá) de mostarda amarela em pó",
-          "1 colher (chá) de páprica defumada",
-          "Azeite a gosto",
-          "Sal e pimenta-do-reino moída na hora a gosto"
+          "2 colheres (sopa) de azeite",
+          "1 cebola picada",
+          "2 dentes de alho picados",
+          "500g de carne moída",
+          "1 tomate em cubos",
+          "Sal e cheiro-verde picado a gosto",
+          "1 chuchu em cubos",
+          "1 abobrinha em cubos",
+          "2 cenouras em cubos",
+          "1 batata-doce em cubos",
+          "2 xícaras (chá) de abóbora moranga em cubos",
+          "1/2 xícara (chá) de cheiro-verde picado",
+          "4 colheres (sopa) de azeite",
+          "Pimenta-do-reino a gosto",
+          "200g de queijo mussarela ralado"
         ],
         "preparo": [
-          "Retire o filé mignon da geladeira e deixe em temperatura ambiente por 15 minutos enquanto preaquece o forno a 220 ºC.",
-          "Em uma tigela pequena, misture a páprica com a mostarda em pó.",
-          "Tempere a carne com sal, pimenta e a mistura de especiarias, regando com azeite e espalhando bem.",
-          "Transfira a carne para uma assadeira e asse por 15 minutos em forno alto, depois diminua para 180 ºC e asse por mais 10-15 minutos (para malpassado a ao ponto).",
-          "Retire do forno, cubra com papel-alumínio e deixe repousar por 10 minutos antes de fatiar e servir."
+          "Refogue a cebola e o alho no azeite. Adicione a carne moída e cozinhe até secar a água. Junte o tomate, sal e cheiro-verde. Reserve.",
+          "Cozinhe os legumes (chuchu, abobrinha, cenoura, batata-doce, abóbora) no vapor até ficarem al dente. Escorra e tempere com azeite, sal, pimenta e cheiro-verde.",
+          "Em um refratário, espalhe os legumes temperados no fundo.",
+          "Despeje a carne moída refogada por cima dos legumes.",
+          "Cubra com a mussarela ralada e leve ao forno médio (180ºC) preaquecido por 15 minutos, ou até gratinar."
         ],
-        "id": "rosbife-de-fil-mignon-ao-forno-61101a"
+        "id": "gratinado-de-legumes-com-carne-mo-da-87a211"
       },
       {
-        "nome": "Chips de Berinjela Assados com Molho de Tahine",
+        "nome": "Cogumelos Recheados na Air Fryer",
         "curso": "entrada",
-        "tempo": "~40 min",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUd2ssnraNS6nm3ed84GdWbbsJ-x-HmT6qPER6zpJqVWtBSWcTel5jtwhG2v9R6kvyLbGyq5ND_YgV8-FS0cDg5VNdJIpCFCat2PYOUFg0IIkUhfWkO7slc61ZVzVXaalwgHlpZ1QyTYDn8CcKWmonhf1f58M=",
-        "porque": "Uma entrada leve e saudável, feita no forno para substituir petiscos fritos, com tempo de preparo ativo e cozimento eficientes.",
+        "tempo": "20 min",
+        "url": "https://www.teleculinaria.pt/receitas/entradas-e-petiscos/cogumelos-recheados-na-air-fryer/",
+        "porque": "Uma entrada leve, saborosa e rápida, preparada na air fryer sem adição excessiva de óleo, com recheio versátil.",
         "tags": [
           "vegetariano",
-          "forno",
+          "airfryer",
           "rapido"
         ],
         "rende_sobra": false,
         "ingredientes": [
-          "1 berinjela média",
-          "1 litro de água filtrada",
-          "2 colheres (sopa) de sal",
-          "1/3 de xícara (chá) de azeite",
-          "2 colheres (sopa) de tahine",
-          "1 dente de alho pequeno",
-          "2 colheres (sopa) de água",
-          "1 colher (sopa) de caldo de limão",
-          "Sal a gosto"
+          "4 cogumelos Portobello grandes",
+          "1/2 cebola picada",
+          "1 dente de alho picado",
+          "1 tomate maduro picado (sem sementes)",
+          "1 colher (sopa) de azeite",
+          "Sal e pimenta a gosto",
+          "Folhinhas de tomilho fresco a gosto",
+          "100g de queijo mussarela ralado"
         ],
         "preparo": [
-          "Misture a água e o sal em uma tigela grande. Corte a berinjela em rodelas bem finas e deixe de molho na água salgada por 30 minutos.",
-          "Preaqueça o forno a 180 °C. Retire as rodelas da água e seque bem com um pano de prato limpo.",
-          "Distribua as rodelas em uma assadeira, pincele azeite nos dois lados.",
-          "Asse por 10 minutos, vire as rodelas e asse por mais 10 minutos, até dourar e ficarem crocantes.",
-          "Para o molho, misture o tahine, o alho picado, a água, o caldo de limão e sal a gosto. Sirva os chips com o molho."
+          "Limpe os cogumelos e retire os pés. Pique os pés dos cogumelos, a cebola, o alho e o tomate.",
+          "Em uma frigideira, aqueça o azeite e refogue a cebola e o alho. Adicione os pés dos cogumelos picados e o tomate. Tempere com sal, pimenta e tomilho. Cozinhe por alguns minutos.",
+          "Recheie as cavidades dos cogumelos com o refogado.",
+          "Polvilhe com o queijo mussarela ralado.",
+          "Coloque os cogumelos na air fryer e asse a 200°C por 5-10 minutos, ou até o queijo gratinar."
         ],
-        "id": "chips-de-berinjela-assados-com-molho-de--f81148"
+        "id": "cogumelos-recheados-na-air-fryer-c143b7"
       },
       {
-        "nome": "Docinho de Coco Prático",
+        "nome": "Travessa Gelada Cremosa de 3 Ingredientes (sabor limão)",
         "curso": "sobremesa",
-        "tempo": "~20 min",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5lyY1CaNhUHFj54eF1u3V5pgQ64z29GWKgR3xY0o96qkHtkt5VRwDVF9v5iyg9pmx-DGZS6TiWtbCZhVgBz3HSkY_Kh240x9qoS6xpRAhu7pA20sAfQ_NltIGfpOKuOcLnv5HlznFzxmvHCbBV6mkNH6JZfAy23Io3PV41_2zUSt5SXg5X0acqgS-RzvgWn8wjeUz9xMGcyJ2wTm0",
-        "porque": "Uma sobremesa rápida e deliciosa, com poucos ingredientes e preparo simples, perfeita para finalizar a refeição.",
+        "tempo": "15 min (prep) + 4h (geladeira)",
+        "url": "https://www.youtube.com/watch?v=kYJz2s9-l4g",
+        "porque": "Uma sobremesa extremamente fácil e rápida de preparar, sem ir ao forno, ideal para dias quentes e para quem busca praticidade.",
         "tags": [
           "rapido",
-          "doce",
-          "forno"
+          "sobremesa",
+          "gelado"
         ],
-        "rende_sobra": false,
+        "rende_sobra": true,
         "ingredientes": [
-          "100 g de coco em flocos (ou 1 xícara de chá + 1 colher de sopa)",
-          "100 g de açúcar refinado (ou 1/2 xícara de chá)",
-          "1 ovo (aproximadamente 55 g)",
-          "16 cravos-da-índia"
+          "2 caixas de creme de leite (400g)",
+          "2 xícaras (chá) de leite em pó",
+          "1 pacote de suco em pó sabor limão (ou outro sabor de preferência)",
+          "150ml de água (opcional, para dissolver o suco se necessário, ou ajustar a consistência)"
         ],
         "preparo": [
-          "Em um processador, coloque o coco, o açúcar e o ovo. Bata por cerca de 2 minutos, até formar uma massa homogênea.",
-          "Com uma colher de sopa, retire porções da massa e enrole com as mãos em formato de bolinhas.",
-          "Disponha as bolinhas em uma assadeira forrada com papel-manteiga, deixando um espaço de 5 cm entre elas.",
-          "Espete um cravo-da-índia no centro de cada bolinha.",
-          "Leve ao forno preaquecido a 180 °C por aproximadamente 15 minutos, ou até dourar. Retire, deixe esfriar e sirva."
+          "Em uma tigela grande, adicione o creme de leite e o leite em pó.",
+          "Misture bem com um fouet ou colher até obter um creme homogêneo e sem grumos.",
+          "Adicione o suco em pó (pode dissolver em um pouco de água se preferir antes de adicionar) e misture novamente até incorporar completamente.",
+          "Despeje a mistura em uma travessa de vidro e leve à geladeira por no mínimo 4 horas, ou até firmar bem.",
+          "Sirva gelada."
         ],
-        "id": "docinho-de-coco-pr-tico-abc35a"
+        "id": "travessa-gelada-cremosa-de-3-ingrediente-bd5c1f"
       }
     ]
   },
