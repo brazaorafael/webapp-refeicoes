@@ -4667,5 +4667,35 @@
       "gelado"
     ],
     "data": "12/09/2026"
+  },
+  {
+    "id": "contrafil-na-air-fryer-26ecd5",
+    "titulo": "Contrafilé na Air Fryer",
+    "tags": [
+      "carne_vermelha",
+      "airfryer",
+      "rapido"
+    ],
+    "data": "13/09/2026"
+  },
+  {
+    "id": "carne-mo-da-com-abobrinha-e-batata-na-ai-aa217f",
+    "titulo": "Carne Moída com Abobrinha e Batata na Air Fryer",
+    "tags": [
+      "carne_vermelha",
+      "airfryer",
+      "equilibrado"
+    ],
+    "data": "13/09/2026"
+  },
+  {
+    "id": "provoleta-assada-no-forno-com-or-gano-e--a868d3",
+    "titulo": "Provoleta Assada no Forno com Orégano e Azeite",
+    "tags": [
+      "vegetariano",
+      "rapido",
+      "forno"
+    ],
+    "data": "13/09/2026"
   }
 ]

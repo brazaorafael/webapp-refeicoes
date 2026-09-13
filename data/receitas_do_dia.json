@@ -1,136 +1,123 @@
 {
-  "gerado_em": "12/09/2026",
+  "gerado_em": "13/09/2026",
   "diario": {
     "tipo": "diario",
-    "data": "12/09/2026",
-    "dia_semana": "sábado",
+    "data": "13/09/2026",
+    "dia_semana": "domingo",
     "pratos": [
       {
-        "nome": "Bife ao Molho na Panela de Pressão",
+        "nome": "Contrafilé na Air Fryer",
         "curso": "principal",
-        "tempo": "30 min",
-        "url": "https://www.tudoreceitas.com/receita-de-bife-ao-molho-na-panela-de-pressao-8321.html",
-        "porque": "É um prato de carne vermelha suculento e rápido, sem fritura profunda, ideal para um jantar prático e com sobras.",
+        "tempo": "25 min",
+        "url": "https://receitasnaairfryer.com.br/contrafile-na-airfryer/",
+        "porque": "Uma opção rápida e prática de carne vermelha, perfeita para o casal que aprecia grelhados e pouca fritura, podendo ser acompanhada de uma salada simples para um prato equilibrado.",
         "tags": [
           "carne_vermelha",
-          "rapido",
-          "panela_pressao"
+          "airfryer",
+          "rapido"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "900g de bifes de carne bovina (coxão mole, alcatra ou patinho)",
-          "3 colheres de sopa de vinagre de álcool",
-          "2 dentes de alho amassados",
-          "1 pitada de pimenta-do-reino",
-          "1 colher de chá de sal",
-          "4 colheres de sopa de óleo (ou azeite)",
-          "340g de molho de tomate",
-          "300ml de água"
+          "2 bifes de contrafilé (~200g cada)",
+          "1 colher de sopa de azeite",
+          "Sal a gosto",
+          "Pimenta-do-reino a gosto"
         ],
         "preparo": [
-          "Tempere os bifes com vinagre, alho, sal e pimenta-do-reino. Reserve por 10 minutos.",
-          "Na panela de pressão, aqueça o óleo e sele os bifes dos dois lados, em levas se necessário.",
-          "Adicione o molho de tomate e a água à panela.",
-          "Tampe a panela de pressão e, após pegar pressão, cozinhe por 15 minutos em fogo baixo.",
-          "Desligue o fogo, espere a pressão sair naturalmente e sirva quente, acompanhado de arroz e salada."
+          "Tempere os bifes de contrafilé com azeite, sal e pimenta-do-reino dos dois lados.",
+          "Pré-aqueça a Air Fryer a 200°C por 5 minutos.",
+          "Disponha os bifes na cesta da Air Fryer, sem sobrepor.",
+          "Cozinhe por 10-12 minutos, virando na metade do tempo, para um ponto malpassado a médio. Ajuste o tempo para o ponto desejado."
         ],
-        "id": "bife-ao-molho-na-panela-de-press-o-28819b"
+        "id": "contrafil-na-air-fryer-26ecd5"
       },
       {
-        "nome": "Gratinado de Legumes com Carne Moída",
+        "nome": "Carne Moída com Abobrinha e Batata na Air Fryer",
         "curso": "principal",
-        "tempo": "45 min",
-        "url": "https://casa.abril.com.br/receitas/gratinado-de-legumes-com-carne-moida/",
-        "porque": "Prato completo com carne vermelha e muitos legumes, assado no forno para evitar fritura, ideal para uma refeição equilibrada e saborosa.",
+        "tempo": "40 min",
+        "url": "https://www.tudogostoso.com.br/receita/188444-carne-moida-com-batata-e-abobrinha-na-airfryer.html",
+        "porque": "Uma refeição completa e equilibrada, com carne vermelha magra e vegetais preparados na Air Fryer, garantindo praticidade e pouca gordura.",
         "tags": [
           "carne_vermelha",
-          "forno",
+          "airfryer",
           "equilibrado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "2 colheres (sopa) de azeite",
-          "1 cebola picada",
-          "2 dentes de alho picados",
           "500g de carne moída",
-          "1 tomate em cubos",
-          "Sal e cheiro-verde picado a gosto",
-          "1 chuchu em cubos",
-          "1 abobrinha em cubos",
-          "2 cenouras em cubos",
-          "1 batata-doce em cubos",
-          "2 xícaras (chá) de abóbora moranga em cubos",
-          "1/2 xícara (chá) de cheiro-verde picado",
-          "4 colheres (sopa) de azeite",
+          "1 batata média em cubos",
+          "1 abobrinha média em cubos",
+          "1/2 cebola picada",
+          "2 dentes de alho amassados",
+          "1/2 xícara de molho de tomate",
+          "Azeite a gosto",
+          "Sal a gosto",
           "Pimenta-do-reino a gosto",
-          "200g de queijo mussarela ralado"
+          "Cheiro-verde a gosto"
         ],
         "preparo": [
-          "Refogue a cebola e o alho no azeite. Adicione a carne moída e cozinhe até secar a água. Junte o tomate, sal e cheiro-verde. Reserve.",
-          "Cozinhe os legumes (chuchu, abobrinha, cenoura, batata-doce, abóbora) no vapor até ficarem al dente. Escorra e tempere com azeite, sal, pimenta e cheiro-verde.",
-          "Em um refratário, espalhe os legumes temperados no fundo.",
-          "Despeje a carne moída refogada por cima dos legumes.",
-          "Cubra com a mussarela ralada e leve ao forno médio (180ºC) preaquecido por 15 minutos, ou até gratinar."
+          "Em uma tigela, tempere a carne moída com sal, pimenta, alho e um fio de azeite. Misture bem.",
+          "Em outra tigela, tempere a batata e a abobrinha em cubos com azeite, sal e pimenta.",
+          "Pré-aqueça a Air Fryer a 180°C por 5 minutos.",
+          "Coloque a carne moída na cesta da Air Fryer e cozinhe por 10-15 minutos, mexendo na metade do tempo, até dourar.",
+          "Retire a carne, adicione a cebola picada e o molho de tomate e misture.",
+          "Acrescente a batata e a abobrinha temperadas à cesta da Air Fryer com a carne moída. Cozinhe por mais 15-20 minutos, mexendo ocasionalmente, até os legumes ficarem macios. Finalize com cheiro-verde."
         ],
-        "id": "gratinado-de-legumes-com-carne-mo-da-87a211"
+        "id": "carne-mo-da-com-abobrinha-e-batata-na-ai-aa217f"
       },
       {
-        "nome": "Cogumelos Recheados na Air Fryer",
+        "nome": "Provoleta Assada no Forno com Orégano e Azeite",
         "curso": "entrada",
-        "tempo": "20 min",
-        "url": "https://www.teleculinaria.pt/receitas/entradas-e-petiscos/cogumelos-recheados-na-air-fryer/",
-        "porque": "Uma entrada leve, saborosa e rápida, preparada na air fryer sem adição excessiva de óleo, com recheio versátil.",
+        "tempo": "15 min",
+        "url": "https://www.tudogostoso.com.br/receita/101340-provoleta-simples.html",
+        "porque": "Uma entrada rápida, saborosa e com poucos ingredientes, que utiliza o forno para um preparo sem fritura e com um toque especial de orégano.",
         "tags": [
           "vegetariano",
-          "airfryer",
-          "rapido"
+          "rapido",
+          "forno"
         ],
         "rende_sobra": false,
         "ingredientes": [
-          "4 cogumelos Portobello grandes",
-          "1/2 cebola picada",
-          "1 dente de alho picado",
-          "1 tomate maduro picado (sem sementes)",
-          "1 colher (sopa) de azeite",
-          "Sal e pimenta a gosto",
-          "Folhinhas de tomilho fresco a gosto",
-          "100g de queijo mussarela ralado"
+          "1 peça de queijo provolone (~300g)",
+          "2 colheres de sopa de azeite de oliva",
+          "1 colher de chá de orégano",
+          "Pimenta calabresa a gosto (opcional)"
         ],
         "preparo": [
-          "Limpe os cogumelos e retire os pés. Pique os pés dos cogumelos, a cebola, o alho e o tomate.",
-          "Em uma frigideira, aqueça o azeite e refogue a cebola e o alho. Adicione os pés dos cogumelos picados e o tomate. Tempere com sal, pimenta e tomilho. Cozinhe por alguns minutos.",
-          "Recheie as cavidades dos cogumelos com o refogado.",
-          "Polvilhe com o queijo mussarela ralado.",
-          "Coloque os cogumelos na air fryer e asse a 200°C por 5-10 minutos, ou até o queijo gratinar."
+          "Corte o queijo provolone em fatias de aproximadamente 1,5 cm de espessura.",
+          "Disponha as fatias em uma assadeira pequena ou refratário que possa ir ao forno.",
+          "Regue o queijo com azeite de oliva e polvilhe com orégano e, se desejar, pimenta calabresa.",
+          "Leve ao forno pré-aquecido a 200°C por cerca de 10-15 minutos, ou até o queijo derreter e dourar levemente. Sirva imediatamente."
         ],
-        "id": "cogumelos-recheados-na-air-fryer-c143b7"
+        "id": "provoleta-assada-no-forno-com-or-gano-e--a868d3"
       },
       {
-        "nome": "Travessa Gelada Cremosa de 3 Ingredientes (sabor limão)",
+        "nome": "Pudim Rápido de Tapioca",
         "curso": "sobremesa",
-        "tempo": "15 min (prep) + 4h (geladeira)",
-        "url": "https://www.youtube.com/watch?v=kYJz2s9-l4g",
-        "porque": "Uma sobremesa extremamente fácil e rápida de preparar, sem ir ao forno, ideal para dias quentes e para quem busca praticidade.",
+        "tempo": "20 min",
+        "url": "https://www.panelinha.com.br/receita/Pudim-de-tapioca-granulada",
+        "porque": "Uma sobremesa refrescante e prática, feita com poucos ingredientes e que requer apenas tempo de geladeira para firmar, ideal para finalizar a refeição de domingo.",
         "tags": [
           "rapido",
-          "sobremesa",
-          "gelado"
+          "sobremesa"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "2 caixas de creme de leite (400g)",
-          "2 xícaras (chá) de leite em pó",
-          "1 pacote de suco em pó sabor limão (ou outro sabor de preferência)",
-          "150ml de água (opcional, para dissolver o suco se necessário, ou ajustar a consistência)"
+          "1 xícara (chá) de tapioca granulada",
+          "2 xícaras (chá) de leite (integral ou vegetal)",
+          "1/2 xícara (chá) de açúcar",
+          "1 pitada de sal",
+          "Para a calda (opcional):",
+          "1/2 xícara (chá) de açúcar",
+          "1/4 xícara (chá) de água"
         ],
         "preparo": [
-          "Em uma tigela grande, adicione o creme de leite e o leite em pó.",
-          "Misture bem com um fouet ou colher até obter um creme homogêneo e sem grumos.",
-          "Adicione o suco em pó (pode dissolver em um pouco de água se preferir antes de adicionar) e misture novamente até incorporar completamente.",
-          "Despeje a mistura em uma travessa de vidro e leve à geladeira por no mínimo 4 horas, ou até firmar bem.",
-          "Sirva gelada."
+          "Em uma tigela, misture a tapioca granulada, o leite, o açúcar e a pitada de sal. Deixe hidratar por cerca de 15-20 minutos.",
+          "Enquanto a tapioca hidrata, prepare a calda (se desejar): em uma panela pequena, derreta o açúcar em fogo baixo até caramelizar. Adicione a água quente com cuidado e mexa até dissolver o caramelo. Desligue e reserve.",
+          "Despeje a mistura de tapioca em uma forma de pudim (pequena, de 16-18 cm de diâmetro) caramelizada (se usar a calda).",
+          "Leve à geladeira por no mínimo 1 hora e 30 minutos, ou até firmar bem. Desenforme e sirva gelado."
         ],
-        "id": "travessa-gelada-cremosa-de-3-ingrediente-bd5c1f"
+        "id": "pudim-r-pido-de-tapioca-b93ac8"
       }
     ]
   },
