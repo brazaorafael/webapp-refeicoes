@@ -4697,5 +4697,315 @@
       "forno"
     ],
     "data": "13/09/2026"
+  },
+  {
+    "id": "bife-de-tira-na-airfryer-com-batata-r-st-a7f839",
+    "titulo": "Bife de Tira na Airfryer com Batata Rústica",
+    "tags": [
+      "carne_vermelha",
+      "airfryer",
+      "rapido"
+    ],
+    "data": "13/09/2026"
+  },
+  {
+    "id": "fil-mignon-su-no-assado-com-legumes-19717d",
+    "titulo": "Filé Mignon Suíno Assado com Legumes",
+    "tags": [
+      "porco",
+      "forno",
+      "equilibrado"
+    ],
+    "data": "13/09/2026"
+  },
+  {
+    "id": "frango-ao-curry-com-leite-de-coco-e-arro-5017a1",
+    "titulo": "Frango ao Curry com Leite de Coco e Arroz Integral",
+    "tags": [
+      "frango",
+      "rapido",
+      "equilibrado"
+    ],
+    "data": "13/09/2026"
+  },
+  {
+    "id": "creme-de-lim-o-com-biscoito-no-copinho-a4c362",
+    "titulo": "Creme de Limão com Biscoito no Copinho",
+    "tags": [
+      "vegetariano",
+      "rapido",
+      "frio"
+    ],
+    "data": "13/09/2026"
+  },
+  {
+    "id": "lasanha-de-abobrinha-com-carne-mo-da-37e936",
+    "titulo": "Lasanha de Abobrinha com Carne Moída",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "low_carb"
+    ],
+    "data": "13/09/2026"
+  },
+  {
+    "id": "bife-de-panela-com-cebola-e-molho-escuro-8b0691",
+    "titulo": "Bife de Panela com Cebola e Molho Escuro",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "panela"
+    ],
+    "data": "13/09/2026"
+  },
+  {
+    "id": "pat-de-cenoura-com-gengibre-e-torradas-374eec",
+    "titulo": "Patê de Cenoura com Gengibre e Torradas",
+    "tags": [
+      "vegetariano",
+      "rapido",
+      "frio"
+    ],
+    "data": "13/09/2026"
+  },
+  {
+    "id": "parfait-de-iogurte-com-frutas-e-granola-3936b0",
+    "titulo": "Parfait de Iogurte com Frutas e Granola",
+    "tags": [
+      "vegetariano",
+      "rapido",
+      "frio"
+    ],
+    "data": "13/09/2026"
+  },
+  {
+    "id": "bife-rol-assado-com-molho-de-tomate-14dc34",
+    "titulo": "Bife à Rolê Assado com Molho de Tomate",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "equilibrado"
+    ],
+    "data": "13/09/2026"
+  },
+  {
+    "id": "carne-mo-da-com-batata-saut-e-couve-refo-87a58f",
+    "titulo": "Carne Moída com Batata Sauté e Couve Refogada",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "equilibrado"
+    ],
+    "data": "13/09/2026"
+  },
+  {
+    "id": "torta-de-frango-cremosa-de-liquidificado-954125",
+    "titulo": "Torta de Frango Cremosa de Liquidificador",
+    "tags": [
+      "frango",
+      "forno",
+      "equilibrado"
+    ],
+    "data": "13/09/2026"
+  },
+  {
+    "id": "cenouras-baby-assadas-com-mel-e-alecrim-60ae03",
+    "titulo": "Cenouras Baby Assadas com Mel e Alecrim",
+    "tags": [
+      "vegetariano",
+      "forno",
+      "rapido"
+    ],
+    "data": "13/09/2026"
+  },
+  {
+    "id": "pudim-de-chia-com-leite-vegetal-e-frutas-139f43",
+    "titulo": "Pudim de Chia com Leite Vegetal e Frutas Vermelhas",
+    "tags": [
+      "vegetariano",
+      "rapido",
+      "frio"
+    ],
+    "data": "13/09/2026"
+  },
+  {
+    "id": "carne-de-panela-com-ab-bora-e-gengibre-a9cf9b",
+    "titulo": "Carne de Panela com Abóbora e Gengibre",
+    "tags": [
+      "carne_vermelha",
+      "panela",
+      "equilibrado"
+    ],
+    "data": "13/09/2026"
+  },
+  {
+    "id": "til-pia-assada-com-tomate-cereja-e-manje-6d540e",
+    "titulo": "Tilápia Assada com Tomate Cereja e Manjericão",
+    "tags": [
+      "peixe",
+      "forno",
+      "rapido"
+    ],
+    "data": "13/09/2026"
+  },
+  {
+    "id": "tomates-recheados-com-ricota-e-ervas-af6f44",
+    "titulo": "Tomates Recheados com Ricota e Ervas",
+    "tags": [
+      "vegetariano",
+      "rapido",
+      "frio"
+    ],
+    "data": "13/09/2026"
+  },
+  {
+    "id": "banana-assada-com-canela-mel-e-granola-f592f3",
+    "titulo": "Banana Assada com Canela, Mel e Granola",
+    "tags": [
+      "vegetariano",
+      "forno",
+      "rapido"
+    ],
+    "data": "13/09/2026"
+  },
+  {
+    "id": "bife-milanesa-assado-na-airfryer-carne-b-9f141d",
+    "titulo": "Bife à Milanesa Assado na Airfryer (carne bovina)",
+    "tags": [
+      "carne_vermelha",
+      "airfryer",
+      "rapido"
+    ],
+    "data": "13/09/2026"
+  },
+  {
+    "id": "guisado-de-carne-com-mandioquinha-e-ervi-dd0ddd",
+    "titulo": "Guisado de Carne com Mandioquinha e Ervilhas",
+    "tags": [
+      "carne_vermelha",
+      "panela",
+      "equilibrado"
+    ],
+    "data": "13/09/2026"
+  },
+  {
+    "id": "wrap-de-frango-com-requeij-o-light-e-veg-f15776",
+    "titulo": "Wrap de Frango com Requeijão Light e Vegetais",
+    "tags": [
+      "frango",
+      "rapido",
+      "low_carb"
+    ],
+    "data": "13/09/2026"
+  },
+  {
+    "id": "p-o-de-queijo-na-airfryer-com-geleia-de--d31b15",
+    "titulo": "Pão de Queijo na Airfryer com Geleia de Pimenta",
+    "tags": [
+      "vegetariano",
+      "airfryer",
+      "rapido"
+    ],
+    "data": "13/09/2026"
+  },
+  {
+    "id": "brownie-de-caneca-feito-no-micro-ondas-5e5ae9",
+    "titulo": "Brownie de Caneca (feito no micro-ondas)",
+    "tags": [
+      "vegetariano",
+      "rapido",
+      "doce"
+    ],
+    "data": "13/09/2026"
+  },
+  {
+    "id": "lombo-de-porco-recheado-com-damasco-e-ba-9e61ff",
+    "titulo": "Lombo de Porco Recheado com Damasco e Bacon Assado",
+    "tags": [
+      "porco",
+      "forno",
+      "equilibrado"
+    ],
+    "data": "13/09/2026"
+  },
+  {
+    "id": "picanha-invertida-assada-com-recheio-de--f211b6",
+    "titulo": "Picanha Invertida Assada com Recheio de Queijo",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "grelhado"
+    ],
+    "data": "13/09/2026"
+  },
+  {
+    "id": "gnocchi-de-batata-doce-assado-com-molho--feb8ee",
+    "titulo": "Gnocchi de Batata Doce Assado com Molho Pesto",
+    "tags": [
+      "vegetariano",
+      "forno",
+      "massa"
+    ],
+    "data": "13/09/2026"
+  },
+  {
+    "id": "palitos-de-queijo-coalho-assados-com-or--95edab",
+    "titulo": "Palitos de Queijo Coalho Assados com Orégano",
+    "tags": [
+      "vegetariano",
+      "airfryer",
+      "rapido"
+    ],
+    "data": "13/09/2026"
+  },
+  {
+    "id": "lagarto-recheado-assado-2955ac",
+    "titulo": "Lagarto Recheado Assado",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "equilibrado"
+    ],
+    "data": "13/09/2026"
+  },
+  {
+    "id": "cupim-assado-com-mandioca-cozida-7796e4",
+    "titulo": "Cupim Assado com Mandioca Cozida",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "equilibrado"
+    ],
+    "data": "13/09/2026"
+  },
+  {
+    "id": "feijoada-light-com-carnes-magras-ab2a41",
+    "titulo": "Feijoada Light (com carnes magras)",
+    "tags": [
+      "carne_vermelha",
+      "porco",
+      "equilibrado"
+    ],
+    "data": "13/09/2026"
+  },
+  {
+    "id": "salada-de-gr-o-de-bico-com-pepino-e-toma-b5ce4f",
+    "titulo": "Salada de Grão de Bico com Pepino e Tomate",
+    "tags": [
+      "vegetariano",
+      "frio",
+      "rapido"
+    ],
+    "data": "13/09/2026"
+  },
+  {
+    "id": "bolo-de-cenoura-com-cobertura-de-chocola-d315ad",
+    "titulo": "Bolo de Cenoura com Cobertura de Chocolate (de liquidificador)",
+    "tags": [
+      "vegetariano",
+      "forno",
+      "doce"
+    ],
+    "data": "13/09/2026"
   }
 ]
