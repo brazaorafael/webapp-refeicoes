@@ -5007,5 +5007,47 @@
       "doce"
     ],
     "data": "13/09/2026"
+  },
+  {
+    "id": "p-o-de-alho-caseiro-assado-bf9f43",
+    "titulo": "Pão de Alho Caseiro Assado",
+    "tags": [
+      "vegetariano",
+      "forno",
+      "rapido"
+    ],
+    "data": "14/09/2026"
+  },
+  {
+    "id": "picadinho-de-carne-com-farofa-e-ovo-112ddb",
+    "titulo": "Picadinho de Carne com Farofa e Ovo",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "equilibrado"
+    ],
+    "data": "14/09/2026"
+  },
+  {
+    "id": "estrogonofe-de-carne-light-b53b13",
+    "titulo": "Estrogonofe de Carne Light",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "equilibrado",
+      "low_carb"
+    ],
+    "data": "14/09/2026"
+  },
+  {
+    "id": "alm-ndegas-ao-sugo-no-forno-b54729",
+    "titulo": "Almôndegas ao Sugo no Forno",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "massa",
+      "equilibrado"
+    ],
+    "data": "14/09/2026"
   }
 ]

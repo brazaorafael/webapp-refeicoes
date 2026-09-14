@@ -1,123 +1,174 @@
 {
-  "gerado_em": "13/09/2026",
+  "gerado_em": "14/09/2026",
   "diario": {
     "tipo": "diario",
-    "data": "13/09/2026",
-    "dia_semana": "domingo",
+    "data": "14/09/2026",
+    "dia_semana": "segunda",
     "pratos": [
       {
-        "nome": "Contrafilé na Air Fryer",
-        "curso": "principal",
+        "nome": "Pão de Alho Caseiro Assado",
+        "curso": "entrada",
         "tempo": "25 min",
-        "url": "https://receitasnaairfryer.com.br/contrafile-na-airfryer/",
-        "porque": "Uma opção rápida e prática de carne vermelha, perfeita para o casal que aprecia grelhados e pouca fritura, podendo ser acompanhada de uma salada simples para um prato equilibrado.",
+        "url": "https://www.martminas.com.br/como-fazer-pao-de-alho-caseiro-receita-simples-para-churrasco/",
+        "porque": "É uma entrada clássica, rápida de preparar no forno, sem fritura, e usa ingredientes simples.",
         "tags": [
-          "carne_vermelha",
-          "airfryer",
+          "vegetariano",
+          "forno",
           "rapido"
         ],
-        "rende_sobra": true,
+        "rende_sobra": false,
         "ingredientes": [
-          "2 bifes de contrafilé (~200g cada)",
-          "1 colher de sopa de azeite",
-          "Sal a gosto",
-          "Pimenta-do-reino a gosto"
+          "6 pães franceses",
+          "150g de queijo muçarela ralado",
+          "6 dentes de alho picados ou ralados",
+          "3 colheres (sopa) de maionese",
+          "1 e 1/2 colher (sopa) de manteiga em temperatura ambiente",
+          "2 colheres (sopa) de salsinha picada (opcional)",
+          "Sal a gosto"
         ],
         "preparo": [
-          "Tempere os bifes de contrafilé com azeite, sal e pimenta-do-reino dos dois lados.",
-          "Pré-aqueça a Air Fryer a 200°C por 5 minutos.",
-          "Disponha os bifes na cesta da Air Fryer, sem sobrepor.",
-          "Cozinhe por 10-12 minutos, virando na metade do tempo, para um ponto malpassado a médio. Ajuste o tempo para o ponto desejado."
+          "Em uma tigela, misture a manteiga e a maionese até obter um creme homogêneo.",
+          "Adicione o alho picado, o queijo muçarela ralado e a salsinha. Misture bem e tempere com sal a gosto.",
+          "Faça cortes transversais no pão francês, sem ir até o final, criando 'bolsas'.",
+          "Recheie cada corte com a pasta de alho e espalhe uma camada fina por cima.",
+          "Leve ao forno pré-aquecido a 180°C por 10 a 15 minutos, ou até dourar."
         ],
-        "id": "contrafil-na-air-fryer-26ecd5"
+        "id": "p-o-de-alho-caseiro-assado-bf9f43"
       },
       {
-        "nome": "Carne Moída com Abobrinha e Batata na Air Fryer",
+        "nome": "Picadinho de Carne com Farofa e Ovo",
         "curso": "principal",
         "tempo": "40 min",
-        "url": "https://www.tudogostoso.com.br/receita/188444-carne-moida-com-batata-e-abobrinha-na-airfryer.html",
-        "porque": "Uma refeição completa e equilibrada, com carne vermelha magra e vegetais preparados na Air Fryer, garantindo praticidade e pouca gordura.",
+        "url": "https://www.belezenta.com/post/picadinho-de-carne-com-ovo-frito-e-farofa",
+        "porque": "Prato clássico e reconfortante de carne vermelha, rápido de cozinhar, e pode ser acompanhado de farofa e ovo para uma refeição completa e equilibrada.",
         "tags": [
           "carne_vermelha",
-          "airfryer",
+          "rapido",
           "equilibrado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "500g de carne moída",
-          "1 batata média em cubos",
-          "1 abobrinha média em cubos",
-          "1/2 cebola picada",
-          "2 dentes de alho amassados",
+          "500g de carne bovina (patinho ou alcatra) cortada em cubos pequenos",
+          "1 cebola média picada",
+          "2 dentes de alho picados",
+          "1 tomate picado",
           "1/2 xícara de molho de tomate",
-          "Azeite a gosto",
-          "Sal a gosto",
-          "Pimenta-do-reino a gosto",
-          "Cheiro-verde a gosto"
+          "1/2 xícara de água ou caldo de carne",
+          "1/4 xícara de cheiro-verde picado",
+          "2 ovos",
+          "Farofa pronta ou caseira (para acompanhar)",
+          "Arroz branco (para acompanhar)",
+          "Sal e pimenta do reino a gosto",
+          "Azeite"
         ],
         "preparo": [
-          "Em uma tigela, tempere a carne moída com sal, pimenta, alho e um fio de azeite. Misture bem.",
-          "Em outra tigela, tempere a batata e a abobrinha em cubos com azeite, sal e pimenta.",
-          "Pré-aqueça a Air Fryer a 180°C por 5 minutos.",
-          "Coloque a carne moída na cesta da Air Fryer e cozinhe por 10-15 minutos, mexendo na metade do tempo, até dourar.",
-          "Retire a carne, adicione a cebola picada e o molho de tomate e misture.",
-          "Acrescente a batata e a abobrinha temperadas à cesta da Air Fryer com a carne moída. Cozinhe por mais 15-20 minutos, mexendo ocasionalmente, até os legumes ficarem macios. Finalize com cheiro-verde."
+          "Tempere a carne com sal e pimenta do reino. Em uma panela quente com um fio de azeite, doure a carne em porções e reserve.",
+          "Na mesma panela, refogue a cebola e o alho até ficarem macios. Adicione o tomate picado e refogue por alguns minutos.",
+          "Retorne a carne à panela. Adicione o molho de tomate e a água (ou caldo). Misture e cozinhe em fogo baixo por 15-20 minutos, ou até a carne ficar macia e o molho encorpado.",
+          "Enquanto a carne cozinha, frite os ovos em uma frigideira separada, deixando a gema mole. Prepare a farofa.",
+          "Finalize o picadinho com cheiro-verde picado. Sirva com arroz branco, farofa e um ovo frito por cima."
         ],
-        "id": "carne-mo-da-com-abobrinha-e-batata-na-ai-aa217f"
+        "id": "picadinho-de-carne-com-farofa-e-ovo-112ddb"
       },
       {
-        "nome": "Provoleta Assada no Forno com Orégano e Azeite",
-        "curso": "entrada",
-        "tempo": "15 min",
-        "url": "https://www.tudogostoso.com.br/receita/101340-provoleta-simples.html",
-        "porque": "Uma entrada rápida, saborosa e com poucos ingredientes, que utiliza o forno para um preparo sem fritura e com um toque especial de orégano.",
+        "nome": "Estrogonofe de Carne Light",
+        "curso": "principal",
+        "tempo": "30 min",
+        "url": "https://www.vitat.com.br/receitas/estrogonofe-de-carne-light",
+        "porque": "Uma versão mais leve e saudável de um prato favorito de carne vermelha, rápido de preparar e com boa fonte de proteína.",
         "tags": [
-          "vegetariano",
+          "carne_vermelha",
           "rapido",
-          "forno"
-        ],
-        "rende_sobra": false,
-        "ingredientes": [
-          "1 peça de queijo provolone (~300g)",
-          "2 colheres de sopa de azeite de oliva",
-          "1 colher de chá de orégano",
-          "Pimenta calabresa a gosto (opcional)"
-        ],
-        "preparo": [
-          "Corte o queijo provolone em fatias de aproximadamente 1,5 cm de espessura.",
-          "Disponha as fatias em uma assadeira pequena ou refratário que possa ir ao forno.",
-          "Regue o queijo com azeite de oliva e polvilhe com orégano e, se desejar, pimenta calabresa.",
-          "Leve ao forno pré-aquecido a 200°C por cerca de 10-15 minutos, ou até o queijo derreter e dourar levemente. Sirva imediatamente."
-        ],
-        "id": "provoleta-assada-no-forno-com-or-gano-e--a868d3"
-      },
-      {
-        "nome": "Pudim Rápido de Tapioca",
-        "curso": "sobremesa",
-        "tempo": "20 min",
-        "url": "https://www.panelinha.com.br/receita/Pudim-de-tapioca-granulada",
-        "porque": "Uma sobremesa refrescante e prática, feita com poucos ingredientes e que requer apenas tempo de geladeira para firmar, ideal para finalizar a refeição de domingo.",
-        "tags": [
-          "rapido",
-          "sobremesa"
+          "equilibrado",
+          "low_carb"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "1 xícara (chá) de tapioca granulada",
-          "2 xícaras (chá) de leite (integral ou vegetal)",
-          "1/2 xícara (chá) de açúcar",
-          "1 pitada de sal",
-          "Para a calda (opcional):",
-          "1/2 xícara (chá) de açúcar",
-          "1/4 xícara (chá) de água"
+          "500g de filé mignon ou alcatra cortado em cubinhos",
+          "1 cebola pequena picada",
+          "2 dentes de alho picados",
+          "1 fio de azeite",
+          "1 pote de champignon fatiado (em conserva)",
+          "6 colheres (sopa) de molho de tomate (ou passata italiana)",
+          "2 colheres (sopa) de mostarda",
+          "1 pote de iogurte natural desnatado ou creme de ricota light (200g)",
+          "Sal e pimenta do reino a gosto",
+          "Arroz integral (para acompanhar)"
         ],
         "preparo": [
-          "Em uma tigela, misture a tapioca granulada, o leite, o açúcar e a pitada de sal. Deixe hidratar por cerca de 15-20 minutos.",
-          "Enquanto a tapioca hidrata, prepare a calda (se desejar): em uma panela pequena, derreta o açúcar em fogo baixo até caramelizar. Adicione a água quente com cuidado e mexa até dissolver o caramelo. Desligue e reserve.",
-          "Despeje a mistura de tapioca em uma forma de pudim (pequena, de 16-18 cm de diâmetro) caramelizada (se usar a calda).",
-          "Leve à geladeira por no mínimo 1 hora e 30 minutos, ou até firmar bem. Desenforme e sirva gelado."
+          "Tempere a carne com sal e pimenta do reino. Em uma panela, refogue o alho e a cebola no azeite até dourarem.",
+          "Acrescente a carne em cubos e doure bem por todos os lados.",
+          "Adicione o champignon e o molho de tomate (ou passata), deixe cozinhar em fogo baixo por cerca de 10 minutos.",
+          "Acrescente a mostarda e misture. Desligue o fogo e incorpore o iogurte natural (ou creme de ricota light).",
+          "Mexa delicadamente até o molho ficar homogêneo. Sirva imediatamente com arroz integral."
         ],
-        "id": "pudim-r-pido-de-tapioca-b93ac8"
+        "id": "estrogonofe-de-carne-light-b53b13"
+      },
+      {
+        "nome": "Almôndegas ao Sugo no Forno",
+        "curso": "principal",
+        "tempo": "45 min",
+        "url": "https://claudia.abril.com.br/receitas/almondegas-ao-sugo/",
+        "porque": "Uma opção de carne vermelha assada no forno, evitando fritura, e servida com molho de tomate caseiro, prática e saborosa.",
+        "tags": [
+          "carne_vermelha",
+          "forno",
+          "massa",
+          "equilibrado"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "**Para as almôndegas:**",
+          "500g de carne moída (patinho ou coxão mole)",
+          "1/2 cebola pequena picada finamente",
+          "1 dente de alho amassado",
+          "1 ovo",
+          "2 colheres (sopa) de farinha de rosca (opcional, para dar liga)",
+          "2 colheres (sopa) de salsinha picada",
+          "Sal e pimenta-do-reino a gosto",
+          "**Para o molho sugo:**",
+          "400g de tomate pelado (ou 1 lata de molho de tomate pronto)",
+          "1 dente de alho picado",
+          "1 colher (sopa) de azeite",
+          "Sal a gosto",
+          "Manjericão fresco a gosto",
+          "Massa ou arroz (para acompanhar)"
+        ],
+        "preparo": [
+          "Em um bowl, misture a carne moída, cebola, alho, ovo, farinha de rosca (se usar), salsinha, sal e pimenta. Misture bem até formar uma massa homogênea.",
+          "Modele pequenas bolinhas com a massa da carne.",
+          "Disponha as almôndegas em uma assadeira forrada com papel manteiga e leve ao forno pré-aquecido a 180°C por 20 a 25 minutos, ou até dourarem levemente.",
+          "Em uma panela, refogue o alho no azeite. Adicione o tomate pelado (ou molho pronto) e cozinhe em fogo baixo por cerca de 10-15 minutos. Tempere com sal e adicione o manjericão.",
+          "Junte as almôndegas assadas ao molho sugo e cozinhe por mais 5-10 minutos para que peguem sabor. Sirva com massa ou arroz."
+        ],
+        "id": "alm-ndegas-ao-sugo-no-forno-b54729"
+      },
+      {
+        "nome": "Salada de Frutas com Iogurte e Granola",
+        "curso": "sobremesa",
+        "tempo": "10 min",
+        "url": "https://paladar.estadao.com.br/receitas/salada-de-frutas-com-iogurte-e-granola,10000088934",
+        "porque": "Uma sobremesa leve, refrescante e saudável, rápida de montar e sem cozimento, perfeita para equilibrar refeições mais robustas.",
+        "tags": [
+          "rapido",
+          "low_carb",
+          "vegetariano"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "Frutas frescas variadas picadas (ex: 1 pera, 3 bananas, 1 kiwi, 10 morangos, 10 bagos de uva)",
+          "2 copos de iogurte natural desnatado",
+          "1 xícara de chá de granola sem açúcar",
+          "Mel a gosto (opcional)"
+        ],
+        "preparo": [
+          "Lave e pique todas as frutas em cubos ou fatias, conforme sua preferência.",
+          "Distribua as frutas picadas em taças individuais ou em um bowl grande.",
+          "Acrescente o iogurte natural desnatado por cima das frutas.",
+          "Finalize com a granola sem açúcar. Se desejar, adicione um fio de mel.",
+          "Sirva gelado."
+        ],
+        "id": "salada-de-frutas-com-iogurte-e-granola-7137af"
       }
     ]
   },
