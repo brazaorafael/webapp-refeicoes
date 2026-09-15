@@ -1,174 +1,167 @@
 {
-  "gerado_em": "14/09/2026",
+  "gerado_em": "15/09/2026",
   "diario": {
     "tipo": "diario",
-    "data": "14/09/2026",
-    "dia_semana": "segunda",
+    "data": "15/09/2026",
+    "dia_semana": "terça",
     "pratos": [
       {
-        "nome": "Pão de Alho Caseiro Assado",
-        "curso": "entrada",
-        "tempo": "25 min",
-        "url": "https://www.martminas.com.br/como-fazer-pao-de-alho-caseiro-receita-simples-para-churrasco/",
-        "porque": "É uma entrada clássica, rápida de preparar no forno, sem fritura, e usa ingredientes simples.",
+        "nome": "Escondidinho de Carne Moída",
+        "curso": "principal",
+        "tempo": "45 min",
+        "url": "https://www.tudogostoso.com.br/receita/60429-escondidinho-de-carne-moida.html",
+        "porque": "É um prato robusto, com alta concentração de proteína da carne moída e purê de batatas, feito no forno, prático e rende facilmente porções para o jantar e sobras.",
         "tags": [
-          "vegetariano",
+          "carne_vermelha",
+          "forno",
+          "rapido",
+          "equilibrado"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "1 kg de batatas",
+          "Sal a gosto",
+          "1/2 copo de leite",
+          "2 colheres (sopa) de manteiga",
+          "1 fio de azeite",
+          "1 cebola picada",
+          "1 dente de alho picado",
+          "500 g de carne moída",
+          "Pimenta branca a gosto",
+          "Cheiro-verde a gosto",
+          "200 g de queijo mussarela fatiado ou ralado"
+        ],
+        "preparo": [
+          "Descasque as batatas, corte ao meio e cozinhe com água e sal até ficarem macias.",
+          "Amasse as batatas cozidas, adicione o leite e a manteiga, mexa bem até formar um purê homogêneo e reserve.",
+          "Em uma panela, adicione o azeite, refogue a cebola e o alho, depois acrescente a carne moída, tempere com sal, pimenta branca e cheiro-verde. Cozinhe até a água da carne secar.",
+          "Forre um refratário com metade do purê de batatas, adicione uma camada de queijo mussarela e, em seguida, uma camada da carne moída refogada.",
+          "Repita o processo, finalizando com uma camada de queijo mussarela por cima. Leve ao forno preaquecido por 40 minutos para gratinar."
+        ],
+        "id": "escondidinho-de-carne-mo-da-177454"
+      },
+      {
+        "nome": "Rosbife",
+        "curso": "principal",
+        "tempo": "40 min",
+        "url": "https://www.panelinha.com.br/receita/Rosbife",
+        "porque": "Uma excelente opção de carne vermelha magra e rica em proteína, assada no forno com preparo relativamente rápido e ideal para sobras.",
+        "tags": [
+          "carne_vermelha",
           "forno",
           "rapido"
         ],
-        "rende_sobra": false,
-        "ingredientes": [
-          "6 pães franceses",
-          "150g de queijo muçarela ralado",
-          "6 dentes de alho picados ou ralados",
-          "3 colheres (sopa) de maionese",
-          "1 e 1/2 colher (sopa) de manteiga em temperatura ambiente",
-          "2 colheres (sopa) de salsinha picada (opcional)",
-          "Sal a gosto"
-        ],
-        "preparo": [
-          "Em uma tigela, misture a manteiga e a maionese até obter um creme homogêneo.",
-          "Adicione o alho picado, o queijo muçarela ralado e a salsinha. Misture bem e tempere com sal a gosto.",
-          "Faça cortes transversais no pão francês, sem ir até o final, criando 'bolsas'.",
-          "Recheie cada corte com a pasta de alho e espalhe uma camada fina por cima.",
-          "Leve ao forno pré-aquecido a 180°C por 10 a 15 minutos, ou até dourar."
-        ],
-        "id": "p-o-de-alho-caseiro-assado-bf9f43"
-      },
-      {
-        "nome": "Picadinho de Carne com Farofa e Ovo",
-        "curso": "principal",
-        "tempo": "40 min",
-        "url": "https://www.belezenta.com/post/picadinho-de-carne-com-ovo-frito-e-farofa",
-        "porque": "Prato clássico e reconfortante de carne vermelha, rápido de cozinhar, e pode ser acompanhado de farofa e ovo para uma refeição completa e equilibrada.",
-        "tags": [
-          "carne_vermelha",
-          "rapido",
-          "equilibrado"
-        ],
         "rende_sobra": true,
         "ingredientes": [
-          "500g de carne bovina (patinho ou alcatra) cortada em cubos pequenos",
-          "1 cebola média picada",
-          "2 dentes de alho picados",
-          "1 tomate picado",
-          "1/2 xícara de molho de tomate",
-          "1/2 xícara de água ou caldo de carne",
-          "1/4 xícara de cheiro-verde picado",
-          "2 ovos",
-          "Farofa pronta ou caseira (para acompanhar)",
-          "Arroz branco (para acompanhar)",
-          "Sal e pimenta do reino a gosto",
-          "Azeite"
+          "750 g de filé mignon em peça",
+          "1 colher (chá) de mostarda amarela em pó",
+          "1 colher (chá) de páprica defumada",
+          "Azeite a gosto",
+          "Sal e pimenta-do-reino moída na hora a gosto"
         ],
         "preparo": [
-          "Tempere a carne com sal e pimenta do reino. Em uma panela quente com um fio de azeite, doure a carne em porções e reserve.",
-          "Na mesma panela, refogue a cebola e o alho até ficarem macios. Adicione o tomate picado e refogue por alguns minutos.",
-          "Retorne a carne à panela. Adicione o molho de tomate e a água (ou caldo). Misture e cozinhe em fogo baixo por 15-20 minutos, ou até a carne ficar macia e o molho encorpado.",
-          "Enquanto a carne cozinha, frite os ovos em uma frigideira separada, deixando a gema mole. Prepare a farofa.",
-          "Finalize o picadinho com cheiro-verde picado. Sirva com arroz branco, farofa e um ovo frito por cima."
+          "Numa tigela pequena, misture a páprica com a mostarda em pó. Tempere a peça de filé mignon com sal, pimenta e essa mistura de especiarias.",
+          "Regue com cerca de ½ colher (sopa) de azeite e espalhe bem com as mãos por toda a superfície da carne.",
+          "Leve uma frigideira grande ao fogo médio-alto para aquecer. Quando estiver bem quente, regue com um fio de azeite e sele a carne por todos os lados até dourar.",
+          "Transfira a carne para uma assadeira e leve ao forno preaquecido a 200 ºC por cerca de 20 a 25 minutos para um rosbife malpassado.",
+          "Retire do forno e deixe a carne descansar por 10 minutos antes de fatiar para que os sucos se redistribuam, garantindo maciez."
         ],
-        "id": "picadinho-de-carne-com-farofa-e-ovo-112ddb"
+        "id": "rosbife-16afb2"
       },
       {
-        "nome": "Estrogonofe de Carne Light",
+        "nome": "Sobrecoxas Assadas com Páprica e Ervas",
         "curso": "principal",
         "tempo": "30 min",
-        "url": "https://www.vitat.com.br/receitas/estrogonofe-de-carne-light",
-        "porque": "Uma versão mais leve e saudável de um prato favorito de carne vermelha, rápido de preparar e com boa fonte de proteína.",
+        "url": "https://www.panelinha.com.br/receita/Sobrecoxas-assadas-com-paprica-e-ervas",
+        "porque": "Uma opção deliciosa de frango, assada no forno para garantir uma casquinha crocante e carne suculenta, sem a necessidade de fritura.",
         "tags": [
-          "carne_vermelha",
-          "rapido",
-          "equilibrado",
-          "low_carb"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "500g de filé mignon ou alcatra cortado em cubinhos",
-          "1 cebola pequena picada",
-          "2 dentes de alho picados",
-          "1 fio de azeite",
-          "1 pote de champignon fatiado (em conserva)",
-          "6 colheres (sopa) de molho de tomate (ou passata italiana)",
-          "2 colheres (sopa) de mostarda",
-          "1 pote de iogurte natural desnatado ou creme de ricota light (200g)",
-          "Sal e pimenta do reino a gosto",
-          "Arroz integral (para acompanhar)"
-        ],
-        "preparo": [
-          "Tempere a carne com sal e pimenta do reino. Em uma panela, refogue o alho e a cebola no azeite até dourarem.",
-          "Acrescente a carne em cubos e doure bem por todos os lados.",
-          "Adicione o champignon e o molho de tomate (ou passata), deixe cozinhar em fogo baixo por cerca de 10 minutos.",
-          "Acrescente a mostarda e misture. Desligue o fogo e incorpore o iogurte natural (ou creme de ricota light).",
-          "Mexa delicadamente até o molho ficar homogêneo. Sirva imediatamente com arroz integral."
-        ],
-        "id": "estrogonofe-de-carne-light-b53b13"
-      },
-      {
-        "nome": "Almôndegas ao Sugo no Forno",
-        "curso": "principal",
-        "tempo": "45 min",
-        "url": "https://claudia.abril.com.br/receitas/almondegas-ao-sugo/",
-        "porque": "Uma opção de carne vermelha assada no forno, evitando fritura, e servida com molho de tomate caseiro, prática e saborosa.",
-        "tags": [
-          "carne_vermelha",
+          "frango",
           "forno",
-          "massa",
+          "rapido",
           "equilibrado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "**Para as almôndegas:**",
-          "500g de carne moída (patinho ou coxão mole)",
-          "1/2 cebola pequena picada finamente",
-          "1 dente de alho amassado",
-          "1 ovo",
-          "2 colheres (sopa) de farinha de rosca (opcional, para dar liga)",
-          "2 colheres (sopa) de salsinha picada",
-          "Sal e pimenta-do-reino a gosto",
-          "**Para o molho sugo:**",
-          "400g de tomate pelado (ou 1 lata de molho de tomate pronto)",
-          "1 dente de alho picado",
-          "1 colher (sopa) de azeite",
-          "Sal a gosto",
-          "Manjericão fresco a gosto",
-          "Massa ou arroz (para acompanhar)"
+          "6 sobrecoxas de frango com pele e osso",
+          "1 cebola roxa grande",
+          "6 dentes de alho grandes",
+          "⅓ de xícara (chá) de caldo de limão peneirado",
+          "1 ½ xícara (chá) de água",
+          "12 folhas de sálvia fresca",
+          "8 ramos de orégano fresco",
+          "½ colher (chá) de sementes de erva-doce",
+          "1 colher (chá) de páprica doce",
+          "1 ½ colher (chá) de sal",
+          "2 colheres (sopa) de azeite",
+          "Pimenta-do-reino moída na hora a gosto"
         ],
         "preparo": [
-          "Em um bowl, misture a carne moída, cebola, alho, ovo, farinha de rosca (se usar), salsinha, sal e pimenta. Misture bem até formar uma massa homogênea.",
-          "Modele pequenas bolinhas com a massa da carne.",
-          "Disponha as almôndegas em uma assadeira forrada com papel manteiga e leve ao forno pré-aquecido a 180°C por 20 a 25 minutos, ou até dourarem levemente.",
-          "Em uma panela, refogue o alho no azeite. Adicione o tomate pelado (ou molho pronto) e cozinhe em fogo baixo por cerca de 10-15 minutos. Tempere com sal e adicione o manjericão.",
-          "Junte as almôndegas assadas ao molho sugo e cozinhe por mais 5-10 minutos para que peguem sabor. Sirva com massa ou arroz."
+          "No pilão, bata as sementes de erva-doce e misture com o sal, a páprica e a pimenta-do-reino moída na hora a gosto.",
+          "Em uma travessa, coloque as sobrecoxas e tempere com a mistura de especiarias, esfregando bem sobre e sob a pele. Leve à geladeira por 40 minutos com a pele para cima.",
+          "Preaqueça o forno a 200 ºC. Retire o frango da geladeira e deixe em temperatura ambiente por 20 minutos. Corte a cebola roxa em gomos e amasse os dentes de alho.",
+          "Em uma assadeira grande, distribua a cebola, o alho, as folhas de sálvia e os ramos de orégano. Tempere a cebola com sal a gosto e regue o fundo da assadeira com o caldo de limão e a água.",
+          "Disponha as sobrecoxas na assadeira com a pele para cima. Leve ao forno preaquecido para assar por cerca de 20 minutos, ou até a pele ficar dourada e crocante."
         ],
-        "id": "alm-ndegas-ao-sugo-no-forno-b54729"
+        "id": "sobrecoxas-assadas-com-p-prica-e-ervas-b33281"
       },
       {
-        "nome": "Salada de Frutas com Iogurte e Granola",
-        "curso": "sobremesa",
-        "tempo": "10 min",
-        "url": "https://paladar.estadao.com.br/receitas/salada-de-frutas-com-iogurte-e-granola,10000088934",
-        "porque": "Uma sobremesa leve, refrescante e saudável, rápida de montar e sem cozimento, perfeita para equilibrar refeições mais robustas.",
+        "nome": "Pão de Alho na Air Fryer",
+        "curso": "entrada",
+        "tempo": "15 min",
+        "url": "https://www.panelinha.com.br/receita/Pao-de-alho-na-Air-Fryer-da-Rita-Lobo",
+        "porque": "Extremamente prático e rápido, feito na air fryer para garantir crocância sem adição excessiva de óleo, um aperitivo que agrada a todos.",
         "tags": [
           "rapido",
-          "low_carb",
-          "vegetariano"
+          "airfryer",
+          "aperitivo"
         ],
-        "rende_sobra": true,
+        "rende_sobra": false,
         "ingredientes": [
-          "Frutas frescas variadas picadas (ex: 1 pera, 3 bananas, 1 kiwi, 10 morangos, 10 bagos de uva)",
-          "2 copos de iogurte natural desnatado",
-          "1 xícara de chá de granola sem açúcar",
-          "Mel a gosto (opcional)"
+          "4 pães franceses",
+          "3 colheres (sopa) de manteiga sem sal amolecida",
+          "3 dentes de alho picados finamente",
+          "Salsinha fresca picada a gosto",
+          "Sal a gosto",
+          "Queijo parmesão ralado (opcional)"
         ],
         "preparo": [
-          "Lave e pique todas as frutas em cubos ou fatias, conforme sua preferência.",
-          "Distribua as frutas picadas em taças individuais ou em um bowl grande.",
-          "Acrescente o iogurte natural desnatado por cima das frutas.",
-          "Finalize com a granola sem açúcar. Se desejar, adicione um fio de mel.",
-          "Sirva gelado."
+          "Descasque e pique finamente os dentes de alho. Lave, seque e pique a salsinha.",
+          "Em uma tigela pequena, misture a manteiga amolecida com o alho picado, a salsinha e uma pitada de sal. Se desejar, adicione o queijo parmesão ralado.",
+          "Corte os pães franceses em fatias, sem separá-los completamente da base, ou ao meio no sentido do comprimento.",
+          "Espalhe generosamente a pasta de alho nas fatias ou metades dos pães.",
+          "Preaqueça a Air Fryer a 200 ºC. Coloque os pães de alho na cesta da Air Fryer e asse por 8 a 10 minutos, ou até ficarem dourados e crocantes. Sirva imediatamente."
         ],
-        "id": "salada-de-frutas-com-iogurte-e-granola-7137af"
+        "id": "p-o-de-alho-na-air-fryer-be6cd7"
+      },
+      {
+        "nome": "Bolo de Caneca de Micro-ondas",
+        "curso": "sobremesa",
+        "tempo": "10 min",
+        "url": "https://www.tudogostoso.com.br/receita/60429-bolo-de-caneca-micro-ondas.html",
+        "porque": "A solução perfeita para a vontade de um doce rápido e sem exageros, feita em poucos minutos no micro-ondas, minimizando o trabalho e a louça.",
+        "tags": [
+          "rapido",
+          "microondas",
+          "doce"
+        ],
+        "rende_sobra": false,
+        "ingredientes": [
+          "1 ovo pequeno",
+          "2 colheres (sopa) de achocolatado em pó",
+          "3 colheres (sopa) rasas de açúcar",
+          "4 colheres (sopa) rasas de farinha de trigo",
+          "1 colher (sopa) de óleo",
+          "1 colher (café) rasa de fermento em pó",
+          "4 colheres (sopa) de leite"
+        ],
+        "preparo": [
+          "Em uma caneca de aproximadamente 300 ml (que possa ir ao micro-ondas), adicione o ovo e bata levemente com um garfo.",
+          "Acrescente o achocolatado em pó, o açúcar, a farinha de trigo, o óleo e o leite. Misture bem com o garfo até obter uma massa homogênea e sem grumos.",
+          "Por último, adicione o fermento em pó e misture delicadamente, apenas para incorporá-lo à massa.",
+          "Leve a caneca ao micro-ondas em potência alta por 3 minutos. O tempo pode variar dependendo da potência do seu aparelho.",
+          "Retire do micro-ondas com cuidado, espere amornar um pouco e sirva diretamente na caneca."
+        ],
+        "id": "bolo-de-caneca-de-micro-ondas-073428"
       }
     ]
   },

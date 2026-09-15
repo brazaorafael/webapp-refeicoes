@@ -1,27 +1,5 @@
 [
   {
-    "id": "bife-acebolado-com-tomate-a05174",
-    "titulo": "Bife Acebolado com Tomate",
-    "tags": [
-      "carne_vermelha",
-      "grelhado",
-      "rapido",
-      "equilibrio"
-    ],
-    "data": "27/07/2026"
-  },
-  {
-    "id": "picadinho-de-carne-com-legumes-e78ab4",
-    "titulo": "Picadinho de Carne com Legumes",
-    "tags": [
-      "carne_vermelha",
-      "refogado",
-      "rapido",
-      "equilibrio"
-    ],
-    "data": "27/07/2026"
-  },
-  {
     "id": "strogonoff-de-carne-cremoso-fb0db4",
     "titulo": "Strogonoff de Carne Cremoso",
     "tags": [
@@ -5049,5 +5027,25 @@
       "equilibrado"
     ],
     "data": "14/09/2026"
+  },
+  {
+    "id": "rosbife-16afb2",
+    "titulo": "Rosbife",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "rapido"
+    ],
+    "data": "15/09/2026"
+  },
+  {
+    "id": "bolo-de-caneca-de-micro-ondas-073428",
+    "titulo": "Bolo de Caneca de Micro-ondas",
+    "tags": [
+      "rapido",
+      "microondas",
+      "doce"
+    ],
+    "data": "15/09/2026"
   }
 ]
