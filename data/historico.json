@@ -1,16 +1,5 @@
 [
   {
-    "id": "strogonoff-de-carne-cremoso-fb0db4",
-    "titulo": "Strogonoff de Carne Cremoso",
-    "tags": [
-      "carne_vermelha",
-      "refogado",
-      "rapido",
-      "rende_sobra"
-    ],
-    "data": "27/07/2026"
-  },
-  {
     "id": "bife-milanesa-na-airfryer-d19241",
     "titulo": "Bife à Milanesa na Airfryer",
     "tags": [
@@ -5047,5 +5036,15 @@
       "doce"
     ],
     "data": "15/09/2026"
+  },
+  {
+    "id": "bife-grelhado-com-salada-caprese-969784",
+    "titulo": "Bife Grelhado com Salada Caprese",
+    "tags": [
+      "carne_vermelha",
+      "grelhado",
+      "rapido"
+    ],
+    "data": "16/09/2026"
   }
 ]

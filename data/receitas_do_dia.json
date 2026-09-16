@@ -1,167 +1,167 @@
 {
-  "gerado_em": "15/09/2026",
+  "gerado_em": "16/09/2026",
   "diario": {
     "tipo": "diario",
-    "data": "15/09/2026",
-    "dia_semana": "terça",
+    "data": "16/09/2026",
+    "dia_semana": "quarta",
     "pratos": [
       {
-        "nome": "Escondidinho de Carne Moída",
-        "curso": "principal",
-        "tempo": "45 min",
-        "url": "https://www.tudogostoso.com.br/receita/60429-escondidinho-de-carne-moida.html",
-        "porque": "É um prato robusto, com alta concentração de proteína da carne moída e purê de batatas, feito no forno, prático e rende facilmente porções para o jantar e sobras.",
-        "tags": [
-          "carne_vermelha",
-          "forno",
-          "rapido",
-          "equilibrado"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "1 kg de batatas",
-          "Sal a gosto",
-          "1/2 copo de leite",
-          "2 colheres (sopa) de manteiga",
-          "1 fio de azeite",
-          "1 cebola picada",
-          "1 dente de alho picado",
-          "500 g de carne moída",
-          "Pimenta branca a gosto",
-          "Cheiro-verde a gosto",
-          "200 g de queijo mussarela fatiado ou ralado"
-        ],
-        "preparo": [
-          "Descasque as batatas, corte ao meio e cozinhe com água e sal até ficarem macias.",
-          "Amasse as batatas cozidas, adicione o leite e a manteiga, mexa bem até formar um purê homogêneo e reserve.",
-          "Em uma panela, adicione o azeite, refogue a cebola e o alho, depois acrescente a carne moída, tempere com sal, pimenta branca e cheiro-verde. Cozinhe até a água da carne secar.",
-          "Forre um refratário com metade do purê de batatas, adicione uma camada de queijo mussarela e, em seguida, uma camada da carne moída refogada.",
-          "Repita o processo, finalizando com uma camada de queijo mussarela por cima. Leve ao forno preaquecido por 40 minutos para gratinar."
-        ],
-        "id": "escondidinho-de-carne-mo-da-177454"
-      },
-      {
-        "nome": "Rosbife",
+        "nome": "Carne de Panela Rápida com Batata e Cenoura",
         "curso": "principal",
         "tempo": "40 min",
-        "url": "https://www.panelinha.com.br/receita/Rosbife",
-        "porque": "Uma excelente opção de carne vermelha magra e rica em proteína, assada no forno com preparo relativamente rápido e ideal para sobras.",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBI78LdEVKGPr1GHYm8TaqTLoZwncX9g6mwjNTvmOux9mBnQb2Hgm1ghV4-VoD1YDbTy1_fWBgajB4qLbUhCnyq_SiYc6YNmOtafQfiCQFpeB3dq2vnsFBrQNvEnIjTcb9xDmh-DQlyfzNxFDnImsx1v8_f9oXYYOGKFk06xE=",
+        "porque": "Este prato robusto de carne vermelha é ideal para o casal, prático na panela de pressão e rende ótimas sobras para a semana.",
         "tags": [
           "carne_vermelha",
-          "forno",
-          "rapido"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "750 g de filé mignon em peça",
-          "1 colher (chá) de mostarda amarela em pó",
-          "1 colher (chá) de páprica defumada",
-          "Azeite a gosto",
-          "Sal e pimenta-do-reino moída na hora a gosto"
-        ],
-        "preparo": [
-          "Numa tigela pequena, misture a páprica com a mostarda em pó. Tempere a peça de filé mignon com sal, pimenta e essa mistura de especiarias.",
-          "Regue com cerca de ½ colher (sopa) de azeite e espalhe bem com as mãos por toda a superfície da carne.",
-          "Leve uma frigideira grande ao fogo médio-alto para aquecer. Quando estiver bem quente, regue com um fio de azeite e sele a carne por todos os lados até dourar.",
-          "Transfira a carne para uma assadeira e leve ao forno preaquecido a 200 ºC por cerca de 20 a 25 minutos para um rosbife malpassado.",
-          "Retire do forno e deixe a carne descansar por 10 minutos antes de fatiar para que os sucos se redistribuam, garantindo maciez."
-        ],
-        "id": "rosbife-16afb2"
-      },
-      {
-        "nome": "Sobrecoxas Assadas com Páprica e Ervas",
-        "curso": "principal",
-        "tempo": "30 min",
-        "url": "https://www.panelinha.com.br/receita/Sobrecoxas-assadas-com-paprica-e-ervas",
-        "porque": "Uma opção deliciosa de frango, assada no forno para garantir uma casquinha crocante e carne suculenta, sem a necessidade de fritura.",
-        "tags": [
-          "frango",
-          "forno",
           "rapido",
           "equilibrado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "6 sobrecoxas de frango com pele e osso",
-          "1 cebola roxa grande",
-          "6 dentes de alho grandes",
-          "⅓ de xícara (chá) de caldo de limão peneirado",
-          "1 ½ xícara (chá) de água",
-          "12 folhas de sálvia fresca",
-          "8 ramos de orégano fresco",
-          "½ colher (chá) de sementes de erva-doce",
-          "1 colher (chá) de páprica doce",
-          "1 ½ colher (chá) de sal",
+          "800g de acém ou paleta em cubos",
+          "1 cebola grande picada",
+          "2 dentes de alho picados",
+          "2 tomates médios picados",
+          "2 cenouras médias em pedaços",
+          "4 batatas médias em pedaços",
+          "2 xícaras (chá) de caldo de carne",
+          "1 folha de louro",
+          "Azeite de oliva a gosto",
+          "Sal e pimenta-do-reino a gosto",
+          "Cheiro-verde picado a gosto"
+        ],
+        "preparo": [
+          "Tempere a carne em cubos com sal e pimenta-do-reino.",
+          "Na panela de pressão, aqueça um fio de azeite e doure a carne em etapas para não juntar água. Reserve.",
+          "Na mesma panela, refogue a cebola e o alho até dourarem. Adicione os tomates picados e refogue por alguns minutos.",
+          "Retorne a carne para a panela, adicione a cenoura, a batata, o caldo de carne e a folha de louro. Misture bem.",
+          "Feche a panela de pressão e cozinhe por cerca de 25-30 minutos após o início da pressão. Desligue o fogo e espere a pressão sair naturalmente.",
+          "Abra a panela, ajuste o sal e a pimenta se necessário, finalize com cheiro-verde picado e sirva."
+        ],
+        "id": "carne-de-panela-r-pida-com-batata-e-ceno-91c307"
+      },
+      {
+        "nome": "Bife Grelhado com Salada Caprese",
+        "curso": "principal",
+        "tempo": "20 min",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnmCrUojYQkMAs-6NVIBnn78QcH0tjYvpmQ-oI_0nZIUsWQjf5aFLjDgXoLSTxcF6sl6aMfpDq51XxWDdT1EoXq3j4uvqvP03bMUgkq_EjR3sZa2Zchx07tnC7jJx3dJOAWff5iMl-vSTvlqhk",
+        "porque": "Esta opção é extremamente rápida e prática, focando na proteína do bife grelhado e no equilíbrio de uma salada fresca, sem frituras.",
+        "tags": [
+          "carne_vermelha",
+          "grelhado",
+          "rapido"
+        ],
+        "rende_sobra": false,
+        "ingredientes": [
+          "2 bifes de carne vermelha (contrafilé ou alcatra, ~180g cada)",
+          "Sal e pimenta-do-reino a gosto",
+          "1 fio de azeite para grelhar",
+          "2 tomates maduros",
+          "2 bolas de muçarela de búfala (~125g cada)",
+          "1 ramo de manjericão fresco",
+          "Azeite extra virgem a gosto para a salada"
+        ],
+        "preparo": [
+          "Tempere os bifes com sal e pimenta-do-reino dos dois lados.",
+          "Aqueça uma frigideira ou chapa em fogo alto com um fio de azeite. Grelhe os bifes por 3-5 minutos de cada lado, dependendo do ponto desejado.",
+          "Enquanto os bifes grelham, prepare a salada: lave e corte os tomates e as muçarelas de búfala em rodelas ou gomos.",
+          "Em um prato, intercale as rodelas de tomate e muçarela, e distribua as folhas de manjericão fresco.",
+          "Regue a salada com azeite extra virgem, tempere com uma pitada de sal e pimenta-do-reino a gosto.",
+          "Sirva o bife grelhado imediatamente acompanhado da salada Caprese."
+        ],
+        "id": "bife-grelhado-com-salada-caprese-969784"
+      },
+      {
+        "nome": "Frango Xadrez",
+        "curso": "principal",
+        "tempo": "35 min",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPc9qlDZ-3s3GGf7LqkNQCxbRZF0-8UNMI4D3jBXNnoKsmi7WyVQ_v5qZnGvACaWnYg-DeLXg4cOi3OBPGNRZ4ZQaVmpM6oisf1qLlUuitMA8R-R8OhEPzYKffzyVlRH1wspbs1Q==",
+        "porque": "Este prato de frango é rápido de preparar, rico em proteína e vegetais, sendo uma ótima alternativa para variar o cardápio.",
+        "tags": [
+          "frango",
+          "rapido",
+          "equilibrado"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "500g de filé de frango em cubos",
           "2 colheres (sopa) de azeite",
-          "Pimenta-do-reino moída na hora a gosto"
-        ],
-        "preparo": [
-          "No pilão, bata as sementes de erva-doce e misture com o sal, a páprica e a pimenta-do-reino moída na hora a gosto.",
-          "Em uma travessa, coloque as sobrecoxas e tempere com a mistura de especiarias, esfregando bem sobre e sob a pele. Leve à geladeira por 40 minutos com a pele para cima.",
-          "Preaqueça o forno a 200 ºC. Retire o frango da geladeira e deixe em temperatura ambiente por 20 minutos. Corte a cebola roxa em gomos e amasse os dentes de alho.",
-          "Em uma assadeira grande, distribua a cebola, o alho, as folhas de sálvia e os ramos de orégano. Tempere a cebola com sal a gosto e regue o fundo da assadeira com o caldo de limão e a água.",
-          "Disponha as sobrecoxas na assadeira com a pele para cima. Leve ao forno preaquecido para assar por cerca de 20 minutos, ou até a pele ficar dourada e crocante."
-        ],
-        "id": "sobrecoxas-assadas-com-p-prica-e-ervas-b33281"
-      },
-      {
-        "nome": "Pão de Alho na Air Fryer",
-        "curso": "entrada",
-        "tempo": "15 min",
-        "url": "https://www.panelinha.com.br/receita/Pao-de-alho-na-Air-Fryer-da-Rita-Lobo",
-        "porque": "Extremamente prático e rápido, feito na air fryer para garantir crocância sem adição excessiva de óleo, um aperitivo que agrada a todos.",
-        "tags": [
-          "rapido",
-          "airfryer",
-          "aperitivo"
-        ],
-        "rende_sobra": false,
-        "ingredientes": [
-          "4 pães franceses",
-          "3 colheres (sopa) de manteiga sem sal amolecida",
-          "3 dentes de alho picados finamente",
-          "Salsinha fresca picada a gosto",
+          "2 cebolas médias cortadas em cubos",
+          "2 dentes de alho esmagados",
           "Sal a gosto",
-          "Queijo parmesão ralado (opcional)"
+          "1 pimentão verde cortado em cubos",
+          "1 pimentão vermelho cortado em cubos",
+          "1 pimentão amarelo cortado em cubos",
+          "1 xícara (chá) de cogumelos em conserva cortados ao meio (opcional)",
+          "1/4 xícara (chá) de molho shoyu",
+          "1 colher (sopa) de amido de milho",
+          "1/2 xícara (chá) de água",
+          "2 colheres (sopa) de amendoim torrado"
         ],
         "preparo": [
-          "Descasque e pique finamente os dentes de alho. Lave, seque e pique a salsinha.",
-          "Em uma tigela pequena, misture a manteiga amolecida com o alho picado, a salsinha e uma pitada de sal. Se desejar, adicione o queijo parmesão ralado.",
-          "Corte os pães franceses em fatias, sem separá-los completamente da base, ou ao meio no sentido do comprimento.",
-          "Espalhe generosamente a pasta de alho nas fatias ou metades dos pães.",
-          "Preaqueça a Air Fryer a 200 ºC. Coloque os pães de alho na cesta da Air Fryer e asse por 8 a 10 minutos, ou até ficarem dourados e crocantes. Sirva imediatamente."
+          "Em uma frigideira grande, aqueça metade do azeite, refogue a cebola e o alho até dourarem. Retire e reserve.",
+          "Na mesma frigideira, adicione o restante do azeite, sal e frite os pimentões e os cogumelos por 5 minutos. Retire e reserve.",
+          "Ainda na frigideira, adicione o frango e frite até dourar.",
+          "Retorne todos os ingredientes (cebola, alho, pimentões, cogumelos) para a frigideira com o frango e refogue por mais 2 minutos.",
+          "Em uma xícara, misture o molho shoyu, o amido de milho e a água. Mexa bem e adicione à frigideira.",
+          "Cozinhe, mexendo constantemente, até o molho engrossar. Polvilhe com amendoim torrado e sirva quente."
         ],
-        "id": "p-o-de-alho-na-air-fryer-be6cd7"
+        "id": "frango-xadrez-65a865"
       },
       {
-        "nome": "Bolo de Caneca de Micro-ondas",
-        "curso": "sobremesa",
-        "tempo": "10 min",
-        "url": "https://www.tudogostoso.com.br/receita/60429-bolo-de-caneca-micro-ondas.html",
-        "porque": "A solução perfeita para a vontade de um doce rápido e sem exageros, feita em poucos minutos no micro-ondas, minimizando o trabalho e a louça.",
+        "nome": "Dadinhos de Tapioca na Airfryer",
+        "curso": "entrada",
+        "tempo": "30 min",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtdTbadIGr0ROArax9WQhUigWnHDq8aazQxwdXOOmznIavnc3gx1pQBsyWZAZMdO1TfqsdK1gm2cMghEaCAvfbsCleqIFEq-Pe50AMFHMItoIO02G3Ugp9gecTWPR9bqsz3_Dp9k_I4vcQ76s07VONBF-qe8V52k-QZg==",
+        "porque": "Esta é uma entrada moderna e saborosa, perfeita para o casal, que atende à regra de pouca fritura por ser feita na airfryer.",
         "tags": [
-          "rapido",
-          "microondas",
-          "doce"
+          "vegetariano",
+          "airfryer",
+          "rapido"
         ],
         "rende_sobra": false,
         "ingredientes": [
-          "1 ovo pequeno",
-          "2 colheres (sopa) de achocolatado em pó",
-          "3 colheres (sopa) rasas de açúcar",
-          "4 colheres (sopa) rasas de farinha de trigo",
-          "1 colher (sopa) de óleo",
-          "1 colher (café) rasa de fermento em pó",
-          "4 colheres (sopa) de leite"
+          "600g de tapioca granulada",
+          "1 litro de leite integral aquecido",
+          "300g de queijo coalho ralado",
+          "Sal a gosto",
+          "Azeite para pincelar (opcional)"
         ],
         "preparo": [
-          "Em uma caneca de aproximadamente 300 ml (que possa ir ao micro-ondas), adicione o ovo e bata levemente com um garfo.",
-          "Acrescente o achocolatado em pó, o açúcar, a farinha de trigo, o óleo e o leite. Misture bem com o garfo até obter uma massa homogênea e sem grumos.",
-          "Por último, adicione o fermento em pó e misture delicadamente, apenas para incorporá-lo à massa.",
-          "Leve a caneca ao micro-ondas em potência alta por 3 minutos. O tempo pode variar dependendo da potência do seu aparelho.",
-          "Retire do micro-ondas com cuidado, espere amornar um pouco e sirva diretamente na caneca."
+          "Em um bowl grande, misture a tapioca granulada, o queijo coalho ralado e o sal.",
+          "Adicione o leite integral bem quente e mexa rapidamente com uma colher ou fouet até incorporar bem e a mistura começar a engrossar.",
+          "Espalhe a massa em uma assadeira ou refratário forrado com plástico filme, nivelando bem. Leve à geladeira por no mínimo 3 horas (ou até firmar).",
+          "Retire a massa da geladeira, desenforme e corte em cubos de aproximadamente 2-3 cm.",
+          "Pré-aqueça a airfryer a 180°C. Distribua os dadinhos no cesto da airfryer, sem amontoar, e pincele com um pouco de azeite se desejar.",
+          "Asse por 15-20 minutos, virando na metade do tempo, ou até ficarem dourados e crocantes. Sirva com um molho de sua preferência."
         ],
-        "id": "bolo-de-caneca-de-micro-ondas-073428"
+        "id": "dadinhos-de-tapioca-na-airfryer-5514d1"
+      },
+      {
+        "nome": "Mousse de Limão Rápida",
+        "curso": "sobremesa",
+        "tempo": "15 min (+ 2h geladeira)",
+        "url": "https://www.tudogostoso.com.br/receita/155693-mousse-de-limao-rapido.html",
+        "porque": "Uma sobremesa refrescante e leve, muito fácil de fazer com apenas três ingredientes e sem necessidade de forno.",
+        "tags": [
+          "rapido",
+          "vegetariano"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "1 lata de leite condensado (395g)",
+          "1 caixa de creme de leite (200g)",
+          "Suco de 2 a 3 limões (aproximadamente 60ml)"
+        ],
+        "preparo": [
+          "No liquidificador, adicione o leite condensado e o creme de leite.",
+          "Comece a bater e, em seguida, adicione o suco de limão aos poucos, com o liquidificador ligado.",
+          "Bata por aproximadamente 3-5 minutos, ou até a mistura ficar bem cremosa e consistente.",
+          "Despeje a mousse em taças individuais ou em um refratário grande.",
+          "Leve à geladeira por no mínimo 2 horas para firmar.",
+          "Se desejar, decore com raspas de limão antes de servir."
+        ],
+        "id": "mousse-de-lim-o-r-pida-de62c5"
       }
     ]
   },
