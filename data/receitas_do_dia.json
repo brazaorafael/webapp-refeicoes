@@ -1,165 +1,166 @@
 {
-  "gerado_em": "16/09/2026",
+  "gerado_em": "17/09/2026",
   "diario": {
     "tipo": "diario",
-    "data": "16/09/2026",
-    "dia_semana": "quarta",
+    "data": "17/09/2026",
+    "dia_semana": "quinta",
     "pratos": [
       {
-        "nome": "Carne de Panela Rápida com Batata e Cenoura",
+        "nome": "Bolo de Carne com Maçãs Assadas",
         "curso": "principal",
-        "tempo": "40 min",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBI78LdEVKGPr1GHYm8TaqTLoZwncX9g6mwjNTvmOux9mBnQb2Hgm1ghV4-VoD1YDbTy1_fWBgajB4qLbUhCnyq_SiYc6YNmOtafQfiCQFpeB3dq2vnsFBrQNvEnIjTcb9xDmh-DQlyfzNxFDnImsx1v8_f9oXYYOGKFk06xE=",
-        "porque": "Este prato robusto de carne vermelha é ideal para o casal, prático na panela de pressão e rende ótimas sobras para a semana.",
+        "tempo": "50 min",
+        "url": "https://www.panelinha.com.br/receita/bolo-de-carne-com-macas-assadas",
+        "porque": "É uma refeição completa que pode ser preparada no forno, minimizando a sujeira, e rende bem para sobras.",
         "tags": [
           "carne_vermelha",
-          "rapido",
+          "forno",
           "equilibrado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "800g de acém ou paleta em cubos",
-          "1 cebola grande picada",
-          "2 dentes de alho picados",
-          "2 tomates médios picados",
-          "2 cenouras médias em pedaços",
-          "4 batatas médias em pedaços",
-          "2 xícaras (chá) de caldo de carne",
-          "1 folha de louro",
-          "Azeite de oliva a gosto",
+          "1 pão francês amanhecido",
+          "1 dente de alho picado",
+          "3 ramos de tomilho fresco (folhas picadas)",
+          "2 colheres (sopa) de azeite",
           "Sal e pimenta-do-reino a gosto",
-          "Cheiro-verde picado a gosto"
+          "500g de carne moída (bovina e/ou suína)",
+          "1 maçã pequena ralada",
+          "6-8 fatias de bacon (para cobertura)",
+          "2 maçãs médias (para assar junto)",
+          "1 cebola média (para assar junto)",
+          "2-3 dentes de alho (para assar junto)"
         ],
         "preparo": [
-          "Tempere a carne em cubos com sal e pimenta-do-reino.",
-          "Na panela de pressão, aqueça um fio de azeite e doure a carne em etapas para não juntar água. Reserve.",
-          "Na mesma panela, refogue a cebola e o alho até dourarem. Adicione os tomates picados e refogue por alguns minutos.",
-          "Retorne a carne para a panela, adicione a cenoura, a batata, o caldo de carne e a folha de louro. Misture bem.",
-          "Feche a panela de pressão e cozinhe por cerca de 25-30 minutos após o início da pressão. Desligue o fogo e espere a pressão sair naturalmente.",
-          "Abra a panela, ajuste o sal e a pimenta se necessário, finalize com cheiro-verde picado e sirva."
+          "Preaqueça o forno a 200 ºC. Unte uma assadeira grande com 1 colher (sopa) de azeite.",
+          "Em uma tigela, misture a carne moída com o pão umedecido e espremido, o alho picado, as folhas de tomilho, a maçã ralada, sal e pimenta.",
+          "Modele a mistura de carne em formato de bolo na assadeira, cubra com as fatias de bacon.",
+          "Disponha as maçãs cortadas, a cebola em gomos e os dentes de alho ao redor do bolo de carne na assadeira.",
+          "Leve ao forno por cerca de 40-45 minutos, ou até o bolo de carne estar dourado e cozido.",
+          "Deixe o bolo de carne descansar por 5 minutos antes de desenformar e fatiar. Sirva com as maçãs e legumes assados."
         ],
-        "id": "carne-de-panela-r-pida-com-batata-e-ceno-91c307"
+        "id": "bolo-de-carne-com-ma-s-assadas-d3a818"
       },
       {
-        "nome": "Bife Grelhado com Salada Caprese",
-        "curso": "principal",
-        "tempo": "20 min",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnmCrUojYQkMAs-6NVIBnn78QcH0tjYvpmQ-oI_0nZIUsWQjf5aFLjDgXoLSTxcF6sl6aMfpDq51XxWDdT1EoXq3j4uvqvP03bMUgkq_EjR3sZa2Zchx07tnC7jJx3dJOAWff5iMl-vSTvlqhk",
-        "porque": "Esta opção é extremamente rápida e prática, focando na proteína do bife grelhado e no equilíbrio de uma salada fresca, sem frituras.",
-        "tags": [
-          "carne_vermelha",
-          "grelhado",
-          "rapido"
-        ],
-        "rende_sobra": false,
-        "ingredientes": [
-          "2 bifes de carne vermelha (contrafilé ou alcatra, ~180g cada)",
-          "Sal e pimenta-do-reino a gosto",
-          "1 fio de azeite para grelhar",
-          "2 tomates maduros",
-          "2 bolas de muçarela de búfala (~125g cada)",
-          "1 ramo de manjericão fresco",
-          "Azeite extra virgem a gosto para a salada"
-        ],
-        "preparo": [
-          "Tempere os bifes com sal e pimenta-do-reino dos dois lados.",
-          "Aqueça uma frigideira ou chapa em fogo alto com um fio de azeite. Grelhe os bifes por 3-5 minutos de cada lado, dependendo do ponto desejado.",
-          "Enquanto os bifes grelham, prepare a salada: lave e corte os tomates e as muçarelas de búfala em rodelas ou gomos.",
-          "Em um prato, intercale as rodelas de tomate e muçarela, e distribua as folhas de manjericão fresco.",
-          "Regue a salada com azeite extra virgem, tempere com uma pitada de sal e pimenta-do-reino a gosto.",
-          "Sirva o bife grelhado imediatamente acompanhado da salada Caprese."
-        ],
-        "id": "bife-grelhado-com-salada-caprese-969784"
-      },
-      {
-        "nome": "Frango Xadrez",
+        "nome": "Carne Moída Rápida Temperada",
         "curso": "principal",
         "tempo": "35 min",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPc9qlDZ-3s3GGf7LqkNQCxbRZF0-8UNMI4D3jBXNnoKsmi7WyVQ_v5qZnGvACaWnYg-DeLXg4cOi3OBPGNRZ4ZQaVmpM6oisf1qLlUuitMA8R-R8OhEPzYKffzyVlRH1wspbs1Q==",
-        "porque": "Este prato de frango é rápido de preparar, rico em proteína e vegetais, sendo uma ótima alternativa para variar o cardápio.",
+        "url": "https://receitas.globo.com/receitas/carne-moida-rapida-temperada.ghtml",
+        "porque": "Uma opção versátil e rápida de carne vermelha, com sabor intenso de ervas e vinho, ideal para acompanhar diversos pratos e gerar sobras.",
         "tags": [
-          "frango",
+          "carne_vermelha",
           "rapido",
           "equilibrado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "500g de filé de frango em cubos",
           "2 colheres (sopa) de azeite",
-          "2 cebolas médias cortadas em cubos",
-          "2 dentes de alho esmagados",
-          "Sal a gosto",
-          "1 pimentão verde cortado em cubos",
-          "1 pimentão vermelho cortado em cubos",
-          "1 pimentão amarelo cortado em cubos",
-          "1 xícara (chá) de cogumelos em conserva cortados ao meio (opcional)",
-          "1/4 xícara (chá) de molho shoyu",
-          "1 colher (sopa) de amido de milho",
-          "1/2 xícara (chá) de água",
-          "2 colheres (sopa) de amendoim torrado"
+          "2 colheres (sopa) de alho picado",
+          "1 cebola média picada (aprox. 200g)",
+          "1 kg de carne moída",
+          "1 xícara (chá) de vinho tinto seco",
+          "1 ¼ de xícara (chá) de extrato de tomate (aprox. 340g)",
+          "Ervas frescas picadas a gosto (tomilho, sálvia, manjericão)",
+          "Sal e pimenta-do-reino moída a gosto"
         ],
         "preparo": [
-          "Em uma frigideira grande, aqueça metade do azeite, refogue a cebola e o alho até dourarem. Retire e reserve.",
-          "Na mesma frigideira, adicione o restante do azeite, sal e frite os pimentões e os cogumelos por 5 minutos. Retire e reserve.",
-          "Ainda na frigideira, adicione o frango e frite até dourar.",
-          "Retorne todos os ingredientes (cebola, alho, pimentões, cogumelos) para a frigideira com o frango e refogue por mais 2 minutos.",
-          "Em uma xícara, misture o molho shoyu, o amido de milho e a água. Mexa bem e adicione à frigideira.",
-          "Cozinhe, mexendo constantemente, até o molho engrossar. Polvilhe com amendoim torrado e sirva quente."
+          "Aqueça o azeite em uma panela grande em fogo médio. Refogue o alho e a cebola picados até começarem a dourar, por cerca de 3 minutos.",
+          "Acrescente a carne moída e refogue, mexendo e desfazendo-a com uma colher, até ficar bem soltinha e dourada.",
+          "Despeje o vinho tinto seco e deixe evaporar o álcool, raspando o fundo da panela para soltar os sabores.",
+          "Junte o extrato de tomate e as ervas frescas picadas. Tempere com sal e pimenta-do-reino a gosto.",
+          "Misture bem e cozinhe por mais 10 a 15 minutos, mexendo ocasionalmente, até o molho encorpar e a carne absorver os sabores.",
+          "Sirva quente, acompanhada de arroz, purê ou legumes."
         ],
-        "id": "frango-xadrez-65a865"
+        "id": "carne-mo-da-r-pida-temperada-654a2c"
       },
       {
-        "nome": "Dadinhos de Tapioca na Airfryer",
-        "curso": "entrada",
-        "tempo": "30 min",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtdTbadIGr0ROArax9WQhUigWnHDq8aazQxwdXOOmznIavnc3gx1pQBsyWZAZMdO1TfqsdK1gm2cMghEaCAvfbsCleqIFEq-Pe50AMFHMItoIO02G3Ugp9gecTWPR9bqsz3_Dp9k_I4vcQ76s07VONBF-qe8V52k-QZg==",
-        "porque": "Esta é uma entrada moderna e saborosa, perfeita para o casal, que atende à regra de pouca fritura por ser feita na airfryer.",
+        "nome": "Filé de Frango com Molho de Mel na Air Fryer",
+        "curso": "principal",
+        "tempo": "20 min",
+        "url": "https://www.panelinha.com.br/receita/file-de-frango-com-molho-de-mel-na-air-fryer",
+        "porque": "Uma alternativa de proteína magra, fácil e rápida de preparar na air fryer, resultando em um frango úmido e saboroso com um toque agridoce.",
         "tags": [
-          "vegetariano",
+          "frango",
           "airfryer",
           "rapido"
         ],
-        "rende_sobra": false,
+        "rende_sobra": true,
         "ingredientes": [
-          "600g de tapioca granulada",
-          "1 litro de leite integral aquecido",
-          "300g de queijo coalho ralado",
-          "Sal a gosto",
-          "Azeite para pincelar (opcional)"
+          "2 filés de frango (aprox. 150-180g cada)",
+          "Sal e pimenta-do-reino a gosto",
+          "1 colher (sopa) de manteiga",
+          "1½ colher (chá) de mel",
+          "Raspas de ½ limão",
+          "1 pitada de sal (para o molho)",
+          "Salsinha picada a gosto (para servir)"
         ],
         "preparo": [
-          "Em um bowl grande, misture a tapioca granulada, o queijo coalho ralado e o sal.",
-          "Adicione o leite integral bem quente e mexa rapidamente com uma colher ou fouet até incorporar bem e a mistura começar a engrossar.",
-          "Espalhe a massa em uma assadeira ou refratário forrado com plástico filme, nivelando bem. Leve à geladeira por no mínimo 3 horas (ou até firmar).",
-          "Retire a massa da geladeira, desenforme e corte em cubos de aproximadamente 2-3 cm.",
-          "Pré-aqueça a airfryer a 180°C. Distribua os dadinhos no cesto da airfryer, sem amontoar, e pincele com um pouco de azeite se desejar.",
-          "Asse por 15-20 minutos, virando na metade do tempo, ou até ficarem dourados e crocantes. Sirva com um molho de sua preferência."
+          "Faça cortes superficiais nos filés de frango (em formato de xadrez) e tempere com sal e pimenta-do-reino.",
+          "Pré-aqueça a Air Fryer a 200°C por 5 minutos.",
+          "Coloque os filés de frango na cesta da Air Fryer e asse por cerca de 12 minutos, sem precisar virar.",
+          "Enquanto o frango assa, prepare o molho: em uma tigela pequena, derreta a manteiga e adicione o mel, as raspas de limão e a pitada de sal. Misture bem.",
+          "Com uma pinça, transfira os filés de frango assados para um prato, regue generosamente com o molho de mel.",
+          "Salpique salsinha picada a gosto e sirva imediatamente."
         ],
-        "id": "dadinhos-de-tapioca-na-airfryer-5514d1"
+        "id": "fil-de-frango-com-molho-de-mel-na-air-fr-e3e023"
+      },
+      {
+        "nome": "Salada de Trigo com Ricota e Salame",
+        "curso": "entrada",
+        "tempo": "60 min",
+        "url": "https://anamariabraga.globo.com/receitas/salada-de-trigo-em-graos",
+        "porque": "Uma salada nutritiva e com boa fonte de proteína e fibras, fácil de preparar com antecedência, sendo leve e refrescante.",
+        "tags": [
+          "salada",
+          "rapido",
+          "equilibrado"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "2 xícaras (chá) de trigo em grãos (aprox. 360g)",
+          "Sal a gosto",
+          "1 e ½ xícara (chá) de ricota em cubos médios (aprox. 225g)",
+          "100g de salame picadinho",
+          "10 tomates-cereja cortados em 4",
+          "Folhas de ½ maço de rúcula rasgadas",
+          "1 sachê de caldo de legumes (ou caldo caseiro)",
+          "2 colheres (sopa) de azeite de oliva",
+          "Raspas de 1 limão siciliano",
+          "Salsa picada a gosto",
+          "Orégano a gosto"
+        ],
+        "preparo": [
+          "Em uma panela, coloque o trigo em grãos com água e uma pitada de sal. Cozinhe por cerca de 45 minutos, até ficar macio. Escorra e deixe esfriar completamente.",
+          "Em uma tigela grande, adicione o trigo cozido e frio, a ricota em cubos, o salame picadinho e os tomates-cereja cortados.",
+          "Acrescente as folhas de rúcula rasgadas, o sachê de caldo de legumes, o azeite de oliva, as raspas de limão siciliano, a salsa e o orégano.",
+          "Misture delicadamente todos os ingredientes até estarem bem combinados.",
+          "Prove e ajuste o sal e a pimenta-do-reino se necessário.",
+          "Sirva em seguida ou leve à geladeira por pelo menos 30 minutos para intensificar os sabores."
+        ],
+        "id": "salada-de-trigo-com-ricota-e-salame-53c464"
       },
       {
         "nome": "Mousse de Limão Rápida",
         "curso": "sobremesa",
-        "tempo": "15 min (+ 2h geladeira)",
+        "tempo": "15 min",
         "url": "https://www.tudogostoso.com.br/receita/155693-mousse-de-limao-rapido.html",
-        "porque": "Uma sobremesa refrescante e leve, muito fácil de fazer com apenas três ingredientes e sem necessidade de forno.",
+        "porque": "Uma sobremesa leve, refrescante e muito fácil de fazer, sem a necessidade de forno, com apenas três ingredientes.",
         "tags": [
           "rapido",
-          "vegetariano"
+          "sobremesa",
+          "sem_forno"
         ],
         "rende_sobra": true,
         "ingredientes": [
           "1 lata de leite condensado (395g)",
-          "1 caixa de creme de leite (200g)",
-          "Suco de 2 a 3 limões (aproximadamente 60ml)"
+          "1 lata de creme de leite (200g)",
+          "Suco de 3 limões (siciliano ou tahiti)"
         ],
         "preparo": [
           "No liquidificador, adicione o leite condensado e o creme de leite.",
-          "Comece a bater e, em seguida, adicione o suco de limão aos poucos, com o liquidificador ligado.",
-          "Bata por aproximadamente 3-5 minutos, ou até a mistura ficar bem cremosa e consistente.",
-          "Despeje a mousse em taças individuais ou em um refratário grande.",
-          "Leve à geladeira por no mínimo 2 horas para firmar.",
-          "Se desejar, decore com raspas de limão antes de servir."
+          "Bata por cerca de 2 minutos, até obter uma mistura homogênea e cremosa.",
+          "Com o liquidificador ainda ligado, adicione o suco dos limões lentamente, em fio, até a mistura encorpar e adquirir a consistência de mousse.",
+          "Desligue o liquidificador e transfira a mousse para taças individuais ou um refratário de sua preferência.",
+          "Leve à geladeira por pelo menos 2 horas antes de servir para firmar bem."
         ],
         "id": "mousse-de-lim-o-r-pida-de62c5"
       }

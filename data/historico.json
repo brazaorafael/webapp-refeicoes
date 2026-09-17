@@ -1,38 +1,5 @@
 [
   {
-    "id": "bife-milanesa-na-airfryer-d19241",
-    "titulo": "Bife à Milanesa na Airfryer",
-    "tags": [
-      "carne_vermelha",
-      "airfryer",
-      "rapido",
-      "pratico"
-    ],
-    "data": "27/07/2026"
-  },
-  {
-    "id": "alm-ndegas-caseiras-ao-molho-618afd",
-    "titulo": "Almôndegas Caseiras ao Molho",
-    "tags": [
-      "carne_vermelha",
-      "refogado",
-      "rende_sobra",
-      "pratico"
-    ],
-    "data": "27/07/2026"
-  },
-  {
-    "id": "bife-grelhado-com-legumes-salteados-407d0c",
-    "titulo": "Bife Grelhado com Legumes Salteados",
-    "tags": [
-      "carne_vermelha",
-      "grelhado",
-      "low_carb",
-      "rapido"
-    ],
-    "data": "27/07/2026"
-  },
-  {
     "id": "picadinho-de-carne-com-quiabo-aca50c",
     "titulo": "Picadinho de Carne com Quiabo",
     "tags": [
@@ -5046,5 +5013,35 @@
       "rapido"
     ],
     "data": "16/09/2026"
+  },
+  {
+    "id": "bolo-de-carne-com-ma-s-assadas-d3a818",
+    "titulo": "Bolo de Carne com Maçãs Assadas",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "equilibrado"
+    ],
+    "data": "17/09/2026"
+  },
+  {
+    "id": "fil-de-frango-com-molho-de-mel-na-air-fr-e3e023",
+    "titulo": "Filé de Frango com Molho de Mel na Air Fryer",
+    "tags": [
+      "frango",
+      "airfryer",
+      "rapido"
+    ],
+    "data": "17/09/2026"
+  },
+  {
+    "id": "salada-de-trigo-com-ricota-e-salame-53c464",
+    "titulo": "Salada de Trigo com Ricota e Salame",
+    "tags": [
+      "salada",
+      "rapido",
+      "equilibrado"
+    ],
+    "data": "17/09/2026"
   }
 ]
