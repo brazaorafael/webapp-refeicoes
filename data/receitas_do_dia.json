@@ -1,16 +1,47 @@
 {
-  "gerado_em": "17/09/2026",
+  "gerado_em": "18/09/2026",
   "diario": {
     "tipo": "diario",
-    "data": "17/09/2026",
-    "dia_semana": "quinta",
+    "data": "18/09/2026",
+    "dia_semana": "sexta",
     "pratos": [
       {
-        "nome": "Bolo de Carne com Maçãs Assadas",
+        "nome": "Iscas de Carne com Legumes Refogados",
         "curso": "principal",
-        "tempo": "50 min",
-        "url": "https://www.panelinha.com.br/receita/bolo-de-carne-com-macas-assadas",
-        "porque": "É uma refeição completa que pode ser preparada no forno, minimizando a sujeira, e rende bem para sobras.",
+        "tempo": "20 min",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8-7RYgi2QfrOw66gtauY1p8-3D0CbM0PV0U7oY5axPxLmblxM7WTH0-QuXx-9_cULY8OR-Pm97ydLsvwYKktc1ZsMxP4OfCudjHdi9merlgDPVimjeel5C_PuoKYy0fLL_63w-0C7VQpu94p9ppGyO1UGTpRO7qM=",
+        "porque": "Este prato é rápido, nutritivo e permite uma boa quantidade de legumes, com carne em iscas que cozinha rapidamente e um preparo leve.",
+        "tags": [
+          "carne_vermelha",
+          "rapido",
+          "equilibrado"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "500g de alcatra bovina (ou patinho/contrafilé) em iscas",
+          "1 pitada de sal",
+          "1/2 cebola média em tiras",
+          "1 cenoura média em tiras finas",
+          "1 abobrinha média em tiras médias",
+          "1 colher (sopa) de azeite de oliva",
+          "1 xícara (chá) de água fervente",
+          "Tempero a gosto (ex: 1 sachê de tempero para carne, ou alho picado, pimenta-do-reino)"
+        ],
+        "preparo": [
+          "Em uma tigela média, tempere as iscas de carne com sal e o tempero escolhido (alho, pimenta, etc.).",
+          "Em uma panela grande, aqueça o azeite em fogo alto e frite as iscas de carne por cerca de 5 minutos, ou até dourarem.",
+          "Junte a cebola, a cenoura, a abobrinha e a água fervente à panela.",
+          "Cozinhe em fogo baixo, com a panela semitampada, por aproximadamente 5 minutos, ou até que os legumes fiquem macios.",
+          "Retire do fogo e sirva imediatamente, acompanhado de arroz branco ou integral."
+        ],
+        "id": "iscas-de-carne-com-legumes-refogados-f309eb"
+      },
+      {
+        "nome": "Quibe Assado",
+        "curso": "principal",
+        "tempo": "25 min",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE07wgOjaTEbo5YtIT0j_jEqTyCJJl6C8Z4RzULetGIaTur4C3VyJf6SowsI52M0SaTDrEAJdlVpMyKl6x_oA8xtczFoD7MkaB7m--_eMKLVah2BpZQvYTlwEORwfMVr8ilIJCIL4R_",
+        "porque": "Uma opção de carne moída assada no forno, saudável e prática, com boa porção de proteína e preparo simples.",
         "tags": [
           "carne_vermelha",
           "forno",
@@ -18,151 +49,121 @@
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "1 pão francês amanhecido",
-          "1 dente de alho picado",
-          "3 ramos de tomilho fresco (folhas picadas)",
-          "2 colheres (sopa) de azeite",
+          "1 xícara (chá) de trigo para quibe",
+          "3 xícaras (chá) de água morna",
+          "400g de carne moída (patinho)",
+          "20 folhas de hortelã picadas",
+          "1 cebola pequena picada finamente",
           "Sal e pimenta-do-reino a gosto",
-          "500g de carne moída (bovina e/ou suína)",
-          "1 maçã pequena ralada",
-          "6-8 fatias de bacon (para cobertura)",
-          "2 maçãs médias (para assar junto)",
-          "1 cebola média (para assar junto)",
-          "2-3 dentes de alho (para assar junto)"
+          "Azeite de oliva para untar e regar"
         ],
         "preparo": [
-          "Preaqueça o forno a 200 ºC. Unte uma assadeira grande com 1 colher (sopa) de azeite.",
-          "Em uma tigela, misture a carne moída com o pão umedecido e espremido, o alho picado, as folhas de tomilho, a maçã ralada, sal e pimenta.",
-          "Modele a mistura de carne em formato de bolo na assadeira, cubra com as fatias de bacon.",
-          "Disponha as maçãs cortadas, a cebola em gomos e os dentes de alho ao redor do bolo de carne na assadeira.",
-          "Leve ao forno por cerca de 40-45 minutos, ou até o bolo de carne estar dourado e cozido.",
-          "Deixe o bolo de carne descansar por 5 minutos antes de desenformar e fatiar. Sirva com as maçãs e legumes assados."
+          "Em uma tigela, junte o trigo para quibe e a água morna. Deixe de molho por 20 minutos.",
+          "Com o auxílio de um pano limpo, esprema bem o trigo para retirar o excesso de água.",
+          "Transfira o trigo para uma vasilha e junte a carne moída, as folhas de hortelã picadas, a cebola, o sal e a pimenta-do-reino. Misture bem com as mãos até conseguir uma liga homogênea.",
+          "Unte um refratário médio com azeite e espalhe a massa do quibe, alisando a superfície com as mãos.",
+          "Corte a massa em losangos com uma faca e regue com um fio de azeite.",
+          "Leve para assar em forno preaquecido a 200°C por cerca de 30 minutos, ou até dourar levemente."
         ],
-        "id": "bolo-de-carne-com-ma-s-assadas-d3a818"
+        "id": "quibe-assado-7a1175"
       },
       {
-        "nome": "Carne Moída Rápida Temperada",
+        "nome": "Carne de Panela com Batata e Cenoura na Pressão",
         "curso": "principal",
-        "tempo": "35 min",
-        "url": "https://receitas.globo.com/receitas/carne-moida-rapida-temperada.ghtml",
-        "porque": "Uma opção versátil e rápida de carne vermelha, com sabor intenso de ervas e vinho, ideal para acompanhar diversos pratos e gerar sobras.",
+        "tempo": "25 min",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9lHAnsq2aKlWvvpNAY3r3jHWtlmRaUQ1L9-toI9dEuDbNpJuGgmQsplUJwdULck_-DJ-pocxA7FozPKuwTJNshVjxV_DEn8iDiLxs1OJmwZEUIBTc9BtrbtwTgABZ1uB9kNZXNfBHaO5Z_2eO5bNoaQYy5PIl7ziFDaj8",
+        "porque": "Prato reconfortante e substancioso, com bastante proteína e vegetais, perfeito para uma refeição substanciosa com preparo ativo mínimo.",
         "tags": [
           "carne_vermelha",
-          "rapido",
+          "panela_pressao",
           "equilibrado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "2 colheres (sopa) de azeite",
-          "2 colheres (sopa) de alho picado",
-          "1 cebola média picada (aprox. 200g)",
-          "1 kg de carne moída",
-          "1 xícara (chá) de vinho tinto seco",
-          "1 ¼ de xícara (chá) de extrato de tomate (aprox. 340g)",
-          "Ervas frescas picadas a gosto (tomilho, sálvia, manjericão)",
-          "Sal e pimenta-do-reino moída a gosto"
-        ],
-        "preparo": [
-          "Aqueça o azeite em uma panela grande em fogo médio. Refogue o alho e a cebola picados até começarem a dourar, por cerca de 3 minutos.",
-          "Acrescente a carne moída e refogue, mexendo e desfazendo-a com uma colher, até ficar bem soltinha e dourada.",
-          "Despeje o vinho tinto seco e deixe evaporar o álcool, raspando o fundo da panela para soltar os sabores.",
-          "Junte o extrato de tomate e as ervas frescas picadas. Tempere com sal e pimenta-do-reino a gosto.",
-          "Misture bem e cozinhe por mais 10 a 15 minutos, mexendo ocasionalmente, até o molho encorpar e a carne absorver os sabores.",
-          "Sirva quente, acompanhada de arroz, purê ou legumes."
-        ],
-        "id": "carne-mo-da-r-pida-temperada-654a2c"
-      },
-      {
-        "nome": "Filé de Frango com Molho de Mel na Air Fryer",
-        "curso": "principal",
-        "tempo": "20 min",
-        "url": "https://www.panelinha.com.br/receita/file-de-frango-com-molho-de-mel-na-air-fryer",
-        "porque": "Uma alternativa de proteína magra, fácil e rápida de preparar na air fryer, resultando em um frango úmido e saboroso com um toque agridoce.",
-        "tags": [
-          "frango",
-          "airfryer",
-          "rapido"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "2 filés de frango (aprox. 150-180g cada)",
+          "1 kg de coxão mole ou duro cortado em cubos",
+          "3 colheres (sopa) de azeite",
           "Sal e pimenta-do-reino a gosto",
-          "1 colher (sopa) de manteiga",
-          "1½ colher (chá) de mel",
-          "Raspas de ½ limão",
-          "1 pitada de sal (para o molho)",
-          "Salsinha picada a gosto (para servir)"
+          "1 colher (café) de colorau",
+          "1 pitada de orégano",
+          "1 colher (café) de páprica picante",
+          "1 colher (sopa) de molho inglês (opcional)",
+          "1 cebola grande picada em cubos",
+          "5 dentes de alho picados",
+          "1 tomate picado",
+          "2 colheres (sopa) de extrato de tomate",
+          "Água quente (o suficiente para cobrir a carne)",
+          "2 batatas médias picadas em cubos grandes",
+          "2 cenouras médias picadas em rodelas",
+          "Cheiro-verde picado a gosto"
         ],
         "preparo": [
-          "Faça cortes superficiais nos filés de frango (em formato de xadrez) e tempere com sal e pimenta-do-reino.",
-          "Pré-aqueça a Air Fryer a 200°C por 5 minutos.",
-          "Coloque os filés de frango na cesta da Air Fryer e asse por cerca de 12 minutos, sem precisar virar.",
-          "Enquanto o frango assa, prepare o molho: em uma tigela pequena, derreta a manteiga e adicione o mel, as raspas de limão e a pitada de sal. Misture bem.",
-          "Com uma pinça, transfira os filés de frango assados para um prato, regue generosamente com o molho de mel.",
-          "Salpique salsinha picada a gosto e sirva imediatamente."
+          "Em uma panela de pressão, aqueça o azeite em fogo alto e frite a carne em cubos até dourar bem. Tempere com sal, pimenta-do-reino, colorau, orégano, páprica e molho inglês.",
+          "Adicione a cebola, o alho e o tomate, refogando até que fiquem macios. Acrescente o extrato de tomate e misture bem.",
+          "Cubra a carne com água quente, misture, tampe a panela e, após pegar pressão, cozinhe em fogo médio por 20 minutos.",
+          "Desligue o fogo, libere a pressão, abra a panela e adicione as batatas e as cenouras. Acerte o tempero, se necessário, e adicione um pouco mais de água se o molho estiver muito denso.",
+          "Tampe a panela novamente, deixe pegar pressão e cozinhe por mais 10 minutos. Desligue, libere a pressão e finalize com cheiro-verde picado. Sirva."
         ],
-        "id": "fil-de-frango-com-molho-de-mel-na-air-fr-e3e023"
+        "id": "carne-de-panela-com-batata-e-cenoura-na--8f778b"
       },
       {
-        "nome": "Salada de Trigo com Ricota e Salame",
+        "nome": "Salada de Tomate com Azeite Crocante",
         "curso": "entrada",
-        "tempo": "60 min",
-        "url": "https://anamariabraga.globo.com/receitas/salada-de-trigo-em-graos",
-        "porque": "Uma salada nutritiva e com boa fonte de proteína e fibras, fácil de preparar com antecedência, sendo leve e refrescante.",
+        "tempo": "15 min",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9jBaNH-hwqLj-fnPKhKDADzH78m9-1mDIO4Uni2ZpIyDMSYyFkomcaCdkf_NzhPG14wqfdVa5drKH3_CfCy_p_eCgwHCtBM7yIKz1eV8fJdOlMfwxv563pOBixHAK5KrgqGHxVfpf9Rbpu8-zelT_hpu9y3mk75Lmq0BWMfKA1w==",
+        "porque": "Uma entrada leve, fresca e rápida de montar, com um toque especial do azeite crocante sem a necessidade de fritura.",
         "tags": [
-          "salada",
+          "vegetariano",
           "rapido",
-          "equilibrado"
+          "salada"
         ],
-        "rende_sobra": true,
+        "rende_sobra": false,
         "ingredientes": [
-          "2 xícaras (chá) de trigo em grãos (aprox. 360g)",
-          "Sal a gosto",
-          "1 e ½ xícara (chá) de ricota em cubos médios (aprox. 225g)",
-          "100g de salame picadinho",
-          "10 tomates-cereja cortados em 4",
-          "Folhas de ½ maço de rúcula rasgadas",
-          "1 sachê de caldo de legumes (ou caldo caseiro)",
-          "2 colheres (sopa) de azeite de oliva",
-          "Raspas de 1 limão siciliano",
-          "Salsa picada a gosto",
-          "Orégano a gosto"
+          "4 tomates maduros",
+          "2 dentes de alho",
+          "1/4 xícara (chá) de castanha-de-caju picada",
+          "1 colher (sopa) de sementes de girassol",
+          "1 colher (chá) de sementes de coentro (opcional)",
+          "1 pitada de pimenta calabresa seca",
+          "1 raminho de alecrim fresco",
+          "1/4 xícara (chá) de azeite de oliva",
+          "Sal a gosto"
         ],
         "preparo": [
-          "Em uma panela, coloque o trigo em grãos com água e uma pitada de sal. Cozinhe por cerca de 45 minutos, até ficar macio. Escorra e deixe esfriar completamente.",
-          "Em uma tigela grande, adicione o trigo cozido e frio, a ricota em cubos, o salame picadinho e os tomates-cereja cortados.",
-          "Acrescente as folhas de rúcula rasgadas, o sachê de caldo de legumes, o azeite de oliva, as raspas de limão siciliano, a salsa e o orégano.",
-          "Misture delicadamente todos os ingredientes até estarem bem combinados.",
-          "Prove e ajuste o sal e a pimenta-do-reino se necessário.",
-          "Sirva em seguida ou leve à geladeira por pelo menos 30 minutos para intensificar os sabores."
+          "Lave e seque bem os tomates. Corte cada um em rodelas finas de cerca de 0,5 cm e arrume-as em uma travessa.",
+          "Descasque e corte os dentes de alho em fatias finas. Pique grosseiramente as castanhas e debulhe as folhas de alecrim.",
+          "Em uma frigideira pequena, coloque o azeite, as castanhas-de-caju, as sementes de girassol e de coentro, a pimenta calabresa, o alecrim e o sal.",
+          "Leve ao fogo baixo e cozinhe por cerca de 5 minutos, mexendo de vez em quando, até as castanhas dourarem levemente e o alho ficar crocante.",
+          "Regue as rodelas de tomate com o azeite crocante e sirva imediatamente."
         ],
-        "id": "salada-de-trigo-com-ricota-e-salame-53c464"
+        "id": "salada-de-tomate-com-azeite-crocante-bdb7a1"
       },
       {
-        "nome": "Mousse de Limão Rápida",
+        "nome": "Maçã Assada com Especiarias no Micro-ondas",
         "curso": "sobremesa",
-        "tempo": "15 min",
-        "url": "https://www.tudogostoso.com.br/receita/155693-mousse-de-limao-rapido.html",
-        "porque": "Uma sobremesa leve, refrescante e muito fácil de fazer, sem a necessidade de forno, com apenas três ingredientes.",
+        "tempo": "10 min",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnZc6PdvIFTCgScP4yXELcK5dTwZLder94XF-Km6hsrb4t6_1JQO7WtkALH92vdmCTqHsYj0YZmJcqdUxSp_dwyBVTi9wOPqIeFo_FWRwW-uLsk0637ZChvA6B89tXLYEoGlzOFXSUCrr7_h_A_7JSofAwnzh-ZwKuMoCfZJ1fwMj_zs56EQ==",
+        "porque": "Uma sobremesa leve, saudável e muito fácil de fazer, especialmente rápida quando preparada no micro-ondas.",
         "tags": [
+          "vegetariano",
           "rapido",
-          "sobremesa",
-          "sem_forno"
+          "low_carb"
         ],
-        "rende_sobra": true,
+        "rende_sobra": false,
         "ingredientes": [
-          "1 lata de leite condensado (395g)",
-          "1 lata de creme de leite (200g)",
-          "Suco de 3 limões (siciliano ou tahiti)"
+          "1 maçã (Fuji ou Gala)",
+          "1 colher (sopa) de mel (opcional)",
+          "1/2 colher (chá) de canela em pó",
+          "1 pitada de gengibre em pó (opcional)",
+          "1 pitada de noz-moscada ralada (opcional)"
         ],
         "preparo": [
-          "No liquidificador, adicione o leite condensado e o creme de leite.",
-          "Bata por cerca de 2 minutos, até obter uma mistura homogênea e cremosa.",
-          "Com o liquidificador ainda ligado, adicione o suco dos limões lentamente, em fio, até a mistura encorpar e adquirir a consistência de mousse.",
-          "Desligue o liquidificador e transfira a mousse para taças individuais ou um refratário de sua preferência.",
-          "Leve à geladeira por pelo menos 2 horas antes de servir para firmar bem."
+          "Lave bem a maçã, retire o miolo com as sementes e corte-a em cubos ou rodelas.",
+          "Numa tigela de vidro que possa ir ao micro-ondas, junte a maçã, o mel (se for usar), a canela, o gengibre e a noz-moscada. Misture bem.",
+          "Cubra a tigela com filme plástico próprio para micro-ondas e faça um pequeno furo no centro para o vapor sair durante o cozimento.",
+          "Leve ao micro-ondas em potência alta por 5 minutos, ou até a maçã ficar macia e formar uma calda.",
+          "Retire com cuidado (a tigela estará quente) e sirva quente ou morna."
         ],
-        "id": "mousse-de-lim-o-r-pida-de62c5"
+        "id": "ma-assada-com-especiarias-no-micro-ondas-85142c"
       }
     ]
   },

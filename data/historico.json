@@ -1,49 +1,5 @@
 [
   {
-    "id": "picadinho-de-carne-com-quiabo-aca50c",
-    "titulo": "Picadinho de Carne com Quiabo",
-    "tags": [
-      "carne_vermelha",
-      "refogado",
-      "rende_sobra",
-      "equilibrio"
-    ],
-    "data": "27/07/2026"
-  },
-  {
-    "id": "rocambole-de-carne-mo-da-recheado-f76b9e",
-    "titulo": "Rocambole de Carne Moída Recheado",
-    "tags": [
-      "carne_vermelha",
-      "forno",
-      "rende_sobra",
-      "pratico"
-    ],
-    "data": "27/07/2026"
-  },
-  {
-    "id": "escondidinho-de-carne-seca-c78c61",
-    "titulo": "Escondidinho de Carne Seca",
-    "tags": [
-      "carne_vermelha",
-      "forno",
-      "rende_sobra",
-      "pratico"
-    ],
-    "data": "27/07/2026"
-  },
-  {
-    "id": "hamb-rguer-caseiro-no-forno-com-batata-r-c3ea74",
-    "titulo": "Hambúrguer Caseiro no Forno com Batata Rústica",
-    "tags": [
-      "carne_vermelha",
-      "forno",
-      "rapido",
-      "pratico"
-    ],
-    "data": "27/07/2026"
-  },
-  {
     "id": "picanha-no-forno-com-batatas-eca30a",
     "titulo": "Picanha no Forno com Batatas",
     "tags": [
@@ -5043,5 +4999,45 @@
       "equilibrado"
     ],
     "data": "17/09/2026"
+  },
+  {
+    "id": "iscas-de-carne-com-legumes-refogados-f309eb",
+    "titulo": "Iscas de Carne com Legumes Refogados",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "equilibrado"
+    ],
+    "data": "18/09/2026"
+  },
+  {
+    "id": "quibe-assado-7a1175",
+    "titulo": "Quibe Assado",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "equilibrado"
+    ],
+    "data": "18/09/2026"
+  },
+  {
+    "id": "carne-de-panela-com-batata-e-cenoura-na--8f778b",
+    "titulo": "Carne de Panela com Batata e Cenoura na Pressão",
+    "tags": [
+      "carne_vermelha",
+      "panela_pressao",
+      "equilibrado"
+    ],
+    "data": "18/09/2026"
+  },
+  {
+    "id": "ma-assada-com-especiarias-no-micro-ondas-85142c",
+    "titulo": "Maçã Assada com Especiarias no Micro-ondas",
+    "tags": [
+      "vegetariano",
+      "rapido",
+      "low_carb"
+    ],
+    "data": "18/09/2026"
   }
 ]
