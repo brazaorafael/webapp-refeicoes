@@ -1,38 +1,5 @@
 [
   {
-    "id": "picanha-no-forno-com-batatas-eca30a",
-    "titulo": "Picanha no Forno com Batatas",
-    "tags": [
-      "carne_vermelha",
-      "forno",
-      "rende_sobra",
-      "grelhado"
-    ],
-    "data": "27/07/2026"
-  },
-  {
-    "id": "nhoque-de-batata-com-ragu-de-carne-mo-da-76f7b9",
-    "titulo": "Nhoque de Batata com Ragu de Carne Moída",
-    "tags": [
-      "carne_vermelha",
-      "massa",
-      "rende_sobra",
-      "pratico"
-    ],
-    "data": "27/07/2026"
-  },
-  {
-    "id": "carne-assada-de-panela-com-legumes-d43291",
-    "titulo": "Carne Assada de Panela com Legumes",
-    "tags": [
-      "carne_vermelha",
-      "refogado",
-      "rende_sobra",
-      "pratico"
-    ],
-    "data": "27/07/2026"
-  },
-  {
     "id": "risoto-de-carne-seca-com-queijo-coalho-5cd8cd",
     "titulo": "Risoto de Carne Seca com Queijo Coalho",
     "tags": [
@@ -5039,5 +5006,35 @@
       "low_carb"
     ],
     "data": "18/09/2026"
+  },
+  {
+    "id": "rosbife-de-maminha-na-air-fryer-fd884b",
+    "titulo": "Rosbife de Maminha na Air Fryer",
+    "tags": [
+      "carne_vermelha",
+      "airfryer",
+      "rapido"
+    ],
+    "data": "19/09/2026"
+  },
+  {
+    "id": "chips-de-jil-na-air-fryer-41bbc6",
+    "titulo": "Chips de Jiló na Air Fryer",
+    "tags": [
+      "vegetariano",
+      "airfryer",
+      "rapido"
+    ],
+    "data": "19/09/2026"
+  },
+  {
+    "id": "mousse-de-chocolate-f-cil-3-ingredientes-883d15",
+    "titulo": "Mousse de Chocolate Fácil (3 Ingredientes)",
+    "tags": [
+      "rapido",
+      "sobremesa",
+      "doce"
+    ],
+    "data": "19/09/2026"
   }
 ]

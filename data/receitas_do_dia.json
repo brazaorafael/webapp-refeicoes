@@ -1,169 +1,128 @@
 {
-  "gerado_em": "18/09/2026",
+  "gerado_em": "19/09/2026",
   "diario": {
     "tipo": "diario",
-    "data": "18/09/2026",
-    "dia_semana": "sexta",
+    "data": "19/09/2026",
+    "dia_semana": "sábado",
     "pratos": [
       {
-        "nome": "Iscas de Carne com Legumes Refogados",
+        "nome": "Rosbife de Maminha na Air Fryer",
         "curso": "principal",
-        "tempo": "20 min",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8-7RYgi2QfrOw66gtauY1p8-3D0CbM0PV0U7oY5axPxLmblxM7WTH0-QuXx-9_cULY8OR-Pm97ydLsvwYKktc1ZsMxP4OfCudjHdi9merlgDPVimjeel5C_PuoKYy0fLL_63w-0C7VQpu94p9ppGyO1UGTpRO7qM=",
-        "porque": "Este prato é rápido, nutritivo e permite uma boa quantidade de legumes, com carne em iscas que cozinha rapidamente e um preparo leve.",
+        "tempo": "45 min (preparo e descanso)",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7vGgz39WK5Kzvg0o04UNlYI8PT4lRpMLTubcFkjxxXv4ipOxuVTpGAXGHtIX8H8uIJuwftqLA9I7gpAV1n_p_8P7g9tW2JH2ftC0K8SeqTcjObf36zIrvIGHyHivRmNbb3Hc2ehHmIm8uBLiIfbfgLpNvWx8U6zokRQ==",
+        "porque": "É um prato de carne vermelha preferido do casal, rápido de preparar na air fryer sem fritura, e rende sobras para outras refeições.",
         "tags": [
           "carne_vermelha",
-          "rapido",
-          "equilibrado"
+          "airfryer",
+          "rapido"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "500g de alcatra bovina (ou patinho/contrafilé) em iscas",
-          "1 pitada de sal",
-          "1/2 cebola média em tiras",
-          "1 cenoura média em tiras finas",
-          "1 abobrinha média em tiras médias",
-          "1 colher (sopa) de azeite de oliva",
-          "1 xícara (chá) de água fervente",
-          "Tempero a gosto (ex: 1 sachê de tempero para carne, ou alho picado, pimenta-do-reino)"
+          "1 peça de maminha (cerca de 500g)",
+          "Azeite a gosto",
+          "Sal a gosto",
+          "Manteiga a gosto (para finalizar)"
         ],
         "preparo": [
-          "Em uma tigela média, tempere as iscas de carne com sal e o tempero escolhido (alho, pimenta, etc.).",
-          "Em uma panela grande, aqueça o azeite em fogo alto e frite as iscas de carne por cerca de 5 minutos, ou até dourarem.",
-          "Junte a cebola, a cenoura, a abobrinha e a água fervente à panela.",
-          "Cozinhe em fogo baixo, com a panela semitampada, por aproximadamente 5 minutos, ou até que os legumes fiquem macios.",
-          "Retire do fogo e sirva imediatamente, acompanhado de arroz branco ou integral."
+          "Tempere a maminha com azeite e sal a gosto, cobrindo toda a superfície da carne.",
+          "Pré-aqueça a Air Fryer a 180ºC. Coloque a maminha na cesta.",
+          "Cozinhe por 40 minutos, virando a carne a cada 10 minutos para dourar por igual.",
+          "Ao final do tempo, retire a maminha da Air Fryer e transfira para uma tábua de madeira.",
+          "Deixe a carne descansar por 5 minutos antes de fatiar finamente.",
+          "Pincele com manteiga derretida a gosto antes de servir."
         ],
-        "id": "iscas-de-carne-com-legumes-refogados-f309eb"
+        "id": "rosbife-de-maminha-na-air-fryer-fd884b"
       },
       {
-        "nome": "Quibe Assado",
+        "nome": "Sobrecoxas Assadas com Páprica e Ervas",
         "curso": "principal",
-        "tempo": "25 min",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE07wgOjaTEbo5YtIT0j_jEqTyCJJl6C8Z4RzULetGIaTur4C3VyJf6SowsI52M0SaTDrEAJdlVpMyKl6x_oA8xtczFoD7MkaB7m--_eMKLVah2BpZQvYTlwEORwfMVr8ilIJCIL4R_",
-        "porque": "Uma opção de carne moída assada no forno, saudável e prática, com boa porção de proteína e preparo simples.",
+        "tempo": "45 min (preparo e forno)",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYneOsPZ-UwVQ7hKaYqhSDk1A87t1GI-rBUB7ruyMHynJjlJFcEaKCNSXJ3de9xXqHmjFgyIANqLkcP4o1O47ypOyrsC5cWm2iknX1En_C3uo4ZnosKqSiQKKG8FVGx0S_lNmRsi38E0f2PSTC7R8HVs8NEcE0UXE59BNuVWKFrP1e",
+        "porque": "É uma ótima alternativa à carne vermelha, prática e saudável, feita no forno sem fritura, com temperos que agradam o casal.",
         "tags": [
-          "carne_vermelha",
+          "frango",
           "forno",
           "equilibrado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "1 xícara (chá) de trigo para quibe",
-          "3 xícaras (chá) de água morna",
-          "400g de carne moída (patinho)",
-          "20 folhas de hortelã picadas",
-          "1 cebola pequena picada finamente",
-          "Sal e pimenta-do-reino a gosto",
-          "Azeite de oliva para untar e regar"
+          "6 sobrecoxas de frango com pele e osso (cerca de 1,2 kg)",
+          "1 cebola-roxa grande",
+          "6 dentes de alho grandes",
+          "⅓ de xícara (chá) de caldo de limão peneirado (cerca de 2 limões)",
+          "1½ xícara (chá) de água",
+          "12 folhas de sálvia",
+          "8 ramos de orégano fresco",
+          "½ colher (chá) de sementes de erva-doce",
+          "1 colher (chá) de páprica doce",
+          "1½ colher (chá) de sal",
+          "2 colheres (sopa) de azeite",
+          "Pimenta-do-reino moída na hora a gosto"
         ],
         "preparo": [
-          "Em uma tigela, junte o trigo para quibe e a água morna. Deixe de molho por 20 minutos.",
-          "Com o auxílio de um pano limpo, esprema bem o trigo para retirar o excesso de água.",
-          "Transfira o trigo para uma vasilha e junte a carne moída, as folhas de hortelã picadas, a cebola, o sal e a pimenta-do-reino. Misture bem com as mãos até conseguir uma liga homogênea.",
-          "Unte um refratário médio com azeite e espalhe a massa do quibe, alisando a superfície com as mãos.",
-          "Corte a massa em losangos com uma faca e regue com um fio de azeite.",
-          "Leve para assar em forno preaquecido a 200°C por cerca de 30 minutos, ou até dourar levemente."
+          "No pilão, bata as sementes de erva-doce e misture com sal, páprica e pimenta-do-reino.",
+          "Em uma travessa, tempere as sobrecoxas com essa mistura, esfregando bem sobre e sob a pele.",
+          "Preaqueça o forno a 200ºC. Corte a cebola em gomos e amasse os dentes de alho.",
+          "Distribua a cebola, alho, sálvia e orégano na assadeira. Regue o fundo com caldo de limão e água.",
+          "Disponha as sobrecoxas com a pele para cima na assadeira.",
+          "Leve ao forno por cerca de 30 minutos ou até dourar e cozinhar completamente. Sirva com o molho que se forma na assadeira."
         ],
-        "id": "quibe-assado-7a1175"
+        "id": "sobrecoxas-assadas-com-p-prica-e-ervas-b33281"
       },
       {
-        "nome": "Carne de Panela com Batata e Cenoura na Pressão",
-        "curso": "principal",
-        "tempo": "25 min",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9lHAnsq2aKlWvvpNAY3r3jHWtlmRaUQ1L9-toI9dEuDbNpJuGgmQsplUJwdULck_-DJ-pocxA7FozPKuwTJNshVjxV_DEn8iDiLxs1OJmwZEUIBTc9BtrbtwTgABZ1uB9kNZXNfBHaO5Z_2eO5bNoaQYy5PIl7ziFDaj8",
-        "porque": "Prato reconfortante e substancioso, com bastante proteína e vegetais, perfeito para uma refeição substanciosa com preparo ativo mínimo.",
+        "nome": "Chips de Jiló na Air Fryer",
+        "curso": "entrada",
+        "tempo": "20 min",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJWdb7hBSf4H-wiz0hHAAsiAX2hOFITNjTEt_Cao86dMKV49UyJfk8sq8-ZIasZW2gtSkWaW_qbfOmwCqEmw814lJx7K-JP2zUJQchylUAHiFrrlddT5oNj-WvvJbmfOfsXhcaOF0=",
+        "porque": "Uma entrada leve, crocante e diferente, feita na air fryer sem óleo em excesso, ideal para abrir o apetite.",
         "tags": [
-          "carne_vermelha",
-          "panela_pressao",
-          "equilibrado"
+          "vegetariano",
+          "airfryer",
+          "rapido"
+        ],
+        "rende_sobra": false,
+        "ingredientes": [
+          "6 jilós médios (cerca de 500g)",
+          "1 a 2 colheres (sopa) de azeite",
+          "Sal e pimenta-do-reino a gosto",
+          "Opcional: suco de ½ limão, páprica ou alho em pó"
+        ],
+        "preparo": [
+          "Lave e seque bem os jilós. Corte-os em rodelas finas, de preferência com um mandoline para uniformidade.",
+          "Em uma tigela, tempere as fatias de jiló com azeite, sal, pimenta-do-reino e temperos opcionais. Misture bem.",
+          "Pré-aqueça a Air Fryer a 180°C por 5 minutos.",
+          "Disponha as fatias de jiló na cesta da Air Fryer, sem sobrepô-las, fazendo em levas se necessário.",
+          "Cozinhe por 10 a 15 minutos, mexendo na metade do tempo, até ficarem crocantes e levemente douradas.",
+          "Sirva imediatamente como entrada."
+        ],
+        "id": "chips-de-jil-na-air-fryer-41bbc6"
+      },
+      {
+        "nome": "Mousse de Chocolate Fácil (3 Ingredientes)",
+        "curso": "sobremesa",
+        "tempo": "20 min (preparo) + 2h (geladeira)",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2fyjZBMsT8rrhzpefZl204roqU_GjQPtG19G1invjBGCSOXRkd4AC0MPfIk0LHVqcgZQQZ0R-GLvZjheS5AOzf8B0Gq1-qCV4aVwMb-ZOEBXTI69GDs2-Nza2YhW1pCZbfy2yt-s=",
+        "porque": "Uma sobremesa clássica e indulgente, super rápida de preparar no liquidificador com poucos ingredientes, perfeita para finalizar o jantar.",
+        "tags": [
+          "rapido",
+          "sobremesa",
+          "doce"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "1 kg de coxão mole ou duro cortado em cubos",
-          "3 colheres (sopa) de azeite",
-          "Sal e pimenta-do-reino a gosto",
-          "1 colher (café) de colorau",
-          "1 pitada de orégano",
-          "1 colher (café) de páprica picante",
-          "1 colher (sopa) de molho inglês (opcional)",
-          "1 cebola grande picada em cubos",
-          "5 dentes de alho picados",
-          "1 tomate picado",
-          "2 colheres (sopa) de extrato de tomate",
-          "Água quente (o suficiente para cobrir a carne)",
-          "2 batatas médias picadas em cubos grandes",
-          "2 cenouras médias picadas em rodelas",
-          "Cheiro-verde picado a gosto"
+          "2 caixinhas de creme de leite (bem geladas)",
+          "1 caixinha de leite condensado",
+          "3 colheres (sopa) de chocolate em pó 50% cacau ou 4 colheres (sopa) de achocolatado"
         ],
         "preparo": [
-          "Em uma panela de pressão, aqueça o azeite em fogo alto e frite a carne em cubos até dourar bem. Tempere com sal, pimenta-do-reino, colorau, orégano, páprica e molho inglês.",
-          "Adicione a cebola, o alho e o tomate, refogando até que fiquem macios. Acrescente o extrato de tomate e misture bem.",
-          "Cubra a carne com água quente, misture, tampe a panela e, após pegar pressão, cozinhe em fogo médio por 20 minutos.",
-          "Desligue o fogo, libere a pressão, abra a panela e adicione as batatas e as cenouras. Acerte o tempero, se necessário, e adicione um pouco mais de água se o molho estiver muito denso.",
-          "Tampe a panela novamente, deixe pegar pressão e cozinhe por mais 10 minutos. Desligue, libere a pressão e finalize com cheiro-verde picado. Sirva."
+          "Certifique-se de que o creme de leite esteja bem gelado para melhor consistência.",
+          "No liquidificador, adicione o creme de leite e o leite condensado.",
+          "Acrescente o chocolate em pó (ou achocolatado) e bata por cerca de 5 minutos, até a mistura ficar homogênea e aerada.",
+          "Desligue o liquidificador, raspe as laterais se necessário e bata por mais um minuto.",
+          "Transfira a mousse para taças individuais ou um refratário e leve à geladeira por pelo menos 2 horas.",
+          "Sirva gelada, decorada a gosto com raspas de chocolate ou frutas."
         ],
-        "id": "carne-de-panela-com-batata-e-cenoura-na--8f778b"
-      },
-      {
-        "nome": "Salada de Tomate com Azeite Crocante",
-        "curso": "entrada",
-        "tempo": "15 min",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9jBaNH-hwqLj-fnPKhKDADzH78m9-1mDIO4Uni2ZpIyDMSYyFkomcaCdkf_NzhPG14wqfdVa5drKH3_CfCy_p_eCgwHCtBM7yIKz1eV8fJdOlMfwxv563pOBixHAK5KrgqGHxVfpf9Rbpu8-zelT_hpu9y3mk75Lmq0BWMfKA1w==",
-        "porque": "Uma entrada leve, fresca e rápida de montar, com um toque especial do azeite crocante sem a necessidade de fritura.",
-        "tags": [
-          "vegetariano",
-          "rapido",
-          "salada"
-        ],
-        "rende_sobra": false,
-        "ingredientes": [
-          "4 tomates maduros",
-          "2 dentes de alho",
-          "1/4 xícara (chá) de castanha-de-caju picada",
-          "1 colher (sopa) de sementes de girassol",
-          "1 colher (chá) de sementes de coentro (opcional)",
-          "1 pitada de pimenta calabresa seca",
-          "1 raminho de alecrim fresco",
-          "1/4 xícara (chá) de azeite de oliva",
-          "Sal a gosto"
-        ],
-        "preparo": [
-          "Lave e seque bem os tomates. Corte cada um em rodelas finas de cerca de 0,5 cm e arrume-as em uma travessa.",
-          "Descasque e corte os dentes de alho em fatias finas. Pique grosseiramente as castanhas e debulhe as folhas de alecrim.",
-          "Em uma frigideira pequena, coloque o azeite, as castanhas-de-caju, as sementes de girassol e de coentro, a pimenta calabresa, o alecrim e o sal.",
-          "Leve ao fogo baixo e cozinhe por cerca de 5 minutos, mexendo de vez em quando, até as castanhas dourarem levemente e o alho ficar crocante.",
-          "Regue as rodelas de tomate com o azeite crocante e sirva imediatamente."
-        ],
-        "id": "salada-de-tomate-com-azeite-crocante-bdb7a1"
-      },
-      {
-        "nome": "Maçã Assada com Especiarias no Micro-ondas",
-        "curso": "sobremesa",
-        "tempo": "10 min",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnZc6PdvIFTCgScP4yXELcK5dTwZLder94XF-Km6hsrb4t6_1JQO7WtkALH92vdmCTqHsYj0YZmJcqdUxSp_dwyBVTi9wOPqIeFo_FWRwW-uLsk0637ZChvA6B89tXLYEoGlzOFXSUCrr7_h_A_7JSofAwnzh-ZwKuMoCfZJ1fwMj_zs56EQ==",
-        "porque": "Uma sobremesa leve, saudável e muito fácil de fazer, especialmente rápida quando preparada no micro-ondas.",
-        "tags": [
-          "vegetariano",
-          "rapido",
-          "low_carb"
-        ],
-        "rende_sobra": false,
-        "ingredientes": [
-          "1 maçã (Fuji ou Gala)",
-          "1 colher (sopa) de mel (opcional)",
-          "1/2 colher (chá) de canela em pó",
-          "1 pitada de gengibre em pó (opcional)",
-          "1 pitada de noz-moscada ralada (opcional)"
-        ],
-        "preparo": [
-          "Lave bem a maçã, retire o miolo com as sementes e corte-a em cubos ou rodelas.",
-          "Numa tigela de vidro que possa ir ao micro-ondas, junte a maçã, o mel (se for usar), a canela, o gengibre e a noz-moscada. Misture bem.",
-          "Cubra a tigela com filme plástico próprio para micro-ondas e faça um pequeno furo no centro para o vapor sair durante o cozimento.",
-          "Leve ao micro-ondas em potência alta por 5 minutos, ou até a maçã ficar macia e formar uma calda.",
-          "Retire com cuidado (a tigela estará quente) e sirva quente ou morna."
-        ],
-        "id": "ma-assada-com-especiarias-no-micro-ondas-85142c"
+        "id": "mousse-de-chocolate-f-cil-3-ingredientes-883d15"
       }
     ]
   },
