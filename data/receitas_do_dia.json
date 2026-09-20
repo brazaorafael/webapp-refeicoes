@@ -1,16 +1,45 @@
 {
-  "gerado_em": "19/09/2026",
+  "gerado_em": "20/09/2026",
   "diario": {
     "tipo": "diario",
-    "data": "19/09/2026",
-    "dia_semana": "sábado",
+    "data": "20/09/2026",
+    "dia_semana": "domingo",
     "pratos": [
       {
-        "nome": "Rosbife de Maminha na Air Fryer",
+        "nome": "Picanha Assada com Sal Grosso no Forno",
         "curso": "principal",
-        "tempo": "45 min (preparo e descanso)",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7vGgz39WK5Kzvg0o04UNlYI8PT4lRpMLTubcFkjxxXv4ipOxuVTpGAXGHtIX8H8uIJuwftqLA9I7gpAV1n_p_8P7g9tW2JH2ftC0K8SeqTcjObf36zIrvIGHyHivRmNbb3Hc2ehHmIm8uBLiIfbfgLpNvWx8U6zokRQ==",
-        "porque": "É um prato de carne vermelha preferido do casal, rápido de preparar na air fryer sem fritura, e rende sobras para outras refeições.",
+        "tempo": "1h",
+        "url": "https://www.panelinha.com.br/receita/Picanha-assada-com-sal-grosso",
+        "porque": "Carne vermelha preferida do casal, preparo simples no forno sem fritura, resulta em uma carne suculenta e saborosa, e rende sobras.",
+        "tags": [
+          "carne_vermelha",
+          "forno",
+          "grelhado"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "1 peça de picanha (até 1,2 kg)",
+          "4 claras de ovo",
+          "1 kg de sal grosso",
+          "1/2 xícara (chá) de farinha de trigo",
+          "Ramos de tomilho fresco (a gosto)"
+        ],
+        "preparo": [
+          "Preaqueça o forno a 220 ºC (temperatura alta).",
+          "Em uma tigela, misture rapidamente as claras, o sal grosso e a farinha de trigo.",
+          "Em uma assadeira, espalhe 1/3 da mistura de sal, coloque o tomilho e a picanha com a gordura para cima.",
+          "Cubra a picanha uniformemente com o restante da mistura de sal, pressionando bem para firmar.",
+          "Leve ao forno, abaixe a temperatura para 200 °C e asse por 1 hora para carne ao ponto.",
+          "Retire a crosta de sal, raspe o excesso de sal da carne e corte-a em fatias finas antes de servir."
+        ],
+        "id": "picanha-assada-com-sal-grosso-no-forno-b2921f"
+      },
+      {
+        "nome": "Maminha Assada na Airfryer",
+        "curso": "principal",
+        "tempo": "40 min",
+        "url": "https://www.estadao.com.br/paladar/receita/maminha-na-airfryer/",
+        "porque": "Carne vermelha preferida do casal, preparo rápido e prático na airfryer, sem fritura, ideal para sobras.",
         "tags": [
           "carne_vermelha",
           "airfryer",
@@ -18,111 +47,77 @@
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "1 peça de maminha (cerca de 500g)",
-          "Azeite a gosto",
-          "Sal a gosto",
-          "Manteiga a gosto (para finalizar)"
+          "500 g de maminha",
+          "Azeite (a gosto)",
+          "Sal (a gosto)",
+          "Manteiga (a gosto)"
         ],
         "preparo": [
-          "Tempere a maminha com azeite e sal a gosto, cobrindo toda a superfície da carne.",
-          "Pré-aqueça a Air Fryer a 180ºC. Coloque a maminha na cesta.",
-          "Cozinhe por 40 minutos, virando a carne a cada 10 minutos para dourar por igual.",
-          "Ao final do tempo, retire a maminha da Air Fryer e transfira para uma tábua de madeira.",
-          "Deixe a carne descansar por 5 minutos antes de fatiar finamente.",
-          "Pincele com manteiga derretida a gosto antes de servir."
+          "Tempere a maminha com azeite e sal a gosto.",
+          "Coloque a maminha na AirFryer preaquecida a 180ºC.",
+          "Asse por 40 minutos, virando a carne a cada 10 minutos para garantir um cozimento uniforme.",
+          "Ao final do tempo, retire a maminha da AirFryer e coloque-a em uma tábua de madeira.",
+          "Deixe a carne descansar por 5 minutos antes de cortar em fatias.",
+          "Pincele manteiga a gosto sobre as fatias antes de servir."
         ],
-        "id": "rosbife-de-maminha-na-air-fryer-fd884b"
+        "id": "maminha-assada-na-airfryer-555c3a"
       },
       {
-        "nome": "Sobrecoxas Assadas com Páprica e Ervas",
-        "curso": "principal",
-        "tempo": "45 min (preparo e forno)",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYneOsPZ-UwVQ7hKaYqhSDk1A87t1GI-rBUB7ruyMHynJjlJFcEaKCNSXJ3de9xXqHmjFgyIANqLkcP4o1O47ypOyrsC5cWm2iknX1En_C3uo4ZnosKqSiQKKG8FVGx0S_lNmRsi38E0f2PSTC7R8HVs8NEcE0UXE59BNuVWKFrP1e",
-        "porque": "É uma ótima alternativa à carne vermelha, prática e saudável, feita no forno sem fritura, com temperos que agradam o casal.",
-        "tags": [
-          "frango",
-          "forno",
-          "equilibrado"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "6 sobrecoxas de frango com pele e osso (cerca de 1,2 kg)",
-          "1 cebola-roxa grande",
-          "6 dentes de alho grandes",
-          "⅓ de xícara (chá) de caldo de limão peneirado (cerca de 2 limões)",
-          "1½ xícara (chá) de água",
-          "12 folhas de sálvia",
-          "8 ramos de orégano fresco",
-          "½ colher (chá) de sementes de erva-doce",
-          "1 colher (chá) de páprica doce",
-          "1½ colher (chá) de sal",
-          "2 colheres (sopa) de azeite",
-          "Pimenta-do-reino moída na hora a gosto"
-        ],
-        "preparo": [
-          "No pilão, bata as sementes de erva-doce e misture com sal, páprica e pimenta-do-reino.",
-          "Em uma travessa, tempere as sobrecoxas com essa mistura, esfregando bem sobre e sob a pele.",
-          "Preaqueça o forno a 200ºC. Corte a cebola em gomos e amasse os dentes de alho.",
-          "Distribua a cebola, alho, sálvia e orégano na assadeira. Regue o fundo com caldo de limão e água.",
-          "Disponha as sobrecoxas com a pele para cima na assadeira.",
-          "Leve ao forno por cerca de 30 minutos ou até dourar e cozinhar completamente. Sirva com o molho que se forma na assadeira."
-        ],
-        "id": "sobrecoxas-assadas-com-p-prica-e-ervas-b33281"
-      },
-      {
-        "nome": "Chips de Jiló na Air Fryer",
+        "nome": "Ricota Grelhada com Ervas",
         "curso": "entrada",
-        "tempo": "20 min",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJWdb7hBSf4H-wiz0hHAAsiAX2hOFITNjTEt_Cao86dMKV49UyJfk8sq8-ZIasZW2gtSkWaW_qbfOmwCqEmw814lJx7K-JP2zUJQchylUAHiFrrlddT5oNj-WvvJbmfOfsXhcaOF0=",
-        "porque": "Uma entrada leve, crocante e diferente, feita na air fryer sem óleo em excesso, ideal para abrir o apetite.",
+        "tempo": "8 min",
+        "url": "https://www.panelinha.com.br/receita/Ricota-grelhada",
+        "porque": "Entrada leve e saudável, extremamente simples e rápida de fazer na frigideira ou grelha, sem óleo em excesso e com bons temperos.",
         "tags": [
           "vegetariano",
+          "rapido",
+          "grelhado"
+        ],
+        "rende_sobra": false,
+        "ingredientes": [
+          "1 ricota fresca (aprox. 400g)",
+          "4 colheres (sopa) de azeite",
+          "8 folhas de manjericão fresco",
+          "8 folhas de hortelã fresca",
+          "8 folhas de salsa crespa fresca",
+          "Sal e pimenta-do-reino moída na hora (a gosto)",
+          "Grãos de pimenta rosa (para perfumar, opcional)"
+        ],
+        "preparo": [
+          "Corte a ricota em fatias de 2 cm de espessura. Lave e seque bem as ervas frescas.",
+          "Aqueça uma frigideira antiaderente em fogo médio e adicione 1 colher (sopa) de azeite.",
+          "Grelhe as fatias de ricota (até duas por vez) por 4 minutos de cada lado, até dourarem.",
+          "Transfira a ricota grelhada para um prato e tempere com sal e pimenta-do-reino a gosto.",
+          "Salpique as ervas frescas picadas e os grãos de pimenta-rosa (se usar).",
+          "Regue com um fio de azeite e sirva imediatamente."
+        ],
+        "id": "ricota-grelhada-com-ervas-70fadd"
+      },
+      {
+        "nome": "Maçã Assada na Air Fryer",
+        "curso": "sobremesa",
+        "tempo": "20 min",
+        "url": "https://www.panelinha.com.br/receita/Maca-assada-na-Air-Fryer-da-Rita-Lobo",
+        "porque": "Sobremesa leve e prática, feita rapidamente na airfryer, sem adição de gordura e com poucos ingredientes.",
+        "tags": [
+          "low_carb",
           "airfryer",
           "rapido"
         ],
         "rende_sobra": false,
         "ingredientes": [
-          "6 jilós médios (cerca de 500g)",
-          "1 a 2 colheres (sopa) de azeite",
-          "Sal e pimenta-do-reino a gosto",
-          "Opcional: suco de ½ limão, páprica ou alho em pó"
+          "1 maçã (fuji ou gala)",
+          "2 colheres (chá) de mel (opcional)",
+          "1 pitada de canela em pó"
         ],
         "preparo": [
-          "Lave e seque bem os jilós. Corte-os em rodelas finas, de preferência com um mandoline para uniformidade.",
-          "Em uma tigela, tempere as fatias de jiló com azeite, sal, pimenta-do-reino e temperos opcionais. Misture bem.",
-          "Pré-aqueça a Air Fryer a 180°C por 5 minutos.",
-          "Disponha as fatias de jiló na cesta da Air Fryer, sem sobrepô-las, fazendo em levas se necessário.",
-          "Cozinhe por 10 a 15 minutos, mexendo na metade do tempo, até ficarem crocantes e levemente douradas.",
-          "Sirva imediatamente como entrada."
+          "Preaqueça a Air Fryer a 200 ºC.",
+          "Corte a maçã ao meio e retire o miolo. Coloque as metades na Air Fryer com o lado cortado para cima.",
+          "Polvilhe uma pitada de canela e regue cada metade com 1 colher (chá) de mel (se desejar).",
+          "Asse por 20 minutos, ou até que as maçãs fiquem macias e levemente douradas.",
+          "Sirva a maçã assada quente, podendo acompanhar iogurte ou granola, se preferir."
         ],
-        "id": "chips-de-jil-na-air-fryer-41bbc6"
-      },
-      {
-        "nome": "Mousse de Chocolate Fácil (3 Ingredientes)",
-        "curso": "sobremesa",
-        "tempo": "20 min (preparo) + 2h (geladeira)",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2fyjZBMsT8rrhzpefZl204roqU_GjQPtG19G1invjBGCSOXRkd4AC0MPfIk0LHVqcgZQQZ0R-GLvZjheS5AOzf8B0Gq1-qCV4aVwMb-ZOEBXTI69GDs2-Nza2YhW1pCZbfy2yt-s=",
-        "porque": "Uma sobremesa clássica e indulgente, super rápida de preparar no liquidificador com poucos ingredientes, perfeita para finalizar o jantar.",
-        "tags": [
-          "rapido",
-          "sobremesa",
-          "doce"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "2 caixinhas de creme de leite (bem geladas)",
-          "1 caixinha de leite condensado",
-          "3 colheres (sopa) de chocolate em pó 50% cacau ou 4 colheres (sopa) de achocolatado"
-        ],
-        "preparo": [
-          "Certifique-se de que o creme de leite esteja bem gelado para melhor consistência.",
-          "No liquidificador, adicione o creme de leite e o leite condensado.",
-          "Acrescente o chocolate em pó (ou achocolatado) e bata por cerca de 5 minutos, até a mistura ficar homogênea e aerada.",
-          "Desligue o liquidificador, raspe as laterais se necessário e bata por mais um minuto.",
-          "Transfira a mousse para taças individuais ou um refratário e leve à geladeira por pelo menos 2 horas.",
-          "Sirva gelada, decorada a gosto com raspas de chocolate ou frutas."
-        ],
-        "id": "mousse-de-chocolate-f-cil-3-ingredientes-883d15"
+        "id": "ma-assada-na-air-fryer-0f784e"
       }
     ]
   },

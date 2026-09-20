@@ -1,27 +1,5 @@
 [
   {
-    "id": "risoto-de-carne-seca-com-queijo-coalho-5cd8cd",
-    "titulo": "Risoto de Carne Seca com Queijo Coalho",
-    "tags": [
-      "carne_vermelha",
-      "risoto",
-      "rende_sobra",
-      "pratico"
-    ],
-    "data": "27/07/2026"
-  },
-  {
-    "id": "salm-o-grelhado-com-aspargos-9d3071",
-    "titulo": "Salmão Grelhado com Aspargos",
-    "tags": [
-      "peixe",
-      "grelhado",
-      "low_carb",
-      "rapido"
-    ],
-    "data": "27/07/2026"
-  },
-  {
     "id": "bife-de-alcatra-grelhado-com-pur-de-bata-a27be7",
     "titulo": "Bife de Alcatra Grelhado com Purê de Batata Cremoso e Brócolis no Vapor",
     "tags": [
@@ -5036,5 +5014,25 @@
       "doce"
     ],
     "data": "19/09/2026"
+  },
+  {
+    "id": "picanha-assada-com-sal-grosso-no-forno-b2921f",
+    "titulo": "Picanha Assada com Sal Grosso no Forno",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "grelhado"
+    ],
+    "data": "20/09/2026"
+  },
+  {
+    "id": "ma-assada-na-air-fryer-0f784e",
+    "titulo": "Maçã Assada na Air Fryer",
+    "tags": [
+      "low_carb",
+      "airfryer",
+      "rapido"
+    ],
+    "data": "20/09/2026"
   }
 ]
