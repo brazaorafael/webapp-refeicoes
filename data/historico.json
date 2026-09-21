@@ -1,214 +1,5 @@
 [
   {
-    "id": "bife-de-alcatra-grelhado-com-pur-de-bata-a27be7",
-    "titulo": "Bife de Alcatra Grelhado com Purê de Batata Cremoso e Brócolis no Vapor",
-    "tags": [
-      "carne_vermelha",
-      "grelhado",
-      "rapido",
-      "equilibrado"
-    ],
-    "data": "27/07/2026"
-  },
-  {
-    "id": "carne-mo-da-refogada-com-abobrinha-e-cen-054adf",
-    "titulo": "Carne Moída Refogada com Abobrinha e Cenoura, acompanhada de Cuscuz Marroquino",
-    "tags": [
-      "carne_vermelha",
-      "rapido",
-      "equilibrado",
-      "refogado"
-    ],
-    "data": "27/07/2026"
-  },
-  {
-    "id": "fil-mignon-su-no-na-airfryer-com-batata--d878c8",
-    "titulo": "Filé Mignon Suíno na Airfryer com Batata Doce Assada e Espinafre Refogado",
-    "tags": [
-      "porco",
-      "airfryer",
-      "rapido",
-      "equilibrado"
-    ],
-    "data": "27/07/2026"
-  },
-  {
-    "id": "bife-com-molho-de-lim-o-e-gr-o-de-bico-7832e3",
-    "titulo": "Bife com Molho de Limão e Grão-de-Bico",
-    "tags": [
-      "carne_vermelha",
-      "grelhado",
-      "rapido",
-      "salada"
-    ],
-    "data": "28/07/2026"
-  },
-  {
-    "id": "bolo-de-carne-recheado-com-queijo-forno-fa2e42",
-    "titulo": "Bolo de Carne Recheado com Queijo (forno)",
-    "tags": [
-      "carne_vermelha",
-      "forno",
-      "rapido"
-    ],
-    "data": "28/07/2026"
-  },
-  {
-    "id": "frango-grelhado-com-legumes-coloridos-c82de9",
-    "titulo": "Frango Grelhado com Legumes Coloridos",
-    "tags": [
-      "frango",
-      "grelhado",
-      "equilibrio"
-    ],
-    "data": "28/07/2026"
-  },
-  {
-    "id": "salada-de-folhas-verdes-com-tomate-cerej-eb8618",
-    "titulo": "Salada de Folhas Verdes com Tomate Cereja",
-    "tags": [
-      "salada",
-      "rapido",
-      "low_carb"
-    ],
-    "data": "28/07/2026"
-  },
-  {
-    "id": "mousse-de-maracuj-r-pida-6a18d0",
-    "titulo": "Mousse de Maracujá Rápida",
-    "tags": [
-      "rapido",
-      "sobremesa"
-    ],
-    "data": "28/07/2026"
-  },
-  {
-    "id": "fraldinha-assada-com-batatas-r-sticas-f4f9d5",
-    "titulo": "Fraldinha Assada com Batatas Rústicas",
-    "tags": [
-      "carne_vermelha",
-      "forno",
-      "equilibrio"
-    ],
-    "data": "28/07/2026"
-  },
-  {
-    "id": "macarr-o-com-br-colis-e-frango-ao-molho--4a2983",
-    "titulo": "Macarrão com Brócolis e Frango ao Molho Leve",
-    "tags": [
-      "frango",
-      "massa",
-      "equilibrio"
-    ],
-    "data": "28/07/2026"
-  },
-  {
-    "id": "bruschetta-de-tomate-e-manjeric-o-8a2342",
-    "titulo": "Bruschetta de Tomate e Manjericão",
-    "tags": [
-      "rapido",
-      "vegetariano"
-    ],
-    "data": "28/07/2026"
-  },
-  {
-    "id": "brigadeiro-de-colher-cremoso-7937b3",
-    "titulo": "Brigadeiro de Colher Cremoso",
-    "tags": [
-      "rapido",
-      "sobremesa"
-    ],
-    "data": "28/07/2026"
-  },
-  {
-    "id": "bife-rol-pr-tico-na-panela-de-press-o-el-0a71e5",
-    "titulo": "Bife à Rolê Prático na Panela de Pressão Elétrica",
-    "tags": [
-      "carne_vermelha",
-      "rapido",
-      "refogado"
-    ],
-    "data": "28/07/2026"
-  },
-  {
-    "id": "risoto-de-abobrinha-e-queijo-eeb6d1",
-    "titulo": "Risoto de Abobrinha e Queijo",
-    "tags": [
-      "vegetariano",
-      "massa",
-      "rapido"
-    ],
-    "data": "28/07/2026"
-  },
-  {
-    "id": "aperitivo-de-massa-folhada-com-queijo-e--5c92c7",
-    "titulo": "Aperitivo de Massa Folhada com Queijo e Tomate",
-    "tags": [
-      "vegetariano",
-      "forno",
-      "rapido"
-    ],
-    "data": "28/07/2026"
-  },
-  {
-    "id": "creme-de-papaia-com-cassis-446b9f",
-    "titulo": "Creme de Papaia com Cassis",
-    "tags": [
-      "rapido",
-      "sobremesa"
-    ],
-    "data": "28/07/2026"
-  },
-  {
-    "id": "frango-assado-com-batatas-e-especiarias-547d68",
-    "titulo": "Frango Assado com Batatas e Especiarias",
-    "tags": [
-      "frango",
-      "forno",
-      "equilibrio"
-    ],
-    "data": "28/07/2026"
-  },
-  {
-    "id": "torta-de-carne-mo-da-com-pur-de-batata-f-2c2c4b",
-    "titulo": "Torta de Carne Moída com Purê de Batata (forno)",
-    "tags": [
-      "carne_vermelha",
-      "forno",
-      "massa"
-    ],
-    "data": "28/07/2026"
-  },
-  {
-    "id": "salada-caprese-simples-83a6c1",
-    "titulo": "Salada Caprese Simples",
-    "tags": [
-      "salada",
-      "vegetariano",
-      "low_carb"
-    ],
-    "data": "28/07/2026"
-  },
-  {
-    "id": "bolo-de-caneca-de-chocolate-micro-ondas-cd0f74",
-    "titulo": "Bolo de Caneca de Chocolate (Micro-ondas)",
-    "tags": [
-      "rapido",
-      "sobremesa"
-    ],
-    "data": "28/07/2026"
-  },
-  {
-    "id": "salm-o-assado-f-cil-com-ervas-e-lim-o-ee4391",
-    "titulo": "Salmão Assado Fácil com Ervas e Limão",
-    "tags": [
-      "peixe",
-      "forno",
-      "low_carb"
-    ],
-    "data": "28/07/2026"
-  },
-  {
     "id": "macarr-o-com-br-colis-e-frango-cremoso-d70284",
     "titulo": "Macarrão com Brócolis e Frango Cremoso",
     "tags": [
@@ -5032,6 +4823,216 @@
       "low_carb",
       "airfryer",
       "rapido"
+    ],
+    "data": "20/09/2026"
+  },
+  {
+    "id": "bife-grelhado-com-arroz-e-salada-350612",
+    "titulo": "Bife Grelhado com Arroz e Salada",
+    "tags": [
+      "carne_vermelha",
+      "grelhado",
+      "rapido"
+    ],
+    "data": "20/09/2026"
+  },
+  {
+    "id": "salada-de-feij-o-branco-com-pepino-e-rab-8b23a4",
+    "titulo": "Salada de Feijão-branco com Pepino e Rabanete",
+    "tags": [
+      "salada",
+      "vegetariano",
+      "rapido"
+    ],
+    "data": "20/09/2026"
+  },
+  {
+    "id": "frango-crocante-na-air-fryer-3d7c62",
+    "titulo": "Frango Crocante na Air Fryer",
+    "tags": [
+      "frango",
+      "airfryer",
+      "rapido"
+    ],
+    "data": "20/09/2026"
+  },
+  {
+    "id": "frango-assado-com-batatas-na-air-fryer-fd7743",
+    "titulo": "Frango Assado com Batatas na Air Fryer",
+    "tags": [
+      "frango",
+      "airfryer",
+      "equilibrio"
+    ],
+    "data": "20/09/2026"
+  },
+  {
+    "id": "salada-de-piment-o-marinado-com-hortel-9cfb7a",
+    "titulo": "Salada de Pimentão Marinado com Hortelã",
+    "tags": [
+      "salada",
+      "vegetariano",
+      "rapido"
+    ],
+    "data": "20/09/2026"
+  },
+  {
+    "id": "gelatina-colorida-cremosa-6543ee",
+    "titulo": "Gelatina Colorida Cremosa",
+    "tags": [
+      "doce",
+      "gelado",
+      "rapido"
+    ],
+    "data": "20/09/2026"
+  },
+  {
+    "id": "m-sculo-com-mandioca-na-panela-de-press--c721a9",
+    "titulo": "Músculo com Mandioca na Panela de Pressão",
+    "tags": [
+      "carne_vermelha",
+      "panela_pressao",
+      "equilibrio"
+    ],
+    "data": "20/09/2026"
+  },
+  {
+    "id": "picadinho-oriental-com-ab-bora-e-br-coli-07e8d3",
+    "titulo": "Picadinho Oriental com Abóbora e Brócolis",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "low_carb"
+    ],
+    "data": "20/09/2026"
+  },
+  {
+    "id": "costelinha-de-porco-na-air-fryer-786273",
+    "titulo": "Costelinha de Porco na Air Fryer",
+    "tags": [
+      "porco",
+      "airfryer",
+      "grelhado"
+    ],
+    "data": "20/09/2026"
+  },
+  {
+    "id": "lombo-de-porco-grelhado-com-ma-carameliz-40a46a",
+    "titulo": "Lombo de Porco Grelhado com Maçã Caramelizada",
+    "tags": [
+      "porco",
+      "grelhado",
+      "rapido"
+    ],
+    "data": "20/09/2026"
+  },
+  {
+    "id": "peixe-ao-forno-com-batatas-d01d50",
+    "titulo": "Peixe ao Forno com Batatas",
+    "tags": [
+      "peixe",
+      "forno",
+      "equilibrio"
+    ],
+    "data": "20/09/2026"
+  },
+  {
+    "id": "bife-cavalo-com-arroz-e-salada-3d23ea",
+    "titulo": "Bife à Cavalo com Arroz e Salada",
+    "tags": [
+      "carne_vermelha",
+      "ovos",
+      "rapido"
+    ],
+    "data": "20/09/2026"
+  },
+  {
+    "id": "salada-caesar-com-crocante-de-parmes-o-b8641f",
+    "titulo": "Salada Caesar com Crocante de Parmesão",
+    "tags": [
+      "salada",
+      "low_carb",
+      "rapido"
+    ],
+    "data": "20/09/2026"
+  },
+  {
+    "id": "medalh-o-de-fil-mignon-grelhado-com-molh-5554aa",
+    "titulo": "Medalhão de Filé Mignon Grelhado com Molho Madeira",
+    "tags": [
+      "carne_vermelha",
+      "grelhado",
+      "rapido"
+    ],
+    "data": "20/09/2026"
+  },
+  {
+    "id": "carne-louca-desfiada-2752bc",
+    "titulo": "Carne Louca Desfiada",
+    "tags": [
+      "carne_vermelha",
+      "panela_pressao",
+      "equilibrio"
+    ],
+    "data": "20/09/2026"
+  },
+  {
+    "id": "mini-bruschettas-de-abobrinha-grelhada-c-13185a",
+    "titulo": "Mini Bruschettas de Abobrinha Grelhada com Tomate Seco",
+    "tags": [
+      "vegetariano",
+      "grelhado",
+      "rapido"
+    ],
+    "data": "20/09/2026"
+  },
+  {
+    "id": "ambrosia-r-pida-de-leite-em-p-783a35",
+    "titulo": "Ambrosia Rápida de Leite em Pó",
+    "tags": [
+      "doce",
+      "rapido",
+      "sem_forno"
+    ],
+    "data": "20/09/2026"
+  },
+  {
+    "id": "lagarto-assado-fatiado-com-molho-escuro-041d89",
+    "titulo": "Lagarto Assado Fatiado com Molho Escuro",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "equilibrio"
+    ],
+    "data": "20/09/2026"
+  },
+  {
+    "id": "bife-de-chorizo-na-grelha-com-pur-de-bat-b6bbbf",
+    "titulo": "Bife de Chorizo na Grelha com Purê de Batata Doce",
+    "tags": [
+      "carne_vermelha",
+      "grelhado",
+      "low_carb"
+    ],
+    "data": "20/09/2026"
+  },
+  {
+    "id": "salada-de-folhas-verdes-com-morangos-e-b-553983",
+    "titulo": "Salada de Folhas Verdes com Morangos e Balsâmico",
+    "tags": [
+      "salada",
+      "vegetariano",
+      "rapido"
+    ],
+    "data": "20/09/2026"
+  },
+  {
+    "id": "pudim-de-leite-na-air-fryer-da-rita-lobo-4ffac6",
+    "titulo": "Pudim de Leite na Air Fryer da Rita Lobo",
+    "tags": [
+      "doce",
+      "airfryer",
+      "sem_forno"
     ],
     "data": "20/09/2026"
   }
