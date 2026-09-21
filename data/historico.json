@@ -1,44 +1,5 @@
 [
   {
-    "id": "macarr-o-com-br-colis-e-frango-cremoso-d70284",
-    "titulo": "Macarrão com Brócolis e Frango Cremoso",
-    "tags": [
-      "frango",
-      "massa",
-      "rapido"
-    ],
-    "data": "28/07/2026"
-  },
-  {
-    "id": "copinhos-salgados-sem-forno-com-queijo-e-3dd4b6",
-    "titulo": "Copinhos Salgados sem Forno (com queijo e tomate seco)",
-    "tags": [
-      "rapido",
-      "vegetariano"
-    ],
-    "data": "28/07/2026"
-  },
-  {
-    "id": "gelatina-com-frutas-da-esta-o-9466f1",
-    "titulo": "Gelatina com Frutas da Estação",
-    "tags": [
-      "rapido",
-      "sobremesa",
-      "low_carb"
-    ],
-    "data": "28/07/2026"
-  },
-  {
-    "id": "carne-louca-com-p-o-franc-s-50fe6d",
-    "titulo": "Carne Louca com Pão Francês",
-    "tags": [
-      "carne_vermelha",
-      "rapido",
-      "refogado"
-    ],
-    "data": "28/07/2026"
-  },
-  {
     "id": "espetinhos-de-carne-e-legumes-grelha-air-568e6e",
     "titulo": "Espetinhos de Carne e Legumes (grelha/airfryer)",
     "tags": [
@@ -5035,5 +4996,45 @@
       "sem_forno"
     ],
     "data": "20/09/2026"
+  },
+  {
+    "id": "picadinho-de-carne-tradicional-f22216",
+    "titulo": "Picadinho de Carne Tradicional",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "equilibrado"
+    ],
+    "data": "21/09/2026"
+  },
+  {
+    "id": "escondidinho-de-carne-mo-da-assado-1265e9",
+    "titulo": "Escondidinho de Carne Moída Assado",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "equilibrado"
+    ],
+    "data": "21/09/2026"
+  },
+  {
+    "id": "salada-caprese-simples-83a6c1",
+    "titulo": "Salada Caprese Simples",
+    "tags": [
+      "vegetariano",
+      "rapido",
+      "salada"
+    ],
+    "data": "21/09/2026"
+  },
+  {
+    "id": "mousse-de-maracuj-f-cil-a1ad91",
+    "titulo": "Mousse de Maracujá Fácil",
+    "tags": [
+      "rapido",
+      "sobremesa",
+      "doce"
+    ],
+    "data": "21/09/2026"
   }
 ]

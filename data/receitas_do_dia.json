@@ -1,123 +1,131 @@
 {
-  "gerado_em": "20/09/2026",
+  "gerado_em": "21/09/2026",
   "diario": {
     "tipo": "diario",
-    "data": "20/09/2026",
-    "dia_semana": "domingo",
+    "data": "21/09/2026",
+    "dia_semana": "segunda",
     "pratos": [
       {
-        "nome": "Picanha Assada com Sal Grosso no Forno",
+        "nome": "Picadinho de Carne Tradicional",
         "curso": "principal",
-        "tempo": "1h",
-        "url": "https://www.panelinha.com.br/receita/Picanha-assada-com-sal-grosso",
-        "porque": "Carne vermelha preferida do casal, preparo simples no forno sem fritura, resulta em uma carne suculenta e saborosa, e rende sobras.",
+        "tempo": "40 min",
+        "url": "https://www.panelinha.com.br/receita/Picadinho-de-file-mignon",
+        "porque": "É um clássico reconfortante da culinária brasileira, fácil de preparar em uma panela só, prioriza carne vermelha e pode ser acompanhado de arroz e ovo, garantindo boa proteína e equilíbrio.",
+        "tags": [
+          "carne_vermelha",
+          "rapido",
+          "equilibrado"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "500g de coxão mole (ou alcatra) em cubos de ~1,5 cm",
+          "1 colher (sopa) de azeite",
+          "1 cebola média picada fino",
+          "2 dentes de alho picados",
+          "1 colher (sopa) de extrato de tomate",
+          "1 colher (sopa) de molho inglês",
+          "1 colher (sopa) de farinha de trigo",
+          "2 xícaras (chá) de água quente (ou caldo de carne)",
+          "Caldo de 1/2 limão (opcional)",
+          "Sal e pimenta-do-reino a gosto",
+          "Salsinha picada a gosto para finalizar"
+        ],
+        "preparo": [
+          "Tempere a carne em cubos com sal e pimenta-do-reino; aqueça o azeite em uma panela grande em fogo médio-alto e doure a carne em etapas para não juntar água, reservando.",
+          "Na mesma panela, adicione mais um fio de azeite, refogue a cebola picada até murchar, junte o alho e refogue por mais 1 minuto.",
+          "Acrescente o extrato de tomate e o molho inglês, mexa por 2 minutos, adicione a farinha de trigo e misture bem por mais 1 minuto.",
+          "Retorne a carne à panela, regue com a água quente, misture e cozinhe em fogo baixo com a panela semi-tampada por uns 20 minutos ou até o molho engrossar.",
+          "Finalize com o caldo de limão (se usar) e a salsinha picada, ajuste o sal e sirva em seguida."
+        ],
+        "id": "picadinho-de-carne-tradicional-f22216"
+      },
+      {
+        "nome": "Escondidinho de Carne Moída Assado",
+        "curso": "principal",
+        "tempo": "45 min",
+        "url": "https://anamariabraga.globo.com/receita/escondidinho-de-carne-moida-diferente-ana-maria-braga/",
+        "porque": "Este prato é uma refeição completa, fácil de montar e que vai ao forno para gratinar, evitando frituras, e a carne moída garante boa proteína.",
         "tags": [
           "carne_vermelha",
           "forno",
-          "grelhado"
+          "equilibrado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "1 peça de picanha (até 1,2 kg)",
-          "4 claras de ovo",
-          "1 kg de sal grosso",
-          "1/2 xícara (chá) de farinha de trigo",
-          "Ramos de tomilho fresco (a gosto)"
+          "500g de carne moída (patinho)",
+          "1 cebola média picada",
+          "2 dentes de alho amassados",
+          "Cheiro-verde picado a gosto",
+          "Pimenta-do-reino a gosto",
+          "700g de batatas cozidas e amassadas para purê",
+          "1/2 xícara (chá) de leite (para o purê)",
+          "2 colheres (sopa) de manteiga (para o purê)",
+          "Sal a gosto",
+          "150g de queijo mussarela fatiado ou ralado",
+          "50g de queijo parmesão ralado"
         ],
         "preparo": [
-          "Preaqueça o forno a 220 ºC (temperatura alta).",
-          "Em uma tigela, misture rapidamente as claras, o sal grosso e a farinha de trigo.",
-          "Em uma assadeira, espalhe 1/3 da mistura de sal, coloque o tomilho e a picanha com a gordura para cima.",
-          "Cubra a picanha uniformemente com o restante da mistura de sal, pressionando bem para firmar.",
-          "Leve ao forno, abaixe a temperatura para 200 °C e asse por 1 hora para carne ao ponto.",
-          "Retire a crosta de sal, raspe o excesso de sal da carne e corte-a em fatias finas antes de servir."
+          "Para o recheio: Refogue a carne moída com a cebola e o alho em uma panela com um fio de azeite até dourar; tempere com sal, pimenta-do-reino e cheiro-verde, reserve.",
+          "Para o purê: Cozinhe as batatas até ficarem macias, escorra a água e amasse-as bem; adicione a manteiga, o leite e sal a gosto, misture até obter um purê liso e cremoso.",
+          "Montagem: Em um refratário, espalhe metade do purê de batatas no fundo, formando uma camada uniforme.",
+          "Distribua a carne moída refogada sobre o purê, cubra com as fatias de mussarela e, por cima, espalhe o restante do purê de batatas.",
+          "Polvilhe o queijo parmesão ralado por cima e leve ao forno médio preaquecido (180°C) por cerca de 15 a 20 minutos, ou até gratinar e ficar dourado."
         ],
-        "id": "picanha-assada-com-sal-grosso-no-forno-b2921f"
+        "id": "escondidinho-de-carne-mo-da-assado-1265e9"
       },
       {
-        "nome": "Maminha Assada na Airfryer",
-        "curso": "principal",
-        "tempo": "40 min",
-        "url": "https://www.estadao.com.br/paladar/receita/maminha-na-airfryer/",
-        "porque": "Carne vermelha preferida do casal, preparo rápido e prático na airfryer, sem fritura, ideal para sobras.",
-        "tags": [
-          "carne_vermelha",
-          "airfryer",
-          "rapido"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "500 g de maminha",
-          "Azeite (a gosto)",
-          "Sal (a gosto)",
-          "Manteiga (a gosto)"
-        ],
-        "preparo": [
-          "Tempere a maminha com azeite e sal a gosto.",
-          "Coloque a maminha na AirFryer preaquecida a 180ºC.",
-          "Asse por 40 minutos, virando a carne a cada 10 minutos para garantir um cozimento uniforme.",
-          "Ao final do tempo, retire a maminha da AirFryer e coloque-a em uma tábua de madeira.",
-          "Deixe a carne descansar por 5 minutos antes de cortar em fatias.",
-          "Pincele manteiga a gosto sobre as fatias antes de servir."
-        ],
-        "id": "maminha-assada-na-airfryer-555c3a"
-      },
-      {
-        "nome": "Ricota Grelhada com Ervas",
+        "nome": "Salada Caprese Simples",
         "curso": "entrada",
-        "tempo": "8 min",
-        "url": "https://www.panelinha.com.br/receita/Ricota-grelhada",
-        "porque": "Entrada leve e saudável, extremamente simples e rápida de fazer na frigideira ou grelha, sem óleo em excesso e com bons temperos.",
+        "tempo": "10 min",
+        "url": "https://www.panelinha.com.br/receita/Salada-caprese-classica",
+        "porque": "É uma entrada leve, fresca e muito rápida de montar, não requer cozimento e é rica em cores e sabores com proteína da muçarela.",
         "tags": [
           "vegetariano",
           "rapido",
-          "grelhado"
+          "salada"
         ],
         "rende_sobra": false,
         "ingredientes": [
-          "1 ricota fresca (aprox. 400g)",
-          "4 colheres (sopa) de azeite",
-          "8 folhas de manjericão fresco",
-          "8 folhas de hortelã fresca",
-          "8 folhas de salsa crespa fresca",
-          "Sal e pimenta-do-reino moída na hora (a gosto)",
-          "Grãos de pimenta rosa (para perfumar, opcional)"
+          "2 muçarelas de búfala (bolas de 125g cada)",
+          "4 tomates maduros (tipo italiano ou caqui)",
+          "1 maço pequeno de manjericão fresco",
+          "Azeite extra virgem a gosto",
+          "Sal e pimenta-do-reino moída na hora a gosto"
         ],
         "preparo": [
-          "Corte a ricota em fatias de 2 cm de espessura. Lave e seque bem as ervas frescas.",
-          "Aqueça uma frigideira antiaderente em fogo médio e adicione 1 colher (sopa) de azeite.",
-          "Grelhe as fatias de ricota (até duas por vez) por 4 minutos de cada lado, até dourarem.",
-          "Transfira a ricota grelhada para um prato e tempere com sal e pimenta-do-reino a gosto.",
-          "Salpique as ervas frescas picadas e os grãos de pimenta-rosa (se usar).",
-          "Regue com um fio de azeite e sirva imediatamente."
+          "Lave e seque bem os tomates e as folhas de manjericão.",
+          "Corte os tomates em rodelas ou gomos e as muçarelas de búfala também em rodelas ou metades.",
+          "Em um prato ou travessa, intercale as fatias de tomate, muçarela e folhas de manjericão, formando um arranjo harmonioso.",
+          "Regue generosamente com azeite extra virgem, tempere com sal e pimenta-do-reino moída na hora a gosto."
         ],
-        "id": "ricota-grelhada-com-ervas-70fadd"
+        "id": "salada-caprese-simples-83a6c1"
       },
       {
-        "nome": "Maçã Assada na Air Fryer",
+        "nome": "Mousse de Maracujá Fácil",
         "curso": "sobremesa",
-        "tempo": "20 min",
-        "url": "https://www.panelinha.com.br/receita/Maca-assada-na-Air-Fryer-da-Rita-Lobo",
-        "porque": "Sobremesa leve e prática, feita rapidamente na airfryer, sem adição de gordura e com poucos ingredientes.",
+        "tempo": "15 min",
+        "url": "https://anamariabraga.globo.com/receita/mousse-de-maracuja-facil-de-apenas-4-ingredientes/",
+        "porque": "Uma sobremesa refrescante e de preparo rápido, sem necessidade de forno ou fogão, utilizando apenas liquidificador e geladeira.",
         "tags": [
-          "low_carb",
-          "airfryer",
-          "rapido"
+          "rapido",
+          "sobremesa",
+          "doce"
         ],
-        "rende_sobra": false,
+        "rende_sobra": true,
         "ingredientes": [
-          "1 maçã (fuji ou gala)",
-          "2 colheres (chá) de mel (opcional)",
-          "1 pitada de canela em pó"
+          "1 xícara (chá) de suco de maracujá concentrado",
+          "1 lata de leite condensado (395g)",
+          "1 caixa de creme de leite (200g)",
+          "1 envelope de gelatina em pó incolor e sem sabor (12g)"
         ],
         "preparo": [
-          "Preaqueça a Air Fryer a 200 ºC.",
-          "Corte a maçã ao meio e retire o miolo. Coloque as metades na Air Fryer com o lado cortado para cima.",
-          "Polvilhe uma pitada de canela e regue cada metade com 1 colher (chá) de mel (se desejar).",
-          "Asse por 20 minutos, ou até que as maçãs fiquem macias e levemente douradas.",
-          "Sirva a maçã assada quente, podendo acompanhar iogurte ou granola, se preferir."
+          "Prepare a gelatina incolor conforme as instruções do fabricante (geralmente dissolve em água quente e leva ao micro-ondas).",
+          "No liquidificador, adicione o suco de maracujá concentrado, o leite condensado e o creme de leite.",
+          "Bata por cerca de 3 a 5 minutos, até obter um creme homogêneo e aerado.",
+          "Com o liquidificador ainda ligado, adicione a gelatina incolor já preparada e bata por mais 1 minuto para incorporar bem.",
+          "Despeje a mousse em um recipiente grande ou em taças individuais e leve à geladeira por no mínimo 4 a 6 horas, ou até firmar completamente."
         ],
-        "id": "ma-assada-na-air-fryer-0f784e"
+        "id": "mousse-de-maracuj-f-cil-a1ad91"
       }
     ]
   },
