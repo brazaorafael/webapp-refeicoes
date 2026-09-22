@@ -1,15 +1,5 @@
 [
   {
-    "id": "espetinhos-de-carne-e-legumes-grelha-air-568e6e",
-    "titulo": "Espetinhos de Carne e Legumes (grelha/airfryer)",
-    "tags": [
-      "carne_vermelha",
-      "grelhado",
-      "airfryer"
-    ],
-    "data": "28/07/2026"
-  },
-  {
     "id": "bruschetta-de-queijo-com-or-gano-61baff",
     "titulo": "Bruschetta de Queijo com Orégano",
     "tags": [
@@ -5036,5 +5026,15 @@
       "doce"
     ],
     "data": "21/09/2026"
+  },
+  {
+    "id": "carne-mo-da-refogada-a8b750",
+    "titulo": "Carne Moída Refogada",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "refogado"
+    ],
+    "data": "22/09/2026"
   }
 ]

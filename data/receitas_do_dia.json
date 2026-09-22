@@ -1,131 +1,129 @@
 {
-  "gerado_em": "21/09/2026",
+  "gerado_em": "22/09/2026",
   "diario": {
     "tipo": "diario",
-    "data": "21/09/2026",
-    "dia_semana": "segunda",
+    "data": "22/09/2026",
+    "dia_semana": "terça",
     "pratos": [
       {
-        "nome": "Picadinho de Carne Tradicional",
+        "nome": "Carne Moída Refogada",
         "curso": "principal",
-        "tempo": "40 min",
-        "url": "https://www.panelinha.com.br/receita/Picadinho-de-file-mignon",
-        "porque": "É um clássico reconfortante da culinária brasileira, fácil de preparar em uma panela só, prioriza carne vermelha e pode ser acompanhado de arroz e ovo, garantindo boa proteína e equilíbrio.",
+        "tempo": "20 min",
+        "url": "https://www.saboresajinomoto.com.br/receita/carne-moida-refogada",
+        "porque": "Este prato clássico é prático, rápido de preparar e oferece uma excelente fonte de proteína, sendo perfeito para uma refeição equilibrada e saborosa no dia a dia.",
         "tags": [
           "carne_vermelha",
           "rapido",
-          "equilibrado"
+          "refogado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "500g de coxão mole (ou alcatra) em cubos de ~1,5 cm",
-          "1 colher (sopa) de azeite",
-          "1 cebola média picada fino",
-          "2 dentes de alho picados",
-          "1 colher (sopa) de extrato de tomate",
-          "1 colher (sopa) de molho inglês",
-          "1 colher (sopa) de farinha de trigo",
-          "2 xícaras (chá) de água quente (ou caldo de carne)",
-          "Caldo de 1/2 limão (opcional)",
-          "Sal e pimenta-do-reino a gosto",
-          "Salsinha picada a gosto para finalizar"
-        ],
-        "preparo": [
-          "Tempere a carne em cubos com sal e pimenta-do-reino; aqueça o azeite em uma panela grande em fogo médio-alto e doure a carne em etapas para não juntar água, reservando.",
-          "Na mesma panela, adicione mais um fio de azeite, refogue a cebola picada até murchar, junte o alho e refogue por mais 1 minuto.",
-          "Acrescente o extrato de tomate e o molho inglês, mexa por 2 minutos, adicione a farinha de trigo e misture bem por mais 1 minuto.",
-          "Retorne a carne à panela, regue com a água quente, misture e cozinhe em fogo baixo com a panela semi-tampada por uns 20 minutos ou até o molho engrossar.",
-          "Finalize com o caldo de limão (se usar) e a salsinha picada, ajuste o sal e sirva em seguida."
-        ],
-        "id": "picadinho-de-carne-tradicional-f22216"
-      },
-      {
-        "nome": "Escondidinho de Carne Moída Assado",
-        "curso": "principal",
-        "tempo": "45 min",
-        "url": "https://anamariabraga.globo.com/receita/escondidinho-de-carne-moida-diferente-ana-maria-braga/",
-        "porque": "Este prato é uma refeição completa, fácil de montar e que vai ao forno para gratinar, evitando frituras, e a carne moída garante boa proteína.",
-        "tags": [
-          "carne_vermelha",
-          "forno",
-          "equilibrado"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "500g de carne moída (patinho)",
+          "2 colheres (sopa) de óleo",
           "1 cebola média picada",
           "2 dentes de alho amassados",
-          "Cheiro-verde picado a gosto",
-          "Pimenta-do-reino a gosto",
-          "700g de batatas cozidas e amassadas para purê",
-          "1/2 xícara (chá) de leite (para o purê)",
-          "2 colheres (sopa) de manteiga (para o purê)",
-          "Sal a gosto",
-          "150g de queijo mussarela fatiado ou ralado",
-          "50g de queijo parmesão ralado"
+          "800 g de patinho bovino moído",
+          "2 sachês de Tempero SAZÓN® Vermelho (ou sal e pimenta-do-reino a gosto)",
+          "meia colher (chá) de sal",
+          "1 tomate médio picado",
+          "2 xícaras (chá) de ervilha congelada"
         ],
         "preparo": [
-          "Para o recheio: Refogue a carne moída com a cebola e o alho em uma panela com um fio de azeite até dourar; tempere com sal, pimenta-do-reino e cheiro-verde, reserve.",
-          "Para o purê: Cozinhe as batatas até ficarem macias, escorra a água e amasse-as bem; adicione a manteiga, o leite e sal a gosto, misture até obter um purê liso e cremoso.",
-          "Montagem: Em um refratário, espalhe metade do purê de batatas no fundo, formando uma camada uniforme.",
-          "Distribua a carne moída refogada sobre o purê, cubra com as fatias de mussarela e, por cima, espalhe o restante do purê de batatas.",
-          "Polvilhe o queijo parmesão ralado por cima e leve ao forno médio preaquecido (180°C) por cerca de 15 a 20 minutos, ou até gratinar e ficar dourado."
+          "Em uma panela média, aqueça o óleo em fogo alto, junte a cebola e o alho, e refogue por 3 minutos até dourarem.",
+          "Acrescente a carne moída e frite por 10 minutos, ou até mudar completamente de cor e o líquido secar.",
+          "Adicione o Tempero SAZÓN® (ou sal e pimenta), o sal, o tomate e a ervilha.",
+          "Cozinhe por mais 5 minutos, retire do fogo e sirva em seguida."
         ],
-        "id": "escondidinho-de-carne-mo-da-assado-1265e9"
+        "id": "carne-mo-da-refogada-a8b750"
       },
       {
-        "nome": "Salada Caprese Simples",
+        "nome": "Bife Grelhado com Vinagrete",
+        "curso": "principal",
+        "tempo": "20 min",
+        "url": "https://www.panelinha.com.br/receita/Bife-grelhado-com-vinagrete",
+        "porque": "Uma opção clássica de carne vermelha, preparada rapidamente na grelha com mínimo de óleo, e o vinagrete fresco adiciona equilíbrio e sabor.",
+        "tags": [
+          "carne_vermelha",
+          "grelhado",
+          "rapido"
+        ],
+        "rende_sobra": false,
+        "ingredientes": [
+          "2 bifes de contrafilé (ou alcatra)",
+          "1 colher (chá) de azeite",
+          "Tempero para carnes caseiro a gosto (ou sal e pimenta-do-reino)",
+          "2 tomates médios em cubos pequenos",
+          "½ cebola-roxa picada fino",
+          "3 colheres (sopa) de azeite",
+          "1 colher (sopa) de vinagre (de vinho branco ou maçã)",
+          "Salsinha picada a gosto",
+          "Sal e pimenta-do-reino moída na hora a gosto"
+        ],
+        "preparo": [
+          "Para o Vinagrete: Numa tigela, misture os tomates, cebola roxa, azeite, vinagre e salsinha. Tempere com sal e pimenta-do-reino a gosto e reserve.",
+          "Retire os bifes da geladeira e tempere com sal e pimenta-do-reino (ou tempero caseiro).",
+          "Leve uma frigideira grande ou grelha ao fogo alto, regue com o azeite e coloque os bifes.",
+          "Deixe dourar por cerca de 2 minutos de cada lado, ou até o ponto desejado.",
+          "Sirva os bifes imediatamente acompanhados do vinagrete."
+        ],
+        "id": "bife-grelhado-com-vinagrete-0cfa78"
+      },
+      {
+        "nome": "Crudités de Legumes com Molho de Iogurte",
         "curso": "entrada",
-        "tempo": "10 min",
-        "url": "https://www.panelinha.com.br/receita/Salada-caprese-classica",
-        "porque": "É uma entrada leve, fresca e muito rápida de montar, não requer cozimento e é rica em cores e sabores com proteína da muçarela.",
+        "tempo": "15 min",
+        "url": "https://www.panelinha.com.br/receita/Crudites-com-molho-de-iogurte",
+        "porque": "Uma entrada leve, fresca e saudável, que adiciona vegetais e fibras à refeição sem exigir cozimento, sendo rápida e prática.",
         "tags": [
           "vegetariano",
           "rapido",
           "salada"
         ],
-        "rende_sobra": false,
+        "rende_sobra": true,
         "ingredientes": [
-          "2 muçarelas de búfala (bolas de 125g cada)",
-          "4 tomates maduros (tipo italiano ou caqui)",
-          "1 maço pequeno de manjericão fresco",
-          "Azeite extra virgem a gosto",
+          "2 cenouras",
+          "2 pepinos japoneses",
+          "2 talos de salsão",
+          "2 rabanetes",
+          "1 xícara (chá) de iogurte natural",
+          "2 colheres (sopa) de azeite",
+          "1 colher (sopa) de caldo de limão",
+          "10 folhas de hortelã frescas",
           "Sal e pimenta-do-reino moída na hora a gosto"
         ],
         "preparo": [
-          "Lave e seque bem os tomates e as folhas de manjericão.",
-          "Corte os tomates em rodelas ou gomos e as muçarelas de búfala também em rodelas ou metades.",
-          "Em um prato ou travessa, intercale as fatias de tomate, muçarela e folhas de manjericão, formando um arranjo harmonioso.",
-          "Regue generosamente com azeite extra virgem, tempere com sal e pimenta-do-reino moída na hora a gosto."
+          "Prepare o Molho: Lave e pique fino as folhas de hortelã. Numa tigela, misture o iogurte, azeite, caldo de limão e a hortelã picada. Tempere com sal e pimenta-do-reino e reserve na geladeira.",
+          "Prepare os Legumes: Lave e seque bem todos os legumes.",
+          "Descasque as cenouras e corte-as em palitos de cerca de 1 cm de espessura.",
+          "Corte os pepinos e os talos de salsão em palitos de tamanho similar. Fatie finamente os rabanetes.",
+          "Arrume os legumes em copinhos ou numa travessa e sirva com o molho de iogurte gelado."
         ],
-        "id": "salada-caprese-simples-83a6c1"
+        "id": "crudit-s-de-legumes-com-molho-de-iogurte-ba7e27"
       },
       {
-        "nome": "Mousse de Maracujá Fácil",
+        "nome": "Abacaxi Grelhado com Coco",
         "curso": "sobremesa",
         "tempo": "15 min",
-        "url": "https://anamariabraga.globo.com/receita/mousse-de-maracuja-facil-de-apenas-4-ingredientes/",
-        "porque": "Uma sobremesa refrescante e de preparo rápido, sem necessidade de forno ou fogão, utilizando apenas liquidificador e geladeira.",
+        "url": "https://www.panelinha.com.br/receita/Abacaxi-grelhado-com-coco",
+        "porque": "Uma sobremesa leve, refrescante e rápida de preparar, sem fritura, que combina o doce do abacaxi grelhado com a textura do coco.",
         "tags": [
-          "rapido",
-          "sobremesa",
-          "doce"
+          "fruta",
+          "grelhado",
+          "rapido"
         ],
-        "rende_sobra": true,
+        "rende_sobra": false,
         "ingredientes": [
-          "1 xícara (chá) de suco de maracujá concentrado",
-          "1 lata de leite condensado (395g)",
-          "1 caixa de creme de leite (200g)",
-          "1 envelope de gelatina em pó incolor e sem sabor (12g)"
+          "1 abacaxi médio, descascado e cortado em rodelas de ~1,5 cm",
+          "1 colher (sopa) de açúcar (opcional, para caramelizar)",
+          "Fitas de coco seco tostadas (ou coco ralado seco) a gosto",
+          "Um fio de azeite ou óleo de coco para untar a grelha"
         ],
         "preparo": [
-          "Prepare a gelatina incolor conforme as instruções do fabricante (geralmente dissolve em água quente e leva ao micro-ondas).",
-          "No liquidificador, adicione o suco de maracujá concentrado, o leite condensado e o creme de leite.",
-          "Bata por cerca de 3 a 5 minutos, até obter um creme homogêneo e aerado.",
-          "Com o liquidificador ainda ligado, adicione a gelatina incolor já preparada e bata por mais 1 minuto para incorporar bem.",
-          "Despeje a mousse em um recipiente grande ou em taças individuais e leve à geladeira por no mínimo 4 a 6 horas, ou até firmar completamente."
+          "Descasque o abacaxi e corte-o em rodelas de aproximadamente 1,5 cm de espessura, retirando o miolo se desejar.",
+          "Aqueça uma frigideira ou grelha em fogo médio-alto e unte levemente com um fio de azeite ou óleo de coco.",
+          "Coloque as rodelas de abacaxi na grelha e polvilhe um pouco de açúcar (se usar). Grelhe por cerca de 3 minutos de cada lado, até ficarem douradas e macias.",
+          "Retire o abacaxi grelhado e sirva imediatamente, decorado com fitas de coco seco tostadas ou coco ralado."
         ],
-        "id": "mousse-de-maracuj-f-cil-a1ad91"
+        "id": "abacaxi-grelhado-com-coco-4ab063"
       }
     ]
   },
