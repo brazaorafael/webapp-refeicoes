@@ -1,33 +1,5 @@
 [
   {
-    "id": "bruschetta-de-queijo-com-or-gano-61baff",
-    "titulo": "Bruschetta de Queijo com Orégano",
-    "tags": [
-      "rapido",
-      "vegetariano"
-    ],
-    "data": "28/07/2026"
-  },
-  {
-    "id": "bolo-de-caneca-de-banana-e-canela-micro--9dd13b",
-    "titulo": "Bolo de Caneca de Banana e Canela (Micro-ondas)",
-    "tags": [
-      "rapido",
-      "sobremesa"
-    ],
-    "data": "28/07/2026"
-  },
-  {
-    "id": "lagarto-assado-fatiado-com-molho-madeira-55d158",
-    "titulo": "Lagarto Assado Fatiado com Molho Madeira Rápido",
-    "tags": [
-      "carne_vermelha",
-      "forno",
-      "equilibrio"
-    ],
-    "data": "28/07/2026"
-  },
-  {
     "id": "frango-grelhado-com-quinoa-e-legumes-sal-de7284",
     "titulo": "Frango Grelhado com Quinoa e Legumes Salteados",
     "tags": [
@@ -5036,5 +5008,35 @@
       "refogado"
     ],
     "data": "22/09/2026"
+  },
+  {
+    "id": "carne-com-batatas-na-press-o-724b53",
+    "titulo": "Carne com Batatas na Pressão",
+    "tags": [
+      "carne_vermelha",
+      "panela_pressao",
+      "rapido"
+    ],
+    "data": "23/09/2026"
+  },
+  {
+    "id": "bife-com-molho-de-lim-o-e-gr-o-de-bico-7832e3",
+    "titulo": "Bife com Molho de Limão e Grão-de-Bico",
+    "tags": [
+      "carne_vermelha",
+      "grelhado",
+      "rapido"
+    ],
+    "data": "23/09/2026"
+  },
+  {
+    "id": "bruschetta-de-tomate-d97e81",
+    "titulo": "Bruschetta de Tomate",
+    "tags": [
+      "vegetariano",
+      "forno",
+      "rapido"
+    ],
+    "data": "23/09/2026"
   }
 ]

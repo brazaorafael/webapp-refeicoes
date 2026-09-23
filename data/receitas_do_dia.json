@@ -1,46 +1,48 @@
 {
-  "gerado_em": "22/09/2026",
+  "gerado_em": "23/09/2026",
   "diario": {
     "tipo": "diario",
-    "data": "22/09/2026",
-    "dia_semana": "terça",
+    "data": "23/09/2026",
+    "dia_semana": "quarta",
     "pratos": [
       {
-        "nome": "Carne Moída Refogada",
+        "nome": "Carne com Batatas na Pressão",
         "curso": "principal",
-        "tempo": "20 min",
-        "url": "https://www.saboresajinomoto.com.br/receita/carne-moida-refogada",
-        "porque": "Este prato clássico é prático, rápido de preparar e oferece uma excelente fonte de proteína, sendo perfeito para uma refeição equilibrada e saborosa no dia a dia.",
+        "tempo": "40 min",
+        "url": "https://anamariabraga.globo.com/receita/carne-com-batatas-na-pressao/",
+        "porque": "Esta receita é prática pela panela de pressão que acelera o cozimento, rende bem para sobras e é equilibrada com carne e batatas.",
         "tags": [
           "carne_vermelha",
-          "rapido",
-          "refogado"
+          "panela_pressao",
+          "rapido"
         ],
         "rende_sobra": true,
         "ingredientes": [
           "2 colheres (sopa) de óleo",
-          "1 cebola média picada",
-          "2 dentes de alho amassados",
-          "800 g de patinho bovino moído",
-          "2 sachês de Tempero SAZÓN® Vermelho (ou sal e pimenta-do-reino a gosto)",
-          "meia colher (chá) de sal",
-          "1 tomate médio picado",
-          "2 xícaras (chá) de ervilha congelada"
+          "1 kg de acém em cubos",
+          "2 cebolas picadas",
+          "4 dentes de alho espremidos",
+          "1 colher (sopa) de coentro picado",
+          "1 xícara (chá) de molho de tomate",
+          "2 xícaras (chá) de caldo de carne",
+          "6 batatas em cubos grandes",
+          "Sal e pimenta-do-reino a gosto"
         ],
         "preparo": [
-          "Em uma panela média, aqueça o óleo em fogo alto, junte a cebola e o alho, e refogue por 3 minutos até dourarem.",
-          "Acrescente a carne moída e frite por 10 minutos, ou até mudar completamente de cor e o líquido secar.",
-          "Adicione o Tempero SAZÓN® (ou sal e pimenta), o sal, o tomate e a ervilha.",
-          "Cozinhe por mais 5 minutos, retire do fogo e sirva em seguida."
+          "Na panela de pressão, aqueça o óleo em fogo alto e sele a carne, virando para dourar por igual.",
+          "Junte a cebola, o alho e o coentro e refogue mais.",
+          "Acrescente o molho de tomate, o caldo de carne, sal e pimenta-do-reino a gosto, tampe e cozinhe por 30 minutos após pegar pressão.",
+          "Libere a pressão para abrir a panela, junte a batata e cozinhe novamente na pressão por mais 6 minutos.",
+          "Transfira para uma travessa e sirva."
         ],
-        "id": "carne-mo-da-refogada-a8b750"
+        "id": "carne-com-batatas-na-press-o-724b53"
       },
       {
-        "nome": "Bife Grelhado com Vinagrete",
+        "nome": "Bife com Molho de Limão e Grão-de-Bico",
         "curso": "principal",
         "tempo": "20 min",
-        "url": "https://www.panelinha.com.br/receita/Bife-grelhado-com-vinagrete",
-        "porque": "Uma opção clássica de carne vermelha, preparada rapidamente na grelha com mínimo de óleo, e o vinagrete fresco adiciona equilíbrio e sabor.",
+        "url": "https://www.panelinha.com.br/receita/Bife-com-molho-de-limao-e-grao-de-bico",
+        "porque": "Esta receita é prática e rápida, feita em uma única frigideira, oferecendo uma boa fonte de proteína e equilíbrio com grão-de-bico.",
         "tags": [
           "carne_vermelha",
           "grelhado",
@@ -48,80 +50,119 @@
         ],
         "rende_sobra": false,
         "ingredientes": [
-          "2 bifes de contrafilé (ou alcatra)",
-          "1 colher (chá) de azeite",
-          "Tempero para carnes caseiro a gosto (ou sal e pimenta-do-reino)",
-          "2 tomates médios em cubos pequenos",
-          "½ cebola-roxa picada fino",
-          "3 colheres (sopa) de azeite",
-          "1 colher (sopa) de vinagre (de vinho branco ou maçã)",
-          "Salsinha picada a gosto",
-          "Sal e pimenta-do-reino moída na hora a gosto"
+          "¾ de xícara (chá) de grão-de-bico cozido (meia lata)",
+          "½ cebola",
+          "1 colher (sopa) de azeite",
+          "1 pitada de açúcar",
+          "½ colher (chá) de páprica doce",
+          "1 pitada de cominho em pó",
+          "Sal a gosto",
+          "1 bife de contrafilé (cerca de 180g)",
+          "⅓ de xícara (chá) de água",
+          "Raspas de 1 limão-siciliano",
+          "2 colheres (sopa) de caldo de limão-siciliano",
+          "1 colher (sopa) de manteiga gelada"
         ],
         "preparo": [
-          "Para o Vinagrete: Numa tigela, misture os tomates, cebola roxa, azeite, vinagre e salsinha. Tempere com sal e pimenta-do-reino a gosto e reserve.",
-          "Retire os bifes da geladeira e tempere com sal e pimenta-do-reino (ou tempero caseiro).",
-          "Leve uma frigideira grande ou grelha ao fogo alto, regue com o azeite e coloque os bifes.",
-          "Deixe dourar por cerca de 2 minutos de cada lado, ou até o ponto desejado.",
-          "Sirva os bifes imediatamente acompanhados do vinagrete."
+          "Lave e escorra o grão-de-bico. Descasque e fatie a ½ cebola.",
+          "Em uma frigideira grande, aqueça 1 colher (sopa) de azeite e refogue a cebola com uma pitada de sal e açúcar por 3 minutos até dourar. Adicione o grão-de-bico, páprica e cominho, refogue por 2 minutos e reserve.",
+          "Tempere o bife com sal. Na mesma frigideira quente com 1 colher (chá) de azeite, grelhe o bife por cerca de 3 minutos de cada lado para o ponto desejado. Retire o bife e cubra com alumínio.",
+          "Na frigideira, adicione a água e raspe o fundo para soltar os sabores. Junte as raspas e o caldo de limão.",
+          "Adicione a manteiga gelada e mexa para emulsionar o molho. Sirva o bife com o grão-de-bico e o molho por cima."
         ],
-        "id": "bife-grelhado-com-vinagrete-0cfa78"
+        "id": "bife-com-molho-de-lim-o-e-gr-o-de-bico-7832e3"
       },
       {
-        "nome": "Crudités de Legumes com Molho de Iogurte",
-        "curso": "entrada",
-        "tempo": "15 min",
-        "url": "https://www.panelinha.com.br/receita/Crudites-com-molho-de-iogurte",
-        "porque": "Uma entrada leve, fresca e saudável, que adiciona vegetais e fibras à refeição sem exigir cozimento, sendo rápida e prática.",
+        "nome": "Sobrecoxas Assadas com Páprica e Ervas",
+        "curso": "principal",
+        "tempo": "45 min (ativo)",
+        "url": "https://www.panelinha.com.br/receita/Sobrecoxas-assadas-com-paprica-e-ervas",
+        "porque": "Esta receita de frango assado no forno é fácil de preparar, resulta em casquinha crocante sem fritura e é uma ótima opção para variar da carne vermelha.",
         "tags": [
-          "vegetariano",
-          "rapido",
-          "salada"
+          "frango",
+          "forno",
+          "equilibrado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "2 cenouras",
-          "2 pepinos japoneses",
-          "2 talos de salsão",
-          "2 rabanetes",
-          "1 xícara (chá) de iogurte natural",
-          "2 colheres (sopa) de azeite",
-          "1 colher (sopa) de caldo de limão",
-          "10 folhas de hortelã frescas",
-          "Sal e pimenta-do-reino moída na hora a gosto"
+          "6 sobrecoxas de frango",
+          "½ colher (chá) de sementes de erva-doce",
+          "1 ½ colher (chá) de sal",
+          "1 colher (chá) de páprica doce",
+          "Pimenta-do-reino moída na hora a gosto",
+          "1 cebola roxa grande",
+          "6 dentes de alho grandes",
+          "⅓ de xícara (chá) de caldo de limão peneirado (cerca de 2 limões)",
+          "1 ½ xícara (chá) de água",
+          "12 folhas de sálvia",
+          "8 ramos de orégano fresco",
+          "2 colheres (sopa) de azeite"
         ],
         "preparo": [
-          "Prepare o Molho: Lave e pique fino as folhas de hortelã. Numa tigela, misture o iogurte, azeite, caldo de limão e a hortelã picada. Tempere com sal e pimenta-do-reino e reserve na geladeira.",
-          "Prepare os Legumes: Lave e seque bem todos os legumes.",
-          "Descasque as cenouras e corte-as em palitos de cerca de 1 cm de espessura.",
-          "Corte os pepinos e os talos de salsão em palitos de tamanho similar. Fatie finamente os rabanetes.",
-          "Arrume os legumes em copinhos ou numa travessa e sirva com o molho de iogurte gelado."
+          "Em um pilão, bata as sementes de erva-doce e misture com sal, páprica e pimenta-do-reino.",
+          "Tempere as sobrecoxas com essa mistura, esfregando bem sobre e sob a pele. Disponha com a pele para cima em uma travessa e leve à geladeira por 40 minutos.",
+          "Preaqueça o forno a 200 ºC. Corte a cebola roxa em gomos e amasse os dentes de alho.",
+          "Em uma assadeira grande, distribua a cebola, o alho, as folhas de sálvia e os ramos de orégano. Tempere a cebola com sal e regue o fundo da assadeira com o caldo de limão e a água.",
+          "Retire o frango da geladeira, coloque na assadeira e leve ao forno por 40-50 minutos, ou até dourar e ficar crocante."
         ],
-        "id": "crudit-s-de-legumes-com-molho-de-iogurte-ba7e27"
+        "id": "sobrecoxas-assadas-com-p-prica-e-ervas-b33281"
+      },
+      {
+        "nome": "Bruschetta de Tomate",
+        "curso": "entrada",
+        "tempo": "15 min",
+        "url": "https://www.panelinha.com.br/receita/Bruschetta-de-tomate",
+        "porque": "É uma entrada simples e rápida, que utiliza o forno para tostar o pão, evitando frituras e usando ingredientes frescos.",
+        "tags": [
+          "vegetariano",
+          "forno",
+          "rapido"
+        ],
+        "rende_sobra": false,
+        "ingredientes": [
+          "1 pão italiano (ou baguete)",
+          "2 tomates maduros (cerca de 500g)",
+          "2 dentes de alho",
+          "Folhas de manjericão fresco a gosto",
+          "Azeite extra virgem a gosto",
+          "Sal e pimenta-do-reino a gosto"
+        ],
+        "preparo": [
+          "Preaqueça o forno a 180 ºC. Corte o pão em fatias de 1,5 cm de espessura.",
+          "Lave, seque e corte os tomates em cubos pequenos (descarte as sementes). Transfira para uma tigela e junte as folhas de manjericão picadas.",
+          "Tempere os tomates com azeite, sal e pimenta-do-reino a gosto. Misture bem e reserve por 10 minutos para apurar os sabores.",
+          "Leve as fatias de pão ao forno por cerca de 5 minutos, ou até ficarem crocantes. Retire do forno e esfregue um dente de alho cortado ao meio em cada fatia.",
+          "Distribua a mistura de tomate sobre as fatias de pão torradas e sirva imediatamente."
+        ],
+        "id": "bruschetta-de-tomate-d97e81"
       },
       {
         "nome": "Abacaxi Grelhado com Coco",
         "curso": "sobremesa",
         "tempo": "15 min",
         "url": "https://www.panelinha.com.br/receita/Abacaxi-grelhado-com-coco",
-        "porque": "Uma sobremesa leve, refrescante e rápida de preparar, sem fritura, que combina o doce do abacaxi grelhado com a textura do coco.",
+        "porque": "Uma sobremesa leve, refrescante e muito fácil de preparar na grelha, sendo uma opção saudável e sem frituras.",
         "tags": [
-          "fruta",
+          "vegetariano",
           "grelhado",
           "rapido"
         ],
         "rende_sobra": false,
         "ingredientes": [
-          "1 abacaxi médio, descascado e cortado em rodelas de ~1,5 cm",
-          "1 colher (sopa) de açúcar (opcional, para caramelizar)",
-          "Fitas de coco seco tostadas (ou coco ralado seco) a gosto",
-          "Um fio de azeite ou óleo de coco para untar a grelha"
+          "3 rodelas de abacaxi (de cerca de 2 cm de espessura)",
+          "1 colher (sopa) de licor de laranja (opcional)",
+          "3 colheres (chá) de manteiga",
+          "Açúcar para polvilhar as fatias",
+          "¼ de xícara (chá) de água",
+          "Fitas de coco seco tostadas para servir",
+          "Sorvete de coco para servir (opcional)"
         ],
         "preparo": [
-          "Descasque o abacaxi e corte-o em rodelas de aproximadamente 1,5 cm de espessura, retirando o miolo se desejar.",
-          "Aqueça uma frigideira ou grelha em fogo médio-alto e unte levemente com um fio de azeite ou óleo de coco.",
-          "Coloque as rodelas de abacaxi na grelha e polvilhe um pouco de açúcar (se usar). Grelhe por cerca de 3 minutos de cada lado, até ficarem douradas e macias.",
-          "Retire o abacaxi grelhado e sirva imediatamente, decorado com fitas de coco seco tostadas ou coco ralado."
+          "Corte as rodelas de abacaxi ao meio para formar meias-luas. Regue com o licor de laranja (se usar) e deixe descansar por 5 minutos.",
+          "Leve uma frigideira média ao fogo médio para aquecer. Polvilhe açúcar em um dos lados de cada fatia de abacaxi.",
+          "Adicione 2 colheres (chá) de manteiga na frigideira. Coloque as fatias de abacaxi com o lado açucarado para baixo e doure por cerca de 5 minutos.",
+          "Polvilhe açúcar no lado de cima das fatias, vire e doure o outro lado por igual. Transfira para um prato.",
+          "Na mesma frigideira, adicione a água e o caldinho do abacaxi. Mexa para dissolver os queimadinhos e sirva o abacaxi com as fitas de coco tostadas (e sorvete, se desejar)."
         ],
         "id": "abacaxi-grelhado-com-coco-4ab063"
       }
