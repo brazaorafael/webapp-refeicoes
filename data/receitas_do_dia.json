@@ -1,147 +1,81 @@
 {
-  "gerado_em": "23/09/2026",
+  "gerado_em": "24/09/2026",
   "diario": {
     "tipo": "diario",
-    "data": "23/09/2026",
-    "dia_semana": "quarta",
+    "data": "24/09/2026",
+    "dia_semana": "quinta",
     "pratos": [
       {
-        "nome": "Carne com Batatas na Pressão",
+        "nome": "Bife Acebolado",
         "curso": "principal",
-        "tempo": "40 min",
-        "url": "https://anamariabraga.globo.com/receita/carne-com-batatas-na-pressao/",
-        "porque": "Esta receita é prática pela panela de pressão que acelera o cozimento, rende bem para sobras e é equilibrada com carne e batatas.",
-        "tags": [
-          "carne_vermelha",
-          "panela_pressao",
-          "rapido"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "2 colheres (sopa) de óleo",
-          "1 kg de acém em cubos",
-          "2 cebolas picadas",
-          "4 dentes de alho espremidos",
-          "1 colher (sopa) de coentro picado",
-          "1 xícara (chá) de molho de tomate",
-          "2 xícaras (chá) de caldo de carne",
-          "6 batatas em cubos grandes",
-          "Sal e pimenta-do-reino a gosto"
-        ],
-        "preparo": [
-          "Na panela de pressão, aqueça o óleo em fogo alto e sele a carne, virando para dourar por igual.",
-          "Junte a cebola, o alho e o coentro e refogue mais.",
-          "Acrescente o molho de tomate, o caldo de carne, sal e pimenta-do-reino a gosto, tampe e cozinhe por 30 minutos após pegar pressão.",
-          "Libere a pressão para abrir a panela, junte a batata e cozinhe novamente na pressão por mais 6 minutos.",
-          "Transfira para uma travessa e sirva."
-        ],
-        "id": "carne-com-batatas-na-press-o-724b53"
-      },
-      {
-        "nome": "Bife com Molho de Limão e Grão-de-Bico",
-        "curso": "principal",
-        "tempo": "20 min",
-        "url": "https://www.panelinha.com.br/receita/Bife-com-molho-de-limao-e-grao-de-bico",
-        "porque": "Esta receita é prática e rápida, feita em uma única frigideira, oferecendo uma boa fonte de proteína e equilíbrio com grão-de-bico.",
+        "tempo": "25 min",
+        "url": "https://www.panelinha.com.br/receita/Bife-acebolado",
+        "porque": "Um clássico de carne vermelha, rápido de preparar na frigideira com pouca gordura, e rende bem para o casal com possibilidade de sobras.",
         "tags": [
           "carne_vermelha",
           "grelhado",
           "rapido"
         ],
-        "rende_sobra": false,
+        "rende_sobra": true,
         "ingredientes": [
-          "¾ de xícara (chá) de grão-de-bico cozido (meia lata)",
-          "½ cebola",
-          "1 colher (sopa) de azeite",
-          "1 pitada de açúcar",
-          "½ colher (chá) de páprica doce",
-          "1 pitada de cominho em pó",
-          "Sal a gosto",
-          "1 bife de contrafilé (cerca de 180g)",
-          "⅓ de xícara (chá) de água",
-          "Raspas de 1 limão-siciliano",
-          "2 colheres (sopa) de caldo de limão-siciliano",
-          "1 colher (sopa) de manteiga gelada"
+          "2 bifes de contrafilé (ou alcatra/coxão mole) (~180g cada)",
+          "1 cebola média",
+          "2 colheres (sopa) de água",
+          "2 colheres (chá) de vinagre de vinho branco",
+          "1 colher (chá) de manteiga",
+          "Azeite a gosto",
+          "Sal e pimenta-do-reino moída na hora a gosto"
         ],
         "preparo": [
-          "Lave e escorra o grão-de-bico. Descasque e fatie a ½ cebola.",
-          "Em uma frigideira grande, aqueça 1 colher (sopa) de azeite e refogue a cebola com uma pitada de sal e açúcar por 3 minutos até dourar. Adicione o grão-de-bico, páprica e cominho, refogue por 2 minutos e reserve.",
-          "Tempere o bife com sal. Na mesma frigideira quente com 1 colher (chá) de azeite, grelhe o bife por cerca de 3 minutos de cada lado para o ponto desejado. Retire o bife e cubra com alumínio.",
-          "Na frigideira, adicione a água e raspe o fundo para soltar os sabores. Junte as raspas e o caldo de limão.",
-          "Adicione a manteiga gelada e mexa para emulsionar o molho. Sirva o bife com o grão-de-bico e o molho por cima."
+          "Retire os bifes da geladeira 10 minutos antes de grelhar e tempere com sal e pimenta-do-reino.",
+          "Descasque e corte a cebola em meias-luas finas. Em uma tigela pequena, misture a água com o vinagre.",
+          "Aqueça bem uma frigideira grande em fogo médio, regue com azeite e grelhe os bifes por cerca de 2 minutos de cada lado, até dourar. Reserve os bifes.",
+          "Na mesma frigideira, adicione mais azeite e refogue a cebola com uma pitada de sal até murchar.",
+          "Acrescente a mistura de água e vinagre à cebola e deixe ferver rapidamente. Desligue o fogo, adicione a manteiga e misture para formar um molhinho.",
+          "Sirva os bifes com a cebola e o molhinho da frigideira."
         ],
-        "id": "bife-com-molho-de-lim-o-e-gr-o-de-bico-7832e3"
+        "id": "bife-acebolado-8e2e74"
       },
       {
-        "nome": "Sobrecoxas Assadas com Páprica e Ervas",
+        "nome": "Carne Moída Recheada ao Forno",
         "curso": "principal",
-        "tempo": "45 min (ativo)",
-        "url": "https://www.panelinha.com.br/receita/Sobrecoxas-assadas-com-paprica-e-ervas",
-        "porque": "Esta receita de frango assado no forno é fácil de preparar, resulta em casquinha crocante sem fritura e é uma ótima opção para variar da carne vermelha.",
+        "tempo": "45 min",
+        "url": "https://www.youtube.com/watch?v=Jm_x98wYq8U",
+        "porque": "Uma opção de carne vermelha assada no forno, evitando fritura, fácil de montar e ideal para gerar sobras.",
         "tags": [
-          "frango",
+          "carne_vermelha",
           "forno",
           "equilibrado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "6 sobrecoxas de frango",
-          "½ colher (chá) de sementes de erva-doce",
-          "1 ½ colher (chá) de sal",
-          "1 colher (chá) de páprica doce",
-          "Pimenta-do-reino moída na hora a gosto",
-          "1 cebola roxa grande",
-          "6 dentes de alho grandes",
-          "⅓ de xícara (chá) de caldo de limão peneirado (cerca de 2 limões)",
-          "1 ½ xícara (chá) de água",
-          "12 folhas de sálvia",
-          "8 ramos de orégano fresco",
-          "2 colheres (sopa) de azeite"
+          "400g de carne moída",
+          "2-3 batatas médias cozidas e amassadas",
+          "1/2 cebola picada",
+          "1 dente de alho picado",
+          "1 tomate picado",
+          "2 colheres (sopa) de cheiro-verde picado",
+          "2 colheres (sopa) de requeijão cremoso",
+          "100g de queijo muçarela fatiado ou ralado",
+          "1/2 xícara (chá) de molho de tomate pronto",
+          "Sal, pimenta-do-reino e orégano a gosto",
+          "Azeite para untar"
         ],
         "preparo": [
-          "Em um pilão, bata as sementes de erva-doce e misture com sal, páprica e pimenta-do-reino.",
-          "Tempere as sobrecoxas com essa mistura, esfregando bem sobre e sob a pele. Disponha com a pele para cima em uma travessa e leve à geladeira por 40 minutos.",
-          "Preaqueça o forno a 200 ºC. Corte a cebola roxa em gomos e amasse os dentes de alho.",
-          "Em uma assadeira grande, distribua a cebola, o alho, as folhas de sálvia e os ramos de orégano. Tempere a cebola com sal e regue o fundo da assadeira com o caldo de limão e a água.",
-          "Retire o frango da geladeira, coloque na assadeira e leve ao forno por 40-50 minutos, ou até dourar e ficar crocante."
+          "Em uma tigela, misture a carne moída crua com sal, pimenta, cheiro-verde, alho e cebola picados. Reserve.",
+          "Em outra tigela, amasse as batatas cozidas e tempere com sal. Adicione o tomate picado e o requeijão, misturando bem.",
+          "Unte uma forma refratária com azeite. Espalhe metade da carne moída no fundo, formando uma base.",
+          "Distribua o recheio de batata e tomate sobre a carne. Cubra com o restante da carne moída, a muçarela fatiada e o molho de tomate.",
+          "Leve ao forno pré-aquecido a 180°C por cerca de 25-30 minutos, ou até gratinar e a carne estar cozida. Sirva quente."
         ],
-        "id": "sobrecoxas-assadas-com-p-prica-e-ervas-b33281"
+        "id": "carne-mo-da-recheada-ao-forno-db56ca"
       },
       {
-        "nome": "Bruschetta de Tomate",
+        "nome": "Bruschetta de Queijo com Pera Grelhada",
         "curso": "entrada",
-        "tempo": "15 min",
-        "url": "https://www.panelinha.com.br/receita/Bruschetta-de-tomate",
-        "porque": "É uma entrada simples e rápida, que utiliza o forno para tostar o pão, evitando frituras e usando ingredientes frescos.",
-        "tags": [
-          "vegetariano",
-          "forno",
-          "rapido"
-        ],
-        "rende_sobra": false,
-        "ingredientes": [
-          "1 pão italiano (ou baguete)",
-          "2 tomates maduros (cerca de 500g)",
-          "2 dentes de alho",
-          "Folhas de manjericão fresco a gosto",
-          "Azeite extra virgem a gosto",
-          "Sal e pimenta-do-reino a gosto"
-        ],
-        "preparo": [
-          "Preaqueça o forno a 180 ºC. Corte o pão em fatias de 1,5 cm de espessura.",
-          "Lave, seque e corte os tomates em cubos pequenos (descarte as sementes). Transfira para uma tigela e junte as folhas de manjericão picadas.",
-          "Tempere os tomates com azeite, sal e pimenta-do-reino a gosto. Misture bem e reserve por 10 minutos para apurar os sabores.",
-          "Leve as fatias de pão ao forno por cerca de 5 minutos, ou até ficarem crocantes. Retire do forno e esfregue um dente de alho cortado ao meio em cada fatia.",
-          "Distribua a mistura de tomate sobre as fatias de pão torradas e sirva imediatamente."
-        ],
-        "id": "bruschetta-de-tomate-d97e81"
-      },
-      {
-        "nome": "Abacaxi Grelhado com Coco",
-        "curso": "sobremesa",
-        "tempo": "15 min",
-        "url": "https://www.panelinha.com.br/receita/Abacaxi-grelhado-com-coco",
-        "porque": "Uma sobremesa leve, refrescante e muito fácil de preparar na grelha, sendo uma opção saudável e sem frituras.",
+        "tempo": "20 min",
+        "url": "https://www.panelinha.com.br/receita/Tartine-de-queijo-com-pera-grelhada",
+        "porque": "Uma entrada diferente e sofisticada, com um toque agridoce e fresco, que pode ser preparada rapidamente sem fritura profunda.",
         "tags": [
           "vegetariano",
           "grelhado",
@@ -149,22 +83,46 @@
         ],
         "rende_sobra": false,
         "ingredientes": [
-          "3 rodelas de abacaxi (de cerca de 2 cm de espessura)",
-          "1 colher (sopa) de licor de laranja (opcional)",
-          "3 colheres (chá) de manteiga",
-          "Açúcar para polvilhar as fatias",
-          "¼ de xícara (chá) de água",
-          "Fitas de coco seco tostadas para servir",
-          "Sorvete de coco para servir (opcional)"
+          "4 fatias de pão italiano",
+          "2 miniperas (ou 1 pera média)",
+          "8 fatias de queijo emmenthal (ou outro queijo de sua preferência)",
+          "2 colheres (sopa) de mel",
+          "Azeite a gosto"
         ],
         "preparo": [
-          "Corte as rodelas de abacaxi ao meio para formar meias-luas. Regue com o licor de laranja (se usar) e deixe descansar por 5 minutos.",
-          "Leve uma frigideira média ao fogo médio para aquecer. Polvilhe açúcar em um dos lados de cada fatia de abacaxi.",
-          "Adicione 2 colheres (chá) de manteiga na frigideira. Coloque as fatias de abacaxi com o lado açucarado para baixo e doure por cerca de 5 minutos.",
-          "Polvilhe açúcar no lado de cima das fatias, vire e doure o outro lado por igual. Transfira para um prato.",
-          "Na mesma frigideira, adicione a água e o caldinho do abacaxi. Mexa para dissolver os queimadinhos e sirva o abacaxi com as fitas de coco tostadas (e sorvete, se desejar)."
+          "Lave, seque e corte as miniperas em quartos. Fatie o pão italiano.",
+          "Aqueça uma frigideira antiaderente em fogo médio, regue com azeite e doure as fatias de pão por 1 minuto de cada lado. Reserve.",
+          "Na mesma frigideira, adicione um fio de azeite e doure os quartos de pera por cerca de 2 minutos de cada lado, até ficarem tostadinhas.",
+          "Sobre cada fatia de pão tostado, coloque 2 fatias de queijo e 2 quartos de pera grelhada.",
+          "Regue as bruschettas com mel e sirva imediatamente."
         ],
-        "id": "abacaxi-grelhado-com-coco-4ab063"
+        "id": "bruschetta-de-queijo-com-pera-grelhada-ff7aee"
+      },
+      {
+        "nome": "Brigadeiro de Colher (Rápido)",
+        "curso": "sobremesa",
+        "tempo": "15 min",
+        "url": "https://guiadacozinha.com.br/receita/brigadeiro-de-colher-facil-e-rapido-para-adocar-a-vida/",
+        "porque": "Sobremesa clássica brasileira, muito rápida de fazer com poucos ingredientes e sem necessidade de forno, perfeita para o casal.",
+        "tags": [
+          "rapido",
+          "sobremesa",
+          "doce"
+        ],
+        "rende_sobra": false,
+        "ingredientes": [
+          "1 lata de leite condensado (395g)",
+          "2 colheres (sopa) de achocolatado em pó",
+          "2 colheres (café) de manteiga sem sal",
+          "1/2 lata de creme de leite sem soro (opcional)"
+        ],
+        "preparo": [
+          "Em uma panela de fundo grosso, coloque o leite condensado, o achocolatado e a manteiga.",
+          "Leve ao fogo baixo, mexendo sempre com uma colher de pau, até a mistura começar a desgrudar do fundo da panela (cerca de 8-10 minutos).",
+          "Desligue o fogo e, se desejar, adicione o creme de leite, misturando bem para incorporar.",
+          "Transfira para potinhos individuais ou uma travessa pequena e deixe amornar antes de servir."
+        ],
+        "id": "brigadeiro-de-colher-r-pido-2cb71f"
       }
     ]
   },

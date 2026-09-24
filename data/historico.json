@@ -1,35 +1,5 @@
 [
   {
-    "id": "frango-grelhado-com-quinoa-e-legumes-sal-de7284",
-    "titulo": "Frango Grelhado com Quinoa e Legumes Salteados",
-    "tags": [
-      "frango",
-      "grelhado",
-      "low_carb"
-    ],
-    "data": "28/07/2026"
-  },
-  {
-    "id": "pat-de-gr-o-de-bico-homus-com-torradinha-240924",
-    "titulo": "Patê de Grão de Bico (Homus) com Torradinhas",
-    "tags": [
-      "vegetariano",
-      "rapido",
-      "low_carb"
-    ],
-    "data": "28/07/2026"
-  },
-  {
-    "id": "creme-de-papaia-com-cassis-light-4d7323",
-    "titulo": "Creme de Papaia com Cassis Light",
-    "tags": [
-      "rapido",
-      "sobremesa",
-      "low_carb"
-    ],
-    "data": "28/07/2026"
-  },
-  {
     "id": "rosbife-com-batata-e-br-colis-na-air-fry-a27d78",
     "titulo": "Rosbife com Batata e Brócolis na Air Fryer",
     "tags": [
@@ -5038,5 +5008,35 @@
       "rapido"
     ],
     "data": "23/09/2026"
+  },
+  {
+    "id": "carne-mo-da-recheada-ao-forno-db56ca",
+    "titulo": "Carne Moída Recheada ao Forno",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "equilibrado"
+    ],
+    "data": "24/09/2026"
+  },
+  {
+    "id": "bruschetta-de-queijo-com-pera-grelhada-ff7aee",
+    "titulo": "Bruschetta de Queijo com Pera Grelhada",
+    "tags": [
+      "vegetariano",
+      "grelhado",
+      "rapido"
+    ],
+    "data": "24/09/2026"
+  },
+  {
+    "id": "brigadeiro-de-colher-r-pido-2cb71f",
+    "titulo": "Brigadeiro de Colher (Rápido)",
+    "tags": [
+      "rapido",
+      "sobremesa",
+      "doce"
+    ],
+    "data": "24/09/2026"
   }
 ]
