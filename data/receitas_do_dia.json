@@ -1,128 +1,136 @@
 {
-  "gerado_em": "24/09/2026",
+  "gerado_em": "25/09/2026",
   "diario": {
     "tipo": "diario",
-    "data": "24/09/2026",
-    "dia_semana": "quinta",
+    "data": "25/09/2026",
+    "dia_semana": "sexta",
     "pratos": [
       {
-        "nome": "Bife Acebolado",
+        "nome": "Rosbife de Filé Mignon ao Forno",
         "curso": "principal",
-        "tempo": "25 min",
-        "url": "https://www.panelinha.com.br/receita/Bife-acebolado",
-        "porque": "Um clássico de carne vermelha, rápido de preparar na frigideira com pouca gordura, e rende bem para o casal com possibilidade de sobras.",
+        "tempo": "40 min",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGkUQ8oIPh8YI0MgguNFZwFspmH8gzb26tBVZyXPqRzoYqPROK2Um1FB8ky6etyC5l30NNAWOLKIur-QzBPf_Vnkcq3EcRqNTCPJjPmhVTa674NVJ6nl4h0J0Q0DJHgZ3SqA==",
+        "porque": "É uma receita clássica de carne vermelha, feita no forno, que agrada o casal e rende sobras, sendo prática e saborosa.",
         "tags": [
           "carne_vermelha",
-          "grelhado",
+          "forno",
           "rapido"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "2 bifes de contrafilé (ou alcatra/coxão mole) (~180g cada)",
-          "1 cebola média",
-          "2 colheres (sopa) de água",
-          "2 colheres (chá) de vinagre de vinho branco",
-          "1 colher (chá) de manteiga",
+          "750 g de filé mignon (em peça para rosbife)",
+          "1 colher (chá) de mostarda amarela em pó",
+          "1 colher (chá) de páprica defumada",
           "Azeite a gosto",
           "Sal e pimenta-do-reino moída na hora a gosto"
         ],
         "preparo": [
-          "Retire os bifes da geladeira 10 minutos antes de grelhar e tempere com sal e pimenta-do-reino.",
-          "Descasque e corte a cebola em meias-luas finas. Em uma tigela pequena, misture a água com o vinagre.",
-          "Aqueça bem uma frigideira grande em fogo médio, regue com azeite e grelhe os bifes por cerca de 2 minutos de cada lado, até dourar. Reserve os bifes.",
-          "Na mesma frigideira, adicione mais azeite e refogue a cebola com uma pitada de sal até murchar.",
-          "Acrescente a mistura de água e vinagre à cebola e deixe ferver rapidamente. Desligue o fogo, adicione a manteiga e misture para formar um molhinho.",
-          "Sirva os bifes com a cebola e o molhinho da frigideira."
+          "Preaqueça o forno a 220 ºC. Retire a peça de filé mignon da geladeira e deixe em temperatura ambiente por 15 minutos.",
+          "Em uma tigela pequena, misture a páprica com a mostarda em pó.",
+          "Disponha a carne na tábua, tempere com sal, pimenta e a mistura de especiarias. Regue com azeite e espalhe bem com as mãos.",
+          "Transfira o filé mignon para uma assadeira grande e leve ao forno para assar por 15 minutos.",
+          "Diminua a temperatura para 180 ºC e deixe o rosbife no forno por mais 10 minutos para malpassado, ou 15 minutos para ao ponto.",
+          "Retire a assadeira do forno e cubra a carne com papel-alumínio, deixando repousar por 10 minutos antes de cortar."
         ],
-        "id": "bife-acebolado-8e2e74"
+        "id": "rosbife-de-fil-mignon-ao-forno-61101a"
       },
       {
-        "nome": "Carne Moída Recheada ao Forno",
+        "nome": "Picadinho de Carne com Legumes",
         "curso": "principal",
-        "tempo": "45 min",
-        "url": "https://www.youtube.com/watch?v=Jm_x98wYq8U",
-        "porque": "Uma opção de carne vermelha assada no forno, evitando fritura, fácil de montar e ideal para gerar sobras.",
+        "tempo": "35 min",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdmZ0G8i7Kr_KrfTrmSJ58wIjLH1XgMWSBH96xDhu7MrGuHv9SOKVpi21xVG0UFqiYsobigkGsCkjbiLwemCEcJ_IMuiy1-YkpqqvBJ3m7a6L3EjirwhMmcqsJum-q6ItXXc7CDwuuqAO3WsdDwQxxyABIj3I6HiqYaDZe2xiWz3xj5uDB1MgsvMcf7rARWvuL0ocW7blhmWXE3FmIOzL_4XMbkB-BysSIXZxgi0uN62R0Nj6RO3vKnDIxv1X1c8UGiEtKMTsYweiy7aWlmiSNoR7F4g2nPkWXvLE3RVWdtO1F8edq",
+        "porque": "Um prato de carne vermelha refogado, rápido e com legumes variados, que oferece equilíbrio e sabor em uma refeição completa, evitando fritura excessiva.",
         "tags": [
           "carne_vermelha",
-          "forno",
+          "refogado",
+          "rapido",
           "equilibrado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "400g de carne moída",
-          "2-3 batatas médias cozidas e amassadas",
-          "1/2 cebola picada",
-          "1 dente de alho picado",
-          "1 tomate picado",
-          "2 colheres (sopa) de cheiro-verde picado",
-          "2 colheres (sopa) de requeijão cremoso",
-          "100g de queijo muçarela fatiado ou ralado",
-          "1/2 xícara (chá) de molho de tomate pronto",
-          "Sal, pimenta-do-reino e orégano a gosto",
-          "Azeite para untar"
+          "500g de alcatra, patinho ou coxão mole (em tiras/cubinhos)",
+          "1 cenoura média",
+          "1 xícara de brócolis",
+          "1 xícara de vagem ou ervilha-torta",
+          "1 pimentão amarelo (em tiras)",
+          "3 dentes de alho picados",
+          "1 cebola média fatiada",
+          "Sal e pimenta-do-reino a gosto",
+          "2 colheres (sopa) de molho shoyu",
+          "Um fio de azeite",
+          "Cheiro-verde picado para finalizar"
         ],
         "preparo": [
-          "Em uma tigela, misture a carne moída crua com sal, pimenta, cheiro-verde, alho e cebola picados. Reserve.",
-          "Em outra tigela, amasse as batatas cozidas e tempere com sal. Adicione o tomate picado e o requeijão, misturando bem.",
-          "Unte uma forma refratária com azeite. Espalhe metade da carne moída no fundo, formando uma base.",
-          "Distribua o recheio de batata e tomate sobre a carne. Cubra com o restante da carne moída, a muçarela fatiada e o molho de tomate.",
-          "Leve ao forno pré-aquecido a 180°C por cerca de 25-30 minutos, ou até gratinar e a carne estar cozida. Sirva quente."
+          "Prepare os legumes: corte a cenoura e separe os buquês de brócolis. Se desejar, cozinhe no vapor por 3 minutos antes.",
+          "Sele a carne: Aqueça uma frigideira ou wok com azeite e doure a carne em fogo alto, em porções para não juntar água. Reserve.",
+          "Na mesma panela, refogue a cebola e o alho até dourarem e soltarem bastante aroma.",
+          "Volte a carne para a panela e acrescente os legumes e o pimentão.",
+          "Adicione o molho shoyu, ajuste o sal e coloque pimenta-do-reino. Mexa por 2 ou 3 minutos até tudo ficar brilhante e saboroso.",
+          "Desligue o fogo e finalize com cheiro-verde picadinho."
         ],
-        "id": "carne-mo-da-recheada-ao-forno-db56ca"
+        "id": "picadinho-de-carne-com-legumes-e78ab4"
       },
       {
-        "nome": "Bruschetta de Queijo com Pera Grelhada",
+        "nome": "Patê de Queijos com Torradas de Pão Pita",
         "curso": "entrada",
         "tempo": "20 min",
-        "url": "https://www.panelinha.com.br/receita/Tartine-de-queijo-com-pera-grelhada",
-        "porque": "Uma entrada diferente e sofisticada, com um toque agridoce e fresco, que pode ser preparada rapidamente sem fritura profunda.",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPa-QzKtIfUWDE2Bn-SncAYcRULyX3CsA5GKEzgNDPwZ4ABB7IcNFNM0b-4bsaC6v0QipqQqmVVNt_VWe1KCBggg415G0FgxTOuntOQe9izPSt_fBMhm5cCiWxmQEvDsvzIG-7mv3Nnr25-cBmaEuBNw8=",
+        "porque": "Uma entrada cremosa e saborosa, feita no liquidificador e servida com torradas assadas, ideal para acompanhar o jantar e render sobras.",
         "tags": [
           "vegetariano",
-          "grelhado",
-          "rapido"
+          "rapido",
+          "entrada"
         ],
-        "rende_sobra": false,
+        "rende_sobra": true,
         "ingredientes": [
-          "4 fatias de pão italiano",
-          "2 miniperas (ou 1 pera média)",
-          "8 fatias de queijo emmenthal (ou outro queijo de sua preferência)",
-          "2 colheres (sopa) de mel",
-          "Azeite a gosto"
+          "1 lata de creme de leite",
+          "1/2 xícara (chá) de leite",
+          "1 colher (sopa) de margarina",
+          "150 g de queijo bola (ralado ou picado)",
+          "100 g de queijo Gruyère (ralado ou picado)",
+          "1/2 xícara (chá) de requeijão",
+          "Sal e pimenta-do-reino a gosto",
+          "Pão pita (para torradas)"
         ],
         "preparo": [
-          "Lave, seque e corte as miniperas em quartos. Fatie o pão italiano.",
-          "Aqueça uma frigideira antiaderente em fogo médio, regue com azeite e doure as fatias de pão por 1 minuto de cada lado. Reserve.",
-          "Na mesma frigideira, adicione um fio de azeite e doure os quartos de pera por cerca de 2 minutos de cada lado, até ficarem tostadinhas.",
-          "Sobre cada fatia de pão tostado, coloque 2 fatias de queijo e 2 quartos de pera grelhada.",
-          "Regue as bruschettas com mel e sirva imediatamente."
+          "No liquidificador, bata o creme de leite com o leite e a margarina até ficar homogêneo.",
+          "Adicione os queijos (bola e Gruyère) e o requeijão, tempere com sal e pimenta-do-reino a gosto. Bata novamente até incorporar.",
+          "Transfira o patê para um recipiente, cubra e leve à geladeira por 2 horas para firmar.",
+          "Sirva com torradas de pão pita, que podem ser preparadas no forno ou micro-ondas até ficarem crocantes."
         ],
-        "id": "bruschetta-de-queijo-com-pera-grelhada-ff7aee"
+        "id": "pat-de-queijos-com-torradas-de-p-o-pita-3c316f"
       },
       {
-        "nome": "Brigadeiro de Colher (Rápido)",
+        "nome": "Escondidinho de Morango com Leite Ninho",
         "curso": "sobremesa",
-        "tempo": "15 min",
-        "url": "https://guiadacozinha.com.br/receita/brigadeiro-de-colher-facil-e-rapido-para-adocar-a-vida/",
-        "porque": "Sobremesa clássica brasileira, muito rápida de fazer com poucos ingredientes e sem necessidade de forno, perfeita para o casal.",
+        "tempo": "25 min",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoE47cgqYTBuwaDG7mYmqNHtokGJg9XoSt1ZBdJeNmpV0GqkElCNZsgNmpaqGd5a79RX1NiNa1LyaXv_D2Hhk-Whb83gCSGq1SqPzC3dunQuL8jR7VPRyqs-ym-gObe2IHB33i_gwZr5zPF3IQq4gRo3tqMSh-ap_ikE5kZv--N8hUmwpwswWd",
+        "porque": "Uma sobremesa rápida e fácil de fazer, sem forno, combinando a cremosidade do leite Ninho com o frescor do morango, perfeita para um doce delicioso e prático.",
         "tags": [
           "rapido",
-          "sobremesa",
-          "doce"
+          "geladeira",
+          "fruta"
         ],
-        "rende_sobra": false,
+        "rende_sobra": true,
         "ingredientes": [
-          "1 lata de leite condensado (395g)",
-          "2 colheres (sopa) de achocolatado em pó",
-          "2 colheres (café) de manteiga sem sal",
-          "1/2 lata de creme de leite sem soro (opcional)"
+          "1 lata de leite condensado",
+          "1 caixa de creme de leite",
+          "1 xícara de leite Ninho",
+          "1 colher (sopa) de manteiga",
+          "2 caixas de morango",
+          "½ xícara de açúcar",
+          "Suco de meio limão",
+          "Morangos picados para decorar (opcional)",
+          "Raspas de chocolate branco (opcional)"
         ],
         "preparo": [
-          "Em uma panela de fundo grosso, coloque o leite condensado, o achocolatado e a manteiga.",
-          "Leve ao fogo baixo, mexendo sempre com uma colher de pau, até a mistura começar a desgrudar do fundo da panela (cerca de 8-10 minutos).",
-          "Desligue o fogo e, se desejar, adicione o creme de leite, misturando bem para incorporar.",
-          "Transfira para potinhos individuais ou uma travessa pequena e deixe amornar antes de servir."
+          "Para o creme de leite Ninho: Em uma panela, adicione o leite condensado, o leite Ninho, o creme de leite e a manteiga. Cozinhe em fogo médio, mexendo sempre, até a mistura engrossar e ficar em ponto de brigadeiro mole (cerca de 10 a 15 minutos). Retire do fogo e deixe esfriar um pouco.",
+          "Para a camada de morango: Lave bem os morangos, retire as folhas e corte-os em pedaços pequenos. Em uma panela, adicione os morangos, o açúcar e o suco de limão. Cozinhe em fogo médio, mexendo de vez em quando, até que os morangos estejam macios e a calda tenha engrossado levemente (cerca de 10 minutos). Deixe esfriar.",
+          "Para a montagem: Em taças ou potes individuais, coloque uma camada do creme de leite Ninho. Adicione uma camada da calda de morango.",
+          "Repita as camadas até preencher as taças, finalizando com uma camada do creme de leite Ninho. Decore com morangos picados e raspas de chocolate branco, se desejar.",
+          "Leve as taças à geladeira por pelo menos 2 horas antes de servir, para que a sobremesa fique bem gelada e os sabores se intensifiquem."
         ],
-        "id": "brigadeiro-de-colher-r-pido-2cb71f"
+        "id": "escondidinho-de-morango-com-leite-ninho-f9538a"
       }
     ]
   },
