@@ -1,35 +1,5 @@
 [
   {
-    "id": "mousse-de-chocolate-com-gua-945f5d",
-    "titulo": "Mousse de Chocolate com Água",
-    "tags": [
-      "sobremesa",
-      "rapido",
-      "vegetariano"
-    ],
-    "data": "28/07/2026"
-  },
-  {
-    "id": "carne-mo-da-refogada-com-pur-de-mandioca-3ca327",
-    "titulo": "Carne Moída Refogada com Purê de Mandioca e Brócolis no Vapor",
-    "tags": [
-      "carne_vermelha",
-      "rapido",
-      "equilibrado"
-    ],
-    "data": "28/07/2026"
-  },
-  {
-    "id": "frango-xadrez-light-8e58bc",
-    "titulo": "Frango Xadrez Light",
-    "tags": [
-      "frango",
-      "rapido",
-      "refogado"
-    ],
-    "data": "28/07/2026"
-  },
-  {
     "id": "mini-wraps-de-frango-com-requeij-o-light-8c01e2",
     "titulo": "Mini Wraps de Frango com Requeijão Light e Cenoura Ralada",
     "tags": [
@@ -5039,5 +5009,35 @@
       "fruta"
     ],
     "data": "25/09/2026"
+  },
+  {
+    "id": "bife-de-panela-com-legumes-f496cd",
+    "titulo": "Bife de Panela com Legumes",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "equilibrado"
+    ],
+    "data": "26/09/2026"
+  },
+  {
+    "id": "rosbife-de-maminha-na-air-fryer-com-azei-aa56bc",
+    "titulo": "Rosbife de Maminha na Air Fryer com Azeite de Ervas",
+    "tags": [
+      "carne_vermelha",
+      "airfryer",
+      "rapido"
+    ],
+    "data": "26/09/2026"
+  },
+  {
+    "id": "gelado-de-creme-com-doce-de-leite-662152",
+    "titulo": "Gelado de Creme com Doce de Leite",
+    "tags": [
+      "doce",
+      "rapido",
+      "gelado"
+    ],
+    "data": "26/09/2026"
   }
 ]

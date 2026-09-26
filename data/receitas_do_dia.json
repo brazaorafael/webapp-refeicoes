@@ -1,136 +1,134 @@
 {
-  "gerado_em": "25/09/2026",
+  "gerado_em": "26/09/2026",
   "diario": {
     "tipo": "diario",
-    "data": "25/09/2026",
-    "dia_semana": "sexta",
+    "data": "26/09/2026",
+    "dia_semana": "sábado",
     "pratos": [
       {
-        "nome": "Rosbife de Filé Mignon ao Forno",
+        "nome": "Bife de Panela com Legumes",
         "curso": "principal",
-        "tempo": "40 min",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGkUQ8oIPh8YI0MgguNFZwFspmH8gzb26tBVZyXPqRzoYqPROK2Um1FB8ky6etyC5l30NNAWOLKIur-QzBPf_Vnkcq3EcRqNTCPJjPmhVTa674NVJ6nl4h0J0Q0DJHgZ3SqA==",
-        "porque": "É uma receita clássica de carne vermelha, feita no forno, que agrada o casal e rende sobras, sendo prática e saborosa.",
+        "tempo": "45 min",
+        "url": "https://www.tudoreceitas.com/receita-de-bife-de-panela-com-legumes-muito-facil-de-fazer-80414.html",
+        "porque": "É uma receita prática de carne vermelha, feita em uma panela única e com legumes, garantindo equilíbrio e sabor em até 45 minutos.",
         "tags": [
           "carne_vermelha",
-          "forno",
-          "rapido"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "750 g de filé mignon (em peça para rosbife)",
-          "1 colher (chá) de mostarda amarela em pó",
-          "1 colher (chá) de páprica defumada",
-          "Azeite a gosto",
-          "Sal e pimenta-do-reino moída na hora a gosto"
-        ],
-        "preparo": [
-          "Preaqueça o forno a 220 ºC. Retire a peça de filé mignon da geladeira e deixe em temperatura ambiente por 15 minutos.",
-          "Em uma tigela pequena, misture a páprica com a mostarda em pó.",
-          "Disponha a carne na tábua, tempere com sal, pimenta e a mistura de especiarias. Regue com azeite e espalhe bem com as mãos.",
-          "Transfira o filé mignon para uma assadeira grande e leve ao forno para assar por 15 minutos.",
-          "Diminua a temperatura para 180 ºC e deixe o rosbife no forno por mais 10 minutos para malpassado, ou 15 minutos para ao ponto.",
-          "Retire a assadeira do forno e cubra a carne com papel-alumínio, deixando repousar por 10 minutos antes de cortar."
-        ],
-        "id": "rosbife-de-fil-mignon-ao-forno-61101a"
-      },
-      {
-        "nome": "Picadinho de Carne com Legumes",
-        "curso": "principal",
-        "tempo": "35 min",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdmZ0G8i7Kr_KrfTrmSJ58wIjLH1XgMWSBH96xDhu7MrGuHv9SOKVpi21xVG0UFqiYsobigkGsCkjbiLwemCEcJ_IMuiy1-YkpqqvBJ3m7a6L3EjirwhMmcqsJum-q6ItXXc7CDwuuqAO3WsdDwQxxyABIj3I6HiqYaDZe2xiWz3xj5uDB1MgsvMcf7rARWvuL0ocW7blhmWXE3FmIOzL_4XMbkB-BysSIXZxgi0uN62R0Nj6RO3vKnDIxv1X1c8UGiEtKMTsYweiy7aWlmiSNoR7F4g2nPkWXvLE3RVWdtO1F8edq",
-        "porque": "Um prato de carne vermelha refogado, rápido e com legumes variados, que oferece equilíbrio e sabor em uma refeição completa, evitando fritura excessiva.",
-        "tags": [
-          "carne_vermelha",
-          "refogado",
           "rapido",
           "equilibrado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "500g de alcatra, patinho ou coxão mole (em tiras/cubinhos)",
-          "1 cenoura média",
-          "1 xícara de brócolis",
-          "1 xícara de vagem ou ervilha-torta",
-          "1 pimentão amarelo (em tiras)",
-          "3 dentes de alho picados",
-          "1 cebola média fatiada",
-          "Sal e pimenta-do-reino a gosto",
-          "2 colheres (sopa) de molho shoyu",
-          "Um fio de azeite",
-          "Cheiro-verde picado para finalizar"
+          "4 bifes (patinho, alcatra ou coxão duro)",
+          "½ cenoura",
+          "1 batata grande",
+          "½ lata de tomate pelado",
+          "1 xícara de caldo de legumes",
+          "3 dentes de alho",
+          "½ colher de chá de páprica doce",
+          "Sal a gosto",
+          "Pimenta a gosto",
+          "Cominho a gosto",
+          "Azeite a gosto"
         ],
         "preparo": [
-          "Prepare os legumes: corte a cenoura e separe os buquês de brócolis. Se desejar, cozinhe no vapor por 3 minutos antes.",
-          "Sele a carne: Aqueça uma frigideira ou wok com azeite e doure a carne em fogo alto, em porções para não juntar água. Reserve.",
-          "Na mesma panela, refogue a cebola e o alho até dourarem e soltarem bastante aroma.",
-          "Volte a carne para a panela e acrescente os legumes e o pimentão.",
-          "Adicione o molho shoyu, ajuste o sal e coloque pimenta-do-reino. Mexa por 2 ou 3 minutos até tudo ficar brilhante e saboroso.",
-          "Desligue o fogo e finalize com cheiro-verde picadinho."
+          "Pique o alho, descasque e corte a cenoura e batata em pedaços menores. Aqueça o caldo de legumes.",
+          "Tempere os bifes com sal, pimenta e cominho a gosto.",
+          "Em uma panela em fogo médio, despeje azeite e sele todos os bifes.",
+          "Adicione o alho e a páprica, misture raspando o fundo da panela. Junte o tomate pelado.",
+          "Acrescente a batata e a cenoura, despeje o caldo de legumes. Tampe e cozinhe até os legumes ficarem macios (aprox. 15-20 min)."
         ],
-        "id": "picadinho-de-carne-com-legumes-e78ab4"
+        "id": "bife-de-panela-com-legumes-f496cd"
       },
       {
-        "nome": "Patê de Queijos com Torradas de Pão Pita",
+        "nome": "Rosbife de Maminha na Air Fryer com Azeite de Ervas",
+        "curso": "principal",
+        "tempo": "25 min",
+        "url": "https://www.youtube.com/watch?v=kG_N07p02mQ",
+        "porque": "É uma opção rápida e saborosa de carne vermelha, preparada na Air Fryer com azeite de ervas, garantindo praticidade e um sabor especial em menos de 30 minutos de cozimento.",
+        "tags": [
+          "carne_vermelha",
+          "airfryer",
+          "rapido"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "1 peça de maminha bovina (aprox. 1,3 kg)",
+          "2 colheres (sopa) de sal grosso",
+          "Pimenta-do-reino moída a gosto",
+          "50 g de azeite (para o azeite de ervas)",
+          "10 g de chimichurri (para o azeite de ervas)",
+          "½ colher (chá) de tomilho debulhado (para o azeite de ervas)",
+          "1 colher (chá) de raspas de limão-siciliano (para o azeite de ervas)",
+          "Sal e pimenta-do-reino moída a gosto (para o azeite de ervas)"
+        ],
+        "preparo": [
+          "Tempere a maminha com sal grosso e pimenta-do-reino.",
+          "Pré-aqueça a Air Fryer a 200°C. Coloque a maminha com a gordura para cima e asse por 10 minutos.",
+          "Vire a peça e asse por mais 5 minutos ou até dourar. Retire e deixe descansar por alguns minutos.",
+          "Para o azeite de ervas, misture azeite, chimichurri, tomilho, raspas de limão, sal e pimenta.",
+          "Fatie o rosbife e sirva regado com o azeite de ervas."
+        ],
+        "id": "rosbife-de-maminha-na-air-fryer-com-azei-aa56bc"
+      },
+      {
+        "nome": "Salada de Tomate com Azeite Crocante",
         "curso": "entrada",
         "tempo": "20 min",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPa-QzKtIfUWDE2Bn-SncAYcRULyX3CsA5GKEzgNDPwZ4ABB7IcNFNM0b-4bsaC6v0QipqQqmVVNt_VWe1KCBggg415G0FgxTOuntOQe9izPSt_fBMhm5cCiWxmQEvDsvzIG-7mv3Nnr25-cBmaEuBNw8=",
-        "porque": "Uma entrada cremosa e saborosa, feita no liquidificador e servida com torradas assadas, ideal para acompanhar o jantar e render sobras.",
+        "url": "https://www.panelinha.com.br/receita/salada-de-tomate-com-azeite-crocante",
+        "porque": "Uma entrada leve e refrescante, com o toque especial do azeite crocante, fácil e rápida de preparar.",
         "tags": [
           "vegetariano",
           "rapido",
-          "entrada"
+          "salada"
         ],
-        "rende_sobra": true,
+        "rende_sobra": false,
         "ingredientes": [
-          "1 lata de creme de leite",
-          "1/2 xícara (chá) de leite",
-          "1 colher (sopa) de margarina",
-          "150 g de queijo bola (ralado ou picado)",
-          "100 g de queijo Gruyère (ralado ou picado)",
-          "1/2 xícara (chá) de requeijão",
-          "Sal e pimenta-do-reino a gosto",
-          "Pão pita (para torradas)"
+          "4 tomates maduros variados",
+          "3 colheres (sopa) de azeite",
+          "2 colheres (sopa) de castanha-de-caju picada",
+          "1 colher (chá) de sementes de girassol",
+          "½ colher (chá) de sementes de coentro",
+          "¼ colher (chá) de pimenta calabresa seca",
+          "1 ramo pequeno de alecrim",
+          "1 dente de alho",
+          "Sal a gosto"
         ],
         "preparo": [
-          "No liquidificador, bata o creme de leite com o leite e a margarina até ficar homogêneo.",
-          "Adicione os queijos (bola e Gruyère) e o requeijão, tempere com sal e pimenta-do-reino a gosto. Bata novamente até incorporar.",
-          "Transfira o patê para um recipiente, cubra e leve à geladeira por 2 horas para firmar.",
-          "Sirva com torradas de pão pita, que podem ser preparadas no forno ou micro-ondas até ficarem crocantes."
+          "Pique as castanhas, debulhe o alecrim e fatie o alho.",
+          "Em uma frigideira pequena, aqueça o azeite. Adicione a castanha-de-caju, sementes de girassol e coentro, pimenta calabresa, alecrim e sal. Refogue.",
+          "Junte o alho e mexa por 1 minuto para perfumar. Transfira para uma tigela e deixe esfriar.",
+          "Lave e corte os tomates em gomos ou rodelas.",
+          "Disponha os tomates em um prato e regue com o azeite crocante. Sirva imediatamente."
         ],
-        "id": "pat-de-queijos-com-torradas-de-p-o-pita-3c316f"
+        "id": "salada-de-tomate-com-azeite-crocante-bdb7a1"
       },
       {
-        "nome": "Escondidinho de Morango com Leite Ninho",
+        "nome": "Gelado de Creme com Doce de Leite",
         "curso": "sobremesa",
-        "tempo": "25 min",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoE47cgqYTBuwaDG7mYmqNHtokGJg9XoSt1ZBdJeNmpV0GqkElCNZsgNmpaqGd5a79RX1NiNa1LyaXv_D2Hhk-Whb83gCSGq1SqPzC3dunQuL8jR7VPRyqs-ym-gObe2IHB33i_gwZr5zPF3IQq4gRo3tqMSh-ap_ikE5kZv--N8hUmwpwswWd",
-        "porque": "Uma sobremesa rápida e fácil de fazer, sem forno, combinando a cremosidade do leite Ninho com o frescor do morango, perfeita para um doce delicioso e prático.",
+        "tempo": "15 min",
+        "url": "https://www.youtube.com/watch?v=R90hR7sDk1A",
+        "porque": "Uma sobremesa gelada, sem forno, com poucos ingredientes e preparo rápido, perfeita para adoçar o sábado.",
         "tags": [
+          "doce",
           "rapido",
-          "geladeira",
-          "fruta"
+          "gelado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "1 lata de leite condensado",
-          "1 caixa de creme de leite",
-          "1 xícara de leite Ninho",
-          "1 colher (sopa) de manteiga",
-          "2 caixas de morango",
-          "½ xícara de açúcar",
-          "Suco de meio limão",
-          "Morangos picados para decorar (opcional)",
-          "Raspas de chocolate branco (opcional)"
+          "1 caixa (200g) de creme de leite gelado",
+          "½ xícara (chá) (165g) de leite condensado gelado",
+          "13 biscoitos maisena",
+          "½ xícara (chá) (140g) de doce de leite",
+          "¼ xícara (chá) de amendoim torrado e picadinho"
         ],
         "preparo": [
-          "Para o creme de leite Ninho: Em uma panela, adicione o leite condensado, o leite Ninho, o creme de leite e a manteiga. Cozinhe em fogo médio, mexendo sempre, até a mistura engrossar e ficar em ponto de brigadeiro mole (cerca de 10 a 15 minutos). Retire do fogo e deixe esfriar um pouco.",
-          "Para a camada de morango: Lave bem os morangos, retire as folhas e corte-os em pedaços pequenos. Em uma panela, adicione os morangos, o açúcar e o suco de limão. Cozinhe em fogo médio, mexendo de vez em quando, até que os morangos estejam macios e a calda tenha engrossado levemente (cerca de 10 minutos). Deixe esfriar.",
-          "Para a montagem: Em taças ou potes individuais, coloque uma camada do creme de leite Ninho. Adicione uma camada da calda de morango.",
-          "Repita as camadas até preencher as taças, finalizando com uma camada do creme de leite Ninho. Decore com morangos picados e raspas de chocolate branco, se desejar.",
-          "Leve as taças à geladeira por pelo menos 2 horas antes de servir, para que a sobremesa fique bem gelada e os sabores se intensifiquem."
+          "Na batedeira, bata o creme de leite gelado por cerca de 10 minutos até dobrar de volume.",
+          "Desligue a batedeira, adicione o leite condensado gelado e o amendoim picado. Misture com uma espátula.",
+          "Forre uma forma retangular pequena com plástico filme. Espalhe os biscoitos maisena no fundo.",
+          "Faça uma camada com metade do creme de amendoim, distribua porções de doce de leite.",
+          "Faça mais uma camada com o restante do creme e cubra com os biscoitos. Cubra com plástico e leve ao freezer por no mínimo 8 horas."
         ],
-        "id": "escondidinho-de-morango-com-leite-ninho-f9538a"
+        "id": "gelado-de-creme-com-doce-de-leite-662152"
       }
     ]
   },
