@@ -1,24 +1,5 @@
 [
   {
-    "id": "mini-wraps-de-frango-com-requeij-o-light-8c01e2",
-    "titulo": "Mini Wraps de Frango com Requeijão Light e Cenoura Ralada",
-    "tags": [
-      "frango",
-      "rapido",
-      "low_carb"
-    ],
-    "data": "28/07/2026"
-  },
-  {
-    "id": "mousse-de-lim-o-r-pida-de62c5",
-    "titulo": "Mousse de Limão Rápida",
-    "tags": [
-      "rapido",
-      "doce"
-    ],
-    "data": "28/07/2026"
-  },
-  {
     "id": "lombo-assado-com-tomates-e-ervas-e69cc1",
     "titulo": "Lombo Assado com Tomates e Ervas",
     "tags": [
@@ -5039,5 +5020,25 @@
       "gelado"
     ],
     "data": "26/09/2026"
+  },
+  {
+    "id": "fil-de-frango-grelhado-com-abobrinha-e-c-066cbe",
+    "titulo": "Filé de Frango Grelhado com Abobrinha e Cenoura",
+    "tags": [
+      "frango",
+      "grelhado",
+      "equilibrado"
+    ],
+    "data": "27/09/2026"
+  },
+  {
+    "id": "coalhada-seca-com-azeite-e-especiarias-bbbba0",
+    "titulo": "Coalhada Seca com Azeite e Especiarias",
+    "tags": [
+      "vegetariano",
+      "rapido",
+      "low_carb"
+    ],
+    "data": "27/09/2026"
   }
 ]
