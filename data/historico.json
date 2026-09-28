@@ -1,37 +1,5 @@
 [
   {
-    "id": "romeu-e-julieta-na-travessa-sem-forno-81da6c",
-    "titulo": "Romeu e Julieta na Travessa (sem forno)",
-    "tags": [
-      "doce",
-      "gelado",
-      "rapido"
-    ],
-    "data": "28/07/2026"
-  },
-  {
-    "id": "bife-de-patinho-grelhado-com-arroz-e-sal-f0489b",
-    "titulo": "Bife de Patinho Grelhado com Arroz e Salada Verde",
-    "tags": [
-      "carne_vermelha",
-      "grelhado",
-      "rapido",
-      "equilibrado"
-    ],
-    "data": "28/07/2026"
-  },
-  {
-    "id": "frango-refogado-com-legumes-e-molho-de-t-aea3d6",
-    "titulo": "Frango Refogado com Legumes e Molho de Tomate",
-    "tags": [
-      "frango",
-      "refogado",
-      "equilibrado",
-      "rapido"
-    ],
-    "data": "28/07/2026"
-  },
-  {
     "id": "dadinhos-de-tapioca-na-airfryer-5514d1",
     "titulo": "Dadinhos de Tapioca na Airfryer",
     "tags": [
@@ -5040,5 +5008,35 @@
       "forno"
     ],
     "data": "27/09/2026"
+  },
+  {
+    "id": "fil-mignon-na-air-fryer-9754d5",
+    "titulo": "Filé Mignon na Air Fryer",
+    "tags": [
+      "carne_vermelha",
+      "airfryer",
+      "rapido",
+      "grelhado"
+    ],
+    "data": "28/09/2026"
+  },
+  {
+    "id": "bife-parmegiana-na-air-fryer-6cb890",
+    "titulo": "Bife à Parmegiana na Air Fryer",
+    "tags": [
+      "carne_vermelha",
+      "airfryer",
+      "rapido"
+    ],
+    "data": "28/09/2026"
+  },
+  {
+    "id": "mousse-r-pida-de-chocolate-2c80b5",
+    "titulo": "Mousse Rápida de Chocolate",
+    "tags": [
+      "rapido",
+      "sobremesa"
+    ],
+    "data": "28/09/2026"
   }
 ]

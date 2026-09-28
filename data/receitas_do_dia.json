@@ -1,126 +1,124 @@
 {
-  "gerado_em": "27/09/2026",
+  "gerado_em": "28/09/2026",
   "diario": {
     "tipo": "diario",
-    "data": "27/09/2026",
-    "dia_semana": "domingo",
+    "data": "28/09/2026",
+    "dia_semana": "segunda",
     "pratos": [
       {
-        "nome": "Bife Acebolado",
+        "nome": "Filé Mignon na Air Fryer",
         "curso": "principal",
-        "tempo": "30 min",
-        "url": "https://www.panelinha.com.br/receita/bife-acebolado",
-        "porque": "É um prato clássico de carne vermelha, rápido de preparar na frigideira com pouca gordura e ideal para uma refeição equilibrada.",
+        "tempo": "20 min",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtsUZIkDd2SYkvK9NIz7RBiJW2HwjxYPKvi9HAgWltjmAUCb1oqWLxozW6QmnRuRlJKJLWGUVAXssbvJxcA77eMeBB8M_CZm0Zb_4dAgmpTxSqr1m6vXA4u25_jNWrzEroPlZCkA0",
+        "porque": "Este prato é rápido, saudável e utiliza a air fryer, resultando em uma carne vermelha suculenta e perfeita para um jantar a dois.",
         "tags": [
           "carne_vermelha",
+          "airfryer",
           "rapido",
-          "refogado"
+          "grelhado"
         ],
-        "rende_sobra": true,
+        "rende_sobra": false,
         "ingredientes": [
-          "2 bifes de contrafilé (ou alcatra/coxão mole)",
-          "1 cebola média",
-          "1 colher (chá) de azeite",
-          "2 colheres (sopa) de água",
-          "2 colheres (chá) de vinagre de vinho branco",
-          "Sal a gosto",
-          "Pimenta-do-reino a gosto"
+          "2 medalhões de filé mignon (~180g cada)",
+          "Sal grosso a gosto",
+          "Pimenta-do-reino moída na hora a gosto",
+          "1 colher de sopa de manteiga",
+          "2 dentes de alho picados"
         ],
         "preparo": [
-          "Retire os bifes da geladeira 10 minutos antes. Tempere com sal e pimenta-do-reino a gosto.",
-          "Descasque e corte a cebola em meias-luas de 0,5 cm.",
-          "Aqueça uma frigideira grande em fogo médio-alto com 1 colher (chá) de azeite. Grelhe os bifes por cerca de 2 minutos de cada lado, até dourar, e reserve.",
-          "Na mesma frigideira, adicione as cebolas e refogue até murcharem. Se precisar, adicione um fio de azeite.",
-          "Misture a água com o vinagre e adicione à frigideira, raspando o fundo para soltar os sabores. Deixe o molho reduzir um pouco.",
-          "Retorne os bifes à frigideira, misture com as cebolas e sirva imediatamente."
+          "Tempere os medalhões de filé mignon com sal grosso e pimenta-do-reino moída na hora.",
+          "Pré-aqueça a air fryer a 200°C por 5 minutos.",
+          "Coloque os medalhões na cesta da air fryer e cozinhe por 8-12 minutos, virando na metade do tempo, para o ponto desejado.",
+          "Enquanto a carne assa, derreta a manteiga em uma frigideira pequena e adicione o alho picado, refogando rapidamente.",
+          "Retire os medalhões da air fryer, pincele com a manteiga de alho e deixe descansar por 2 minutos antes de servir."
         ],
-        "id": "bife-acebolado-8e2e74"
+        "id": "fil-mignon-na-air-fryer-9754d5"
       },
       {
-        "nome": "Filé de Frango Grelhado com Abobrinha e Cenoura",
+        "nome": "Bife à Parmegiana na Air Fryer",
         "curso": "principal",
         "tempo": "35 min",
-        "url": "https://www.panelinha.com.br/receita/pe-efe-de-file-de-frango-grelhado-e-legumes-assados",
-        "porque": "É um prato de frango grelhado e equilibrado com legumes, rápido de fazer e ideal para uma refeição leve e saborosa.",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrlJ9QtQv18Kq9XWELT3kzWhIrAblktPnX58ai2r8r5-U7HImMovZimK7bMO-tW7-JpHfoYnas5ptn9mseW0cVFlnuBAVtyprtyn1PvYSgVDEGknYKukR0rbCqtSP769v7-Hpks91ci4EwW5Vi_5Z4U9taARNoSFxF",
+        "porque": "Esta versão mais saudável do clássico bife à parmegiana é feita na air fryer, evitando a fritura por imersão, e é uma opção reconfortante de carne vermelha.",
         "tags": [
-          "frango",
-          "grelhado",
-          "equilibrado"
+          "carne_vermelha",
+          "airfryer",
+          "rapido"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "2 filés de peito de frango (cerca de 300g)",
-          "1 abobrinha média",
-          "1 cenoura média",
-          "1 dente de alho picado (opcional)",
-          "2 colheres (sopa) de azeite de oliva",
-          "Sal a gosto",
-          "Pimenta-do-reino a gosto",
-          "Ervas frescas picadas (salsinha, cebolinha) a gosto"
+          "2 bifes de carne (ex: coxão mole ou contrafilé, ~150g cada)",
+          "1/3 xícara de farinha de trigo",
+          "1 ovo batido com 1 colher de sopa de água",
+          "1 xícara de farinha de rosca",
+          "1/2 xícara de molho de tomate pronto",
+          "100g de queijo muçarela ralado ou fatiado",
+          "Sal e pimenta-do-reino a gosto",
+          "Azeite em spray (opcional)"
         ],
         "preparo": [
-          "Tempere os filés de frango com sal, pimenta-do-reino e alho picado. Deixe marinar por 10 minutos.",
-          "Lave e corte a abobrinha em rodelas e a cenoura em tiras finas ou rodelas.",
-          "Aqueça 1 colher (sopa) de azeite em uma frigideira grande ou grelha em fogo médio-alto. Grelhe os filés de frango por cerca de 4-6 minutos de cada lado, até dourarem e estarem cozidos por completo. Retire e reserve.",
-          "Na mesma frigideira, adicione o restante do azeite e refogue a abobrinha e a cenoura por 5-7 minutos, até ficarem macias, mas ainda crocantes.",
-          "Sirva o frango grelhado acompanhado dos legumes refogados. Finalize com ervas frescas picadas."
+          "Tempere os bifes com sal e pimenta. Prepare três pratos: um com farinha de trigo, um com o ovo batido com água e um com a farinha de rosca.",
+          "Passe cada bife primeiro na farinha de trigo, depois no ovo e, por último, na farinha de rosca, garantindo que estejam bem empanados. Se desejar, borrife azeite na farinha de rosca para dourar melhor.",
+          "Pré-aqueça a air fryer a 200°C por 5 minutos. Coloque os bifes na cesta da air fryer (se necessário, faça em levas) e asse por 10-12 minutos, virando na metade do tempo, até dourarem.",
+          "Cubra cada bife com molho de tomate e fatias de queijo muçarela. Retorne à air fryer por mais 3-5 minutos, ou até o queijo derreter e borbulhar, usando a função gratinar se disponível."
         ],
-        "id": "fil-de-frango-grelhado-com-abobrinha-e-c-066cbe"
+        "id": "bife-parmegiana-na-air-fryer-6cb890"
       },
       {
-        "nome": "Coalhada Seca com Azeite e Especiarias",
+        "nome": "Pão de Alho na Air Fryer",
         "curso": "entrada",
-        "tempo": "10 min",
-        "url": "https://www.panelaterapia.com/2019/05/coalhada-seca-facil.html",
-        "porque": "Uma entrada rápida e saudável, rica em proteína, que pode ser preparada com antecedência e complementa bem a refeição.",
+        "tempo": "15 min",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJu3uJZzMKFXPhVHN9ElOf7kzk3QkRJPFKQrOlecq2ySySP9QKpoViF7BAZKiSup-a2SbD-JHktLf57dixZOrd_yDnK4PLLJwZ5rqQd68YVHuaPZrlnNXfXJziY3pwB7e5KUgt1QVhbIDWozzS9-OwCPZl9eWzCZVVN-uHXNlKeog=",
+        "porque": "Uma entrada saborosa e prática, preparada rapidamente na air fryer para um pão crocante sem excesso de óleo.",
         "tags": [
-          "vegetariano",
+          "airfryer",
           "rapido",
-          "low_carb"
+          "pães"
         ],
-        "rende_sobra": true,
+        "rende_sobra": false,
         "ingredientes": [
-          "200g de coalhada seca (pronta)",
-          "2 colheres (sopa) de azeite extra virgem",
-          "1 colher (chá) de zaatar ou outras especiarias (páprica, orégano)",
-          "Sal a gosto",
-          "Folhas de hortelã fresca (opcional, para decorar)"
+          "1 baguete pequena ou 2 pães franceses",
+          "2 colheres de sopa de manteiga sem sal (em temperatura ambiente)",
+          "2 dentes de alho picados finamente",
+          "1 colher de sopa de salsinha picada",
+          "1 pitada de sal e pimenta-do-reino",
+          "2 colheres de sopa de queijo parmesão ralado (opcional)"
         ],
         "preparo": [
-          "Transfira a coalhada seca para uma tigela pequena.",
-          "Regue com o azeite extra virgem.",
-          "Polvilhe o zaatar (ou as especiarias escolhidas) e adicione sal a gosto.",
-          "Misture delicadamente ou apenas decore com folhas de hortelã.",
-          "Sirva com pão sírio ou torradas."
+          "Corte o pão em fatias grossas, sem separar completamente a base.",
+          "Em uma tigela pequena, misture a manteiga, o alho picado, a salsinha, sal, pimenta e o queijo parmesão (se usar).",
+          "Espalhe generosamente a mistura de manteiga de alho entre as fatias de pão e por cima.",
+          "Pré-aqueça a air fryer a 200°C por 3 minutos.",
+          "Coloque o pão na cesta da air fryer e asse por 5-8 minutos, ou até dourar e ficar crocante."
         ],
-        "id": "coalhada-seca-com-azeite-e-especiarias-bbbba0"
+        "id": "p-o-de-alho-na-air-fryer-be6cd7"
       },
       {
-        "nome": "Pudim Rápido de Tapioca",
+        "nome": "Mousse Rápida de Chocolate",
         "curso": "sobremesa",
-        "tempo": "15 min",
-        "url": "https://www.panelinha.com.br/receita/pudim-rapido-de-tapioca",
-        "porque": "Uma sobremesa brasileira clássica, leve, refrescante e muito rápida de preparar, ideal para finalizar o jantar.",
+        "tempo": "10 min (preparo) + 2h (geladeira)",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmCnOlRPoOnCMRWg9GV4u3C-g0-nxc57NpRDr4eVgrqgyO9bD3xOsEvGGNb7rHlFPOSjsn-4b8U0i-US41TkNOcua8avZQLOXmeza8MI6Cm49aS5gMCOc_vTSvTfqhHGRsJsbLy41UPj1M8snNL1MT1F2SX16K0AryFawRRAvWl-c=",
+        "porque": "Uma sobremesa clássica e indulgente, preparada de forma rápida com poucos ingredientes e perfeita para finalizar o jantar.",
         "tags": [
-          "sobremesa",
           "rapido",
-          "vegetariano"
+          "sobremesa"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "1 xícara (chá) de leite",
-          "2 colheres (sopa) de tapioca granulada",
-          "1 colher (sopa) de açúcar",
-          "Doce de abóbora, goiabada ou frutas frescas (opcional, para acompanhar)"
+          "200g de chocolate meio amargo picado",
+          "3 ovos grandes (claras e gemas separadas)",
+          "1/2 xícara (chá) de açúcar",
+          "1 lata de creme de leite sem soro (200g)",
+          "1 pitada de sal (opcional)"
         ],
         "preparo": [
-          "Em uma panela, coloque o leite e o açúcar. Leve ao fogo médio.",
-          "Assim que começarem a subir as primeiras bolhas, diminua o fogo e adicione a tapioca granulada.",
-          "Mexa por cerca de 2 minutos, até engrossar e a tapioca ficar transparente.",
-          "Transfira o creme ainda quente para 2 potinhos ou taças e leve para firmar na geladeira por cerca de 20 minutos.",
-          "Sirva gelado, acompanhado de doce de abóbora, goiabada ou frutas frescas, se desejar."
+          "Derreta o chocolate meio amargo em banho-maria ou no micro-ondas (em intervalos de 30 segundos), mexendo até ficar liso. Deixe amornar.",
+          "Em uma tigela, bata as gemas com metade do açúcar até obter um creme claro e fofo. Incorpore este creme ao chocolate derretido.",
+          "Em outra tigela limpa, bata as claras em neve com a pitada de sal. Quando começarem a ficar firmes, adicione o restante do açúcar aos poucos, batendo até obter um merengue firme e brilhante.",
+          "Incorpore delicadamente as claras em neve à mistura de chocolate, em duas ou três adições, misturando de baixo para cima para não perder o volume.",
+          "Distribua a mousse em taças individuais e leve à geladeira por pelo menos 2 horas antes de servir."
         ],
-        "id": "pudim-r-pido-de-tapioca-b93ac8"
+        "id": "mousse-r-pida-de-chocolate-2c80b5"
       }
     ]
   },
