@@ -1,35 +1,5 @@
 [
   {
-    "id": "dadinhos-de-tapioca-na-airfryer-5514d1",
-    "titulo": "Dadinhos de Tapioca na Airfryer",
-    "tags": [
-      "rapido",
-      "airfryer",
-      "vegetariano"
-    ],
-    "data": "28/07/2026"
-  },
-  {
-    "id": "torta-de-lim-o-na-ta-a-sem-forno-f4a814",
-    "titulo": "Torta de Limão na Taça (sem forno)",
-    "tags": [
-      "rapido",
-      "sem_forno",
-      "sobremesa"
-    ],
-    "data": "28/07/2026"
-  },
-  {
-    "id": "bife-acebolado-8e2e74",
-    "titulo": "Bife Acebolado",
-    "tags": [
-      "carne_vermelha",
-      "rapido",
-      "grelhado"
-    ],
-    "data": "28/07/2026"
-  },
-  {
     "id": "estrogonofe-de-carne-r-pido-8d128a",
     "titulo": "Estrogonofe de Carne Rápido",
     "tags": [
@@ -5038,5 +5008,37 @@
       "sobremesa"
     ],
     "data": "28/09/2026"
+  },
+  {
+    "id": "rosbife-de-fil-mignon-com-crosta-de-erva-dc228f",
+    "titulo": "Rosbife de Filé Mignon com Crosta de Ervas",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "rapido",
+      "grelhado"
+    ],
+    "data": "30/09/2026"
+  },
+  {
+    "id": "alm-ndegas-de-carne-assadas-ao-sugo-423026",
+    "titulo": "Almôndegas de Carne Assadas ao Sugo",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "rapido",
+      "equilibrado"
+    ],
+    "data": "30/09/2026"
+  },
+  {
+    "id": "salada-verde-com-tomate-cereja-e-molho-l-afd2ea",
+    "titulo": "Salada Verde com Tomate Cereja e Molho Leve",
+    "tags": [
+      "salada",
+      "rapido",
+      "low_carb"
+    ],
+    "data": "30/09/2026"
   }
 ]

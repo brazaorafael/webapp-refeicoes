@@ -1,124 +1,135 @@
 {
-  "gerado_em": "28/09/2026",
+  "gerado_em": "30/09/2026",
   "diario": {
     "tipo": "diario",
-    "data": "28/09/2026",
-    "dia_semana": "segunda",
+    "data": "30/09/2026",
+    "dia_semana": "quarta",
     "pratos": [
       {
-        "nome": "Filé Mignon na Air Fryer",
+        "nome": "Rosbife de Filé Mignon com Crosta de Ervas",
         "curso": "principal",
-        "tempo": "20 min",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtsUZIkDd2SYkvK9NIz7RBiJW2HwjxYPKvi9HAgWltjmAUCb1oqWLxozW6QmnRuRlJKJLWGUVAXssbvJxcA77eMeBB8M_CZm0Zb_4dAgmpTxSqr1m6vXA4u25_jNWrzEroPlZCkA0",
-        "porque": "Este prato é rápido, saudável e utiliza a air fryer, resultando em uma carne vermelha suculenta e perfeita para um jantar a dois.",
+        "tempo": "35 min",
+        "url": "https://www.panelinha.com.br/receita/Rosbife-de-file-mignon-com-crosta-de-pimenta-e-alecrim",
+        "porque": "É uma opção de carne vermelha assada no forno, rápida de preparar, com alto teor de proteína e que rende boas sobras para outras refeições.",
         "tags": [
           "carne_vermelha",
-          "airfryer",
+          "forno",
           "rapido",
           "grelhado"
         ],
-        "rende_sobra": false,
+        "rende_sobra": true,
         "ingredientes": [
-          "2 medalhões de filé mignon (~180g cada)",
-          "Sal grosso a gosto",
-          "Pimenta-do-reino moída na hora a gosto",
-          "1 colher de sopa de manteiga",
-          "2 dentes de alho picados"
+          "1 peça de filé-mignon (cerca de 800g a 1kg)",
+          "2 colheres de sopa de azeite",
+          "1 colher de chá de pimenta-do-reino moída na hora",
+          "1 colher de chá de sal",
+          "1 colher de chá de alecrim fresco picado (ou 1/2 colher de chá seco)",
+          "1 colher de chá de páprica doce (opcional)"
         ],
         "preparo": [
-          "Tempere os medalhões de filé mignon com sal grosso e pimenta-do-reino moída na hora.",
-          "Pré-aqueça a air fryer a 200°C por 5 minutos.",
-          "Coloque os medalhões na cesta da air fryer e cozinhe por 8-12 minutos, virando na metade do tempo, para o ponto desejado.",
-          "Enquanto a carne assa, derreta a manteiga em uma frigideira pequena e adicione o alho picado, refogando rapidamente.",
-          "Retire os medalhões da air fryer, pincele com a manteiga de alho e deixe descansar por 2 minutos antes de servir."
+          "Retire o filé-mignon da geladeira 30 minutos antes de assar para que atinja a temperatura ambiente. Preaqueça o forno a 200°C.",
+          "Seque bem a carne com papel-toalha. Em um prato, misture o sal, a pimenta, o alecrim e a páprica. Esfregue essa mistura por toda a peça de carne.",
+          "Aqueça uma frigideira grande (que possa ir ao forno) em fogo alto com o azeite. Doure o filé-mignon por todos os lados, por cerca de 2-3 minutos de cada lado, até formar uma crosta.",
+          "Leve a frigideira (ou transfira a carne para uma assadeira) ao forno preaquecido. Asse por 15 a 20 minutos para um rosbife ao ponto (malpassado no centro).",
+          "Retire do forno, cubra com papel alumínio e deixe descansar por 10 minutos antes de fatiar, para que os sucos se redistribuam.",
+          "Fatie finamente e sirva com o acompanhamento de sua preferência, como arroz e legumes assados."
         ],
-        "id": "fil-mignon-na-air-fryer-9754d5"
+        "id": "rosbife-de-fil-mignon-com-crosta-de-erva-dc228f"
       },
       {
-        "nome": "Bife à Parmegiana na Air Fryer",
+        "nome": "Almôndegas de Carne Assadas ao Sugo",
         "curso": "principal",
-        "tempo": "35 min",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrlJ9QtQv18Kq9XWELT3kzWhIrAblktPnX58ai2r8r5-U7HImMovZimK7bMO-tW7-JpHfoYnas5ptn9mseW0cVFlnuBAVtyprtyn1PvYSgVDEGknYKukR0rbCqtSP769v7-Hpks91ci4EwW5Vi_5Z4U9taARNoSFxF",
-        "porque": "Esta versão mais saudável do clássico bife à parmegiana é feita na air fryer, evitando a fritura por imersão, e é uma opção reconfortante de carne vermelha.",
+        "tempo": "45 min",
+        "url": "https://www.tudogostoso.com.br/receita/16601-almondegas-ao-forno-com-molho-de-tomate.html",
+        "porque": "Este prato de carne vermelha é assado no forno, evitando frituras, e é uma refeição completa e saborosa que rende bem para o dia seguinte.",
         "tags": [
           "carne_vermelha",
-          "airfryer",
-          "rapido"
+          "forno",
+          "rapido",
+          "equilibrado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "2 bifes de carne (ex: coxão mole ou contrafilé, ~150g cada)",
-          "1/3 xícara de farinha de trigo",
-          "1 ovo batido com 1 colher de sopa de água",
-          "1 xícara de farinha de rosca",
-          "1/2 xícara de molho de tomate pronto",
-          "100g de queijo muçarela ralado ou fatiado",
+          "500g de carne moída (patinho ou acém)",
+          "1 ovo",
+          "1/2 xícara de farinha de rosca",
+          "1/2 cebola pequena picada finamente",
+          "2 dentes de alho amassados",
+          "2 colheres de sopa de cheiro-verde picado",
           "Sal e pimenta-do-reino a gosto",
-          "Azeite em spray (opcional)"
+          "1 lata de tomate pelado picado (ou 1 sachê de molho de tomate pronto de boa qualidade)",
+          "1/2 xícara de água (se usar tomate pelado)",
+          "1 colher de sopa de azeite",
+          "Folhas de manjericão fresco (opcional)"
         ],
         "preparo": [
-          "Tempere os bifes com sal e pimenta. Prepare três pratos: um com farinha de trigo, um com o ovo batido com água e um com a farinha de rosca.",
-          "Passe cada bife primeiro na farinha de trigo, depois no ovo e, por último, na farinha de rosca, garantindo que estejam bem empanados. Se desejar, borrife azeite na farinha de rosca para dourar melhor.",
-          "Pré-aqueça a air fryer a 200°C por 5 minutos. Coloque os bifes na cesta da air fryer (se necessário, faça em levas) e asse por 10-12 minutos, virando na metade do tempo, até dourarem.",
-          "Cubra cada bife com molho de tomate e fatias de queijo muçarela. Retorne à air fryer por mais 3-5 minutos, ou até o queijo derreter e borbulhar, usando a função gratinar se disponível."
+          "Em uma tigela, misture a carne moída, o ovo, a farinha de rosca, a cebola, o alho, o cheiro-verde, sal e pimenta. Amasse bem até incorporar todos os ingredientes.",
+          "Com as mãos levemente untadas, forme as almôndegas do tamanho desejado (cerca de 20-25 unidades).",
+          "Disponha as almôndegas em uma assadeira antiaderente ou forrada com papel manteiga. Leve ao forno preaquecido a 200°C por cerca de 15-20 minutos, virando na metade do tempo, até dourarem.",
+          "Enquanto isso, prepare o molho: em uma panela, aqueça o azeite e refogue 1/2 cebola picada e 1 dente de alho (se quiser um molho mais saboroso). Adicione o tomate pelado picado (ou molho pronto) e a água. Tempere com sal e pimenta.",
+          "Quando as almôndegas estiverem douradas, retire do forno e adicione-as diretamente ao molho quente. Cozinhe em fogo baixo por mais 10-15 minutos para que absorvam o sabor do molho.",
+          "Finalize com manjericão fresco, se desejar, e sirva com arroz, massa ou purê."
         ],
-        "id": "bife-parmegiana-na-air-fryer-6cb890"
+        "id": "alm-ndegas-de-carne-assadas-ao-sugo-423026"
       },
       {
-        "nome": "Pão de Alho na Air Fryer",
+        "nome": "Salada Verde com Tomate Cereja e Molho Leve",
         "curso": "entrada",
-        "tempo": "15 min",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJu3uJZzMKFXPhVHN9ElOf7kzk3QkRJPFKQrOlecq2ySySP9QKpoViF7BAZKiSup-a2SbD-JHktLf57dixZOrd_yDnK4PLLJwZ5rqQd68YVHuaPZrlnNXfXJziY3pwB7e5KUgt1QVhbIDWozzS9-OwCPZl9eWzCZVVN-uHXNlKeog=",
-        "porque": "Uma entrada saborosa e prática, preparada rapidamente na air fryer para um pão crocante sem excesso de óleo.",
+        "tempo": "10 min",
+        "url": "https://www.tudogostoso.com.br/receita/114995-salada-de-folhas-verdes-e-tomate-cereja.html",
+        "porque": "É uma entrada rápida, leve e refrescante, que complementa bem os pratos principais mais robustos com vegetais frescos.",
         "tags": [
-          "airfryer",
+          "salada",
           "rapido",
-          "pães"
+          "low_carb"
         ],
         "rende_sobra": false,
         "ingredientes": [
-          "1 baguete pequena ou 2 pães franceses",
-          "2 colheres de sopa de manteiga sem sal (em temperatura ambiente)",
-          "2 dentes de alho picados finamente",
-          "1 colher de sopa de salsinha picada",
-          "1 pitada de sal e pimenta-do-reino",
-          "2 colheres de sopa de queijo parmesão ralado (opcional)"
+          "1 maço de alface (americana, crespa ou mimosa)",
+          "1 maço de rúcula",
+          "1 xícara de tomate cereja cortado ao meio",
+          "1/4 de pepino japonês em fatias finas (opcional)",
+          "**Para o molho:**",
+          "3 colheres de sopa de azeite extra virgem",
+          "1 colher de sopa de suco de limão",
+          "1 colher de chá de mostarda dijon (ou mostarda amarela)",
+          "Sal e pimenta-do-reino moída na hora a gosto"
         ],
         "preparo": [
-          "Corte o pão em fatias grossas, sem separar completamente a base.",
-          "Em uma tigela pequena, misture a manteiga, o alho picado, a salsinha, sal, pimenta e o queijo parmesão (se usar).",
-          "Espalhe generosamente a mistura de manteiga de alho entre as fatias de pão e por cima.",
-          "Pré-aqueça a air fryer a 200°C por 3 minutos.",
-          "Coloque o pão na cesta da air fryer e asse por 5-8 minutos, ou até dourar e ficar crocante."
+          "Lave bem as folhas de alface e rúcula e seque-as cuidadosamente. Rasgue as folhas maiores com as mãos, se necessário.",
+          "Em uma saladeira, junte as folhas secas, os tomates cereja cortados e as fatias de pepino (se usar).",
+          "Em um pote pequeno com tampa, combine o azeite, o suco de limão, a mostarda, sal e pimenta. Tampe e agite vigorosamente até emulsionar o molho.",
+          "Regue a salada com o molho pouco antes de servir. Misture delicadamente para envolver todos os ingredientes."
         ],
-        "id": "p-o-de-alho-na-air-fryer-be6cd7"
+        "id": "salada-verde-com-tomate-cereja-e-molho-l-afd2ea"
       },
       {
-        "nome": "Mousse Rápida de Chocolate",
+        "nome": "Creme de Abacate com Limão",
         "curso": "sobremesa",
-        "tempo": "10 min (preparo) + 2h (geladeira)",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmCnOlRPoOnCMRWg9GV4u3C-g0-nxc57NpRDr4eVgrqgyO9bD3xOsEvGGNb7rHlFPOSjsn-4b8U0i-US41TkNOcua8avZQLOXmeza8MI6Cm49aS5gMCOc_vTSvTfqhHGRsJsbLy41UPj1M8snNL1MT1F2SX16K0AryFawRRAvWl-c=",
-        "porque": "Uma sobremesa clássica e indulgente, preparada de forma rápida com poucos ingredientes e perfeita para finalizar o jantar.",
+        "tempo": "5 min",
+        "url": "https://www.tudogostoso.com.br/receita/16281-creme-de-abacate-com-limao.html",
+        "porque": "Uma sobremesa refrescante, rápida de preparar no liquidificador, com poucos ingredientes e sem necessidade de cozimento.",
         "tags": [
           "rapido",
-          "sobremesa"
+          "vegetariano",
+          "low_carb"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "200g de chocolate meio amargo picado",
-          "3 ovos grandes (claras e gemas separadas)",
-          "1/2 xícara (chá) de açúcar",
-          "1 lata de creme de leite sem soro (200g)",
-          "1 pitada de sal (opcional)"
+          "1 abacate médio maduro",
+          "1 lata de leite condensado (ou 1/2 xícara de adoçante culinário, para low carb)",
+          "Suco de 1 limão grande (ou 2 limões pequenos)",
+          "1/2 xícara de água gelada (opcional, para ajustar a consistência)"
         ],
         "preparo": [
-          "Derreta o chocolate meio amargo em banho-maria ou no micro-ondas (em intervalos de 30 segundos), mexendo até ficar liso. Deixe amornar.",
-          "Em uma tigela, bata as gemas com metade do açúcar até obter um creme claro e fofo. Incorpore este creme ao chocolate derretido.",
-          "Em outra tigela limpa, bata as claras em neve com a pitada de sal. Quando começarem a ficar firmes, adicione o restante do açúcar aos poucos, batendo até obter um merengue firme e brilhante.",
-          "Incorpore delicadamente as claras em neve à mistura de chocolate, em duas ou três adições, misturando de baixo para cima para não perder o volume.",
-          "Distribua a mousse em taças individuais e leve à geladeira por pelo menos 2 horas antes de servir."
+          "Corte o abacate ao meio, retire o caroço e, com uma colher, remova a polpa. Coloque a polpa do abacate no liquidificador.",
+          "Adicione o leite condensado (ou adoçante) e o suco de limão ao liquidificador.",
+          "Bata em velocidade alta até obter um creme homogêneo e liso. Se a consistência estiver muito espessa, adicione a água gelada aos poucos e bata novamente.",
+          "Prove e ajuste o sabor, se necessário (mais limão ou mais doce).",
+          "Transfira o creme para taças individuais e leve à geladeira por pelo menos 30 minutos para firmar e gelar.",
+          "Sirva gelado, decorado com raspas de limão ou folhas de hortelã, se desejar."
         ],
-        "id": "mousse-r-pida-de-chocolate-2c80b5"
+        "id": "creme-de-abacate-com-lim-o-d9148e"
       }
     ]
   },
