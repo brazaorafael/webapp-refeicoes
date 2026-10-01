@@ -1,35 +1,5 @@
 [
   {
-    "id": "estrogonofe-de-carne-r-pido-8d128a",
-    "titulo": "Estrogonofe de Carne Rápido",
-    "tags": [
-      "carne_vermelha",
-      "rapido",
-      "refogado"
-    ],
-    "data": "28/07/2026"
-  },
-  {
-    "id": "torradinha-de-alho-b38c0c",
-    "titulo": "Torradinha de Alho",
-    "tags": [
-      "rapido",
-      "forno",
-      "vegetariano"
-    ],
-    "data": "28/07/2026"
-  },
-  {
-    "id": "creme-de-manga-com-iogurte-42b2c2",
-    "titulo": "Creme de Manga com Iogurte",
-    "tags": [
-      "rapido",
-      "vegetariano",
-      "low_carb"
-    ],
-    "data": "28/07/2026"
-  },
-  {
     "id": "frango-assado-r-pido-e-f-cil-643566",
     "titulo": "Frango Assado Rápido e Fácil",
     "tags": [
@@ -5040,5 +5010,35 @@
       "low_carb"
     ],
     "data": "30/09/2026"
+  },
+  {
+    "id": "carne-de-panela-sem-press-o-com-batata-e-b845ac",
+    "titulo": "Carne de Panela sem Pressão com Batata e Cenoura",
+    "tags": [
+      "carne_vermelha",
+      "panela",
+      "equilibrado"
+    ],
+    "data": "01/10/2026"
+  },
+  {
+    "id": "carne-assada-com-piment-es-e-azeitonas-bbcf80",
+    "titulo": "Carne Assada com Pimentões e Azeitonas",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "low_carb"
+    ],
+    "data": "01/10/2026"
+  },
+  {
+    "id": "dadinho-de-tapioca-na-air-fryer-4e46e3",
+    "titulo": "Dadinho de Tapioca na Air Fryer",
+    "tags": [
+      "vegetariano",
+      "airfryer",
+      "rapido"
+    ],
+    "data": "01/10/2026"
   }
 ]

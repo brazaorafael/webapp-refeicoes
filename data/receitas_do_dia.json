@@ -1,135 +1,164 @@
 {
-  "gerado_em": "30/09/2026",
+  "gerado_em": "01/10/2026",
   "diario": {
     "tipo": "diario",
-    "data": "30/09/2026",
-    "dia_semana": "quarta",
+    "data": "01/10/2026",
+    "dia_semana": "quinta",
     "pratos": [
       {
-        "nome": "Rosbife de Filé Mignon com Crosta de Ervas",
+        "nome": "Estrogonofe de Carne",
         "curso": "principal",
         "tempo": "35 min",
-        "url": "https://www.panelinha.com.br/receita/Rosbife-de-file-mignon-com-crosta-de-pimenta-e-alecrim",
-        "porque": "É uma opção de carne vermelha assada no forno, rápida de preparar, com alto teor de proteína e que rende boas sobras para outras refeições.",
+        "url": "https://www.tudogostoso.com.br/receita/231-estrogonofe-de-carne.html",
+        "porque": "É um clássico saboroso com carne vermelha, rápido de preparar e refogado, evitando fritura.",
         "tags": [
           "carne_vermelha",
-          "forno",
-          "rapido",
-          "grelhado"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "1 peça de filé-mignon (cerca de 800g a 1kg)",
-          "2 colheres de sopa de azeite",
-          "1 colher de chá de pimenta-do-reino moída na hora",
-          "1 colher de chá de sal",
-          "1 colher de chá de alecrim fresco picado (ou 1/2 colher de chá seco)",
-          "1 colher de chá de páprica doce (opcional)"
-        ],
-        "preparo": [
-          "Retire o filé-mignon da geladeira 30 minutos antes de assar para que atinja a temperatura ambiente. Preaqueça o forno a 200°C.",
-          "Seque bem a carne com papel-toalha. Em um prato, misture o sal, a pimenta, o alecrim e a páprica. Esfregue essa mistura por toda a peça de carne.",
-          "Aqueça uma frigideira grande (que possa ir ao forno) em fogo alto com o azeite. Doure o filé-mignon por todos os lados, por cerca de 2-3 minutos de cada lado, até formar uma crosta.",
-          "Leve a frigideira (ou transfira a carne para uma assadeira) ao forno preaquecido. Asse por 15 a 20 minutos para um rosbife ao ponto (malpassado no centro).",
-          "Retire do forno, cubra com papel alumínio e deixe descansar por 10 minutos antes de fatiar, para que os sucos se redistribuam.",
-          "Fatie finamente e sirva com o acompanhamento de sua preferência, como arroz e legumes assados."
-        ],
-        "id": "rosbife-de-fil-mignon-com-crosta-de-erva-dc228f"
-      },
-      {
-        "nome": "Almôndegas de Carne Assadas ao Sugo",
-        "curso": "principal",
-        "tempo": "45 min",
-        "url": "https://www.tudogostoso.com.br/receita/16601-almondegas-ao-forno-com-molho-de-tomate.html",
-        "porque": "Este prato de carne vermelha é assado no forno, evitando frituras, e é uma refeição completa e saborosa que rende bem para o dia seguinte.",
-        "tags": [
-          "carne_vermelha",
-          "forno",
           "rapido",
           "equilibrado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "500g de carne moída (patinho ou acém)",
-          "1 ovo",
-          "1/2 xícara de farinha de rosca",
-          "1/2 cebola pequena picada finamente",
-          "2 dentes de alho amassados",
-          "2 colheres de sopa de cheiro-verde picado",
+          "500g de carne bovina em cubos (alcatra ou filé mignon)",
+          "1 cebola média picada",
+          "2 dentes de alho picados",
+          "2 colheres (sopa) de azeite",
+          "1 lata de extrato de tomate (ou 3 colheres de sopa)",
+          "1 xícara (chá) de champignon fatiado",
+          "1/2 xícara (chá) de água",
+          "1 colher (sopa) de mostarda",
+          "1 colher (sopa) de ketchup",
+          "1 lata de creme de leite sem soro",
           "Sal e pimenta-do-reino a gosto",
-          "1 lata de tomate pelado picado (ou 1 sachê de molho de tomate pronto de boa qualidade)",
-          "1/2 xícara de água (se usar tomate pelado)",
-          "1 colher de sopa de azeite",
-          "Folhas de manjericão fresco (opcional)"
+          "Salsinha picada para finalizar"
         ],
         "preparo": [
-          "Em uma tigela, misture a carne moída, o ovo, a farinha de rosca, a cebola, o alho, o cheiro-verde, sal e pimenta. Amasse bem até incorporar todos os ingredientes.",
-          "Com as mãos levemente untadas, forme as almôndegas do tamanho desejado (cerca de 20-25 unidades).",
-          "Disponha as almôndegas em uma assadeira antiaderente ou forrada com papel manteiga. Leve ao forno preaquecido a 200°C por cerca de 15-20 minutos, virando na metade do tempo, até dourarem.",
-          "Enquanto isso, prepare o molho: em uma panela, aqueça o azeite e refogue 1/2 cebola picada e 1 dente de alho (se quiser um molho mais saboroso). Adicione o tomate pelado picado (ou molho pronto) e a água. Tempere com sal e pimenta.",
-          "Quando as almôndegas estiverem douradas, retire do forno e adicione-as diretamente ao molho quente. Cozinhe em fogo baixo por mais 10-15 minutos para que absorvam o sabor do molho.",
-          "Finalize com manjericão fresco, se desejar, e sirva com arroz, massa ou purê."
+          "Em uma panela grande, aqueça o azeite e refogue a cebola e o alho até dourarem.",
+          "Adicione a carne em cubos e sele por todos os lados até dourar levemente.",
+          "Acrescente o extrato de tomate, a água, a mostarda, o ketchup, sal e pimenta. Misture e cozinhe por cerca de 10-15 minutos em fogo baixo, ou até a carne ficar macia.",
+          "Junte o champignon e o creme de leite, misturando bem. Cozinhe por mais 2-3 minutos, sem deixar ferver.",
+          "Prove e ajuste os temperos, se necessário. Sirva imediatamente, polvilhado com salsinha fresca."
         ],
-        "id": "alm-ndegas-de-carne-assadas-ao-sugo-423026"
+        "id": "estrogonofe-de-carne-f31d88"
       },
       {
-        "nome": "Salada Verde com Tomate Cereja e Molho Leve",
-        "curso": "entrada",
-        "tempo": "10 min",
-        "url": "https://www.tudogostoso.com.br/receita/114995-salada-de-folhas-verdes-e-tomate-cereja.html",
-        "porque": "É uma entrada rápida, leve e refrescante, que complementa bem os pratos principais mais robustos com vegetais frescos.",
+        "nome": "Carne de Panela sem Pressão com Batata e Cenoura",
+        "curso": "principal",
+        "tempo": "45 min",
+        "url": "https://www.tudoreceitas.com/receita-de-carne-de-panela-sem-panela-de-pressao-8326.html",
+        "porque": "É uma opção de carne vermelha suculenta, cozida na panela comum e com legumes, perfeita para um prato equilibrado e sem fritura profunda.",
         "tags": [
-          "salada",
-          "rapido",
-          "low_carb"
+          "carne_vermelha",
+          "panela",
+          "equilibrado"
         ],
-        "rende_sobra": false,
+        "rende_sobra": true,
         "ingredientes": [
-          "1 maço de alface (americana, crespa ou mimosa)",
-          "1 maço de rúcula",
-          "1 xícara de tomate cereja cortado ao meio",
-          "1/4 de pepino japonês em fatias finas (opcional)",
-          "**Para o molho:**",
-          "3 colheres de sopa de azeite extra virgem",
-          "1 colher de sopa de suco de limão",
-          "1 colher de chá de mostarda dijon (ou mostarda amarela)",
-          "Sal e pimenta-do-reino moída na hora a gosto"
+          "500g de coxão mole em cubos médios",
+          "3 colheres (sopa) de óleo ou azeite",
+          "1 cebola picada",
+          "2 dentes de alho picados",
+          "2 batatas médias picadas",
+          "2 cenouras médias picadas",
+          "4 xícaras (chá) de água quente",
+          "Sal e pimenta-do-reino a gosto",
+          "Cheiro-verde picado a gosto (opcional)"
         ],
         "preparo": [
-          "Lave bem as folhas de alface e rúcula e seque-as cuidadosamente. Rasgue as folhas maiores com as mãos, se necessário.",
-          "Em uma saladeira, junte as folhas secas, os tomates cereja cortados e as fatias de pepino (se usar).",
-          "Em um pote pequeno com tampa, combine o azeite, o suco de limão, a mostarda, sal e pimenta. Tampe e agite vigorosamente até emulsionar o molho.",
-          "Regue a salada com o molho pouco antes de servir. Misture delicadamente para envolver todos os ingredientes."
+          "Em uma panela comum de fundo grosso, aqueça o óleo ou azeite em fogo médio. Adicione a carne em cubos e frite até dourar bem por todos os lados (selar).",
+          "Acrescente a cebola e o alho picados, refogando até a cebola murchar.",
+          "Adicione a água quente, sal e pimenta. Tampe a panela e cozinhe em fogo baixo por cerca de 30 minutos, ou até a carne ficar macia.",
+          "Junte as batatas e as cenouras picadas. Misture e continue cozinhando com a panela tampada até que os legumes estejam macios.",
+          "Verifique o tempero e, se desejar, finalize com cheiro-verde picado antes de servir."
         ],
-        "id": "salada-verde-com-tomate-cereja-e-molho-l-afd2ea"
+        "id": "carne-de-panela-sem-press-o-com-batata-e-b845ac"
       },
       {
-        "nome": "Creme de Abacate com Limão",
-        "curso": "sobremesa",
-        "tempo": "5 min",
-        "url": "https://www.tudogostoso.com.br/receita/16281-creme-de-abacate-com-limao.html",
-        "porque": "Uma sobremesa refrescante, rápida de preparar no liquidificador, com poucos ingredientes e sem necessidade de cozimento.",
+        "nome": "Carne Assada com Pimentões e Azeitonas",
+        "curso": "principal",
+        "tempo": "20 min",
+        "url": "https://www.knorr.com/br/receitas/carne-assada-com-pimentoes-e-azeitonas.html",
+        "porque": "Prato de carne vermelha assado no forno com pimentões, de preparo ativo rápido, ideal para um casal que gosta de assados.",
         "tags": [
-          "rapido",
-          "vegetariano",
+          "carne_vermelha",
+          "forno",
           "low_carb"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "1 abacate médio maduro",
-          "1 lata de leite condensado (ou 1/2 xícara de adoçante culinário, para low carb)",
-          "Suco de 1 limão grande (ou 2 limões pequenos)",
-          "1/2 xícara de água gelada (opcional, para ajustar a consistência)"
+          "900g de maminha em peça",
+          "1 embalagem de tempero Knorr Meu Assado Alho e Cebola (ou temperos secos a gosto)",
+          "1 pimentão vermelho cortado em tiras",
+          "1 pimentão verde cortado em tiras",
+          "1 pimentão amarelo cortado em tiras",
+          "10 azeitonas verdes sem caroço cortadas ao meio"
         ],
         "preparo": [
-          "Corte o abacate ao meio, retire o caroço e, com uma colher, remova a polpa. Coloque a polpa do abacate no liquidificador.",
-          "Adicione o leite condensado (ou adoçante) e o suco de limão ao liquidificador.",
-          "Bata em velocidade alta até obter um creme homogêneo e liso. Se a consistência estiver muito espessa, adicione a água gelada aos poucos e bata novamente.",
-          "Prove e ajuste o sabor, se necessário (mais limão ou mais doce).",
-          "Transfira o creme para taças individuais e leve à geladeira por pelo menos 30 minutos para firmar e gelar.",
-          "Sirva gelado, decorado com raspas de limão ou folhas de hortelã, se desejar."
+          "Preaqueça o forno a 180°C. Abra a embalagem do tempero Knorr Meu Assado e retire o saquinho plástico.",
+          "Coloque a peça de maminha dentro do saquinho e adicione o tempero, espalhando bem sobre a carne.",
+          "Adicione as tiras de pimentão ao saquinho. Feche o saquinho com o lacre e coloque-o em uma assadeira.",
+          "Leve ao forno preaquecido por 1 hora e 15 minutos.",
+          "Retire do forno, corte o saquinho com cuidado (atenção ao vapor), coloque a carne em uma travessa, junte as azeitonas e sirva em seguida."
         ],
-        "id": "creme-de-abacate-com-lim-o-d9148e"
+        "id": "carne-assada-com-piment-es-e-azeitonas-bbcf80"
+      },
+      {
+        "nome": "Dadinho de Tapioca na Air Fryer",
+        "curso": "entrada",
+        "tempo": "35 min",
+        "url": "https://www.guiadacozinha.com.br/receitas/dadinho-de-tapioca-na-air-fryer/",
+        "porque": "Uma entrada moderna e saborosa, feita na air fryer para ser crocante e sem fritura, com ingredientes acessíveis.",
+        "tags": [
+          "vegetariano",
+          "airfryer",
+          "rapido"
+        ],
+        "rende_sobra": false,
+        "ingredientes": [
+          "250g de tapioca granulada",
+          "250g de queijo coalho ralado",
+          "500ml de leite quente",
+          "Sal e pimenta-do-reino a gosto",
+          "Geleia de pimenta para acompanhar (opcional)"
+        ],
+        "preparo": [
+          "Em um recipiente, misture a tapioca granulada com o queijo coalho ralado, sal e pimenta.",
+          "Adicione o leite quente aos poucos, mexendo vigorosamente até a mistura ficar homogênea e a tapioca começar a hidratar.",
+          "Transfira a massa para uma assadeira forrada com plástico filme, espalhando e apertando bem para compactar. Leve à geladeira por pelo menos 30 minutos para firmar.",
+          "Após firmar, corte a massa em cubos pequenos (dadinhos).",
+          "Preaqueça a air fryer a 180°C. Distribua os dadinhos na cesta da air fryer sem sobrepor e asse por 12 a 15 minutos, virando na metade do tempo, até ficarem dourados e crocantes.",
+          "Sirva os dadinhos de tapioca quentes, acompanhados de geleia de pimenta, se desejar."
+        ],
+        "id": "dadinho-de-tapioca-na-air-fryer-4e46e3"
+      },
+      {
+        "nome": "Brownie de Caneca",
+        "curso": "sobremesa",
+        "tempo": "5 min",
+        "url": "https://www.tudogostoso.com.br/receita/154749-brownie-de-caneca.html",
+        "porque": "Uma sobremesa individual, rápida e prática de fazer no micro-ondas, ideal para saciar a vontade de doce sem sobras.",
+        "tags": [
+          "rapido",
+          "microondas",
+          "vegetariano"
+        ],
+        "rende_sobra": false,
+        "ingredientes": [
+          "2 colheres (sopa) de farinha de trigo",
+          "2 colheres (sopa) de açúcar",
+          "1 colher (sopa) de cacau em pó 50% ou 100%",
+          "1 pitada de fermento em pó",
+          "2 colheres (sopa) de óleo vegetal",
+          "2 colheres (sopa) de leite",
+          "Gotas de chocolate ou chocolate picado (opcional)"
+        ],
+        "preparo": [
+          "Em uma caneca de aproximadamente 250ml, misture a farinha, o açúcar, o cacau em pó e o fermento.",
+          "Adicione o óleo e o leite à mistura de ingredientes secos.",
+          "Mexa bem com um garfo até obter uma massa homogênea, sem grumos. Se for usar, adicione as gotas ou pedaços de chocolate e misture.",
+          "Leve a caneca ao micro-ondas em potência alta por 1 minuto e 20 segundos a 1 minuto e 40 segundos, dependendo da potência do seu aparelho.",
+          "O brownie estará pronto quando as bordas estiverem firmes e o centro ainda levemente úmido. Sirva quente."
+        ],
+        "id": "brownie-de-caneca-bf4b41"
       }
     ]
   },
