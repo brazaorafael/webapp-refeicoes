@@ -1,164 +1,163 @@
 {
-  "gerado_em": "01/10/2026",
+  "gerado_em": "02/10/2026",
   "diario": {
     "tipo": "diario",
-    "data": "01/10/2026",
-    "dia_semana": "quinta",
+    "data": "02/10/2026",
+    "dia_semana": "sexta",
     "pratos": [
       {
-        "nome": "Estrogonofe de Carne",
-        "curso": "principal",
-        "tempo": "35 min",
-        "url": "https://www.tudogostoso.com.br/receita/231-estrogonofe-de-carne.html",
-        "porque": "É um clássico saboroso com carne vermelha, rápido de preparar e refogado, evitando fritura.",
-        "tags": [
-          "carne_vermelha",
-          "rapido",
-          "equilibrado"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "500g de carne bovina em cubos (alcatra ou filé mignon)",
-          "1 cebola média picada",
-          "2 dentes de alho picados",
-          "2 colheres (sopa) de azeite",
-          "1 lata de extrato de tomate (ou 3 colheres de sopa)",
-          "1 xícara (chá) de champignon fatiado",
-          "1/2 xícara (chá) de água",
-          "1 colher (sopa) de mostarda",
-          "1 colher (sopa) de ketchup",
-          "1 lata de creme de leite sem soro",
-          "Sal e pimenta-do-reino a gosto",
-          "Salsinha picada para finalizar"
-        ],
-        "preparo": [
-          "Em uma panela grande, aqueça o azeite e refogue a cebola e o alho até dourarem.",
-          "Adicione a carne em cubos e sele por todos os lados até dourar levemente.",
-          "Acrescente o extrato de tomate, a água, a mostarda, o ketchup, sal e pimenta. Misture e cozinhe por cerca de 10-15 minutos em fogo baixo, ou até a carne ficar macia.",
-          "Junte o champignon e o creme de leite, misturando bem. Cozinhe por mais 2-3 minutos, sem deixar ferver.",
-          "Prove e ajuste os temperos, se necessário. Sirva imediatamente, polvilhado com salsinha fresca."
-        ],
-        "id": "estrogonofe-de-carne-f31d88"
-      },
-      {
-        "nome": "Carne de Panela sem Pressão com Batata e Cenoura",
-        "curso": "principal",
-        "tempo": "45 min",
-        "url": "https://www.tudoreceitas.com/receita-de-carne-de-panela-sem-panela-de-pressao-8326.html",
-        "porque": "É uma opção de carne vermelha suculenta, cozida na panela comum e com legumes, perfeita para um prato equilibrado e sem fritura profunda.",
-        "tags": [
-          "carne_vermelha",
-          "panela",
-          "equilibrado"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "500g de coxão mole em cubos médios",
-          "3 colheres (sopa) de óleo ou azeite",
-          "1 cebola picada",
-          "2 dentes de alho picados",
-          "2 batatas médias picadas",
-          "2 cenouras médias picadas",
-          "4 xícaras (chá) de água quente",
-          "Sal e pimenta-do-reino a gosto",
-          "Cheiro-verde picado a gosto (opcional)"
-        ],
-        "preparo": [
-          "Em uma panela comum de fundo grosso, aqueça o óleo ou azeite em fogo médio. Adicione a carne em cubos e frite até dourar bem por todos os lados (selar).",
-          "Acrescente a cebola e o alho picados, refogando até a cebola murchar.",
-          "Adicione a água quente, sal e pimenta. Tampe a panela e cozinhe em fogo baixo por cerca de 30 minutos, ou até a carne ficar macia.",
-          "Junte as batatas e as cenouras picadas. Misture e continue cozinhando com a panela tampada até que os legumes estejam macios.",
-          "Verifique o tempero e, se desejar, finalize com cheiro-verde picado antes de servir."
-        ],
-        "id": "carne-de-panela-sem-press-o-com-batata-e-b845ac"
-      },
-      {
-        "nome": "Carne Assada com Pimentões e Azeitonas",
+        "nome": "Bife Grelhado com Vinagrete",
         "curso": "principal",
         "tempo": "20 min",
-        "url": "https://www.knorr.com/br/receitas/carne-assada-com-pimentoes-e-azeitonas.html",
-        "porque": "Prato de carne vermelha assado no forno com pimentões, de preparo ativo rápido, ideal para um casal que gosta de assados.",
+        "url": "https://www.panelinha.com.br/receita/Bife-grelhado-com-vinagrete",
+        "porque": "Uma opção clássica de carne vermelha, rápida de preparar na grelha e o vinagrete adiciona frescor e vegetais ao prato, ideal para um jantar equilibrado.",
         "tags": [
           "carne_vermelha",
-          "forno",
-          "low_carb"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "900g de maminha em peça",
-          "1 embalagem de tempero Knorr Meu Assado Alho e Cebola (ou temperos secos a gosto)",
-          "1 pimentão vermelho cortado em tiras",
-          "1 pimentão verde cortado em tiras",
-          "1 pimentão amarelo cortado em tiras",
-          "10 azeitonas verdes sem caroço cortadas ao meio"
-        ],
-        "preparo": [
-          "Preaqueça o forno a 180°C. Abra a embalagem do tempero Knorr Meu Assado e retire o saquinho plástico.",
-          "Coloque a peça de maminha dentro do saquinho e adicione o tempero, espalhando bem sobre a carne.",
-          "Adicione as tiras de pimentão ao saquinho. Feche o saquinho com o lacre e coloque-o em uma assadeira.",
-          "Leve ao forno preaquecido por 1 hora e 15 minutos.",
-          "Retire do forno, corte o saquinho com cuidado (atenção ao vapor), coloque a carne em uma travessa, junte as azeitonas e sirva em seguida."
-        ],
-        "id": "carne-assada-com-piment-es-e-azeitonas-bbcf80"
-      },
-      {
-        "nome": "Dadinho de Tapioca na Air Fryer",
-        "curso": "entrada",
-        "tempo": "35 min",
-        "url": "https://www.guiadacozinha.com.br/receitas/dadinho-de-tapioca-na-air-fryer/",
-        "porque": "Uma entrada moderna e saborosa, feita na air fryer para ser crocante e sem fritura, com ingredientes acessíveis.",
-        "tags": [
-          "vegetariano",
-          "airfryer",
+          "grelhado",
           "rapido"
         ],
         "rende_sobra": false,
         "ingredientes": [
-          "250g de tapioca granulada",
-          "250g de queijo coalho ralado",
-          "500ml de leite quente",
-          "Sal e pimenta-do-reino a gosto",
-          "Geleia de pimenta para acompanhar (opcional)"
+          "2 bifes de contrafilé (ou outra carne vermelha de preferência)",
+          "1 colher (chá) de azeite para grelhar",
+          "Sal e pimenta-do-reino a gosto para temperar os bifes",
+          "2 tomates em cubos pequenos",
+          "½ cebola-roxa picada fino",
+          "3 colheres (sopa) de azeite para o vinagrete",
+          "1 colher (sopa) de vinagre",
+          "Salsinha picada a gosto"
         ],
         "preparo": [
-          "Em um recipiente, misture a tapioca granulada com o queijo coalho ralado, sal e pimenta.",
-          "Adicione o leite quente aos poucos, mexendo vigorosamente até a mistura ficar homogênea e a tapioca começar a hidratar.",
-          "Transfira a massa para uma assadeira forrada com plástico filme, espalhando e apertando bem para compactar. Leve à geladeira por pelo menos 30 minutos para firmar.",
-          "Após firmar, corte a massa em cubos pequenos (dadinhos).",
-          "Preaqueça a air fryer a 180°C. Distribua os dadinhos na cesta da air fryer sem sobrepor e asse por 12 a 15 minutos, virando na metade do tempo, até ficarem dourados e crocantes.",
-          "Sirva os dadinhos de tapioca quentes, acompanhados de geleia de pimenta, se desejar."
+          "Em uma tigela, misture o tomate em cubos, a cebola-roxa picada, 3 colheres de azeite, o vinagre, a salsinha, sal e pimenta-do-reino a gosto. Reserve o vinagrete.",
+          "Retire os bifes da geladeira e deixe em temperatura ambiente por alguns minutos. Tempere-os com sal e pimenta-do-reino a gosto.",
+          "Aqueça uma frigideira grande em fogo alto e adicione 1 colher de chá de azeite. Coloque os bifes.",
+          "Grelhe os bifes por cerca de 2 minutos de cada lado, ou até atingir o ponto desejado.",
+          "Sirva os bifes imediatamente acompanhados do vinagrete fresco."
         ],
-        "id": "dadinho-de-tapioca-na-air-fryer-4e46e3"
+        "id": "bife-grelhado-com-vinagrete-0cfa78"
       },
       {
-        "nome": "Brownie de Caneca",
-        "curso": "sobremesa",
-        "tempo": "5 min",
-        "url": "https://www.tudogostoso.com.br/receita/154749-brownie-de-caneca.html",
-        "porque": "Uma sobremesa individual, rápida e prática de fazer no micro-ondas, ideal para saciar a vontade de doce sem sobras.",
+        "nome": "Bolo de Carne e Abobrinha com Cebolas Assadas",
+        "curso": "principal",
+        "tempo": "40 min",
+        "url": "https://www.panelinha.com.br/receita/Bolo-de-carne-e-abobrinha-com-cebolas-assadas",
+        "porque": "Preparado no forno, este prato combina carne moída com abobrinha e cebolas assadas, resultando em uma refeição completa, saborosa e com boa fonte de proteína.",
         "tags": [
-          "rapido",
-          "microondas",
-          "vegetariano"
+          "carne_vermelha",
+          "forno",
+          "equilibrado"
         ],
-        "rende_sobra": false,
+        "rende_sobra": true,
         "ingredientes": [
-          "2 colheres (sopa) de farinha de trigo",
-          "2 colheres (sopa) de açúcar",
-          "1 colher (sopa) de cacau em pó 50% ou 100%",
-          "1 pitada de fermento em pó",
-          "2 colheres (sopa) de óleo vegetal",
-          "2 colheres (sopa) de leite",
-          "Gotas de chocolate ou chocolate picado (opcional)"
+          "600g de patinho moído",
+          "1 abobrinha média ralada",
+          "2 cebolas médias cortadas em gomos",
+          "2 dentes de alho picados",
+          "½ xícara (chá) de bacon em cubos (aprox. 70g)",
+          "1 ovo grande",
+          "3 colheres (sopa) de farinha de rosca",
+          "2 colheres (chá) de sálvia picada",
+          "Sal e pimenta-do-reino a gosto",
+          "Azeite para untar"
         ],
         "preparo": [
-          "Em uma caneca de aproximadamente 250ml, misture a farinha, o açúcar, o cacau em pó e o fermento.",
-          "Adicione o óleo e o leite à mistura de ingredientes secos.",
-          "Mexa bem com um garfo até obter uma massa homogênea, sem grumos. Se for usar, adicione as gotas ou pedaços de chocolate e misture.",
-          "Leve a caneca ao micro-ondas em potência alta por 1 minuto e 20 segundos a 1 minuto e 40 segundos, dependendo da potência do seu aparelho.",
-          "O brownie estará pronto quando as bordas estiverem firmes e o centro ainda levemente úmido. Sirva quente."
+          "Preaqueça o forno a 200°C. Unte uma assadeira grande com azeite.",
+          "Em uma tigela grande, misture a carne moída, a abobrinha ralada, o alho picado, o bacon, o ovo, a farinha de rosca, a sálvia picada, sal e pimenta-do-reino. Amasse bem com as mãos até que todos os ingredientes estejam incorporados.",
+          "Modele a mistura de carne em formato de bolo na assadeira untada. Distribua os gomos de cebola ao redor do bolo de carne.",
+          "Leve ao forno preaquecido e asse por cerca de 40 a 50 minutos, ou até que esteja dourado e cozido por completo.",
+          "Retire do forno e deixe descansar por alguns minutos antes de fatiar e servir."
         ],
-        "id": "brownie-de-caneca-bf4b41"
+        "id": "bolo-de-carne-e-abobrinha-com-cebolas-as-570f0b"
+      },
+      {
+        "nome": "Frango com Cogumelos e Legumes na Air Fryer",
+        "curso": "principal",
+        "tempo": "25 min",
+        "url": "https://www.flama.pt/receita/frango-com-cogumelos-e-legumes-na-air-fryer-receita-facil/",
+        "porque": "Uma alternativa proteica à carne vermelha, preparada de forma prática na Airfryer com legumes, garantindo uma refeição equilibrada e sem fritura.",
+        "tags": [
+          "frango",
+          "airfryer",
+          "rapido"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "2 peitos de frango em cubos",
+          "150g de cogumelos frescos laminados",
+          "1 curgete média cortada em cubos",
+          "1 tomate cortado em cubos",
+          "Colorau a gosto",
+          "Alho em pó a gosto",
+          "Sal a gosto",
+          "Molho de soja a gosto",
+          "Azeite a gosto",
+          "Orégãos a gosto"
+        ],
+        "preparo": [
+          "Em uma tigela, tempere os cubos de frango com colorau, alho em pó, sal e molho de soja. Misture bem para que o tempero envolva todo o frango.",
+          "Pré-aqueça a Airfryer a 200°C por 5 minutos.",
+          "Coloque os pedaços de frango temperados no cesto da Airfryer e cozinhe por 10 minutos.",
+          "Enquanto o frango cozinha, tempere os cogumelos, a curgete e o tomate com azeite e orégãos.",
+          "Após os 10 minutos iniciais, adicione os legumes temperados ao cesto da Airfryer junto com o frango e cozinhe por mais 10 a 15 minutos, ou até que o frango esteja cozido e os legumes macios."
+        ],
+        "id": "frango-com-cogumelos-e-legumes-na-air-fr-1cc336"
+      },
+      {
+        "nome": "Legumes Assados com Especiarias",
+        "curso": "entrada",
+        "tempo": "40 min",
+        "url": "https://anacao.cv/legumes-assados-no-forno-com-especiarias/",
+        "porque": "Extremamente fácil de preparar no forno, sem fritura, e permite usar uma variedade de legumes frescos para uma entrada leve, saudável e com fibras.",
+        "tags": [
+          "vegetariano",
+          "forno",
+          "rapido"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "2 cenouras médias, cortadas em palitos",
+          "1 abobrinha média, cortada em rodelas",
+          "1 pimentão vermelho, cortado em tiras",
+          "1 cebola roxa, cortada em gomos",
+          "1 batata-doce média, cortada em cubos",
+          "2 colheres (sopa) de azeite extra-virgem",
+          "2 dentes de alho picados",
+          "1 colher (chá) de alecrim fresco picado",
+          "Sal e especiarias a gosto (ex: páprica, cominho)"
+        ],
+        "preparo": [
+          "Pré-aqueça o forno a 200°C.",
+          "Em uma tigela grande, misture todos os legumes já cortados com o azeite de oliva, o alho picado, o alecrim, o sal e as especiarias a gosto.",
+          "Espalhe os legumes em uma assadeira em uma única camada, evitando amontoar para que assem uniformemente.",
+          "Asse no forno preaquecido por cerca de 25 a 30 minutos, ou até que os legumes fiquem dourados e macios."
+        ],
+        "id": "legumes-assados-com-especiarias-4c7e91"
+      },
+      {
+        "nome": "Sobremesa 3 Ingredientes (Leite Condensado, Suco de Limão e Biscoito)",
+        "curso": "sobremesa",
+        "tempo": "15 min",
+        "url": "https://www.youtube.com/watch?v=d_U_L-u42oI",
+        "porque": "Uma sobremesa sem forno, extremamente prática e rápida de preparar com poucos ingredientes acessíveis, ideal para um final de refeição leve e refrescante.",
+        "tags": [
+          "rapido",
+          "sobremesa",
+          "gelado"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "1 caixinha de leite condensado (395g)",
+          "Suco de 1 limão grande (ou 2 menores)",
+          "1 pacote de biscoito Maizena (ou similar)"
+        ],
+        "preparo": [
+          "Em uma tigela, misture o leite condensado com o suco de limão. Mexa bem até a mistura engrossar e formar um creme consistente.",
+          "Em um refratário médio, faça uma camada de biscoitos no fundo.",
+          "Cubra os biscoitos com uma camada generosa do creme de limão.",
+          "Repita as camadas, alternando biscoitos e creme de limão, terminando com uma camada de creme.",
+          "Leve à geladeira por pelo menos 1 hora para firmar bem antes de servir."
+        ],
+        "id": "sobremesa-3-ingredientes-leite-condensad-959728"
       }
     ]
   },

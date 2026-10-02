@@ -1,44 +1,5 @@
 [
   {
-    "id": "frango-assado-r-pido-e-f-cil-643566",
-    "titulo": "Frango Assado Rápido e Fácil",
-    "tags": [
-      "frango",
-      "forno",
-      "rapido"
-    ],
-    "data": "28/07/2026"
-  },
-  {
-    "id": "lombo-de-porco-na-airfryer-c8e932",
-    "titulo": "Lombo de Porco na Airfryer",
-    "tags": [
-      "porco",
-      "airfryer",
-      "rapido"
-    ],
-    "data": "28/07/2026"
-  },
-  {
-    "id": "pat-de-frango-f-cil-a2047d",
-    "titulo": "Patê de Frango Fácil",
-    "tags": [
-      "frango",
-      "rapido",
-      "entrada"
-    ],
-    "data": "28/07/2026"
-  },
-  {
-    "id": "pudim-de-caneca-no-micro-ondas-79565b",
-    "titulo": "Pudim de Caneca no Micro-ondas",
-    "tags": [
-      "rapido",
-      "sobremesa"
-    ],
-    "data": "28/07/2026"
-  },
-  {
     "id": "macarr-o-bolonhesa-r-pido-416e9e",
     "titulo": "Macarrão à Bolonhesa Rápido",
     "tags": [
@@ -5040,5 +5001,45 @@
       "rapido"
     ],
     "data": "01/10/2026"
+  },
+  {
+    "id": "bolo-de-carne-e-abobrinha-com-cebolas-as-570f0b",
+    "titulo": "Bolo de Carne e Abobrinha com Cebolas Assadas",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "equilibrado"
+    ],
+    "data": "02/10/2026"
+  },
+  {
+    "id": "frango-com-cogumelos-e-legumes-na-air-fr-1cc336",
+    "titulo": "Frango com Cogumelos e Legumes na Air Fryer",
+    "tags": [
+      "frango",
+      "airfryer",
+      "rapido"
+    ],
+    "data": "02/10/2026"
+  },
+  {
+    "id": "legumes-assados-com-especiarias-4c7e91",
+    "titulo": "Legumes Assados com Especiarias",
+    "tags": [
+      "vegetariano",
+      "forno",
+      "rapido"
+    ],
+    "data": "02/10/2026"
+  },
+  {
+    "id": "sobremesa-3-ingredientes-leite-condensad-959728",
+    "titulo": "Sobremesa 3 Ingredientes (Leite Condensado, Suco de Limão e Biscoito)",
+    "tags": [
+      "rapido",
+      "sobremesa",
+      "gelado"
+    ],
+    "data": "02/10/2026"
   }
 ]
