@@ -1,163 +1,131 @@
 {
-  "gerado_em": "02/10/2026",
+  "gerado_em": "03/10/2026",
   "diario": {
     "tipo": "diario",
-    "data": "02/10/2026",
-    "dia_semana": "sexta",
+    "data": "03/10/2026",
+    "dia_semana": "sábado",
     "pratos": [
       {
-        "nome": "Bife Grelhado com Vinagrete",
-        "curso": "principal",
-        "tempo": "20 min",
-        "url": "https://www.panelinha.com.br/receita/Bife-grelhado-com-vinagrete",
-        "porque": "Uma opção clássica de carne vermelha, rápida de preparar na grelha e o vinagrete adiciona frescor e vegetais ao prato, ideal para um jantar equilibrado.",
-        "tags": [
-          "carne_vermelha",
-          "grelhado",
-          "rapido"
-        ],
-        "rende_sobra": false,
-        "ingredientes": [
-          "2 bifes de contrafilé (ou outra carne vermelha de preferência)",
-          "1 colher (chá) de azeite para grelhar",
-          "Sal e pimenta-do-reino a gosto para temperar os bifes",
-          "2 tomates em cubos pequenos",
-          "½ cebola-roxa picada fino",
-          "3 colheres (sopa) de azeite para o vinagrete",
-          "1 colher (sopa) de vinagre",
-          "Salsinha picada a gosto"
-        ],
-        "preparo": [
-          "Em uma tigela, misture o tomate em cubos, a cebola-roxa picada, 3 colheres de azeite, o vinagre, a salsinha, sal e pimenta-do-reino a gosto. Reserve o vinagrete.",
-          "Retire os bifes da geladeira e deixe em temperatura ambiente por alguns minutos. Tempere-os com sal e pimenta-do-reino a gosto.",
-          "Aqueça uma frigideira grande em fogo alto e adicione 1 colher de chá de azeite. Coloque os bifes.",
-          "Grelhe os bifes por cerca de 2 minutos de cada lado, ou até atingir o ponto desejado.",
-          "Sirva os bifes imediatamente acompanhados do vinagrete fresco."
-        ],
-        "id": "bife-grelhado-com-vinagrete-0cfa78"
-      },
-      {
-        "nome": "Bolo de Carne e Abobrinha com Cebolas Assadas",
+        "nome": "Picanha Assada com Sal Grosso",
         "curso": "principal",
         "tempo": "40 min",
-        "url": "https://www.panelinha.com.br/receita/Bolo-de-carne-e-abobrinha-com-cebolas-assadas",
-        "porque": "Preparado no forno, este prato combina carne moída com abobrinha e cebolas assadas, resultando em uma refeição completa, saborosa e com boa fonte de proteína.",
+        "url": "https://www.panelinha.com.br/receita/picanha-no-forno-com-crosta-de-sal",
+        "porque": "É uma opção de carne vermelha nobre e muito apreciada, preparada de forma simples e limpa no forno com sal grosso, ideal para o casal e sem fritura.",
         "tags": [
           "carne_vermelha",
+          "forno",
+          "rapido"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "1 picanha de ~1,2 kg",
+          "1 kg de sal grosso",
+          "2 claras de ovo",
+          "2 colheres (sopa) de farinha de trigo",
+          "2 ramos de tomilho fresco (opcional)"
+        ],
+        "preparo": [
+          "Misture o sal grosso com as claras de ovo e a farinha de trigo até formar uma pasta úmida.",
+          "Espalhe metade da mistura de sal em uma assadeira que comporte a picanha.",
+          "Coloque a peça de picanha sobre o sal (com a gordura para cima) e cubra-a completamente com o restante da mistura de sal, pressionando bem para formar uma crosta.",
+          "Leve ao forno pré-aquecido a 200°C por cerca de 30 a 40 minutos para um ponto malpassado a ao ponto.",
+          "Retire do forno, quebre a crosta de sal com cuidado e fatie a picanha em bifes grossos.",
+          "Sirva imediatamente, acompanhada de um molho de sua preferência ou apenas com o suco da carne."
+        ],
+        "id": "picanha-assada-com-sal-grosso-686788"
+      },
+      {
+        "nome": "Sobrecoxas Assadas com Páprica e Ervas",
+        "curso": "principal",
+        "tempo": "45 min",
+        "url": "https://www.tudogostoso.com.br/receita/157888-coxa-e-sobrecoxa-de-frango-assado-no-forno.html",
+        "porque": "Uma alternativa saborosa e prática à carne vermelha, feita no forno para garantir crocância sem fritura, com temperos que agradam o paladar.",
+        "tags": [
+          "frango",
           "forno",
           "equilibrado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "600g de patinho moído",
-          "1 abobrinha média ralada",
-          "2 cebolas médias cortadas em gomos",
-          "2 dentes de alho picados",
-          "½ xícara (chá) de bacon em cubos (aprox. 70g)",
-          "1 ovo grande",
-          "3 colheres (sopa) de farinha de rosca",
-          "2 colheres (chá) de sálvia picada",
-          "Sal e pimenta-do-reino a gosto",
-          "Azeite para untar"
+          "8 sobrecoxas de frango (sem pele, opcional)",
+          "2 colheres (sopa) de azeite",
+          "1 colher (chá) de páprica doce",
+          "1 colher (chá) de alho em pó (ou 2 dentes de alho picados)",
+          "1/2 colher (chá) de cebola em pó (ou 1/2 cebola pequena ralada)",
+          "1/2 colher (chá) de orégano seco",
+          "Sal e pimenta-do-reino moída na hora a gosto",
+          "Ramos de alecrim ou tomilho fresco (opcional)"
         ],
         "preparo": [
-          "Preaqueça o forno a 200°C. Unte uma assadeira grande com azeite.",
-          "Em uma tigela grande, misture a carne moída, a abobrinha ralada, o alho picado, o bacon, o ovo, a farinha de rosca, a sálvia picada, sal e pimenta-do-reino. Amasse bem com as mãos até que todos os ingredientes estejam incorporados.",
-          "Modele a mistura de carne em formato de bolo na assadeira untada. Distribua os gomos de cebola ao redor do bolo de carne.",
-          "Leve ao forno preaquecido e asse por cerca de 40 a 50 minutos, ou até que esteja dourado e cozido por completo.",
-          "Retire do forno e deixe descansar por alguns minutos antes de fatiar e servir."
+          "Em uma tigela grande, tempere as sobrecoxas de frango com o azeite, páprica, alho em pó, cebola em pó, orégano, sal e pimenta-do-reino. Esfregue bem para que o tempero cubra toda a carne.",
+          "Disponha as sobrecoxas em uma assadeira, com a pele virada para cima se estiver usando (para ficar mais crocante).",
+          "Se desejar, adicione ramos de alecrim ou tomilho fresco na assadeira.",
+          "Leve ao forno pré-aquecido a 200°C por aproximadamente 35 a 40 minutos, ou até que estejam douradas e cozidas por completo.",
+          "Retire do forno e sirva as sobrecoxas assadas com seus acompanhamentos preferidos."
         ],
-        "id": "bolo-de-carne-e-abobrinha-com-cebolas-as-570f0b"
+        "id": "sobrecoxas-assadas-com-p-prica-e-ervas-b33281"
       },
       {
-        "nome": "Frango com Cogumelos e Legumes na Air Fryer",
-        "curso": "principal",
-        "tempo": "25 min",
-        "url": "https://www.flama.pt/receita/frango-com-cogumelos-e-legumes-na-air-fryer-receita-facil/",
-        "porque": "Uma alternativa proteica à carne vermelha, preparada de forma prática na Airfryer com legumes, garantindo uma refeição equilibrada e sem fritura.",
-        "tags": [
-          "frango",
-          "airfryer",
-          "rapido"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "2 peitos de frango em cubos",
-          "150g de cogumelos frescos laminados",
-          "1 curgete média cortada em cubos",
-          "1 tomate cortado em cubos",
-          "Colorau a gosto",
-          "Alho em pó a gosto",
-          "Sal a gosto",
-          "Molho de soja a gosto",
-          "Azeite a gosto",
-          "Orégãos a gosto"
-        ],
-        "preparo": [
-          "Em uma tigela, tempere os cubos de frango com colorau, alho em pó, sal e molho de soja. Misture bem para que o tempero envolva todo o frango.",
-          "Pré-aqueça a Airfryer a 200°C por 5 minutos.",
-          "Coloque os pedaços de frango temperados no cesto da Airfryer e cozinhe por 10 minutos.",
-          "Enquanto o frango cozinha, tempere os cogumelos, a curgete e o tomate com azeite e orégãos.",
-          "Após os 10 minutos iniciais, adicione os legumes temperados ao cesto da Airfryer junto com o frango e cozinhe por mais 10 a 15 minutos, ou até que o frango esteja cozido e os legumes macios."
-        ],
-        "id": "frango-com-cogumelos-e-legumes-na-air-fr-1cc336"
-      },
-      {
-        "nome": "Legumes Assados com Especiarias",
+        "nome": "Salada Colorida com Ovos de Codorna",
         "curso": "entrada",
-        "tempo": "40 min",
-        "url": "https://anacao.cv/legumes-assados-no-forno-com-especiarias/",
-        "porque": "Extremamente fácil de preparar no forno, sem fritura, e permite usar uma variedade de legumes frescos para uma entrada leve, saudável e com fibras.",
+        "tempo": "15 min",
+        "url": "https://www.panelinha.com.br/receita/Salada-colorida",
+        "porque": "Uma entrada leve, fresca e nutritiva, fácil de preparar e que oferece uma boa variedade de legumes e proteína extra com ovos de codorna.",
         "tags": [
-          "vegetariano",
-          "forno",
-          "rapido"
+          "salada",
+          "rapido",
+          "vegetariano"
         ],
-        "rende_sobra": true,
+        "rende_sobra": false,
         "ingredientes": [
-          "2 cenouras médias, cortadas em palitos",
-          "1 abobrinha média, cortada em rodelas",
-          "1 pimentão vermelho, cortado em tiras",
-          "1 cebola roxa, cortada em gomos",
-          "1 batata-doce média, cortada em cubos",
-          "2 colheres (sopa) de azeite extra-virgem",
-          "2 dentes de alho picados",
-          "1 colher (chá) de alecrim fresco picado",
-          "Sal e especiarias a gosto (ex: páprica, cominho)"
+          "1 maço de alface americana",
+          "1 cenoura média",
+          "1 pepino japonês",
+          "1 beterraba pequena",
+          "1/2 xícara (chá) de tomate sweet grape (cerca de 90g)",
+          "6 ovos de codorna",
+          "Azeite e sal a gosto"
         ],
         "preparo": [
-          "Pré-aqueça o forno a 200°C.",
-          "Em uma tigela grande, misture todos os legumes já cortados com o azeite de oliva, o alho picado, o alecrim, o sal e as especiarias a gosto.",
-          "Espalhe os legumes em uma assadeira em uma única camada, evitando amontoar para que assem uniformemente.",
-          "Asse no forno preaquecido por cerca de 25 a 30 minutos, ou até que os legumes fiquem dourados e macios."
+          "Cozinhe os ovos de codorna por cerca de 3-4 minutos, descasque e corte-os ao meio. Reserve.",
+          "Lave bem as folhas de alface, a cenoura, o pepino, a beterraba e os tomates.",
+          "Pique a alface em tiras, rale a cenoura e a beterraba, e corte o pepino em rodelas finas. Os tomates sweet grape podem ser cortados ao meio.",
+          "Em uma tigela grande, misture todos os vegetais picados com os ovos de codorna.",
+          "Tempere com azeite e sal a gosto, misturando delicadamente.",
+          "Sirva imediatamente como entrada."
         ],
-        "id": "legumes-assados-com-especiarias-4c7e91"
+        "id": "salada-colorida-com-ovos-de-codorna-75de1b"
       },
       {
-        "nome": "Sobremesa 3 Ingredientes (Leite Condensado, Suco de Limão e Biscoito)",
+        "nome": "Bolo de Caneca de Chocolate",
         "curso": "sobremesa",
-        "tempo": "15 min",
-        "url": "https://www.youtube.com/watch?v=d_U_L-u42oI",
-        "porque": "Uma sobremesa sem forno, extremamente prática e rápida de preparar com poucos ingredientes acessíveis, ideal para um final de refeição leve e refrescante.",
+        "tempo": "5 min",
+        "url": "https://anamariabraga.globo.com/receitas/bolo-de-caneca/",
+        "porque": "Extremamente rápido e prático, ideal para uma sobremesa individual ou para duas pessoas, feita no micro-ondas sem a necessidade de forno.",
         "tags": [
           "rapido",
           "sobremesa",
-          "gelado"
+          "microondas"
         ],
-        "rende_sobra": true,
+        "rende_sobra": false,
         "ingredientes": [
-          "1 caixinha de leite condensado (395g)",
-          "Suco de 1 limão grande (ou 2 menores)",
-          "1 pacote de biscoito Maizena (ou similar)"
+          "1 ovo pequeno",
+          "4 colheres (sopa) de leite",
+          "3 colheres (sopa) de óleo",
+          "4 colheres (sopa) de açúcar",
+          "4 colheres (sopa) de farinha de trigo",
+          "2 colheres (sopa) de chocolate em pó ou achocolatado",
+          "1 colher (café) de fermento em pó"
         ],
         "preparo": [
-          "Em uma tigela, misture o leite condensado com o suco de limão. Mexa bem até a mistura engrossar e formar um creme consistente.",
-          "Em um refratário médio, faça uma camada de biscoitos no fundo.",
-          "Cubra os biscoitos com uma camada generosa do creme de limão.",
-          "Repita as camadas, alternando biscoitos e creme de limão, terminando com uma camada de creme.",
-          "Leve à geladeira por pelo menos 1 hora para firmar bem antes de servir."
+          "Em uma caneca grande (resistente ao micro-ondas), quebre o ovo e bata levemente com um garfo.",
+          "Adicione o leite e o óleo, misturando bem até incorporar.",
+          "Acrescente o açúcar, a farinha de trigo e o chocolate em pó (ou achocolatado), misturando até obter uma massa homogênea.",
+          "Por último, adicione o fermento em pó e misture delicadamente, apenas para incorporá-lo à massa.",
+          "Leve a caneca ao micro-ondas em potência alta por cerca de 1 a 2 minutos, dependendo da potência do seu aparelho.",
+          "O bolo estará pronto quando a massa subir e estiver firme ao toque. Sirva ainda quente."
         ],
-        "id": "sobremesa-3-ingredientes-leite-condensad-959728"
+        "id": "bolo-de-caneca-de-chocolate-8d52a4"
       }
     ]
   },

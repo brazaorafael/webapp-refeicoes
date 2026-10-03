@@ -1,25 +1,5 @@
 [
   {
-    "id": "macarr-o-bolonhesa-r-pido-416e9e",
-    "titulo": "Macarrão à Bolonhesa Rápido",
-    "tags": [
-      "massa",
-      "carne_vermelha",
-      "rapido"
-    ],
-    "data": "28/07/2026"
-  },
-  {
-    "id": "carne-de-panela-com-batata-doce-5c79a7",
-    "titulo": "Carne de Panela com Batata Doce",
-    "tags": [
-      "carne_vermelha",
-      "rapido",
-      "panela_pressao"
-    ],
-    "data": "28/07/2026"
-  },
-  {
     "id": "bife-de-fil-mignon-ao-molho-madeira-r-pi-888d53",
     "titulo": "Bife de Filé Mignon ao Molho Madeira Rápido",
     "tags": [
@@ -5041,5 +5021,25 @@
       "gelado"
     ],
     "data": "02/10/2026"
+  },
+  {
+    "id": "salada-colorida-com-ovos-de-codorna-75de1b",
+    "titulo": "Salada Colorida com Ovos de Codorna",
+    "tags": [
+      "salada",
+      "rapido",
+      "vegetariano"
+    ],
+    "data": "03/10/2026"
+  },
+  {
+    "id": "bolo-de-caneca-de-chocolate-8d52a4",
+    "titulo": "Bolo de Caneca de Chocolate",
+    "tags": [
+      "rapido",
+      "sobremesa",
+      "microondas"
+    ],
+    "data": "03/10/2026"
   }
 ]
