@@ -1,25 +1,5 @@
 [
   {
-    "id": "bife-de-fil-mignon-ao-molho-madeira-r-pi-888d53",
-    "titulo": "Bife de Filé Mignon ao Molho Madeira Rápido",
-    "tags": [
-      "carne_vermelha",
-      "grelhado",
-      "rapido"
-    ],
-    "data": "28/07/2026"
-  },
-  {
-    "id": "mini-espetinhos-caprese-1bb22a",
-    "titulo": "Mini Espetinhos Caprese",
-    "tags": [
-      "vegetariano",
-      "rapido",
-      "salada"
-    ],
-    "data": "28/07/2026"
-  },
-  {
     "id": "creme-de-abacate-com-chocolate-6dbb5e",
     "titulo": "Creme de Abacate com Chocolate",
     "tags": [
@@ -5041,5 +5021,24 @@
       "microondas"
     ],
     "data": "03/10/2026"
+  },
+  {
+    "id": "ojo-de-bife-grelhado-bc8ba5",
+    "titulo": "Ojo de Bife Grelhado",
+    "tags": [
+      "carne_vermelha",
+      "grelhado",
+      "rapido"
+    ],
+    "data": "04/10/2026"
+  },
+  {
+    "id": "pav-de-bolacha-e-doce-de-leite-aa0c0f",
+    "titulo": "Pavê de Bolacha e Doce de Leite",
+    "tags": [
+      "rapido",
+      "sobremesa"
+    ],
+    "data": "04/10/2026"
   }
 ]

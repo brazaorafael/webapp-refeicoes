@@ -1,131 +1,160 @@
 {
-  "gerado_em": "03/10/2026",
+  "gerado_em": "04/10/2026",
   "diario": {
     "tipo": "diario",
-    "data": "03/10/2026",
-    "dia_semana": "sábado",
+    "data": "04/10/2026",
+    "dia_semana": "domingo",
     "pratos": [
       {
-        "nome": "Picanha Assada com Sal Grosso",
+        "nome": "Ojo de Bife Grelhado",
         "curso": "principal",
-        "tempo": "40 min",
-        "url": "https://www.panelinha.com.br/receita/picanha-no-forno-com-crosta-de-sal",
-        "porque": "É uma opção de carne vermelha nobre e muito apreciada, preparada de forma simples e limpa no forno com sal grosso, ideal para o casal e sem fritura.",
+        "tempo": "20 min",
+        "url": "https://www.anamariabraga.com.br/receitas/ojo-de-bife",
+        "porque": "Um corte de carne vermelha preferido pelo casal, de preparo rápido na grelha ou frigideira, garantindo alta proteína.",
         "tags": [
           "carne_vermelha",
-          "forno",
+          "grelhado",
           "rapido"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "1 picanha de ~1,2 kg",
-          "1 kg de sal grosso",
-          "2 claras de ovo",
-          "2 colheres (sopa) de farinha de trigo",
-          "2 ramos de tomilho fresco (opcional)"
+          "1 porção de ojo de bife (~350g)",
+          "Sal grosso a gosto",
+          "Óleo de milho para grelhar"
         ],
         "preparo": [
-          "Misture o sal grosso com as claras de ovo e a farinha de trigo até formar uma pasta úmida.",
-          "Espalhe metade da mistura de sal em uma assadeira que comporte a picanha.",
-          "Coloque a peça de picanha sobre o sal (com a gordura para cima) e cubra-a completamente com o restante da mistura de sal, pressionando bem para formar uma crosta.",
-          "Leve ao forno pré-aquecido a 200°C por cerca de 30 a 40 minutos para um ponto malpassado a ao ponto.",
-          "Retire do forno, quebre a crosta de sal com cuidado e fatie a picanha em bifes grossos.",
-          "Sirva imediatamente, acompanhada de um molho de sua preferência ou apenas com o suco da carne."
+          "Tempere o ojo de bife com sal grosso a gosto.",
+          "Aqueça uma frigideira ou grelha em fogo alto com um fio de óleo de milho.",
+          "Grelhe a carne por cerca de 3 a 4 minutos de cada lado para um ponto malpassado a médio, ajustando conforme a preferência.",
+          "Deixe a carne descansar por alguns minutos antes de fatiar para que os sucos se redistribuam."
         ],
-        "id": "picanha-assada-com-sal-grosso-686788"
+        "id": "ojo-de-bife-grelhado-bc8ba5"
       },
       {
-        "nome": "Sobrecoxas Assadas com Páprica e Ervas",
+        "nome": "Fraldinha Assada na Cerveja",
         "curso": "principal",
         "tempo": "45 min",
-        "url": "https://www.tudogostoso.com.br/receita/157888-coxa-e-sobrecoxa-de-frango-assado-no-forno.html",
-        "porque": "Uma alternativa saborosa e prática à carne vermelha, feita no forno para garantir crocância sem fritura, com temperos que agradam o paladar.",
+        "url": "https://www.panelinha.com.br/receita/Fraldinha-assada-na-cerveja",
+        "porque": "Uma receita de carne vermelha que vai ao forno, o que reduz a necessidade de supervisão constante e garante uma carne suculenta e saborosa.",
         "tags": [
-          "frango",
+          "carne_vermelha",
           "forno",
+          "rende_sobra"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "1 fraldinha em peça com cerca de 1 kg",
+          "350 ml de cerveja escura (1 lata)",
+          "2 cebolas grandes",
+          "2 pimentões vermelhos",
+          "3 dentes de alho picados",
+          "2 colheres (sopa) de açúcar mascavo",
+          "2 colheres (sopa) de extrato de tomate",
+          "1 colher (sopa) de vinagre de vinho tinto",
+          "Sal e pimenta-do-reino a gosto",
+          "1 colher (sopa) de azeite",
+          "Ramos de tomilho fresco (opcional)"
+        ],
+        "preparo": [
+          "Faça cortes superficiais na gordura da fraldinha. Em um recipiente, misture a cerveja, alho, extrato de tomate, açúcar mascavo, vinagre, sal e pimenta. Adicione a carne e os ramos de tomilho, e deixe marinar na geladeira por no mínimo 2 horas.",
+          "Pré-aqueça o forno a 200ºC. Escorra a carne da marinada. Forre uma assadeira com as cebolas cortadas em pétalas.",
+          "Disponha a fraldinha sobre as cebolas, com a gordura para cima. Tempere com sal e pimenta-do-reino e regue com azeite.",
+          "Adicione os pimentões em tiras ao redor da carne e regue com o líquido da marinada. Leve ao forno por cerca de 30 a 40 minutos, ou até a carne ficar macia e dourada.",
+          "Se desejar, use o líquido da assadeira para preparar um molho, engrossando com amido de milho diluído em um pouco de água.",
+          "Fatie a fraldinha e sirva com o molho e acompanhamentos de sua preferência."
+        ],
+        "id": "fraldinha-assada-na-cerveja-34892a"
+      },
+      {
+        "nome": "Bife Completo na Pressão",
+        "curso": "principal",
+        "tempo": "35 min",
+        "url": "https://www.anamariabraga.com.br/receitas/bife-completo-na-pressao",
+        "porque": "Cozinhado na panela de pressão, este prato é rápido e prático, combinando carne vermelha com legumes em um único preparo, garantindo uma refeição equilibrada e rica em proteína.",
+        "tags": [
+          "carne_vermelha",
+          "rapido",
           "equilibrado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "8 sobrecoxas de frango (sem pele, opcional)",
-          "2 colheres (sopa) de azeite",
-          "1 colher (chá) de páprica doce",
-          "1 colher (chá) de alho em pó (ou 2 dentes de alho picados)",
-          "1/2 colher (chá) de cebola em pó (ou 1/2 cebola pequena ralada)",
-          "1/2 colher (chá) de orégano seco",
-          "Sal e pimenta-do-reino moída na hora a gosto",
-          "Ramos de alecrim ou tomilho fresco (opcional)"
+          "1 kg de coxão mole cortado em bifes finos",
+          "5 batatas médias sem casca cortadas em rodelas grossas",
+          "2 cebolas grandes cortadas em rodelas grossas",
+          "1 repolho pequeno cortado em pedaços grandes",
+          "1 caixinha de molho de tomate",
+          "½ xícara (chá) de azeitonas verdes picadas grosseiramente",
+          "½ xícara (chá) de óleo",
+          "Sal e pimenta-do-reino a gosto",
+          "Salsinha picada a gosto"
         ],
         "preparo": [
-          "Em uma tigela grande, tempere as sobrecoxas de frango com o azeite, páprica, alho em pó, cebola em pó, orégano, sal e pimenta-do-reino. Esfregue bem para que o tempero cubra toda a carne.",
-          "Disponha as sobrecoxas em uma assadeira, com a pele virada para cima se estiver usando (para ficar mais crocante).",
-          "Se desejar, adicione ramos de alecrim ou tomilho fresco na assadeira.",
-          "Leve ao forno pré-aquecido a 200°C por aproximadamente 35 a 40 minutos, ou até que estejam douradas e cozidas por completo.",
-          "Retire do forno e sirva as sobrecoxas assadas com seus acompanhamentos preferidos."
+          "Tempere os bifes de coxão mole com sal, pimenta e alho amassado a gosto.",
+          "Em uma panela de pressão, coloque o óleo e faça camadas com metade dos bifes, metade das batatas, metade da cebola, metade do repolho, metade do molho de tomate e metade das azeitonas.",
+          "Tempere com sal e pimenta-do-reino e repita as camadas com os ingredientes restantes.",
+          "Tampe a panela de pressão e cozinhe em fogo médio por 15 minutos após pegar pressão.",
+          "Desligue o fogo, espere a pressão sair naturalmente, abra a panela e polvilhe salsinha picada a gosto.",
+          "Sirva o bife completo na pressão acompanhado de arroz branco, se desejar."
         ],
-        "id": "sobrecoxas-assadas-com-p-prica-e-ervas-b33281"
+        "id": "bife-completo-na-press-o-b6090a"
       },
       {
-        "nome": "Salada Colorida com Ovos de Codorna",
+        "nome": "Salada de Grão de Bico com Tomate e Pepino",
         "curso": "entrada",
         "tempo": "15 min",
-        "url": "https://www.panelinha.com.br/receita/Salada-colorida",
-        "porque": "Uma entrada leve, fresca e nutritiva, fácil de preparar e que oferece uma boa variedade de legumes e proteína extra com ovos de codorna.",
+        "url": "https://claudia.abril.com.br/receitas/salada-de-grao-de-bico-da-mimis/",
+        "porque": "Uma entrada leve, fresca e de preparo super rápido, ideal para abrir o apetite e adicionar uma boa dose de proteína vegetal.",
         "tags": [
           "salada",
-          "rapido",
-          "vegetariano"
+          "vegetariano",
+          "rapido"
         ],
-        "rende_sobra": false,
+        "rende_sobra": true,
         "ingredientes": [
-          "1 maço de alface americana",
-          "1 cenoura média",
-          "1 pepino japonês",
-          "1 beterraba pequena",
-          "1/2 xícara (chá) de tomate sweet grape (cerca de 90g)",
-          "6 ovos de codorna",
-          "Azeite e sal a gosto"
+          "1 lata de grão-de-bico (cerca de 250g), escorrido e lavado",
+          "1 tomate médio picado",
+          "1 pepino japonês picado",
+          "½ cebola roxa pequena picada finamente (opcional)",
+          "½ xícara (chá) de azeitonas picadas (opcional)",
+          "Azeite de oliva extra virgem a gosto",
+          "Suco de ½ limão",
+          "Sal e pimenta-do-reino a gosto",
+          "Salsa picada a gosto"
         ],
         "preparo": [
-          "Cozinhe os ovos de codorna por cerca de 3-4 minutos, descasque e corte-os ao meio. Reserve.",
-          "Lave bem as folhas de alface, a cenoura, o pepino, a beterraba e os tomates.",
-          "Pique a alface em tiras, rale a cenoura e a beterraba, e corte o pepino em rodelas finas. Os tomates sweet grape podem ser cortados ao meio.",
-          "Em uma tigela grande, misture todos os vegetais picados com os ovos de codorna.",
-          "Tempere com azeite e sal a gosto, misturando delicadamente.",
-          "Sirva imediatamente como entrada."
+          "Em uma tigela funda, coloque o grão-de-bico escorrido e lavado, o tomate picado, o pepino picado, a cebola roxa e as azeitonas (se usar).",
+          "Tempere a salada com azeite de oliva extra virgem, suco de limão, sal e pimenta-do-reino a gosto.",
+          "Polvilhe com a salsa picada e misture delicadamente para incorporar todos os ingredientes e temperos.",
+          "Deixe a salada descansar por alguns minutos na geladeira para apurar o sabor antes de servir."
         ],
-        "id": "salada-colorida-com-ovos-de-codorna-75de1b"
+        "id": "salada-de-gr-o-de-bico-com-tomate-e-pepi-6516ed"
       },
       {
-        "nome": "Bolo de Caneca de Chocolate",
+        "nome": "Pavê de Bolacha e Doce de Leite",
         "curso": "sobremesa",
-        "tempo": "5 min",
-        "url": "https://anamariabraga.globo.com/receitas/bolo-de-caneca/",
-        "porque": "Extremamente rápido e prático, ideal para uma sobremesa individual ou para duas pessoas, feita no micro-ondas sem a necessidade de forno.",
+        "tempo": "20 min",
+        "url": "https://www.facebook.com/jureceitasfacil/posts/pfbid0251V9Yd4rM1J62s7X9X1rF9mP319Q7K2XJ4d5G1F2Y4m6F7S4J1X2Q7J4Z7F1L2K7J7M7Q7P7Q",
+        "porque": "Uma sobremesa clássica e muito apreciada, com poucos ingredientes e preparo descomplicado, perfeita para um doce saboroso sem muito esforço.",
         "tags": [
           "rapido",
-          "sobremesa",
-          "microondas"
+          "sobremesa"
         ],
         "rende_sobra": false,
         "ingredientes": [
-          "1 ovo pequeno",
-          "4 colheres (sopa) de leite",
-          "3 colheres (sopa) de óleo",
-          "4 colheres (sopa) de açúcar",
-          "4 colheres (sopa) de farinha de trigo",
-          "2 colheres (sopa) de chocolate em pó ou achocolatado",
-          "1 colher (café) de fermento em pó"
+          "500 ml de chantilly bem gelado",
+          "3 colheres (sopa) generosas de doce de leite",
+          "1 pacote de bolachas (Maizena ou Maria)",
+          "150 ml de leite (para umedecer as bolachas)"
         ],
         "preparo": [
-          "Em uma caneca grande (resistente ao micro-ondas), quebre o ovo e bata levemente com um garfo.",
-          "Adicione o leite e o óleo, misturando bem até incorporar.",
-          "Acrescente o açúcar, a farinha de trigo e o chocolate em pó (ou achocolatado), misturando até obter uma massa homogênea.",
-          "Por último, adicione o fermento em pó e misture delicadamente, apenas para incorporá-lo à massa.",
-          "Leve a caneca ao micro-ondas em potência alta por cerca de 1 a 2 minutos, dependendo da potência do seu aparelho.",
-          "O bolo estará pronto quando a massa subir e estiver firme ao toque. Sirva ainda quente."
+          "Em uma tigela, bata o chantilly bem gelado até ficar firme.",
+          "Adicione o doce de leite e bata mais um pouco, apenas para envolver os ingredientes e formar um creme homogêneo.",
+          "Passe as bolachas rapidamente pelo leite, uma a uma, sem deixar amolecer demais.",
+          "Em um refratário, faça uma camada de bolachas umedecidas no fundo. Cubra com uma parte do creme de doce de leite e espalhe bem.",
+          "Repita o processo, intercalando as camadas de bolachas e creme, até terminarem os ingredientes, finalizando com uma camada de creme.",
+          "Leve à geladeira por, pelo menos, 4 horas para firmar. Se puder deixar de um dia para o outro, fica ainda melhor."
         ],
-        "id": "bolo-de-caneca-de-chocolate-8d52a4"
+        "id": "pav-de-bolacha-e-doce-de-leite-aa0c0f"
       }
     ]
   },
