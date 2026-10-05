@@ -1,45 +1,5 @@
 [
   {
-    "id": "creme-de-abacate-com-chocolate-6dbb5e",
-    "titulo": "Creme de Abacate com Chocolate",
-    "tags": [
-      "rapido",
-      "vegetariano",
-      "low_carb"
-    ],
-    "data": "28/07/2026"
-  },
-  {
-    "id": "frango-com-legumes-assado-16d315",
-    "titulo": "Frango com Legumes Assado",
-    "tags": [
-      "frango",
-      "forno",
-      "equilibrado"
-    ],
-    "data": "28/07/2026"
-  },
-  {
-    "id": "bife-parmegiana-na-airfryer-a3c801",
-    "titulo": "Bife à Parmegiana na Airfryer",
-    "tags": [
-      "carne_vermelha",
-      "airfryer",
-      "rapido"
-    ],
-    "data": "28/07/2026"
-  },
-  {
-    "id": "gr-o-de-bico-refogado-proteico-0e2cc1",
-    "titulo": "Grão de Bico Refogado Proteico",
-    "tags": [
-      "vegetariano",
-      "rapido",
-      "low_carb"
-    ],
-    "data": "28/07/2026"
-  },
-  {
     "id": "sopa-creme-de-ab-bora-r-pida-d01cff",
     "titulo": "Sopa Creme de Abóbora Rápida",
     "tags": [
@@ -5040,5 +5000,48 @@
       "sobremesa"
     ],
     "data": "04/10/2026"
+  },
+  {
+    "id": "bife-acebolado-com-arroz-e-br-colis-b40d2c",
+    "titulo": "Bife Acebolado com Arroz e Brócolis",
+    "tags": [
+      "carne_vermelha",
+      "grelhado",
+      "rapido",
+      "equilibrado"
+    ],
+    "data": "05/10/2026"
+  },
+  {
+    "id": "fil-mignon-su-no-assado-com-batatas-r-st-b3c540",
+    "titulo": "Filé Mignon Suíno Assado com Batatas Rústicas",
+    "tags": [
+      "porco",
+      "forno",
+      "rapido",
+      "equilibrado"
+    ],
+    "data": "05/10/2026"
+  },
+  {
+    "id": "salada-de-folhas-verdes-com-tomate-cerej-2401b0",
+    "titulo": "Salada de Folhas Verdes com Tomate Cereja e Queijo Coalho Grelhado",
+    "tags": [
+      "salada",
+      "grelhado",
+      "rapido",
+      "vegetariano"
+    ],
+    "data": "05/10/2026"
+  },
+  {
+    "id": "crumble-de-ma-na-caneca-3153c1",
+    "titulo": "Crumble de Maçã na Caneca",
+    "tags": [
+      "rapido",
+      "vegetariano",
+      "microondas"
+    ],
+    "data": "05/10/2026"
   }
 ]

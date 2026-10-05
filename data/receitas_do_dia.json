@@ -1,160 +1,128 @@
 {
-  "gerado_em": "04/10/2026",
+  "gerado_em": "05/10/2026",
   "diario": {
     "tipo": "diario",
-    "data": "04/10/2026",
-    "dia_semana": "domingo",
+    "data": "05/10/2026",
+    "dia_semana": "segunda",
     "pratos": [
       {
-        "nome": "Ojo de Bife Grelhado",
+        "nome": "Bife Acebolado com Arroz e Brócolis",
         "curso": "principal",
-        "tempo": "20 min",
-        "url": "https://www.anamariabraga.com.br/receitas/ojo-de-bife",
-        "porque": "Um corte de carne vermelha preferido pelo casal, de preparo rápido na grelha ou frigideira, garantindo alta proteína.",
+        "tempo": "35 min",
+        "url": "https://www.swift.com.br/receita-de-bife-de-copa-lombo-com-arroz-de-brocolis-e-sementes/p",
+        "porque": "É um clássico rápido de preparar, com a carne vermelha preferida do casal, preparado na frigideira sem fritura por imersão e com acompanhamentos equilibrados.",
         "tags": [
           "carne_vermelha",
           "grelhado",
-          "rapido"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "1 porção de ojo de bife (~350g)",
-          "Sal grosso a gosto",
-          "Óleo de milho para grelhar"
-        ],
-        "preparo": [
-          "Tempere o ojo de bife com sal grosso a gosto.",
-          "Aqueça uma frigideira ou grelha em fogo alto com um fio de óleo de milho.",
-          "Grelhe a carne por cerca de 3 a 4 minutos de cada lado para um ponto malpassado a médio, ajustando conforme a preferência.",
-          "Deixe a carne descansar por alguns minutos antes de fatiar para que os sucos se redistribuam."
-        ],
-        "id": "ojo-de-bife-grelhado-bc8ba5"
-      },
-      {
-        "nome": "Fraldinha Assada na Cerveja",
-        "curso": "principal",
-        "tempo": "45 min",
-        "url": "https://www.panelinha.com.br/receita/Fraldinha-assada-na-cerveja",
-        "porque": "Uma receita de carne vermelha que vai ao forno, o que reduz a necessidade de supervisão constante e garante uma carne suculenta e saborosa.",
-        "tags": [
-          "carne_vermelha",
-          "forno",
-          "rende_sobra"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "1 fraldinha em peça com cerca de 1 kg",
-          "350 ml de cerveja escura (1 lata)",
-          "2 cebolas grandes",
-          "2 pimentões vermelhos",
-          "3 dentes de alho picados",
-          "2 colheres (sopa) de açúcar mascavo",
-          "2 colheres (sopa) de extrato de tomate",
-          "1 colher (sopa) de vinagre de vinho tinto",
-          "Sal e pimenta-do-reino a gosto",
-          "1 colher (sopa) de azeite",
-          "Ramos de tomilho fresco (opcional)"
-        ],
-        "preparo": [
-          "Faça cortes superficiais na gordura da fraldinha. Em um recipiente, misture a cerveja, alho, extrato de tomate, açúcar mascavo, vinagre, sal e pimenta. Adicione a carne e os ramos de tomilho, e deixe marinar na geladeira por no mínimo 2 horas.",
-          "Pré-aqueça o forno a 200ºC. Escorra a carne da marinada. Forre uma assadeira com as cebolas cortadas em pétalas.",
-          "Disponha a fraldinha sobre as cebolas, com a gordura para cima. Tempere com sal e pimenta-do-reino e regue com azeite.",
-          "Adicione os pimentões em tiras ao redor da carne e regue com o líquido da marinada. Leve ao forno por cerca de 30 a 40 minutos, ou até a carne ficar macia e dourada.",
-          "Se desejar, use o líquido da assadeira para preparar um molho, engrossando com amido de milho diluído em um pouco de água.",
-          "Fatie a fraldinha e sirva com o molho e acompanhamentos de sua preferência."
-        ],
-        "id": "fraldinha-assada-na-cerveja-34892a"
-      },
-      {
-        "nome": "Bife Completo na Pressão",
-        "curso": "principal",
-        "tempo": "35 min",
-        "url": "https://www.anamariabraga.com.br/receitas/bife-completo-na-pressao",
-        "porque": "Cozinhado na panela de pressão, este prato é rápido e prático, combinando carne vermelha com legumes em um único preparo, garantindo uma refeição equilibrada e rica em proteína.",
-        "tags": [
-          "carne_vermelha",
           "rapido",
           "equilibrado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "1 kg de coxão mole cortado em bifes finos",
-          "5 batatas médias sem casca cortadas em rodelas grossas",
-          "2 cebolas grandes cortadas em rodelas grossas",
-          "1 repolho pequeno cortado em pedaços grandes",
-          "1 caixinha de molho de tomate",
-          "½ xícara (chá) de azeitonas verdes picadas grosseiramente",
-          "½ xícara (chá) de óleo",
-          "Sal e pimenta-do-reino a gosto",
-          "Salsinha picada a gosto"
+          "2 bifes de contrafilé ou alcatra (aprox. 180g cada)",
+          "1 cebola grande em rodelas",
+          "2 dentes de alho picados",
+          "1 xícara de arroz branco",
+          "2 xícaras de água",
+          "1 maço pequeno de brócolis",
+          "Azeite de oliva a gosto",
+          "Sal e pimenta-do-reino a gosto"
         ],
         "preparo": [
-          "Tempere os bifes de coxão mole com sal, pimenta e alho amassado a gosto.",
-          "Em uma panela de pressão, coloque o óleo e faça camadas com metade dos bifes, metade das batatas, metade da cebola, metade do repolho, metade do molho de tomate e metade das azeitonas.",
-          "Tempere com sal e pimenta-do-reino e repita as camadas com os ingredientes restantes.",
-          "Tampe a panela de pressão e cozinhe em fogo médio por 15 minutos após pegar pressão.",
-          "Desligue o fogo, espere a pressão sair naturalmente, abra a panela e polvilhe salsinha picada a gosto.",
-          "Sirva o bife completo na pressão acompanhado de arroz branco, se desejar."
+          "Cozinhe o arroz: refogue o alho em azeite, adicione o arroz, sal e água. Cozinhe em fogo baixo até secar.",
+          "Cozinhe o brócolis: cozinhe no vapor ou em água fervente com sal até ficar al dente (5-7 min).",
+          "Tempere os bifes com sal e pimenta. Aqueça um fio de azeite em uma frigideira ou chapa e grelhe os bifes ao ponto desejado. Reserve.",
+          "Na mesma frigideira, adicione um pouco mais de azeite e refogue as rodelas de cebola até ficarem macias e douradas.",
+          "Sirva os bifes com as cebolas por cima, acompanhados do arroz e brócolis."
         ],
-        "id": "bife-completo-na-press-o-b6090a"
+        "id": "bife-acebolado-com-arroz-e-br-colis-b40d2c"
       },
       {
-        "nome": "Salada de Grão de Bico com Tomate e Pepino",
-        "curso": "entrada",
-        "tempo": "15 min",
-        "url": "https://claudia.abril.com.br/receitas/salada-de-grao-de-bico-da-mimis/",
-        "porque": "Uma entrada leve, fresca e de preparo super rápido, ideal para abrir o apetite e adicionar uma boa dose de proteína vegetal.",
+        "nome": "Filé Mignon Suíno Assado com Batatas Rústicas",
+        "curso": "principal",
+        "tempo": "40 min",
+        "url": "https://receitadevovo.com.br/receitas/file-mignon-suino-com-batatas-douradas",
+        "porque": "Uma opção de carne magra e saborosa, assada no forno com batatas rústicas, que agrada ao casal e é de preparo simples e rápido.",
         "tags": [
-          "salada",
-          "vegetariano",
-          "rapido"
+          "porco",
+          "forno",
+          "rapido",
+          "equilibrado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "1 lata de grão-de-bico (cerca de 250g), escorrido e lavado",
-          "1 tomate médio picado",
-          "1 pepino japonês picado",
-          "½ cebola roxa pequena picada finamente (opcional)",
-          "½ xícara (chá) de azeitonas picadas (opcional)",
-          "Azeite de oliva extra virgem a gosto",
-          "Suco de ½ limão",
-          "Sal e pimenta-do-reino a gosto",
-          "Salsa picada a gosto"
+          "1 peça de filé mignon suíno (aprox. 500g)",
+          "4 batatas médias (tipo asterix ou inglesa)",
+          "2 dentes de alho picados",
+          "Ramos de alecrim fresco a gosto",
+          "Azeite de oliva a gosto",
+          "Sal, pimenta-do-reino e páprica defumada a gosto"
         ],
         "preparo": [
-          "Em uma tigela funda, coloque o grão-de-bico escorrido e lavado, o tomate picado, o pepino picado, a cebola roxa e as azeitonas (se usar).",
-          "Tempere a salada com azeite de oliva extra virgem, suco de limão, sal e pimenta-do-reino a gosto.",
-          "Polvilhe com a salsa picada e misture delicadamente para incorporar todos os ingredientes e temperos.",
-          "Deixe a salada descansar por alguns minutos na geladeira para apurar o sabor antes de servir."
+          "Pré-aqueça o forno a 200°C. Lave bem as batatas, corte-as em gomos rústicos e seque-as.",
+          "Em uma assadeira, tempere as batatas com azeite, alho picado, sal, pimenta e alecrim. Misture bem.",
+          "Tempere o filé mignon suíno com sal, pimenta e páprica defumada. Coloque na assadeira junto com as batatas.",
+          "Leve ao forno por cerca de 25-30 minutos, virando o filé e as batatas na metade do tempo, ou até que a carne esteja cozida e as batatas douradas.",
+          "Retire do forno, fatie o filé e sirva imediatamente com as batatas rústicas."
         ],
-        "id": "salada-de-gr-o-de-bico-com-tomate-e-pepi-6516ed"
+        "id": "fil-mignon-su-no-assado-com-batatas-r-st-b3c540"
       },
       {
-        "nome": "Pavê de Bolacha e Doce de Leite",
-        "curso": "sobremesa",
-        "tempo": "20 min",
-        "url": "https://www.facebook.com/jureceitasfacil/posts/pfbid0251V9Yd4rM1J62s7X9X1rF9mP319Q7K2XJ4d5G1F2Y4m6F7S4J1X2Q7J4Z7F1L2K7J7M7Q7P7Q",
-        "porque": "Uma sobremesa clássica e muito apreciada, com poucos ingredientes e preparo descomplicado, perfeita para um doce saboroso sem muito esforço.",
+        "nome": "Salada de Folhas Verdes com Tomate Cereja e Queijo Coalho Grelhado",
+        "curso": "entrada",
+        "tempo": "15 min",
+        "url": "https://guiadacozinha.com.br/salada-de-folhas-com-queijo-coalho/",
+        "porque": "Uma entrada leve, fresca e rápida de montar, com o toque defumado do queijo grelhado, que é prático e saudável.",
         "tags": [
+          "salada",
+          "grelhado",
           "rapido",
-          "sobremesa"
+          "vegetariano"
         ],
         "rende_sobra": false,
         "ingredientes": [
-          "500 ml de chantilly bem gelado",
-          "3 colheres (sopa) generosas de doce de leite",
-          "1 pacote de bolachas (Maizena ou Maria)",
-          "150 ml de leite (para umedecer as bolachas)"
+          "1 pacote de mix de folhas verdes (alface, rúcula, agrião)",
+          "1 xícara de tomate cereja cortado ao meio",
+          "1 queijo coalho (aprox. 200g), fatiado em 8-10 pedaços",
+          "Azeite de oliva extra virgem a gosto",
+          "Sal e pimenta-do-reino moída na hora a gosto"
         ],
         "preparo": [
-          "Em uma tigela, bata o chantilly bem gelado até ficar firme.",
-          "Adicione o doce de leite e bata mais um pouco, apenas para envolver os ingredientes e formar um creme homogêneo.",
-          "Passe as bolachas rapidamente pelo leite, uma a uma, sem deixar amolecer demais.",
-          "Em um refratário, faça uma camada de bolachas umedecidas no fundo. Cubra com uma parte do creme de doce de leite e espalhe bem.",
-          "Repita o processo, intercalando as camadas de bolachas e creme, até terminarem os ingredientes, finalizando com uma camada de creme.",
-          "Leve à geladeira por, pelo menos, 4 horas para firmar. Se puder deixar de um dia para o outro, fica ainda melhor."
+          "Lave e seque bem as folhas verdes e os tomates cereja. Corte os tomates ao meio.",
+          "Aqueça uma frigideira antiaderente em fogo médio-alto. Grelhe as fatias de queijo coalho por cerca de 2 minutos de cada lado, até dourarem.",
+          "Em uma tigela grande, disponha as folhas verdes e os tomates cereja.",
+          "Adicione as fatias de queijo coalho grelhado por cima. Regue com azeite, tempere com sal e pimenta a gosto e sirva imediatamente."
         ],
-        "id": "pav-de-bolacha-e-doce-de-leite-aa0c0f"
+        "id": "salada-de-folhas-verdes-com-tomate-cerej-2401b0"
+      },
+      {
+        "nome": "Crumble de Maçã na Caneca",
+        "curso": "sobremesa",
+        "tempo": "10 min",
+        "url": "https://boguitaereceitas.blogs.sapo.pt/crumble-de-maca-na-caneca-23653",
+        "porque": "Uma sobremesa individual, rápida e prática de fazer no micro-ondas, perfeita para um doce sem complicação.",
+        "tags": [
+          "rapido",
+          "vegetariano",
+          "microondas"
+        ],
+        "rende_sobra": false,
+        "ingredientes": [
+          "1 maçã pequena (tipo Fuji ou Gala), picada em cubos pequenos",
+          "1 colher de sopa de açúcar mascavo",
+          "1/2 colher de chá de canela em pó",
+          "2 colheres de sopa de farinha de trigo",
+          "1 colher de sopa de açúcar mascavo",
+          "1 colher de sopa de aveia em flocos finos",
+          "1 colher de sopa de manteiga sem sal gelada, em cubos"
+        ],
+        "preparo": [
+          "Em uma caneca grande, misture os cubos de maçã com 1 colher de sopa de açúcar mascavo e a canela.",
+          "Em outro recipiente, misture a farinha, 1 colher de sopa de açúcar mascavo e a aveia. Adicione a manteiga gelada e amasse com os dedos até formar uma farofa.",
+          "Distribua a farofa sobre a maçã na caneca.",
+          "Leve ao micro-ondas em potência alta por 2 a 3 minutos, ou até o crumble dourar levemente e a maçã ficar macia. Sirva quente."
+        ],
+        "id": "crumble-de-ma-na-caneca-3153c1"
       }
     ]
   },
