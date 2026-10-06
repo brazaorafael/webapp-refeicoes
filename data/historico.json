@@ -1,45 +1,5 @@
 [
   {
-    "id": "sopa-creme-de-ab-bora-r-pida-d01cff",
-    "titulo": "Sopa Creme de Abóbora Rápida",
-    "tags": [
-      "sopa",
-      "vegetariano",
-      "rapido"
-    ],
-    "data": "28/07/2026"
-  },
-  {
-    "id": "doce-de-ab-bora-com-coco-cremoso-22e8f8",
-    "titulo": "Doce de Abóbora com Coco Cremoso",
-    "tags": [
-      "rapido",
-      "vegetariano",
-      "sobremesa"
-    ],
-    "data": "28/07/2026"
-  },
-  {
-    "id": "bacalhau-cremoso-de-forno-r-pido-7d9cc5",
-    "titulo": "Bacalhau Cremoso de Forno (Rápido)",
-    "tags": [
-      "peixe",
-      "forno",
-      "rapido"
-    ],
-    "data": "28/07/2026"
-  },
-  {
-    "id": "maminha-grelhada-com-molho-chimichurri-593c90",
-    "titulo": "Maminha Grelhada com Molho Chimichurri",
-    "tags": [
-      "carne_vermelha",
-      "grelhado",
-      "rapido"
-    ],
-    "data": "28/07/2026"
-  },
-  {
     "id": "bife-de-contrafil-com-alho-e-ervas-na-fr-182e23",
     "titulo": "Bife de Contrafilé com Alho e Ervas na Frigideira",
     "tags": [
@@ -5043,5 +5003,46 @@
       "microondas"
     ],
     "data": "05/10/2026"
+  },
+  {
+    "id": "lombo-su-no-assado-com-molho-de-laranja--7f0e76",
+    "titulo": "Lombo Suíno Assado com Molho de Laranja e Legumes",
+    "tags": [
+      "porco",
+      "forno",
+      "equilibrado",
+      "rende_sobra"
+    ],
+    "data": "06/10/2026"
+  },
+  {
+    "id": "bife-acebolado-8e2e74",
+    "titulo": "Bife Acebolado",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "refogado"
+    ],
+    "data": "06/10/2026"
+  },
+  {
+    "id": "salada-de-burrata-tomate-e-manjeric-o-efd579",
+    "titulo": "Salada de Burrata, Tomate e Manjericão",
+    "tags": [
+      "vegetariano",
+      "rapido",
+      "low_carb"
+    ],
+    "data": "06/10/2026"
+  },
+  {
+    "id": "cocada-de-forno-e74b46",
+    "titulo": "Cocada de Forno",
+    "tags": [
+      "rapido",
+      "forno",
+      "vegetariano"
+    ],
+    "data": "06/10/2026"
   }
 ]

@@ -1,128 +1,132 @@
 {
-  "gerado_em": "05/10/2026",
+  "gerado_em": "06/10/2026",
   "diario": {
     "tipo": "diario",
-    "data": "05/10/2026",
-    "dia_semana": "segunda",
+    "data": "06/10/2026",
+    "dia_semana": "terça",
     "pratos": [
       {
-        "nome": "Bife Acebolado com Arroz e Brócolis",
+        "nome": "Lombo Suíno Assado com Molho de Laranja e Legumes",
         "curso": "principal",
-        "tempo": "35 min",
-        "url": "https://www.swift.com.br/receita-de-bife-de-copa-lombo-com-arroz-de-brocolis-e-sementes/p",
-        "porque": "É um clássico rápido de preparar, com a carne vermelha preferida do casal, preparado na frigideira sem fritura por imersão e com acompanhamentos equilibrados.",
-        "tags": [
-          "carne_vermelha",
-          "grelhado",
-          "rapido",
-          "equilibrado"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "2 bifes de contrafilé ou alcatra (aprox. 180g cada)",
-          "1 cebola grande em rodelas",
-          "2 dentes de alho picados",
-          "1 xícara de arroz branco",
-          "2 xícaras de água",
-          "1 maço pequeno de brócolis",
-          "Azeite de oliva a gosto",
-          "Sal e pimenta-do-reino a gosto"
-        ],
-        "preparo": [
-          "Cozinhe o arroz: refogue o alho em azeite, adicione o arroz, sal e água. Cozinhe em fogo baixo até secar.",
-          "Cozinhe o brócolis: cozinhe no vapor ou em água fervente com sal até ficar al dente (5-7 min).",
-          "Tempere os bifes com sal e pimenta. Aqueça um fio de azeite em uma frigideira ou chapa e grelhe os bifes ao ponto desejado. Reserve.",
-          "Na mesma frigideira, adicione um pouco mais de azeite e refogue as rodelas de cebola até ficarem macias e douradas.",
-          "Sirva os bifes com as cebolas por cima, acompanhados do arroz e brócolis."
-        ],
-        "id": "bife-acebolado-com-arroz-e-br-colis-b40d2c"
-      },
-      {
-        "nome": "Filé Mignon Suíno Assado com Batatas Rústicas",
-        "curso": "principal",
-        "tempo": "40 min",
-        "url": "https://receitadevovo.com.br/receitas/file-mignon-suino-com-batatas-douradas",
-        "porque": "Uma opção de carne magra e saborosa, assada no forno com batatas rústicas, que agrada ao casal e é de preparo simples e rápido.",
+        "tempo": "20 min (preparo ativo)",
+        "url": "https://www.lecreuset.com.br/lombo-suino-com-molho-de-laranja-e-legumes-assados/p/LS-000000000010002167",
+        "porque": "É uma opção sofisticada, fácil de preparar no forno, com boa fonte de proteína e acompanhamento equilibrado de legumes.",
         "tags": [
           "porco",
           "forno",
-          "rapido",
-          "equilibrado"
+          "equilibrado",
+          "rende_sobra"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "1 peça de filé mignon suíno (aprox. 500g)",
-          "4 batatas médias (tipo asterix ou inglesa)",
-          "2 dentes de alho picados",
-          "Ramos de alecrim fresco a gosto",
-          "Azeite de oliva a gosto",
-          "Sal, pimenta-do-reino e páprica defumada a gosto"
+          "1,2 kg de lombo suíno (peça inteira)",
+          "1 cebola roxa grande",
+          "6 dentes de alho picados",
+          "500 ml de suco de laranja natural",
+          "200 g de batata bolinha",
+          "1 ramo de tomate cereja (ou 200g)",
+          "2 colheres (sopa) de azeite de oliva",
+          "Sal e pimenta-do-reino a gosto",
+          "1 colher (chá) de açúcar mascavo (opcional)",
+          "1/2 xícara (chá) de vinho branco seco (opcional)",
+          "Ramos de alecrim fresco (opcional)"
         ],
         "preparo": [
-          "Pré-aqueça o forno a 200°C. Lave bem as batatas, corte-as em gomos rústicos e seque-as.",
-          "Em uma assadeira, tempere as batatas com azeite, alho picado, sal, pimenta e alecrim. Misture bem.",
-          "Tempere o filé mignon suíno com sal, pimenta e páprica defumada. Coloque na assadeira junto com as batatas.",
-          "Leve ao forno por cerca de 25-30 minutos, virando o filé e as batatas na metade do tempo, ou até que a carne esteja cozida e as batatas douradas.",
-          "Retire do forno, fatie o filé e sirva imediatamente com as batatas rústicas."
+          "Bata no liquidificador o suco de laranja, cebola roxa, alho picado e açúcar mascavo (se usar) até obter uma mistura homogênea para a marinada.",
+          "Tempere o lombo suíno com sal e pimenta-do-reino. Em uma frigideira quente com azeite, sele o lombo por todos os lados até dourar (cerca de 5 minutos).",
+          "Transfira o lombo para uma assadeira, regue com a marinada e adicione o vinho branco (se usar) e ramos de alecrim. Cubra com papel alumínio.",
+          "Em outra assadeira, distribua as batatas bolinhas e os tomates cereja. Tempere com sal, pimenta e azeite.",
+          "Leve as duas assadeiras ao forno pré-aquecido a 180°C. Asse o lombo coberto por 30 minutos. Retire o papel alumínio e asse o lombo e os legumes por mais 30-40 minutos, ou até dourar e ficarem macios.",
+          "Deixe o lombo descansar por 10 minutos antes de fatiar e sirva com os legumes e o molho da assadeira."
         ],
-        "id": "fil-mignon-su-no-assado-com-batatas-r-st-b3c540"
+        "id": "lombo-su-no-assado-com-molho-de-laranja--7f0e76"
       },
       {
-        "nome": "Salada de Folhas Verdes com Tomate Cereja e Queijo Coalho Grelhado",
-        "curso": "entrada",
+        "nome": "Bife Acebolado",
+        "curso": "principal",
         "tempo": "15 min",
-        "url": "https://guiadacozinha.com.br/salada-de-folhas-com-queijo-coalho/",
-        "porque": "Uma entrada leve, fresca e rápida de montar, com o toque defumado do queijo grelhado, que é prático e saudável.",
+        "url": "https://www.facebook.com/cheftaico/videos/bife-acebolado-tempo-de-preparo-15-min-serve-02-pessoas-ingredientes-02-bifes-mac/1028713023907722/",
+        "porque": "É um prato clássico de carne vermelha, preferida do casal, muito rápido de preparar na frigideira com poucos ingredientes.",
         "tags": [
-          "salada",
-          "grelhado",
+          "carne_vermelha",
           "rapido",
+          "refogado"
+        ],
+        "rende_sobra": false,
+        "ingredientes": [
+          "2 bifes macios (alcatra, coxão mole ou contrafilé) (~180g cada)",
+          "2 cebolas médias cortadas em rodelas grossas",
+          "Sal e pimenta-do-reino a gosto",
+          "1 colher (sopa) de óleo ou azeite",
+          "1 dente de alho amassado (opcional)"
+        ],
+        "preparo": [
+          "Tempere os bifes com sal, pimenta-do-reino a gosto e alho amassado (se usar).",
+          "Aqueça uma frigideira grande com um fio de óleo ou azeite em fogo alto.",
+          "Adicione as rodelas de cebola na frigideira e refogue até ficarem translúcidas e levemente douradas. Retire e reserve.",
+          "Na mesma frigideira, frite os bifes rapidamente, 1 a 2 minutos de cada lado, até atingirem o ponto desejado.",
+          "Retorne as cebolas para a frigideira com os bifes, misture bem e sirva imediatamente."
+        ],
+        "id": "bife-acebolado-8e2e74"
+      },
+      {
+        "nome": "Salada de Burrata, Tomate e Manjericão",
+        "curso": "entrada",
+        "tempo": "10 min",
+        "url": "https://claradesousa.pt/receita/salada-de-burrata-tomate-e-manjericao/",
+        "porque": "É uma entrada fresca, leve e rápida de montar, com poucos ingredientes e sem cozimento.",
+        "tags": [
+          "vegetariano",
+          "rapido",
+          "low_carb"
+        ],
+        "rende_sobra": false,
+        "ingredientes": [
+          "1 burrata grande (200-250g)",
+          "2 tomates maduros (salada ou caqui)",
+          "250g de tomates cereja (opcional)",
+          "Folhas de manjericão fresco a gosto",
+          "Azeite extra virgem a gosto",
+          "Sal e pimenta-do-reino a gosto",
+          "Creme de vinagre balsâmico (opcional)"
+        ],
+        "preparo": [
+          "Corte os tomates maduros em fatias finas e os tomates cereja ao meio.",
+          "Em uma travessa, disponha as fatias de tomate e os tomates cereja.",
+          "Tempere os tomates com sal, pimenta-do-reino e regue com azeite extra virgem.",
+          "Corte a burrata ao meio e coloque as metades sobre os tomates.",
+          "Finalize com folhas de manjericão fresco e um fio de creme de vinagre balsâmico (se usar). Sirva imediatamente."
+        ],
+        "id": "salada-de-burrata-tomate-e-manjeric-o-efd579"
+      },
+      {
+        "nome": "Cocada de Forno",
+        "curso": "sobremesa",
+        "tempo": "45 min",
+        "url": "https://www.panelinha.com.br/receita/cocada-de-forno",
+        "porque": "Uma sobremesa brasileira clássica, fácil de fazer com poucos ingredientes e assada no forno.",
+        "tags": [
+          "rapido",
+          "forno",
           "vegetariano"
         ],
-        "rende_sobra": false,
+        "rende_sobra": true,
         "ingredientes": [
-          "1 pacote de mix de folhas verdes (alface, rúcula, agrião)",
-          "1 xícara de tomate cereja cortado ao meio",
-          "1 queijo coalho (aprox. 200g), fatiado em 8-10 pedaços",
-          "Azeite de oliva extra virgem a gosto",
-          "Sal e pimenta-do-reino moída na hora a gosto"
+          "3 ovos",
+          "1 lata de leite condensado (395g)",
+          "200g de coco ralado fresco (preferencialmente) ou seco sem açúcar",
+          "1 xícara (chá) de açúcar (opcional, para mais doce)",
+          "1 pitada de sal",
+          "Manteiga para untar (opcional)"
         ],
         "preparo": [
-          "Lave e seque bem as folhas verdes e os tomates cereja. Corte os tomates ao meio.",
-          "Aqueça uma frigideira antiaderente em fogo médio-alto. Grelhe as fatias de queijo coalho por cerca de 2 minutos de cada lado, até dourarem.",
-          "Em uma tigela grande, disponha as folhas verdes e os tomates cereja.",
-          "Adicione as fatias de queijo coalho grelhado por cima. Regue com azeite, tempere com sal e pimenta a gosto e sirva imediatamente."
+          "Pré-aqueça o forno a 180°C. Unte uma forma média (23cm de diâmetro) com manteiga ou use papel manteiga.",
+          "Em uma tigela grande, misture os ovos, o leite condensado, o coco ralado, o açúcar (se usar) e a pitada de sal até obter uma massa homogênea.",
+          "Despeje a mistura na forma preparada, espalhando uniformemente.",
+          "Leve ao forno pré-aquecido e asse por cerca de 20 a 35 minutos, ou até a superfície ficar dourada e crocante.",
+          "Retire do forno e deixe esfriar um pouco antes de cortar e servir. Pode ser servida morna ou fria."
         ],
-        "id": "salada-de-folhas-verdes-com-tomate-cerej-2401b0"
-      },
-      {
-        "nome": "Crumble de Maçã na Caneca",
-        "curso": "sobremesa",
-        "tempo": "10 min",
-        "url": "https://boguitaereceitas.blogs.sapo.pt/crumble-de-maca-na-caneca-23653",
-        "porque": "Uma sobremesa individual, rápida e prática de fazer no micro-ondas, perfeita para um doce sem complicação.",
-        "tags": [
-          "rapido",
-          "vegetariano",
-          "microondas"
-        ],
-        "rende_sobra": false,
-        "ingredientes": [
-          "1 maçã pequena (tipo Fuji ou Gala), picada em cubos pequenos",
-          "1 colher de sopa de açúcar mascavo",
-          "1/2 colher de chá de canela em pó",
-          "2 colheres de sopa de farinha de trigo",
-          "1 colher de sopa de açúcar mascavo",
-          "1 colher de sopa de aveia em flocos finos",
-          "1 colher de sopa de manteiga sem sal gelada, em cubos"
-        ],
-        "preparo": [
-          "Em uma caneca grande, misture os cubos de maçã com 1 colher de sopa de açúcar mascavo e a canela.",
-          "Em outro recipiente, misture a farinha, 1 colher de sopa de açúcar mascavo e a aveia. Adicione a manteiga gelada e amasse com os dedos até formar uma farofa.",
-          "Distribua a farofa sobre a maçã na caneca.",
-          "Leve ao micro-ondas em potência alta por 2 a 3 minutos, ou até o crumble dourar levemente e a maçã ficar macia. Sirva quente."
-        ],
-        "id": "crumble-de-ma-na-caneca-3153c1"
+        "id": "cocada-de-forno-e74b46"
       }
     ]
   },
