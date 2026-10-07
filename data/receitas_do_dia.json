@@ -1,132 +1,164 @@
 {
-  "gerado_em": "06/10/2026",
+  "gerado_em": "07/10/2026",
   "diario": {
     "tipo": "diario",
-    "data": "06/10/2026",
-    "dia_semana": "terça",
+    "data": "07/10/2026",
+    "dia_semana": "quarta",
     "pratos": [
       {
-        "nome": "Lombo Suíno Assado com Molho de Laranja e Legumes",
+        "nome": "Almôndegas Assadas com Molho de Tomate",
         "curso": "principal",
-        "tempo": "20 min (preparo ativo)",
-        "url": "https://www.lecreuset.com.br/lombo-suino-com-molho-de-laranja-e-legumes-assados/p/LS-000000000010002167",
-        "porque": "É uma opção sofisticada, fácil de preparar no forno, com boa fonte de proteína e acompanhamento equilibrado de legumes.",
+        "tempo": "45 min",
+        "url": "https://www.panelinha.com.br/receita/Almondegas-assadas",
+        "porque": "Esta receita é prática, utiliza carne vermelha e é assada no forno, evitando frituras, além de render sobras.",
         "tags": [
-          "porco",
+          "carne_vermelha",
           "forno",
-          "equilibrado",
-          "rende_sobra"
+          "equilibrado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "1,2 kg de lombo suíno (peça inteira)",
-          "1 cebola roxa grande",
-          "6 dentes de alho picados",
-          "500 ml de suco de laranja natural",
-          "200 g de batata bolinha",
-          "1 ramo de tomate cereja (ou 200g)",
-          "2 colheres (sopa) de azeite de oliva",
+          "500g de patinho moído",
+          "½ cebola pequena picada",
+          "2 dentes de alho picados",
+          "1 ovo médio",
+          "½ xícara (chá) de queijo parmesão ralado",
+          "¼ xícara (chá) de farinha de rosca",
+          "6 ramos de salsinha picada",
           "Sal e pimenta-do-reino a gosto",
-          "1 colher (chá) de açúcar mascavo (opcional)",
-          "1/2 xícara (chá) de vinho branco seco (opcional)",
-          "Ramos de alecrim fresco (opcional)"
+          "Azeite para untar",
+          "1 lata (400g) de tomate pelado ou 3 tomates maduros picados",
+          "½ cebola picada (para o molho)",
+          "1 dente de alho picado (para o molho)"
         ],
         "preparo": [
-          "Bata no liquidificador o suco de laranja, cebola roxa, alho picado e açúcar mascavo (se usar) até obter uma mistura homogênea para a marinada.",
-          "Tempere o lombo suíno com sal e pimenta-do-reino. Em uma frigideira quente com azeite, sele o lombo por todos os lados até dourar (cerca de 5 minutos).",
-          "Transfira o lombo para uma assadeira, regue com a marinada e adicione o vinho branco (se usar) e ramos de alecrim. Cubra com papel alumínio.",
-          "Em outra assadeira, distribua as batatas bolinhas e os tomates cereja. Tempere com sal, pimenta e azeite.",
-          "Leve as duas assadeiras ao forno pré-aquecido a 180°C. Asse o lombo coberto por 30 minutos. Retire o papel alumínio e asse o lombo e os legumes por mais 30-40 minutos, ou até dourar e ficarem macios.",
-          "Deixe o lombo descansar por 10 minutos antes de fatiar e sirva com os legumes e o molho da assadeira."
+          "Em uma tigela grande, misture a carne moída, a cebola, o alho, o ovo, o queijo parmesão, a farinha de rosca, a salsinha, sal e pimenta-do-reino.",
+          "Amasse bem com as mãos por cerca de 2 minutos até a massa ficar homogênea. Modele as almôndegas no tamanho de bolinhas de pingue-pongue e reserve.",
+          "Unte uma assadeira com azeite, distribua as almôndegas e leve ao forno preaquecido a 200°C por cerca de 20-25 minutos, virando na metade do tempo, até dourarem.",
+          "Enquanto as almôndegas assam, prepare o molho: refogue a ½ cebola e 1 dente de alho em azeite, adicione o tomate pelado (ou picado), tempere com sal e pimenta e cozinhe por 10-15 minutos em fogo baixo.",
+          "Retire as almôndegas do forno, adicione-as ao molho de tomate e sirva quente, acompanhadas de arroz ou massa."
         ],
-        "id": "lombo-su-no-assado-com-molho-de-laranja--7f0e76"
+        "id": "alm-ndegas-assadas-com-molho-de-tomate-e03725"
       },
       {
-        "nome": "Bife Acebolado",
+        "nome": "Escondidinho de Carne Seca",
         "curso": "principal",
-        "tempo": "15 min",
-        "url": "https://www.facebook.com/cheftaico/videos/bife-acebolado-tempo-de-preparo-15-min-serve-02-pessoas-ingredientes-02-bifes-mac/1028713023907722/",
-        "porque": "É um prato clássico de carne vermelha, preferida do casal, muito rápido de preparar na frigideira com poucos ingredientes.",
+        "tempo": "45 min",
+        "url": "https://www.tudogostoso.com.br/receita/20768-escondidinho-de-carne-seca.html",
+        "porque": "Um prato reconfortante com carne vermelha, assado no forno e ideal para render sobras para o dia seguinte.",
         "tags": [
           "carne_vermelha",
-          "rapido",
-          "refogado"
+          "forno",
+          "equilibrado"
         ],
-        "rende_sobra": false,
+        "rende_sobra": true,
         "ingredientes": [
-          "2 bifes macios (alcatra, coxão mole ou contrafilé) (~180g cada)",
-          "2 cebolas médias cortadas em rodelas grossas",
-          "Sal e pimenta-do-reino a gosto",
-          "1 colher (sopa) de óleo ou azeite",
-          "1 dente de alho amassado (opcional)"
+          "1 kg de mandioca cozida e espremida",
+          "1 lata de creme de leite (com soro)",
+          "2 colheres (sopa) de manteiga",
+          "½ kg de carne-seca dessalgada e cozida desfiada",
+          "1 cebola média picadinha",
+          "4 dentes de alho esmagados",
+          "2 tomates sem casca e picados",
+          "Sal e pimenta a gosto",
+          "Queijo ralado a gosto para polvilhar"
         ],
         "preparo": [
-          "Tempere os bifes com sal, pimenta-do-reino a gosto e alho amassado (se usar).",
-          "Aqueça uma frigideira grande com um fio de óleo ou azeite em fogo alto.",
-          "Adicione as rodelas de cebola na frigideira e refogue até ficarem translúcidas e levemente douradas. Retire e reserve.",
-          "Na mesma frigideira, frite os bifes rapidamente, 1 a 2 minutos de cada lado, até atingirem o ponto desejado.",
-          "Retorne as cebolas para a frigideira com os bifes, misture bem e sirva imediatamente."
+          "Em uma panela, misture a mandioca espremida ainda quente com a manteiga e sal. Adicione o creme de leite, misture bem e reserve.",
+          "Em outra panela, refogue a cebola e o alho em um fio de azeite. Acrescente a carne-seca desfiada e deixe fritar um pouco.",
+          "Adicione os tomates picados e deixe cozinhar até murcharem. Acerte o sal e a pimenta se necessário.",
+          "Em um refratário untado, faça uma camada com metade do purê de mandioca, adicione todo o recheio de carne-seca e cubra com o restante do purê.",
+          "Polvilhe com queijo parmesão ralado e leve ao forno preaquecido a 180°C por cerca de 15-20 minutos, ou até gratinar."
         ],
-        "id": "bife-acebolado-8e2e74"
+        "id": "escondidinho-de-carne-seca-c78c61"
       },
       {
-        "nome": "Salada de Burrata, Tomate e Manjericão",
-        "curso": "entrada",
-        "tempo": "10 min",
-        "url": "https://claradesousa.pt/receita/salada-de-burrata-tomate-e-manjericao/",
-        "porque": "É uma entrada fresca, leve e rápida de montar, com poucos ingredientes e sem cozimento.",
+        "nome": "Bife Grelhado com Manteiga de Alho e Salsinha",
+        "curso": "principal",
+        "tempo": "25 min",
+        "url": "https://sharpblades.com.br/receita-bife-com-manteiga-de-alho/",
+        "porque": "Um prato rápido e saboroso com a carne vermelha preferida do casal, preparado na grelha e com um molho simples e aromático.",
         "tags": [
-          "vegetariano",
+          "carne_vermelha",
+          "grelhado",
+          "rapido"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "2 bifes de contrafilé ou alcatra (cerca de 200g cada, com 2,5 cm de espessura)",
+          "50g de manteiga sem sal em temperatura ambiente",
+          "2 dentes de alho picados finamente",
+          "2 colheres (sopa) de salsinha fresca picada",
+          "Sal grosso ou flor de sal a gosto",
+          "Pimenta-do-reino moída na hora a gosto",
+          "1 colher (sopa) de azeite"
+        ],
+        "preparo": [
+          "Em uma tigela pequena, misture a manteiga com o alho picado e a salsinha. Tempere com uma pitada de sal e pimenta-do-reino. Reserve.",
+          "Retire os bifes da geladeira 30 minutos antes de cozinhar para que atinjam a temperatura ambiente. Seque-os bem com papel-toalha e tempere generosamente com sal e pimenta dos dois lados.",
+          "Aqueça uma frigideira de fundo grosso ou grelha em fogo alto. Quando estiver bem quente, adicione o azeite.",
+          "Coloque os bifes na frigideira e sele por 2 a 3 minutos de cada lado para criar uma crosta dourada e saborosa.",
+          "Reduza o fogo para médio-baixo, adicione a manteiga de alho e salsinha sobre os bifes e regue-os com a manteiga derretida por cerca de 1 minuto.",
+          "Transfira os bifes para uma tábua e deixe-os descansar por 5 minutos antes de fatiar e servir, para que os sucos se redistribuam."
+        ],
+        "id": "bife-grelhado-com-manteiga-de-alho-e-sal-4c16fb"
+      },
+      {
+        "nome": "Queijo Coalho Grelhado com Mel e Orégano",
+        "curso": "entrada",
+        "tempo": "15 min",
+        "url": "https://receitasdepeso.com.br/queijo-coalho-grelhado-com-mel-e-oregano/",
+        "porque": "Uma entrada rápida, prática, grelhada e com poucos ingredientes, perfeita para começar a refeição.",
+        "tags": [
+          "grelhado",
           "rapido",
           "low_carb"
         ],
         "rende_sobra": false,
         "ingredientes": [
-          "1 burrata grande (200-250g)",
-          "2 tomates maduros (salada ou caqui)",
-          "250g de tomates cereja (opcional)",
-          "Folhas de manjericão fresco a gosto",
-          "Azeite extra virgem a gosto",
-          "Sal e pimenta-do-reino a gosto",
-          "Creme de vinagre balsâmico (opcional)"
+          "250g de queijo coalho em fatias grossas ou cubos grandes",
+          "2 colheres (sopa) de mel",
+          "1 colher (chá) de orégano",
+          "1 colher (chá) de azeite (opcional, para untar a frigideira)"
         ],
         "preparo": [
-          "Corte os tomates maduros em fatias finas e os tomates cereja ao meio.",
-          "Em uma travessa, disponha as fatias de tomate e os tomates cereja.",
-          "Tempere os tomates com sal, pimenta-do-reino e regue com azeite extra virgem.",
-          "Corte a burrata ao meio e coloque as metades sobre os tomates.",
-          "Finalize com folhas de manjericão fresco e um fio de creme de vinagre balsâmico (se usar). Sirva imediatamente."
+          "Corte o queijo coalho em fatias grossas ou cubos, se ainda não estiver assim.",
+          "Aqueça bem uma frigideira antiaderente em fogo médio. Se necessário, unte levemente com um fio de azeite.",
+          "Coloque os pedaços de queijo coalho na frigideira e grelhe por 2 a 3 minutos de cada lado, ou até ficarem dourados e com uma casquinha crocante.",
+          "Transfira o queijo grelhado para um prato, regue com o mel e polvilhe com orégano. Sirva imediatamente."
         ],
-        "id": "salada-de-burrata-tomate-e-manjeric-o-efd579"
+        "id": "queijo-coalho-grelhado-com-mel-e-or-gano-0650c1"
       },
       {
-        "nome": "Cocada de Forno",
+        "nome": "Bolo de Caneca de Milho",
         "curso": "sobremesa",
-        "tempo": "45 min",
-        "url": "https://www.panelinha.com.br/receita/cocada-de-forno",
-        "porque": "Uma sobremesa brasileira clássica, fácil de fazer com poucos ingredientes e assada no forno.",
+        "tempo": "5 min",
+        "url": "https://www.panelinha.com.br/receita/Bolo-de-milho-de-caneca",
+        "porque": "Uma sobremesa individual, extremamente rápida e fácil de fazer no micro-ondas, sem sujeira e sem repetição.",
         "tags": [
           "rapido",
           "forno",
           "vegetariano"
         ],
-        "rende_sobra": true,
+        "rende_sobra": false,
         "ingredientes": [
-          "3 ovos",
-          "1 lata de leite condensado (395g)",
-          "200g de coco ralado fresco (preferencialmente) ou seco sem açúcar",
-          "1 xícara (chá) de açúcar (opcional, para mais doce)",
-          "1 pitada de sal",
-          "Manteiga para untar (opcional)"
+          "¼ de xícara (chá) de milho-verde cozido (em lata, escorrido)",
+          "¼ de xícara (chá) de leite de coco",
+          "1 ovo médio",
+          "¼ de xícara (chá) de óleo vegetal",
+          "¼ de xícara (chá) de açúcar",
+          "¼ de xícara (chá) de fubá mimoso",
+          "½ colher (sopa) de fermento em pó",
+          "Canela em pó a gosto (opcional)"
         ],
         "preparo": [
-          "Pré-aqueça o forno a 180°C. Unte uma forma média (23cm de diâmetro) com manteiga ou use papel manteiga.",
-          "Em uma tigela grande, misture os ovos, o leite condensado, o coco ralado, o açúcar (se usar) e a pitada de sal até obter uma massa homogênea.",
-          "Despeje a mistura na forma preparada, espalhando uniformemente.",
-          "Leve ao forno pré-aquecido e asse por cerca de 20 a 35 minutos, ou até a superfície ficar dourada e crocante.",
-          "Retire do forno e deixe esfriar um pouco antes de cortar e servir. Pode ser servida morna ou fria."
+          "Em uma caneca grande que possa ir ao micro-ondas (com capacidade de 250ml ou mais), coloque o milho-verde, o leite de coco, o ovo e o óleo.",
+          "Misture bem com um garfo ou batedor de arame até que os ingredientes úmidos estejam incorporados.",
+          "Adicione o açúcar, o fubá e o fermento em pó. Misture vigorosamente até obter uma massa homogênea. Se desejar, adicione uma pitada de canela em pó.",
+          "Leve a caneca ao micro-ondas em potência alta por 2 a 3 minutos, ou até o bolo crescer e ficar firme.",
+          "Retire com cuidado, pois a caneca estará quente. Sirva o bolo de caneca de milho imediatamente."
         ],
-        "id": "cocada-de-forno-e74b46"
+        "id": "bolo-de-caneca-de-milho-092e17"
       }
     ]
   },

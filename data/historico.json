@@ -1,45 +1,5 @@
 [
   {
-    "id": "bife-de-contrafil-com-alho-e-ervas-na-fr-182e23",
-    "titulo": "Bife de Contrafilé com Alho e Ervas na Frigideira",
-    "tags": [
-      "carne_vermelha",
-      "rapido",
-      "grelhado"
-    ],
-    "data": "28/07/2026"
-  },
-  {
-    "id": "bruschetta-de-queijo-coalho-com-geleia-d-0eac2d",
-    "titulo": "Bruschetta de Queijo Coalho com Geleia de Pimenta",
-    "tags": [
-      "vegetariano",
-      "rapido",
-      "entrada"
-    ],
-    "data": "28/07/2026"
-  },
-  {
-    "id": "ma-assada-com-canela-e-aveia-39788d",
-    "titulo": "Maçã Assada com Canela e Aveia",
-    "tags": [
-      "vegetariano",
-      "rapido",
-      "low_carb"
-    ],
-    "data": "28/07/2026"
-  },
-  {
-    "id": "feijoada-light-eb6c05",
-    "titulo": "Feijoada Light",
-    "tags": [
-      "carne_vermelha",
-      "porco",
-      "substancioso"
-    ],
-    "data": "28/07/2026"
-  },
-  {
     "id": "frango-recheado-no-forno-2f887f",
     "titulo": "Frango Recheado no Forno",
     "tags": [
@@ -5044,5 +5004,45 @@
       "vegetariano"
     ],
     "data": "06/10/2026"
+  },
+  {
+    "id": "escondidinho-de-carne-seca-c78c61",
+    "titulo": "Escondidinho de Carne Seca",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "equilibrado"
+    ],
+    "data": "07/10/2026"
+  },
+  {
+    "id": "bife-grelhado-com-manteiga-de-alho-e-sal-4c16fb",
+    "titulo": "Bife Grelhado com Manteiga de Alho e Salsinha",
+    "tags": [
+      "carne_vermelha",
+      "grelhado",
+      "rapido"
+    ],
+    "data": "07/10/2026"
+  },
+  {
+    "id": "queijo-coalho-grelhado-com-mel-e-or-gano-0650c1",
+    "titulo": "Queijo Coalho Grelhado com Mel e Orégano",
+    "tags": [
+      "grelhado",
+      "rapido",
+      "low_carb"
+    ],
+    "data": "07/10/2026"
+  },
+  {
+    "id": "bolo-de-caneca-de-milho-092e17",
+    "titulo": "Bolo de Caneca de Milho",
+    "tags": [
+      "rapido",
+      "forno",
+      "vegetariano"
+    ],
+    "data": "07/10/2026"
   }
 ]
