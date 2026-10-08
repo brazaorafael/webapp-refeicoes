@@ -1,83 +1,78 @@
 {
-  "gerado_em": "07/10/2026",
+  "gerado_em": "08/10/2026",
   "diario": {
     "tipo": "diario",
-    "data": "07/10/2026",
-    "dia_semana": "quarta",
+    "data": "08/10/2026",
+    "dia_semana": "quinta",
     "pratos": [
       {
-        "nome": "Almôndegas Assadas com Molho de Tomate",
+        "nome": "Estrogonofe Rápido de Carne",
         "curso": "principal",
-        "tempo": "45 min",
-        "url": "https://www.panelinha.com.br/receita/Almondegas-assadas",
-        "porque": "Esta receita é prática, utiliza carne vermelha e é assada no forno, evitando frituras, além de render sobras.",
+        "tempo": "35 min",
+        "url": "https://receitas.globo.com/ana-maria-braga/receitas/estrogonofe-rapido.ghtml",
+        "porque": "É um prato clássico, rápido de preparar e muito saboroso, ideal para uma refeição reconfortante e com boa fonte de carne vermelha.",
         "tags": [
           "carne_vermelha",
-          "forno",
-          "equilibrado"
+          "rapido",
+          "refogado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "500g de patinho moído",
-          "½ cebola pequena picada",
-          "2 dentes de alho picados",
-          "1 ovo médio",
-          "½ xícara (chá) de queijo parmesão ralado",
-          "¼ xícara (chá) de farinha de rosca",
-          "6 ramos de salsinha picada",
-          "Sal e pimenta-do-reino a gosto",
-          "Azeite para untar",
-          "1 lata (400g) de tomate pelado ou 3 tomates maduros picados",
-          "½ cebola picada (para o molho)",
-          "1 dente de alho picado (para o molho)"
-        ],
-        "preparo": [
-          "Em uma tigela grande, misture a carne moída, a cebola, o alho, o ovo, o queijo parmesão, a farinha de rosca, a salsinha, sal e pimenta-do-reino.",
-          "Amasse bem com as mãos por cerca de 2 minutos até a massa ficar homogênea. Modele as almôndegas no tamanho de bolinhas de pingue-pongue e reserve.",
-          "Unte uma assadeira com azeite, distribua as almôndegas e leve ao forno preaquecido a 200°C por cerca de 20-25 minutos, virando na metade do tempo, até dourarem.",
-          "Enquanto as almôndegas assam, prepare o molho: refogue a ½ cebola e 1 dente de alho em azeite, adicione o tomate pelado (ou picado), tempere com sal e pimenta e cozinhe por 10-15 minutos em fogo baixo.",
-          "Retire as almôndegas do forno, adicione-as ao molho de tomate e sirva quente, acompanhadas de arroz ou massa."
-        ],
-        "id": "alm-ndegas-assadas-com-molho-de-tomate-e03725"
-      },
-      {
-        "nome": "Escondidinho de Carne Seca",
-        "curso": "principal",
-        "tempo": "45 min",
-        "url": "https://www.tudogostoso.com.br/receita/20768-escondidinho-de-carne-seca.html",
-        "porque": "Um prato reconfortante com carne vermelha, assado no forno e ideal para render sobras para o dia seguinte.",
-        "tags": [
-          "carne_vermelha",
-          "forno",
-          "equilibrado"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "1 kg de mandioca cozida e espremida",
-          "1 lata de creme de leite (com soro)",
+          "500 g de filé-mignon (ou alcatra, patinho, coxão mole) em tiras",
           "2 colheres (sopa) de manteiga",
-          "½ kg de carne-seca dessalgada e cozida desfiada",
-          "1 cebola média picadinha",
-          "4 dentes de alho esmagados",
-          "2 tomates sem casca e picados",
-          "Sal e pimenta a gosto",
-          "Queijo ralado a gosto para polvilhar"
+          "Sal e pimenta-do-reino a gosto",
+          "1 cebola picada finamente",
+          "150 g de champignon em lâminas",
+          "2 colheres (sopa) de conhaque (opcional)",
+          "1 colher (chá) de molho inglês",
+          "2 colheres (sopa) de ketchup",
+          "2 colheres (sopa) de farinha de trigo",
+          "½ xícara (chá) de caldo de carne",
+          "½ xícara (chá) de suco de tomate",
+          "½ xícara (chá) de creme de leite"
         ],
         "preparo": [
-          "Em uma panela, misture a mandioca espremida ainda quente com a manteiga e sal. Adicione o creme de leite, misture bem e reserve.",
-          "Em outra panela, refogue a cebola e o alho em um fio de azeite. Acrescente a carne-seca desfiada e deixe fritar um pouco.",
-          "Adicione os tomates picados e deixe cozinhar até murcharem. Acerte o sal e a pimenta se necessário.",
-          "Em um refratário untado, faça uma camada com metade do purê de mandioca, adicione todo o recheio de carne-seca e cubra com o restante do purê.",
-          "Polvilhe com queijo parmesão ralado e leve ao forno preaquecido a 180°C por cerca de 15-20 minutos, ou até gratinar."
+          "Separe a carne em 3 a 4 porções e frite cada uma em um pouco de manteiga quente até dourar. Tempere com sal e pimenta e reserve.",
+          "Na mesma panela, aqueça o restante da manteiga e refogue a cebola até ficar macia. Acrescente o champignon e refogue por 2 minutos.",
+          "Devolva a carne à panela e flambe com o conhaque (se usar), esperando a chama se apagar.",
+          "Acrescente o molho inglês, o ketchup, a farinha diluída no caldo de carne e o suco de tomate. Cozinhe, mexendo sempre, por 5 minutos.",
+          "Adicione o creme de leite, misture e espere aquecer bem, sem deixar ferver. Ajuste o sal e a pimenta e sirva com arroz branco."
         ],
-        "id": "escondidinho-de-carne-seca-c78c61"
+        "id": "estrogonofe-r-pido-de-carne-cfdf3b"
       },
       {
-        "nome": "Bife Grelhado com Manteiga de Alho e Salsinha",
+        "nome": "Fraldinha Assada na Air Fryer",
         "curso": "principal",
-        "tempo": "25 min",
-        "url": "https://sharpblades.com.br/receita-bife-com-manteiga-de-alho/",
-        "porque": "Um prato rápido e saboroso com a carne vermelha preferida do casal, preparado na grelha e com um molho simples e aromático.",
+        "tempo": "30 min",
+        "url": "https://www.panelinha.com.br/receita/fraldinha-assada-na-air-fryer",
+        "porque": "É uma opção de carne vermelha suculenta e prática, preparada na air fryer para um cozimento saudável e sem fritura.",
+        "tags": [
+          "carne_vermelha",
+          "airfryer",
+          "rapido"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "1 peça de fraldinha (aproximadamente 1 kg)",
+          "Sal grosso a gosto",
+          "Azeite a gosto",
+          "Pimenta-do-reino moída na hora a gosto"
+        ],
+        "preparo": [
+          "Retire a fraldinha da geladeira 20 minutos antes do preparo. Preaqueça a air fryer a 200 ºC por 3 minutos.",
+          "Em uma tigela grande, tempere a peça de fraldinha com sal grosso, azeite e pimenta-do-reino, massageando bem para espalhar o tempero.",
+          "Dobre a parte mais fina da fraldinha para baixo e coloque na cesta da air fryer com a gordura virada para cima.",
+          "Asse por 20 minutos a 200 ºC. Nos 5 minutos finais, pode desdobrar a carne para dourar por igual.",
+          "Retire da air fryer e deixe descansar por 5 minutos antes de fatiar contra as fibras."
+        ],
+        "id": "fraldinha-assada-na-air-fryer-380b28"
+      },
+      {
+        "nome": "Bife Grelhado com Vinagrete",
+        "curso": "principal",
+        "tempo": "20 min",
+        "url": "https://www.panelinha.com.br/receita/bife-grelhado-com-vinagrete",
+        "porque": "Um prato rápido e saboroso, com a carne grelhada preferida do casal e o frescor do vinagrete para equilibrar.",
         "tags": [
           "carne_vermelha",
           "grelhado",
@@ -85,80 +80,85 @@
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "2 bifes de contrafilé ou alcatra (cerca de 200g cada, com 2,5 cm de espessura)",
-          "50g de manteiga sem sal em temperatura ambiente",
-          "2 dentes de alho picados finamente",
-          "2 colheres (sopa) de salsinha fresca picada",
-          "Sal grosso ou flor de sal a gosto",
-          "Pimenta-do-reino moída na hora a gosto",
-          "1 colher (sopa) de azeite"
+          "2 bifes de contrafilé (ou outro corte de sua preferência, ~180g cada)",
+          "1 colher (chá) de azeite",
+          "Tempero para carnes caseiro a gosto (ou sal e pimenta-do-reino)",
+          "2 tomates médios em cubos pequenos",
+          "½ cebola-roxa picada fino",
+          "3 colheres (sopa) de azeite",
+          "1 colher (sopa) de vinagre (de vinho tinto ou maçã)",
+          "Salsinha picada a gosto",
+          "Sal e pimenta-do-reino moída na hora a gosto"
         ],
         "preparo": [
-          "Em uma tigela pequena, misture a manteiga com o alho picado e a salsinha. Tempere com uma pitada de sal e pimenta-do-reino. Reserve.",
-          "Retire os bifes da geladeira 30 minutos antes de cozinhar para que atinjam a temperatura ambiente. Seque-os bem com papel-toalha e tempere generosamente com sal e pimenta dos dois lados.",
-          "Aqueça uma frigideira de fundo grosso ou grelha em fogo alto. Quando estiver bem quente, adicione o azeite.",
-          "Coloque os bifes na frigideira e sele por 2 a 3 minutos de cada lado para criar uma crosta dourada e saborosa.",
-          "Reduza o fogo para médio-baixo, adicione a manteiga de alho e salsinha sobre os bifes e regue-os com a manteiga derretida por cerca de 1 minuto.",
-          "Transfira os bifes para uma tábua e deixe-os descansar por 5 minutos antes de fatiar e servir, para que os sucos se redistribuam."
+          "Em uma tigela, misture os tomates, cebola-roxa, azeite, vinagre, salsinha, sal e pimenta-do-reino para o vinagrete. Reserve.",
+          "Retire os bifes da geladeira e deixe em temperatura ambiente por alguns minutos. Tempere os bifes com sal e pimenta ou tempero para carnes.",
+          "Leve uma frigideira grande (ou grelha) ao fogo alto. Quando aquecer, regue com o azeite.",
+          "Coloque os bifes na frigideira e deixe dourar por cerca de 2 minutos de cada lado, ou até o ponto desejado.",
+          "Sirva os bifes imediatamente acompanhados do vinagrete."
         ],
-        "id": "bife-grelhado-com-manteiga-de-alho-e-sal-4c16fb"
+        "id": "bife-grelhado-com-vinagrete-0cfa78"
       },
       {
-        "nome": "Queijo Coalho Grelhado com Mel e Orégano",
+        "nome": "Salada de Grão de Bico com Legumes Frescos",
         "curso": "entrada",
-        "tempo": "15 min",
-        "url": "https://receitasdepeso.com.br/queijo-coalho-grelhado-com-mel-e-oregano/",
-        "porque": "Uma entrada rápida, prática, grelhada e com poucos ingredientes, perfeita para começar a refeição.",
+        "tempo": "20 min",
+        "url": "https://www.tudoreceitas.com/receita-de-salada-de-grao-de-bico-com-legumes-6887.html",
+        "porque": "Uma entrada leve, nutritiva e colorida, rica em vegetais e proteínas vegetais, perfeita para iniciar a refeição.",
         "tags": [
-          "grelhado",
+          "vegetariano",
+          "salada",
           "rapido",
           "low_carb"
         ],
-        "rende_sobra": false,
+        "rende_sobra": true,
         "ingredientes": [
-          "250g de queijo coalho em fatias grossas ou cubos grandes",
-          "2 colheres (sopa) de mel",
-          "1 colher (chá) de orégano",
-          "1 colher (chá) de azeite (opcional, para untar a frigideira)"
+          "1 lata (aproximadamente 240g escorrido) de grão de bico cozido",
+          "½ pepino picado em cubos pequenos",
+          "1 tomate médio sem sementes picado em cubos pequenos",
+          "¼ cebola roxa picada finamente",
+          "Salsinha picada a gosto",
+          "3 colheres (sopa) de azeite de oliva extra virgem",
+          "Suco de ½ limão",
+          "Sal e pimenta-do-reino a gosto"
         ],
         "preparo": [
-          "Corte o queijo coalho em fatias grossas ou cubos, se ainda não estiver assim.",
-          "Aqueça bem uma frigideira antiaderente em fogo médio. Se necessário, unte levemente com um fio de azeite.",
-          "Coloque os pedaços de queijo coalho na frigideira e grelhe por 2 a 3 minutos de cada lado, ou até ficarem dourados e com uma casquinha crocante.",
-          "Transfira o queijo grelhado para um prato, regue com o mel e polvilhe com orégano. Sirva imediatamente."
+          "Escorra o grão de bico cozido da lata e lave em água corrente.",
+          "Em uma tigela grande, adicione o grão de bico, o pepino picado, o tomate picado e a cebola roxa picada.",
+          "Regue com o azeite de oliva e o suco de limão.",
+          "Tempere com sal e pimenta-do-reino a gosto. Adicione a salsinha picada e misture bem todos os ingredientes.",
+          "Leve à geladeira por pelo menos 15 minutos antes de servir para que os sabores se incorporem."
         ],
-        "id": "queijo-coalho-grelhado-com-mel-e-or-gano-0650c1"
+        "id": "salada-de-gr-o-de-bico-com-legumes-fresc-bbd7c5"
       },
       {
-        "nome": "Bolo de Caneca de Milho",
+        "nome": "Abacaxi Assado com Canela e Hortelã",
         "curso": "sobremesa",
-        "tempo": "5 min",
-        "url": "https://www.panelinha.com.br/receita/Bolo-de-milho-de-caneca",
-        "porque": "Uma sobremesa individual, extremamente rápida e fácil de fazer no micro-ondas, sem sujeira e sem repetição.",
+        "tempo": "10 min",
+        "url": "https://receitasja.com/abacaxi-assado-na-airfryer-pratico-e-cheio-de-sabor/",
+        "porque": "Uma sobremesa leve e refrescante, com o sabor adocicado e levemente caramelizado do abacaxi assado, preparada sem fritura.",
         "tags": [
+          "vegetariano",
+          "airfryer",
           "rapido",
-          "forno",
-          "vegetariano"
+          "low_carb"
         ],
-        "rende_sobra": false,
+        "rende_sobra": true,
         "ingredientes": [
-          "¼ de xícara (chá) de milho-verde cozido (em lata, escorrido)",
-          "¼ de xícara (chá) de leite de coco",
-          "1 ovo médio",
-          "¼ de xícara (chá) de óleo vegetal",
-          "¼ de xícara (chá) de açúcar",
-          "¼ de xícara (chá) de fubá mimoso",
-          "½ colher (sopa) de fermento em pó",
-          "Canela em pó a gosto (opcional)"
+          "1 abacaxi médio (descascado e cortado em rodelas ou tiras grossas)",
+          "2 colheres (sopa) de açúcar mascavo ou cristal (opcional)",
+          "1 colher (chá) de canela em pó",
+          "Folhas de hortelã para decorar (opcional)"
         ],
         "preparo": [
-          "Em uma caneca grande que possa ir ao micro-ondas (com capacidade de 250ml ou mais), coloque o milho-verde, o leite de coco, o ovo e o óleo.",
-          "Misture bem com um garfo ou batedor de arame até que os ingredientes úmidos estejam incorporados.",
-          "Adicione o açúcar, o fubá e o fermento em pó. Misture vigorosamente até obter uma massa homogênea. Se desejar, adicione uma pitada de canela em pó.",
-          "Leve a caneca ao micro-ondas em potência alta por 2 a 3 minutos, ou até o bolo crescer e ficar firme.",
-          "Retire com cuidado, pois a caneca estará quente. Sirva o bolo de caneca de milho imediatamente."
+          "Corte o abacaxi em rodelas ou tiras grossas, retirando o miolo se preferir.",
+          "Em uma tigela, misture o açúcar (se usar) e a canela em pó. Passe os pedaços de abacaxi nessa mistura, cobrindo uniformemente.",
+          "Preaqueça a air fryer a 200 °C por 3 minutos.",
+          "Distribua as fatias de abacaxi na cesta da air fryer, cuidando para não sobrepor.",
+          "Asse por cerca de 8 a 10 minutos a 200 °C, virando as fatias na metade do tempo, até dourarem e ficarem levemente caramelizadas.",
+          "Retire com cuidado e sirva quente ou morno, decorado com folhas de hortelã (opcional)."
         ],
-        "id": "bolo-de-caneca-de-milho-092e17"
+        "id": "abacaxi-assado-com-canela-e-hortel-826639"
       }
     ]
   },

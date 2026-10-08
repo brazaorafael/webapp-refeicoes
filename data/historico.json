@@ -1,45 +1,5 @@
 [
   {
-    "id": "frango-recheado-no-forno-2f887f",
-    "titulo": "Frango Recheado no Forno",
-    "tags": [
-      "frango",
-      "forno",
-      "equilibrado"
-    ],
-    "data": "28/07/2026"
-  },
-  {
-    "id": "lasanha-bolonhesa-r-pida-56455d",
-    "titulo": "Lasanha à Bolonhesa Rápida",
-    "tags": [
-      "massa",
-      "carne_vermelha",
-      "forno"
-    ],
-    "data": "28/07/2026"
-  },
-  {
-    "id": "tortinhas-salgadas-de-massa-folhada-com--27468f",
-    "titulo": "Tortinhas Salgadas de Massa Folhada com Recheio de Frango",
-    "tags": [
-      "frango",
-      "forno",
-      "rapido"
-    ],
-    "data": "28/07/2026"
-  },
-  {
-    "id": "creme-de-abacaxi-com-coco-8b586d",
-    "titulo": "Creme de Abacaxi com Coco",
-    "tags": [
-      "rapido",
-      "vegetariano",
-      "sobremesa"
-    ],
-    "data": "28/07/2026"
-  },
-  {
     "id": "costelinha-de-porco-na-airfryer-d704c4",
     "titulo": "Costelinha de Porco na Airfryer",
     "tags": [
@@ -5044,5 +5004,47 @@
       "vegetariano"
     ],
     "data": "07/10/2026"
+  },
+  {
+    "id": "estrogonofe-r-pido-de-carne-cfdf3b",
+    "titulo": "Estrogonofe Rápido de Carne",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "refogado"
+    ],
+    "data": "08/10/2026"
+  },
+  {
+    "id": "fraldinha-assada-na-air-fryer-380b28",
+    "titulo": "Fraldinha Assada na Air Fryer",
+    "tags": [
+      "carne_vermelha",
+      "airfryer",
+      "rapido"
+    ],
+    "data": "08/10/2026"
+  },
+  {
+    "id": "salada-de-gr-o-de-bico-com-legumes-fresc-bbd7c5",
+    "titulo": "Salada de Grão de Bico com Legumes Frescos",
+    "tags": [
+      "vegetariano",
+      "salada",
+      "rapido",
+      "low_carb"
+    ],
+    "data": "08/10/2026"
+  },
+  {
+    "id": "abacaxi-assado-com-canela-e-hortel-826639",
+    "titulo": "Abacaxi Assado com Canela e Hortelã",
+    "tags": [
+      "vegetariano",
+      "airfryer",
+      "rapido",
+      "low_carb"
+    ],
+    "data": "08/10/2026"
   }
 ]
