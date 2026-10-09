@@ -1,45 +1,5 @@
 [
   {
-    "id": "costelinha-de-porco-na-airfryer-d704c4",
-    "titulo": "Costelinha de Porco na Airfryer",
-    "tags": [
-      "porco",
-      "airfryer",
-      "substancioso"
-    ],
-    "data": "28/07/2026"
-  },
-  {
-    "id": "fil-de-frango-grelhado-com-molho-de-most-daf2e3",
-    "titulo": "Filé de Frango Grelhado com Molho de Mostarda e Mel",
-    "tags": [
-      "frango",
-      "grelhado",
-      "rapido"
-    ],
-    "data": "28/07/2026"
-  },
-  {
-    "id": "empad-o-de-frango-pr-tico-626262",
-    "titulo": "Empadão de Frango Prático",
-    "tags": [
-      "frango",
-      "forno",
-      "substancioso"
-    ],
-    "data": "28/07/2026"
-  },
-  {
-    "id": "caldo-verde-r-pido-40a34f",
-    "titulo": "Caldo Verde Rápido",
-    "tags": [
-      "sopa",
-      "vegetariano",
-      "rapido"
-    ],
-    "data": "28/07/2026"
-  },
-  {
     "id": "creme-de-iogurte-com-calda-de-frutas-ver-05fa5b",
     "titulo": "Creme de Iogurte com Calda de Frutas Vermelhas",
     "tags": [
@@ -5046,5 +5006,45 @@
       "low_carb"
     ],
     "data": "08/10/2026"
+  },
+  {
+    "id": "bife-rol-assado-com-batatas-f3c07e",
+    "titulo": "Bife à Rolê Assado com Batatas",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "equilibrado"
+    ],
+    "data": "09/10/2026"
+  },
+  {
+    "id": "fil-mignon-grelhado-com-mix-de-legumes-d14a61",
+    "titulo": "Filé Mignon Grelhado com Mix de Legumes",
+    "tags": [
+      "carne_vermelha",
+      "grelhado",
+      "rapido"
+    ],
+    "data": "09/10/2026"
+  },
+  {
+    "id": "espetinhos-caprese-f93ae2",
+    "titulo": "Espetinhos Caprese",
+    "tags": [
+      "salada",
+      "rapido",
+      "vegetariano"
+    ],
+    "data": "09/10/2026"
+  },
+  {
+    "id": "romeu-e-julieta-na-ta-a-55a4b8",
+    "titulo": "Romeu e Julieta na Taça",
+    "tags": [
+      "rapido",
+      "vegetariano",
+      "doce"
+    ],
+    "data": "09/10/2026"
   }
 ]
