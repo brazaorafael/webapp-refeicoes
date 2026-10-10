@@ -1,132 +1,157 @@
 {
-  "gerado_em": "09/10/2026",
+  "gerado_em": "10/10/2026",
   "diario": {
     "tipo": "diario",
-    "data": "09/10/2026",
-    "dia_semana": "sexta",
+    "data": "10/10/2026",
+    "dia_semana": "sábado",
     "pratos": [
       {
-        "nome": "Bife à Rolê Assado com Batatas",
+        "nome": "Carne Moída com Canela",
         "curso": "principal",
-        "tempo": "45 min",
-        "url": "https://guiadacozinha.com.br/receitas/bife-a-role-de-forno-facil-de-fazer-para-impressionar-no-almoco/",
-        "porque": "É um prato robusto de carne vermelha, feito no forno para praticidade e sem fritura, com batatas para um acompanhamento equilibrado.",
+        "tempo": "25 min",
+        "url": "https://www.panelinha.com.br/receita/carne-moida-com-canela",
+        "porque": "Esta receita é rápida e prática, transformando a carne moída do dia a dia em um prato com sabor diferenciado, rico em proteína e refogado.",
+        "tags": [
+          "carne_vermelha",
+          "rapido",
+          "refogado"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "500 g de carne moída (acém ou patinho)",
+          "½ cebola",
+          "2 dentes de alho",
+          "½ xícara (chá) de água fervente",
+          "2 colheres (sopa) de azeite",
+          "1 colher (chá) de canela em pó",
+          "5 ramos de salsinha",
+          "Sal a gosto",
+          "Pimenta-do-reino moída na hora a gosto"
+        ],
+        "preparo": [
+          "Descasque e pique fino a cebola e o alho. Lave, seque e pique fino a salsinha.",
+          "Leve uma frigideira grande ao fogo médio, regue com 1 colher (sopa) de azeite e adicione a carne em montinhos. Tempere com sal e pimenta e doure por cerca de 5 minutos sem mexer.",
+          "Adicione o restante do azeite, a cebola, uma pitada de sal e a canela. Refogue por cerca de 5 minutos, mexendo para desmanchar a carne, até a cebola ficar macia.",
+          "Junte o alho e refogue por 1 minuto. Regue com a água fervente aos poucos, mexendo para dissolver os queimadinhos do fundo da frigideira.",
+          "Desligue o fogo, misture a salsinha picada e sirva a seguir."
+        ],
+        "id": "carne-mo-da-com-canela-2d1580"
+      },
+      {
+        "nome": "Ragu de Frigideira",
+        "curso": "principal",
+        "tempo": "20 min",
+        "url": "https://www.panelinha.com.br/receita/ragu-de-frigideira",
+        "porque": "Em apenas vinte minutos, este ragu de carne moída fica pronto, sendo uma solução super prática para um jantar saboroso e proteico.",
+        "tags": [
+          "carne_vermelha",
+          "rapido",
+          "refogado"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "500 g de patinho moído",
+          "½ cebola",
+          "2 dentes de alho",
+          "1 lata de tomate pelado em cubos (com o líquido)",
+          "1 colher (sopa) de farinha de trigo",
+          "¼ de xícara (chá) de água",
+          "3 colheres (sopa) de azeite",
+          "½ colher (chá) de pimenta calabresa seca",
+          "Sal a gosto",
+          "2 ramos de manjericão"
+        ],
+        "preparo": [
+          "Retire a carne moída da geladeira. Descasque e pique fino a cebola e o alho. Lave e seque as folhas de manjericão.",
+          "Leve uma frigideira grande ao fogo médio. Regue com 1 colher (sopa) de azeite e doure metade da carne moída em montinhos por 1 minuto de cada lado. Transfira para uma tigela e repita com o restante da carne.",
+          "Na mesma frigideira, adicione 1 colher (sopa) de azeite, a cebola e refogue por 3 minutos. Junte o alho e a pimenta calabresa, refogue por mais 1 minuto.",
+          "Adicione o tomate pelado, a farinha de trigo e a água. Mexa bem para dissolver a farinha e engrossar o molho.",
+          "Volte a carne dourada para a frigideira, tempere com sal a gosto e cozinhe por mais 5 minutos, mexendo ocasionalmente. Misture as folhas de manjericão antes de servir."
+        ],
+        "id": "ragu-de-frigideira-6918dc"
+      },
+      {
+        "nome": "Picanha ao Forno com Sal Grosso",
+        "curso": "principal",
+        "tempo": "50 min",
+        "url": "https://www.tudogostoso.com.br/receita/249-picanha-ao-forno-com-sal-grosso.html",
+        "porque": "Ideal para quem prefere carne vermelha, esta receita assa a picanha no forno, garantindo suculência sem fritura e rendendo boas sobras.",
         "tags": [
           "carne_vermelha",
           "forno",
-          "equilibrado"
+          "equilibrio"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "2 bifes de coxão duro (~150g cada)",
-          "Sal e pimenta-do-reino a gosto",
-          "2 tiras de cenoura",
-          "2 tiras de bacon",
-          "2 tiras de presunto",
-          "2 tiras de queijo muçarela",
-          "1 colher (sopa) de azeite",
-          "1/2 cebola picada",
-          "1 dente de alho amassado",
-          "1 colher (sopa) de extrato de tomate",
-          "2 batatas médias em cubos",
-          "1/2 envelope de tempero em pó para carne",
-          "1/2 xícara (chá) de água"
+          "1 peça de picanha (aprox. 1 kg)",
+          "3 kg de sal grosso",
+          "Opcional para o molho: 4 colheres (sopa) de manteiga",
+          "Opcional para o molho: 4 colheres (sopa) de azeite",
+          "Opcional para o molho: 1 cebola picada"
         ],
         "preparo": [
-          "Tempere os bifes com sal e pimenta. Divida as tiras de cenoura, bacon, presunto e muçarela sobre cada bife e enrole como rocamboles, prendendo com palitos.",
-          "Em uma fôrma untada com azeite, espalhe a cebola, o alho, o extrato de tomate e as batatas em volta dos rolês.",
-          "Polvilhe com o tempero para carne, regue com a água e cubra a fôrma com papel alumínio.",
-          "Leve ao forno médio preaquecido (180°C) por 30 minutos. Retire o papel alumínio e asse por mais 15 minutos, ou até dourar.",
-          "Retire do forno e sirva em seguida, acompanhado de arroz branco."
+          "Cubra o fundo de uma assadeira com 1 kg de sal grosso.",
+          "Coloque a picanha com a parte da gordura para cima sobre o sal. Cubra a carne com o restante do sal grosso, sem deixar nenhuma parte exposta.",
+          "Leve ao forno pré-aquecido a 200°C por cerca de 40 minutos para carne mal passada (ajuste o tempo conforme o ponto desejado).",
+          "Retire a assadeira do forno e cuidadosamente remova a camada de sal grosso da picanha.",
+          "Fatie a picanha. Para o molho (opcional), aqueça a manteiga e o azeite em uma frigideira, frite a cebola picada por alguns instantes e derrame sobre a picanha fatiada."
         ],
-        "id": "bife-rol-assado-com-batatas-f3c07e"
+        "id": "picanha-ao-forno-com-sal-grosso-d58a7b"
       },
       {
-        "nome": "Filé Mignon Grelhado com Mix de Legumes",
-        "curso": "principal",
-        "tempo": "25 min",
-        "url": "https://www.minervafoods.com/blog/como-fazer-file-mignon-com-legumes-grelhados-na-frigideira/",
-        "porque": "Oferece carne vermelha de alta qualidade preparada rapidamente na grelha, combinada com vegetais frescos para uma refeição leve e equilibrada.",
-        "tags": [
-          "carne_vermelha",
-          "grelhado",
-          "rapido"
-        ],
-        "rende_sobra": false,
-        "ingredientes": [
-          "300g de filé mignon em 2 bifes",
-          "Sal a gosto",
-          "Pimenta-do-reino preta moída a gosto",
-          "Azeite de oliva a gosto",
-          "1/2 punhado de tomates cereja",
-          "1/2 punhado de cogumelos champignon",
-          "50g de vagem",
-          "1/2 pimentão amarelo pequeno",
-          "1/2 pimentão vermelho pequeno"
-        ],
-        "preparo": [
-          "Lave e corte os legumes: tomates e cogumelos ao meio, pimentões em tiras e mantenha as vagens inteiras.",
-          "Tempere os bifes de filé mignon com sal e pimenta-do-reino.",
-          "Aqueça um fio generoso de azeite em uma frigideira ou chapa e doure o filé mignon por cerca de 3 minutos de cada lado. Reserve em local aquecido.",
-          "Na mesma frigideira, pincele os legumes e cogumelos com azeite. Grelhe-os por cerca de 3 minutos de cada lado, até tostarem.",
-          "Transfira os legumes e cogumelos para um prato, tempere com sal e pimenta. Sirva o filé mignon fatiado sobre ou ao lado dos legumes."
-        ],
-        "id": "fil-mignon-grelhado-com-mix-de-legumes-d14a61"
-      },
-      {
-        "nome": "Espetinhos Caprese",
+        "nome": "Homus a Jato",
         "curso": "entrada",
-        "tempo": "10 min",
-        "url": "https://receitas.estadao.com.br/receitas/espetinho-caprese-com-manjericao,70002162391",
-        "porque": "Uma entrada leve e refrescante que é extremamente rápida de montar, sem necessidade de cozimento e com ingredientes frescos.",
+        "tempo": "15 min",
+        "url": "https://www.panelinha.com.br/receita/homus-a-jato",
+        "porque": "Esta pasta de grão-de-bico é feita rapidamente no processador, sendo uma opção saudável e leve, rica em proteínas e fibras.",
         "tags": [
-          "salada",
-          "rapido",
-          "vegetariano"
-        ],
-        "rende_sobra": false,
-        "ingredientes": [
-          "6 unidades de mussarela de búfala cerejinha",
-          "6 unidades de tomate cereja",
-          "6 folhas de manjericão fresco",
-          "Palitos de bambu",
-          "Sal a gosto",
-          "Fio de azeite (opcional)"
-        ],
-        "preparo": [
-          "Lave bem os tomates cereja e as folhas de manjericão.",
-          "Em cada palito de bambu, espete primeiro a mussarela de búfala.",
-          "Em seguida, adicione uma folha de manjericão.",
-          "Por fim, espete um tomate cereja, repetindo o processo se desejar mais itens por espetinho.",
-          "Tempere os espetinhos com uma pitada de sal a gosto e, se desejar, regue com um fio de azeite antes de servir."
-        ],
-        "id": "espetinhos-caprese-f93ae2"
-      },
-      {
-        "nome": "Romeu e Julieta na Taça",
-        "curso": "sobremesa",
-        "tempo": "15 min (+ 30 min geladeira)",
-        "url": "https://www.vitat.com.br/receita-de-romeu-e-julieta-na-taca-111-92-calorias-por-porcao/",
-        "porque": "Uma sobremesa clássica brasileira, muito prática e rápida de preparar, que satisfaz a vontade de doce sem a necessidade de forno ou fogão.",
-        "tags": [
-          "rapido",
           "vegetariano",
-          "doce"
+          "rapido",
+          "entrada"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "200g de cream cheese ou requeijão cremoso",
-          "Suco de 1/2 limão",
-          "150g de goiabada cremosa (ou goiabada em barra derretida com um pouco de água)"
+          "1 lata de grão-de-bico cozido (escorrido)",
+          "3 colheres (sopa) de tahine (pasta de gergelim)",
+          "1 dente de alho descascado",
+          "Caldo de ½ limão",
+          "Água filtrada para dar ponto",
+          "Sal a gosto"
         ],
         "preparo": [
-          "Em um liquidificador ou com um garfo, bata o cream cheese (ou requeijão) até ficar bem cremoso.",
-          "Adicione o suco de limão ao creme de queijo e misture bem.",
-          "Distribua o creme de queijo em duas taças individuais.",
-          "Intercale camadas do creme de queijo com a goiabada cremosa nas taças.",
-          "Leve à geladeira por pelo menos 30 minutos antes de servir para firmar e gelar."
+          "Passe o grão-de-bico por uma peneira e deixe escorrer bem a água.",
+          "Transfira o grão-de-bico escorrido para um processador ou liquidificador.",
+          "Junte o alho, o caldo de limão, o tahine e uma pitada de sal.",
+          "Bata até ficar liso, adicionando água filtrada aos poucos até atingir a consistência desejada.",
+          "Prove e ajuste o sal, se necessário. Sirva a seguir ou mantenha na geladeira."
         ],
-        "id": "romeu-e-julieta-na-ta-a-55a4b8"
+        "id": "homus-a-jato-ec1ef5"
+      },
+      {
+        "nome": "Mousse de Coco com 2 Ingredientes",
+        "curso": "sobremesa",
+        "tempo": "10 min",
+        "url": "https://www.anamariabraga.com.br/receita/mousse-de-coco-com-2-ingredientes",
+        "porque": "Extremamente fácil e rápida de fazer, esta mousse requer apenas dois ingredientes e não precisa de forno, perfeita para um doce descomplicado.",
+        "tags": [
+          "doce",
+          "rapido",
+          "sem_forno"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "200 g de marshmallow branco (tipo rolha)",
+          "1 litro de leite de coco",
+          "Coco queimado ralado a gosto (opcional)"
+        ],
+        "preparo": [
+          "Em uma tigela, coloque o marshmallow branco e o leite de coco.",
+          "Leve ao micro-ondas por cerca de 2 minutos ou até esquentar e o marshmallow derreter (ou aqueça em uma panela até borbulhar).",
+          "Transfira a mistura quente para o liquidificador e bata bem por 2 minutos.",
+          "Distribua a mousse em taças ou copos individuais.",
+          "Leve ao freezer por no mínimo 2 horas (ou de um dia para o outro na geladeira) para firmar. Sirva com coco queimado ralado, se desejar."
+        ],
+        "id": "mousse-de-coco-com-2-ingredientes-c96981"
       }
     ]
   },

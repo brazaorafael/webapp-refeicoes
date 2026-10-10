@@ -1,35 +1,5 @@
 [
   {
-    "id": "creme-de-iogurte-com-calda-de-frutas-ver-05fa5b",
-    "titulo": "Creme de Iogurte com Calda de Frutas Vermelhas",
-    "tags": [
-      "rapido",
-      "low_carb",
-      "vegetariano"
-    ],
-    "data": "28/07/2026"
-  },
-  {
-    "id": "carne-mo-da-refogada-com-abobrinha-e-cen-ff2377",
-    "titulo": "Carne Moída Refogada com Abobrinha e Cenoura",
-    "tags": [
-      "carne_vermelha",
-      "rapido",
-      "equilibrado"
-    ],
-    "data": "28/07/2026"
-  },
-  {
-    "id": "escondidinho-de-carne-seca-na-moranga-ff8c21",
-    "titulo": "Escondidinho de Carne Seca na Moranga",
-    "tags": [
-      "carne_vermelha",
-      "forno",
-      "equilibrado"
-    ],
-    "data": "28/07/2026"
-  },
-  {
     "id": "salada-de-frutas-com-iogurte-e-granola-7137af",
     "titulo": "Salada de Frutas com Iogurte e Granola",
     "tags": [
@@ -5046,5 +5016,35 @@
       "doce"
     ],
     "data": "09/10/2026"
+  },
+  {
+    "id": "carne-mo-da-com-canela-2d1580",
+    "titulo": "Carne Moída com Canela",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "refogado"
+    ],
+    "data": "10/10/2026"
+  },
+  {
+    "id": "ragu-de-frigideira-6918dc",
+    "titulo": "Ragu de Frigideira",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "refogado"
+    ],
+    "data": "10/10/2026"
+  },
+  {
+    "id": "picanha-ao-forno-com-sal-grosso-d58a7b",
+    "titulo": "Picanha ao Forno com Sal Grosso",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "equilibrio"
+    ],
+    "data": "10/10/2026"
   }
 ]
