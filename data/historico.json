@@ -1,35 +1,5 @@
 [
   {
-    "id": "salada-de-frutas-com-iogurte-e-granola-7137af",
-    "titulo": "Salada de Frutas com Iogurte e Granola",
-    "tags": [
-      "rapido",
-      "low_carb",
-      "vegetariano"
-    ],
-    "data": "28/07/2026"
-  },
-  {
-    "id": "carne-mo-da-refogada-simples-c90dc2",
-    "titulo": "Carne Moída Refogada Simples",
-    "tags": [
-      "carne_vermelha",
-      "refogado",
-      "rapido"
-    ],
-    "data": "29/07/2026"
-  },
-  {
-    "id": "alm-ndegas-de-carne-assadas-035bf1",
-    "titulo": "Almôndegas de Carne Assadas",
-    "tags": [
-      "carne_vermelha",
-      "forno",
-      "equilibrado"
-    ],
-    "data": "29/07/2026"
-  },
-  {
     "id": "mousse-de-maracuj-simples-1edc80",
     "titulo": "Mousse de Maracujá Simples",
     "tags": [
@@ -5046,5 +5016,35 @@
       "equilibrio"
     ],
     "data": "10/10/2026"
+  },
+  {
+    "id": "bife-milanesa-na-airfryer-d19241",
+    "titulo": "Bife à Milanesa na Airfryer",
+    "tags": [
+      "carne_vermelha",
+      "airfryer",
+      "rapido"
+    ],
+    "data": "11/10/2026"
+  },
+  {
+    "id": "tirinhas-de-carne-com-cebolas-carameliza-1d1f96",
+    "titulo": "Tirinhas de Carne com Cebolas Caramelizadas",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "refogado"
+    ],
+    "data": "11/10/2026"
+  },
+  {
+    "id": "bruschettas-de-tomate-cereja-e-manjeric--f437da",
+    "titulo": "Bruschettas de Tomate Cereja e Manjericão",
+    "tags": [
+      "vegetariano",
+      "rapido",
+      "salada"
+    ],
+    "data": "11/10/2026"
   }
 ]
