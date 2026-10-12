@@ -1,285 +1,5 @@
 [
   {
-    "id": "mousse-de-maracuj-simples-1edc80",
-    "titulo": "Mousse de Maracujá Simples",
-    "tags": [
-      "rapido",
-      "sobremesa",
-      "fruta"
-    ],
-    "data": "29/07/2026"
-  },
-  {
-    "id": "bife-de-panela-com-batatas-3ae9a7",
-    "titulo": "Bife de Panela com Batatas",
-    "tags": [
-      "carne_vermelha",
-      "rapido",
-      "panela"
-    ],
-    "data": "29/07/2026"
-  },
-  {
-    "id": "frango-assado-com-legumes-na-airfryer-c9c5e3",
-    "titulo": "Frango Assado com Legumes na Airfryer",
-    "tags": [
-      "frango",
-      "airfryer",
-      "equilibrado"
-    ],
-    "data": "29/07/2026"
-  },
-  {
-    "id": "brigadeiro-de-colher-81b63e",
-    "titulo": "Brigadeiro de Colher",
-    "tags": [
-      "sobremesa",
-      "rapido",
-      "doce"
-    ],
-    "data": "29/07/2026"
-  },
-  {
-    "id": "carne-mo-da-com-abobrinha-gratinada-no-f-553ffa",
-    "titulo": "Carne Moída com Abobrinha Gratinada no Forno",
-    "tags": [
-      "carne_vermelha",
-      "forno",
-      "equilibrado"
-    ],
-    "data": "29/07/2026"
-  },
-  {
-    "id": "omelete-de-forno-com-queijo-e-espinafre-478355",
-    "titulo": "Omelete de Forno com Queijo e Espinafre",
-    "tags": [
-      "ovos",
-      "vegetariano",
-      "rapido"
-    ],
-    "data": "29/07/2026"
-  },
-  {
-    "id": "mini-salada-de-pepino-com-iogurte-7c5d00",
-    "titulo": "Mini Salada de Pepino com Iogurte",
-    "tags": [
-      "salada",
-      "vegetariano",
-      "rapido"
-    ],
-    "data": "29/07/2026"
-  },
-  {
-    "id": "compota-de-ma-com-canela-89fbfe",
-    "titulo": "Compota de Maçã com Canela",
-    "tags": [
-      "doce",
-      "frutas",
-      "rapido"
-    ],
-    "data": "29/07/2026"
-  },
-  {
-    "id": "strogonoff-de-carne-com-iogurte-natural-543da6",
-    "titulo": "Strogonoff de Carne (com iogurte natural)",
-    "tags": [
-      "carne_vermelha",
-      "rapido",
-      "molho"
-    ],
-    "data": "29/07/2026"
-  },
-  {
-    "id": "fil-de-peixe-assado-com-ervas-e-lim-o-117e5b",
-    "titulo": "Filé de Peixe Assado com Ervas e Limão",
-    "tags": [
-      "peixe",
-      "forno",
-      "rapido"
-    ],
-    "data": "29/07/2026"
-  },
-  {
-    "id": "palitos-de-cenoura-e-pepino-com-pat-de-g-9fe824",
-    "titulo": "Palitos de Cenoura e Pepino com Patê de Grão de Bico (Homus)",
-    "tags": [
-      "vegetariano",
-      "salada",
-      "low_carb"
-    ],
-    "data": "29/07/2026"
-  },
-  {
-    "id": "gelatina-cremosa-de-morango-980c79",
-    "titulo": "Gelatina Cremosa de Morango",
-    "tags": [
-      "sobremesa",
-      "rapido",
-      "doce"
-    ],
-    "data": "29/07/2026"
-  },
-  {
-    "id": "escondidinho-de-carne-seca-com-pur-de-ma-b30a3f",
-    "titulo": "Escondidinho de Carne Seca com Purê de Mandioca",
-    "tags": [
-      "carne_vermelha",
-      "forno",
-      "nordestino"
-    ],
-    "data": "29/07/2026"
-  },
-  {
-    "id": "frango-milanesa-na-airfryer-663c0f",
-    "titulo": "Frango à Milanesa na Airfryer",
-    "tags": [
-      "frango",
-      "airfryer",
-      "rapido"
-    ],
-    "data": "29/07/2026"
-  },
-  {
-    "id": "bruschettas-de-tomate-e-manjeric-o-b56174",
-    "titulo": "Bruschettas de Tomate e Manjericão",
-    "tags": [
-      "entrada",
-      "vegetariano",
-      "rapido"
-    ],
-    "data": "29/07/2026"
-  },
-  {
-    "id": "panna-cotta-com-calda-de-frutas-vermelha-00b104",
-    "titulo": "Panna Cotta com Calda de Frutas Vermelhas",
-    "tags": [
-      "sobremesa",
-      "doce",
-      "sem_forno"
-    ],
-    "data": "29/07/2026"
-  },
-  {
-    "id": "hamb-rguer-caseiro-no-forno-com-batata-d-813558",
-    "titulo": "Hambúrguer Caseiro no Forno com Batata Doce Assada",
-    "tags": [
-      "carne_vermelha",
-      "forno",
-      "low_carb"
-    ],
-    "data": "29/07/2026"
-  },
-  {
-    "id": "wrap-de-carne-com-vegetais-5be3ae",
-    "titulo": "Wrap de Carne com Vegetais",
-    "tags": [
-      "carne_vermelha",
-      "rapido",
-      "low_carb"
-    ],
-    "data": "29/07/2026"
-  },
-  {
-    "id": "chips-de-batata-doce-na-airfryer-com-mol-acfedb",
-    "titulo": "Chips de Batata Doce na Airfryer com Molho de Mostarda e Mel",
-    "tags": [
-      "airfryer",
-      "vegetariano",
-      "entrada"
-    ],
-    "data": "29/07/2026"
-  },
-  {
-    "id": "brownie-de-caneca-de-chocolate-f9a2d1",
-    "titulo": "Brownie de Caneca de Chocolate",
-    "tags": [
-      "doce",
-      "microondas",
-      "rapido"
-    ],
-    "data": "29/07/2026"
-  },
-  {
-    "id": "churrasco-de-picanha-na-grelha-ou-forno-007bd4",
-    "titulo": "Churrasco de Picanha na Grelha (ou Forno)",
-    "tags": [
-      "carne_vermelha",
-      "grelhado",
-      "churrasco"
-    ],
-    "data": "29/07/2026"
-  },
-  {
-    "id": "frango-assado-com-cerveja-cd170a",
-    "titulo": "Frango Assado com Cerveja",
-    "tags": [
-      "frango",
-      "forno",
-      "assado"
-    ],
-    "data": "29/07/2026"
-  },
-  {
-    "id": "lingui-a-toscana-assada-com-cebola-a83f72",
-    "titulo": "Linguiça Toscana Assada com Cebola",
-    "tags": [
-      "porco",
-      "forno",
-      "rapido"
-    ],
-    "data": "29/07/2026"
-  },
-  {
-    "id": "banana-caramelizada-com-sorvete-a032a0",
-    "titulo": "Banana Caramelizada com Sorvete",
-    "tags": [
-      "doce",
-      "frutas",
-      "rapido"
-    ],
-    "data": "29/07/2026"
-  },
-  {
-    "id": "lagarto-recheado-no-forno-cf0182",
-    "titulo": "Lagarto Recheado no Forno",
-    "tags": [
-      "carne_vermelha",
-      "forno",
-      "assado"
-    ],
-    "data": "29/07/2026"
-  },
-  {
-    "id": "costelinha-de-porco-assada-com-barbecue--03ecce",
-    "titulo": "Costelinha de Porco Assada com Barbecue no Forno",
-    "tags": [
-      "porco",
-      "forno",
-      "assado"
-    ],
-    "data": "29/07/2026"
-  },
-  {
-    "id": "salada-de-folhas-verdes-com-castanhas-e--9e8d3a",
-    "titulo": "Salada de Folhas Verdes com Castanhas e Molho de Mel e Mostarda",
-    "tags": [
-      "salada",
-      "vegetariano",
-      "low_carb"
-    ],
-    "data": "29/07/2026"
-  },
-  {
-    "id": "bolo-de-cenoura-com-cobertura-de-chocola-7c4e65",
-    "titulo": "Bolo de Cenoura com Cobertura de Chocolate",
-    "tags": [
-      "doce",
-      "forno",
-      "caseiro"
-    ],
-    "data": "29/07/2026"
-  },
-  {
     "id": "bife-rol-na-panela-2d55a0",
     "titulo": "Bife à Rolê na Panela",
     "tags": [
@@ -5044,6 +4764,311 @@
       "vegetariano",
       "rapido",
       "salada"
+    ],
+    "data": "11/10/2026"
+  },
+  {
+    "id": "frango-cremoso-com-milho-e-requeij-o-5613a5",
+    "titulo": "Frango Cremoso com Milho e Requeijão",
+    "tags": [
+      "frango",
+      "cremoso",
+      "rapido",
+      "equilibrado"
+    ],
+    "data": "11/10/2026"
+  },
+  {
+    "id": "carne-mo-da-com-pur-de-ab-bora-91c968",
+    "titulo": "Carne Moída com Purê de Abóbora",
+    "tags": [
+      "carne_vermelha",
+      "low_carb",
+      "rapido",
+      "equilibrado"
+    ],
+    "data": "11/10/2026"
+  },
+  {
+    "id": "gelado-de-abacaxi-cremoso-6ef176",
+    "titulo": "Gelado de Abacaxi Cremoso",
+    "tags": [
+      "sobremesa",
+      "rapido",
+      "gelado"
+    ],
+    "data": "11/10/2026"
+  },
+  {
+    "id": "bife-panelinha-com-molho-de-cerveja-pret-944aef",
+    "titulo": "Bife à Panelinha com Molho de Cerveja Preta",
+    "tags": [
+      "carne_vermelha",
+      "panela",
+      "rapido",
+      "molho"
+    ],
+    "data": "11/10/2026"
+  },
+  {
+    "id": "carne-de-panela-com-mandioca-cozida-18700d",
+    "titulo": "Carne de Panela com Mandioca Cozida",
+    "tags": [
+      "carne_vermelha",
+      "panela_pressao",
+      "equilibrado",
+      "comfort_food"
+    ],
+    "data": "11/10/2026"
+  },
+  {
+    "id": "frango-ao-molho-de-laranja-com-arroz-bra-b7305a",
+    "titulo": "Frango ao Molho de Laranja com Arroz Branco",
+    "tags": [
+      "frango",
+      "agridoce",
+      "rapido",
+      "equilibrado"
+    ],
+    "data": "11/10/2026"
+  },
+  {
+    "id": "salada-de-gr-o-de-bico-com-bacalhau-desf-a83a24",
+    "titulo": "Salada de Grão de Bico com Bacalhau Desfiado",
+    "tags": [
+      "salada",
+      "peixe",
+      "rapido",
+      "low_carb"
+    ],
+    "data": "11/10/2026"
+  },
+  {
+    "id": "costelinha-de-porco-na-panela-de-press-o-2124d8",
+    "titulo": "Costelinha de Porco na Panela de Pressão com Batatas",
+    "tags": [
+      "porco",
+      "panela_pressao",
+      "rapido",
+      "equilibrado"
+    ],
+    "data": "11/10/2026"
+  },
+  {
+    "id": "frango-cremoso-com-espinafre-e-requeij-o-306733",
+    "titulo": "Frango Cremoso com Espinafre e Requeijão",
+    "tags": [
+      "frango",
+      "cremoso",
+      "rapido",
+      "equilibrado"
+    ],
+    "data": "11/10/2026"
+  },
+  {
+    "id": "palitinhos-de-queijo-assados-com-or-gano-66d7fe",
+    "titulo": "Palitinhos de Queijo Assados com Orégano",
+    "tags": [
+      "vegetariano",
+      "entrada",
+      "forno",
+      "airfryer"
+    ],
+    "data": "11/10/2026"
+  },
+  {
+    "id": "brigadeiro-de-colher-no-micro-ondas-d01730",
+    "titulo": "Brigadeiro de Colher (no micro-ondas)",
+    "tags": [
+      "sobremesa",
+      "rapido",
+      "chocolate"
+    ],
+    "data": "11/10/2026"
+  },
+  {
+    "id": "carne-mo-da-refogada-com-pur-de-batata-b-0babf4",
+    "titulo": "Carne Moída Refogada com Purê de Batata Baroa",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "equilibrado",
+      "low_carb"
+    ],
+    "data": "11/10/2026"
+  },
+  {
+    "id": "bife-de-alcatra-com-molho-madeira-caseir-7927d1",
+    "titulo": "Bife de Alcatra com Molho Madeira Caseiro e Arroz",
+    "tags": [
+      "carne_vermelha",
+      "molho",
+      "rapido",
+      "equilibrado"
+    ],
+    "data": "11/10/2026"
+  },
+  {
+    "id": "peixe-assado-com-legumes-til-pia-6fb42a",
+    "titulo": "Peixe Assado com Legumes (Tilápia)",
+    "tags": [
+      "peixe",
+      "forno",
+      "rapido",
+      "equilibrado"
+    ],
+    "data": "11/10/2026"
+  },
+  {
+    "id": "cenoura-e-pepino-em-palitos-com-molho-de-1f602a",
+    "titulo": "Cenoura e Pepino em Palitos com Molho de Iogurte e Ervas",
+    "tags": [
+      "vegetariano",
+      "rapido",
+      "low_carb",
+      "salada"
+    ],
+    "data": "11/10/2026"
+  },
+  {
+    "id": "fraldinha-na-panela-de-press-o-com-batat-443ac0",
+    "titulo": "Fraldinha na Panela de Pressão com Batatas",
+    "tags": [
+      "carne_vermelha",
+      "panela_pressao",
+      "rapido",
+      "equilibrado"
+    ],
+    "data": "11/10/2026"
+  },
+  {
+    "id": "frango-com-quiabo-e-polenta-cremosa-bec9bb",
+    "titulo": "Frango com Quiabo e Polenta Cremosa",
+    "tags": [
+      "frango",
+      "regional",
+      "equilibrio",
+      "comfort_food"
+    ],
+    "data": "11/10/2026"
+  },
+  {
+    "id": "nhoque-de-batata-com-ragu-de-carne-408f72",
+    "titulo": "Nhoque de Batata com Ragu de Carne",
+    "tags": [
+      "massa",
+      "carne_vermelha",
+      "ragu",
+      "comfort_food"
+    ],
+    "data": "11/10/2026"
+  },
+  {
+    "id": "mini-past-is-assados-de-queijo-e-or-gano-05328e",
+    "titulo": "Mini Pastéis Assados de Queijo e Orégano",
+    "tags": [
+      "vegetariano",
+      "entrada",
+      "forno",
+      "airfryer"
+    ],
+    "data": "11/10/2026"
+  },
+  {
+    "id": "brownie-de-caneca-micro-ondas-dfd1cb",
+    "titulo": "Brownie de Caneca (Micro-ondas)",
+    "tags": [
+      "sobremesa",
+      "rapido",
+      "chocolate"
+    ],
+    "data": "11/10/2026"
+  },
+  {
+    "id": "maminha-recheada-com-queijo-e-presunto-n-91dfbd",
+    "titulo": "Maminha Recheada com Queijo e Presunto no Forno",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "especial",
+      "recheado"
+    ],
+    "data": "11/10/2026"
+  },
+  {
+    "id": "frango-milanesa-assado-com-salada-9bd0f9",
+    "titulo": "Frango à Milanesa Assado com Salada",
+    "tags": [
+      "frango",
+      "forno",
+      "airfryer",
+      "equilibrado"
+    ],
+    "data": "11/10/2026"
+  },
+  {
+    "id": "carne-louca-desfiada-no-p-o-franc-s-dcaa7e",
+    "titulo": "Carne Louca Desfiada no Pão Francês",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "lanche",
+      "comfort_food"
+    ],
+    "data": "11/10/2026"
+  },
+  {
+    "id": "lagarto-recheado-assado-panela-de-press--39058f",
+    "titulo": "Lagarto Recheado Assado (Panela de Pressão e Forno)",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "panela_pressao",
+      "especial"
+    ],
+    "data": "11/10/2026"
+  },
+  {
+    "id": "frango-recheado-com-farofa-de-bacon-e-er-ed5671",
+    "titulo": "Frango Recheado com Farofa de Bacon e Ervas no Forno",
+    "tags": [
+      "frango",
+      "forno",
+      "recheado",
+      "especial"
+    ],
+    "data": "11/10/2026"
+  },
+  {
+    "id": "costela-assada-com-mandioca-na-manteiga-b9ac43",
+    "titulo": "Costela Assada com Mandioca na Manteiga",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "comfort_food",
+      "lento"
+    ],
+    "data": "11/10/2026"
+  },
+  {
+    "id": "mini-panquecas-de-queijo-com-ervas-finas-fa65f1",
+    "titulo": "Mini Panquecas de Queijo com Ervas Finas",
+    "tags": [
+      "vegetariano",
+      "entrada",
+      "rapido",
+      "queijo"
+    ],
+    "data": "11/10/2026"
+  },
+  {
+    "id": "torta-de-ma-na-frigideira-com-sorvete-a1db78",
+    "titulo": "Torta de Maçã na Frigideira com Sorvete",
+    "tags": [
+      "sobremesa",
+      "rapido",
+      "fruta",
+      "doce"
     ],
     "data": "11/10/2026"
   }
