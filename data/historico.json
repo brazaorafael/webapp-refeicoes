@@ -1,44 +1,5 @@
 [
   {
-    "id": "bife-rol-na-panela-2d55a0",
-    "titulo": "Bife à Rolê na Panela",
-    "tags": [
-      "carne_vermelha",
-      "rapido",
-      "equilibrado"
-    ],
-    "data": "29/07/2026"
-  },
-  {
-    "id": "escondidinho-de-carne-mo-da-177454",
-    "titulo": "Escondidinho de Carne Moída",
-    "tags": [
-      "carne_vermelha",
-      "forno",
-      "equilibrado"
-    ],
-    "data": "29/07/2026"
-  },
-  {
-    "id": "salada-de-r-cula-com-tomate-seco-e-parme-7feab5",
-    "titulo": "Salada de Rúcula com Tomate Seco e Parmesão",
-    "tags": [
-      "salada",
-      "rapido",
-      "vegetariano"
-    ],
-    "data": "29/07/2026"
-  },
-  {
-    "id": "pav-de-bolacha-simples-aac4d8",
-    "titulo": "Pavê de Bolacha Simples",
-    "tags": [
-      "rapido",
-      "sobremesa"
-    ],
-    "data": "29/07/2026"
-  },
-  {
     "id": "rosbife-de-fil-mignon-no-forno-58979a",
     "titulo": "Rosbife de Filé Mignon no Forno",
     "tags": [
@@ -5071,5 +5032,47 @@
       "doce"
     ],
     "data": "11/10/2026"
+  },
+  {
+    "id": "picadinho-de-carne-com-arroz-farofa-e-ov-4026a8",
+    "titulo": "Picadinho de Carne com Arroz, Farofa e Ovo",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "equilibrado",
+      "refogado"
+    ],
+    "data": "12/10/2026"
+  },
+  {
+    "id": "bife-de-contrafil-na-chapa-com-molho-chi-87353b",
+    "titulo": "Bife de Contrafilé na Chapa com Molho Chimichurri e Batata Doce Assada",
+    "tags": [
+      "carne_vermelha",
+      "grelhado",
+      "low_carb",
+      "equilibrado"
+    ],
+    "data": "12/10/2026"
+  },
+  {
+    "id": "salada-de-folhas-verdes-com-manga-e-cast-363c27",
+    "titulo": "Salada de Folhas Verdes com Manga e Castanhas",
+    "tags": [
+      "salada",
+      "rapido",
+      "vegetariano"
+    ],
+    "data": "12/10/2026"
+  },
+  {
+    "id": "creme-de-papaia-com-cassis-446b9f",
+    "titulo": "Creme de Papaia com Cassis",
+    "tags": [
+      "rapido",
+      "vegetariano",
+      "sobremesa"
+    ],
+    "data": "12/10/2026"
   }
 ]

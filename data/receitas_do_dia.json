@@ -1,134 +1,139 @@
 {
-  "gerado_em": "11/10/2026",
+  "gerado_em": "12/10/2026",
   "diario": {
     "tipo": "diario",
-    "data": "11/10/2026",
-    "dia_semana": "domingo",
+    "data": "12/10/2026",
+    "dia_semana": "segunda",
     "pratos": [
       {
-        "nome": "Bife à Milanesa na Airfryer",
+        "nome": "Picadinho de Carne com Arroz, Farofa e Ovo",
         "curso": "principal",
-        "tempo": "25 min",
-        "url": "https://fritadeirasemoleo.com.br/bife-a-milanesa-empanado-na-airfryer/",
-        "porque": "É um prato clássico de carne vermelha, crocante e sequinho, preparado na airfryer para evitar fritura em óleo, sendo prático e rápido.",
-        "tags": [
-          "carne_vermelha",
-          "airfryer",
-          "rapido"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "4 bifes finos (patinho, filé mignon ou coxão mole)",
-          "1 colher de chá de alho amassado",
-          "Sal e pimenta-do-reino a gosto",
-          "1 xícara de farinha de trigo",
-          "1 e 1/2 xícara de farinha de rosca",
-          "2 ovos batidos",
-          "Azeite para pincelar"
-        ],
-        "preparo": [
-          "Bata os bifes para ficarem bem finos, se necessário. Tempere-os com alho, sal e pimenta-do-reino a gosto.",
-          "Passe cada bife primeiro na farinha de trigo, depois nos ovos batidos e, por último, na farinha de rosca, garantindo que esteja completamente coberto.",
-          "Pincele um pouco de azeite em ambos os lados de cada bife empanado para ajudar na crocância e dourar.",
-          "Pré-aqueça a airfryer a 200°C. Coloque 2 bifes por vez na cesta, sem sobrepor.",
-          "Cozinhe por 10 a 15 minutos, virando os bifes na metade do tempo, até que estejam dourados e crocantes. Repita o processo com os bifes restantes."
-        ],
-        "id": "bife-milanesa-na-airfryer-d19241"
-      },
-      {
-        "nome": "Tirinhas de Carne com Cebolas Caramelizadas",
-        "curso": "principal",
-        "tempo": "40 min",
-        "url": "https://www.youtube.com/watch?v=s5eUo3x6m5o",
-        "porque": "Uma opção saborosa de carne vermelha em tiras, com cebolas caramelizadas, preparada rapidamente na frigideira e sem fritura profunda.",
+        "tempo": "35 min",
+        "url": "https://anazambrin.com/",
+        "porque": "Carne vermelha, preparado de forma refogada e rápida, equilibrado com carboidrato e ovo, ideal para sobras.",
         "tags": [
           "carne_vermelha",
           "rapido",
+          "equilibrado",
           "refogado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "1 kg de tirinhas de carne (alcatra ou contrafilé)",
-          "2 cebolas médias (para caramelizar, cortadas em rodelas)",
-          "200g de tomate cereja",
-          "50 ml de água",
-          "100 ml de vinagre balsâmico",
-          "2 colheres (sopa) de açúcar",
-          "4 colheres (sopa) de azeite",
-          "1 cebola média picada",
-          "4 colheres (sopa) de cebolinha e salsinha picadas",
-          "1 colher (chá) de pimenta calabresa",
-          "2 dentes de alho picados",
-          "1 colher (café) de pimenta do reino",
-          "Sal a gosto"
+          "500g de carne bovina picada em cubos pequenos (filé mignon, alcatra, miolo de acém ou coxão mole)",
+          "1 colher de sopa de azeite",
+          "Sal e pimenta-do-reino a gosto",
+          "1 cebola grande picada",
+          "3 dentes de alho picados",
+          "1 colher de sopa de extrato de tomate",
+          "2 colheres de sopa de molho inglês",
+          "200ml de caldo de carne ou água (ou vinho tinto seco/cerveja preta)",
+          "Arroz branco cozido para acompanhar",
+          "Farofa pronta ou caseira para acompanhar",
+          "2 ovos fritos ou cozidos"
         ],
         "preparo": [
-          "Tempere as tirinhas de carne com sal, pimenta-do-reino, pimenta calabresa e alho picado, misturando bem.",
-          "Em uma frigideira grande, aqueça 4 colheres de sopa de azeite e doure a cebola picada. Adicione a carne temperada e frite até dourar. Retire a carne e reserve.",
-          "Na mesma frigideira, adicione 50 ml de água, 100 ml de vinagre balsâmico e 2 colheres de sopa de açúcar. Misture bem.",
-          "Acrescente as cebolas em rodelas e deixe reduzir e caramelizar em fogo médio.",
-          "Volte a carne para a frigideira, adicione o tomate cereja e cozinhe por alguns minutos, até o tomate amolecer. Finalize com a cebolinha e salsinha picadas."
+          "Tempere a carne picada com sal e pimenta-do-reino.",
+          "Em uma frigideira grande e bem quente com azeite, doure a carne em porções para não soltar muita água. Retire e reserve.",
+          "Na mesma panela, refogue a cebola picada até murchar. Adicione o alho e refogue por mais 1 minuto.",
+          "Acrescente o extrato de tomate e o molho inglês. Retorne a carne à panela e misture bem.",
+          "Despeje o caldo (ou vinho/cerveja) e deixe ferver, raspando o fundo da panela para soltar os sabores. Cozinhe em fogo baixo até o molho encorpar e a carne ficar macia.",
+          "Sirva o picadinho com arroz branco, farofa e um ovo frito (ou cozido) por cima."
         ],
-        "id": "tirinhas-de-carne-com-cebolas-carameliza-1d1f96"
+        "id": "picadinho-de-carne-com-arroz-farofa-e-ov-4026a8"
       },
       {
-        "nome": "Bruschettas de Tomate Cereja e Manjericão",
-        "curso": "entrada",
-        "tempo": "20 min",
-        "url": "https://www.receitaseduguedes.com.br/receitas/bruschetta-de-tomate-e-manjericao",
-        "porque": "Uma entrada leve, fresca e rápida de preparar, com pão torrado e ingredientes simples.",
+        "nome": "Bife de Contrafilé na Chapa com Molho Chimichurri e Batata Doce Assada",
+        "curso": "principal",
+        "tempo": "40 min",
+        "url": "https://www.clararesorts.com.br/blog/receitas/bife-de-chorizo-com-chimichurri-e-batata-doce/",
+        "porque": "Carne vermelha grelhada (ou na chapa), acompanhada de batata doce assada e molho fresco, garantindo um prato equilibrado e com pouca fritura.",
         "tags": [
-          "vegetariano",
-          "rapido",
-          "salada"
-        ],
-        "rende_sobra": false,
-        "ingredientes": [
-          "4 fatias de pão italiano ou ciabatta",
-          "1 dente de alho sem casca",
-          "2 xícaras (chá) de tomate cereja cortado em quatro",
-          "10 folhas de manjericão fresco",
-          "Azeite extra virgem",
-          "Sal a gosto",
-          "Pimenta-do-reino a gosto"
-        ],
-        "preparo": [
-          "Pré-aqueça o forno a 180°C. Coloque as fatias de pão em uma assadeira e leve ao forno até ficarem levemente douradas e crocantes, por cerca de 5-7 minutos.",
-          "Retire o pão do forno e esfregue o dente de alho nas fatias torradinhas, para aromatizar.",
-          "Em uma tigela, misture o tomate cereja cortado, as folhas de manjericão picadas, um fio de azeite, sal e pimenta-do-reino a gosto.",
-          "Distribua a mistura de tomate e manjericão sobre as fatias de pão torrado. Sirva imediatamente."
-        ],
-        "id": "bruschettas-de-tomate-cereja-e-manjeric--f437da"
-      },
-      {
-        "nome": "Salada de Frutas com Iogurte e Granola",
-        "curso": "sobremesa",
-        "tempo": "10 min",
-        "url": "https://paladar.estadao.com.br/receitas/salada-de-frutas-com-iogurte-e-granola",
-        "porque": "Uma sobremesa saudável, leve e refrescante, que não exige cozimento e é montada em poucos minutos.",
-        "tags": [
-          "vegetariano",
-          "rapido",
+          "carne_vermelha",
+          "grelhado",
+          "low_carb",
           "equilibrado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "1 pera",
-          "3 bananas médias",
-          "10 bagos de uva",
-          "1 kiwi",
-          "10 morangos",
-          "2 copos de iogurte natural desnatado",
-          "1 xícara de chá de granola sem açúcar",
-          "2 colheres de sopa de mel (opcional)"
+          "2 bifes de contrafilé (cerca de 200g cada)",
+          "Sal grosso a gosto",
+          "Pimenta-do-reino a gosto",
+          "2 batatas doces médias",
+          "Azeite de oliva",
+          "Para o Chimichurri:",
+          "1/2 cebola roxa picada finamente",
+          "2 dentes de alho picados",
+          "1/2 xícara de salsinha fresca picada",
+          "1/4 xícara de cebolinha fresca picada",
+          "1 colher de chá de orégano seco",
+          "1/2 xícara de azeite de oliva",
+          "2 colheres de sopa de vinagre de vinho tinto ou balsâmico"
         ],
         "preparo": [
-          "Lave e corte todas as frutas em pedaços pequenos. Distribua as frutas cortadas em taças individuais ou em um bowl grande.",
-          "Acrescente o iogurte natural desnatado por cima das frutas, dividindo igualmente entre as porções.",
-          "Adicione a granola sobre o iogurte, garantindo a crocância.",
-          "Finalize com um fio de mel em cada taça, se desejar um toque adocicado. Sirva gelado."
+          "Lave bem as batatas doces, corte-as em rodelas ou palitos grossos. Tempere com azeite, sal e pimenta.",
+          "Disponha as batatas em uma assadeira e leve ao forno pré-aquecido a 200°C por cerca de 30-40 minutos, ou até ficarem macias e levemente douradas.",
+          "Enquanto as batatas assam, prepare o chimichurri: em uma tigela, misture a cebola roxa, alho, salsinha, cebolinha e orégano.",
+          "Adicione o azeite, o vinagre, sal e pimenta ao chimichurri. Misture bem e reserve para que os sabores se incorporem.",
+          "Tempere os bifes de contrafilé com sal grosso e pimenta-do-reino. Aqueça bem uma chapa ou frigideira e grelhe os bifes no ponto desejado (cerca de 3-4 minutos de cada lado para malpassado).",
+          "Sirva os bifes de contrafilé imediatamente com as batatas doces assadas e regue com o molho chimichurri."
         ],
-        "id": "salada-de-frutas-com-iogurte-e-granola-7137af"
+        "id": "bife-de-contrafil-na-chapa-com-molho-chi-87353b"
+      },
+      {
+        "nome": "Salada de Folhas Verdes com Manga e Castanhas",
+        "curso": "entrada",
+        "tempo": "15 min",
+        "url": "https://claudia.abril.com.br/receitas/salada-tropical-de-folhas-simples-com-manga/",
+        "porque": "Uma entrada leve, fresca e rápida de preparar, combinando sabores tropicais e crocância das castanhas.",
+        "tags": [
+          "salada",
+          "rapido",
+          "vegetariano"
+        ],
+        "rende_sobra": false,
+        "ingredientes": [
+          "1 maço de mix de folhas verdes (alface, rúcula, agrião)",
+          "1 manga média madura, cortada em cubos",
+          "1/4 xícara de castanhas (pará ou caju) picadas grosseiramente",
+          "Para o molho:",
+          "3 colheres de sopa de azeite extra virgem",
+          "1 colher de sopa de suco de limão ou vinagre balsâmico",
+          "Sal e pimenta-do-reino a gosto"
+        ],
+        "preparo": [
+          "Lave e seque bem as folhas verdes. Rasgue-as grosseiramente e coloque em uma tigela.",
+          "Adicione a manga em cubos e as castanhas picadas às folhas.",
+          "Em uma tigela pequena, misture o azeite, o suco de limão (ou vinagre), sal e pimenta para o molho.",
+          "Regue a salada com o molho e misture delicadamente. Sirva imediatamente."
+        ],
+        "id": "salada-de-folhas-verdes-com-manga-e-cast-363c27"
+      },
+      {
+        "nome": "Creme de Papaia com Cassis",
+        "curso": "sobremesa",
+        "tempo": "10 min",
+        "url": "https://chocomellos.com.br/creme-de-papaia-com-cassis/",
+        "porque": "Uma sobremesa clássica, leve, refrescante e muito rápida de preparar, ideal para finalizar a refeição.",
+        "tags": [
+          "rapido",
+          "vegetariano",
+          "sobremesa"
+        ],
+        "rende_sobra": false,
+        "ingredientes": [
+          "1 mamão papaia médio (cerca de 300g de polpa)",
+          "4 bolas grandes de sorvete de creme de boa qualidade",
+          "1 a 2 colheres de sopa de licor de cassis (a gosto)",
+          "Folhas de hortelã para decorar (opcional)"
+        ],
+        "preparo": [
+          "Descasque o mamão papaia, retire as sementes e corte a polpa em pedaços.",
+          "No liquidificador, coloque os pedaços de mamão e o sorvete de creme.",
+          "Bata até obter um creme homogêneo e consistente.",
+          "Transfira o creme para taças individuais.",
+          "Regue cada porção com o licor de cassis a gosto e decore com folhas de hortelã, se desejar. Sirva imediatamente."
+        ],
+        "id": "creme-de-papaia-com-cassis-446b9f"
       }
     ]
   },
