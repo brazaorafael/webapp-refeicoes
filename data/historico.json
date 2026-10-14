@@ -1,35 +1,5 @@
 [
   {
-    "id": "rosbife-de-fil-mignon-no-forno-58979a",
-    "titulo": "Rosbife de Filé Mignon no Forno",
-    "tags": [
-      "carne_vermelha",
-      "forno",
-      "rende_sobra"
-    ],
-    "data": "30/07/2026"
-  },
-  {
-    "id": "bife-ao-molho-de-mostarda-f18d0a",
-    "titulo": "Bife ao Molho de Mostarda",
-    "tags": [
-      "carne_vermelha",
-      "rapido",
-      "grelhado"
-    ],
-    "data": "30/07/2026"
-  },
-  {
-    "id": "sobrecoxas-assadas-com-p-prica-e-ervas-b33281",
-    "titulo": "Sobrecoxas Assadas com Páprica e Ervas",
-    "tags": [
-      "frango",
-      "forno",
-      "rende_sobra"
-    ],
-    "data": "30/07/2026"
-  },
-  {
     "id": "salada-com-gr-o-de-bico-e-rabanete-assad-edc860",
     "titulo": "Salada com Grão-de-bico e Rabanete Assados na Airfryer",
     "tags": [
@@ -5074,5 +5044,35 @@
       "sobremesa"
     ],
     "data": "12/10/2026"
+  },
+  {
+    "id": "picadinho-de-fil-mignon-699d5f",
+    "titulo": "Picadinho de Filé Mignon",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "equilibrado"
+    ],
+    "data": "14/10/2026"
+  },
+  {
+    "id": "medalh-o-de-fil-mignon-ao-molho-madeira--ad8f51",
+    "titulo": "Medalhão de Filé Mignon ao Molho Madeira (caseiro e rápido)",
+    "tags": [
+      "carne_vermelha",
+      "grelhado",
+      "rapido"
+    ],
+    "data": "14/10/2026"
+  },
+  {
+    "id": "mousse-de-maracuj-r-pida-6a18d0",
+    "titulo": "Mousse de Maracujá Rápida",
+    "tags": [
+      "rapido",
+      "sobremesa",
+      "leve"
+    ],
+    "data": "14/10/2026"
   }
 ]

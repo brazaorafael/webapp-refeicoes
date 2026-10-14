@@ -1,139 +1,167 @@
 {
-  "gerado_em": "12/10/2026",
+  "gerado_em": "14/10/2026",
   "diario": {
     "tipo": "diario",
-    "data": "12/10/2026",
-    "dia_semana": "segunda",
+    "data": "14/10/2026",
+    "dia_semana": "quarta",
     "pratos": [
       {
-        "nome": "Picadinho de Carne com Arroz, Farofa e Ovo",
+        "nome": "Picadinho de Filé Mignon",
         "curso": "principal",
-        "tempo": "35 min",
-        "url": "https://anazambrin.com/",
-        "porque": "Carne vermelha, preparado de forma refogada e rápida, equilibrado com carboidrato e ovo, ideal para sobras.",
+        "tempo": "40 min",
+        "url": "https://www.panelinha.com.br/receita/Picadinho-de-file-mignon",
+        "porque": "Um clássico brasileiro prático e rápido, rico em proteína de carne vermelha preferida do casal, e que permite a inclusão de vegetais, ideal para render sobras.",
         "tags": [
           "carne_vermelha",
           "rapido",
-          "equilibrado",
-          "refogado"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "500g de carne bovina picada em cubos pequenos (filé mignon, alcatra, miolo de acém ou coxão mole)",
-          "1 colher de sopa de azeite",
-          "Sal e pimenta-do-reino a gosto",
-          "1 cebola grande picada",
-          "3 dentes de alho picados",
-          "1 colher de sopa de extrato de tomate",
-          "2 colheres de sopa de molho inglês",
-          "200ml de caldo de carne ou água (ou vinho tinto seco/cerveja preta)",
-          "Arroz branco cozido para acompanhar",
-          "Farofa pronta ou caseira para acompanhar",
-          "2 ovos fritos ou cozidos"
-        ],
-        "preparo": [
-          "Tempere a carne picada com sal e pimenta-do-reino.",
-          "Em uma frigideira grande e bem quente com azeite, doure a carne em porções para não soltar muita água. Retire e reserve.",
-          "Na mesma panela, refogue a cebola picada até murchar. Adicione o alho e refogue por mais 1 minuto.",
-          "Acrescente o extrato de tomate e o molho inglês. Retorne a carne à panela e misture bem.",
-          "Despeje o caldo (ou vinho/cerveja) e deixe ferver, raspando o fundo da panela para soltar os sabores. Cozinhe em fogo baixo até o molho encorpar e a carne ficar macia.",
-          "Sirva o picadinho com arroz branco, farofa e um ovo frito (ou cozido) por cima."
-        ],
-        "id": "picadinho-de-carne-com-arroz-farofa-e-ov-4026a8"
-      },
-      {
-        "nome": "Bife de Contrafilé na Chapa com Molho Chimichurri e Batata Doce Assada",
-        "curso": "principal",
-        "tempo": "40 min",
-        "url": "https://www.clararesorts.com.br/blog/receitas/bife-de-chorizo-com-chimichurri-e-batata-doce/",
-        "porque": "Carne vermelha grelhada (ou na chapa), acompanhada de batata doce assada e molho fresco, garantindo um prato equilibrado e com pouca fritura.",
-        "tags": [
-          "carne_vermelha",
-          "grelhado",
-          "low_carb",
           "equilibrado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "2 bifes de contrafilé (cerca de 200g cada)",
-          "Sal grosso a gosto",
-          "Pimenta-do-reino a gosto",
-          "2 batatas doces médias",
-          "Azeite de oliva",
-          "Para o Chimichurri:",
-          "1/2 cebola roxa picada finamente",
-          "2 dentes de alho picados",
-          "1/2 xícara de salsinha fresca picada",
-          "1/4 xícara de cebolinha fresca picada",
-          "1 colher de chá de orégano seco",
-          "1/2 xícara de azeite de oliva",
-          "2 colheres de sopa de vinagre de vinho tinto ou balsâmico"
+          "1 kg de filé mignon em cubos",
+          "2 cebolas",
+          "3 dentes de alho",
+          "4 colheres (sopa) de farinha de trigo",
+          "70 g de bacon em cubinhos",
+          "¼ de xícara (chá) de extrato de tomate",
+          "2 colheres (sopa) de molho inglês",
+          "Caldo de ½ limão",
+          "5 colheres (sopa) de azeite",
+          "¼ de xícara (chá) de salsa picada",
+          "3 xícaras (chá) de água quente",
+          "Sal e pimenta-do-reino moída na hora a gosto"
         ],
         "preparo": [
-          "Lave bem as batatas doces, corte-as em rodelas ou palitos grossos. Tempere com azeite, sal e pimenta.",
-          "Disponha as batatas em uma assadeira e leve ao forno pré-aquecido a 200°C por cerca de 30-40 minutos, ou até ficarem macias e levemente douradas.",
-          "Enquanto as batatas assam, prepare o chimichurri: em uma tigela, misture a cebola roxa, alho, salsinha, cebolinha e orégano.",
-          "Adicione o azeite, o vinagre, sal e pimenta ao chimichurri. Misture bem e reserve para que os sabores se incorporem.",
-          "Tempere os bifes de contrafilé com sal grosso e pimenta-do-reino. Aqueça bem uma chapa ou frigideira e grelhe os bifes no ponto desejado (cerca de 3-4 minutos de cada lado para malpassado).",
-          "Sirva os bifes de contrafilé imediatamente com as batatas doces assadas e regue com o molho chimichurri."
+          "Descasque e pique fino a cebola e o alho. Aqueça a água. Corte o filé mignon em cubos e seque bem a carne com um pano limpo.",
+          "Transfira a carne para uma tigela e polvilhe com a farinha de trigo, misturando bem para envolver todos os cubos.",
+          "Em uma panela grande em fogo médio, regue com 2 colheres (sopa) de azeite e doure a carne em etapas para evitar que ela cozinhe em vez de dourar. Tempere com sal e pimenta e reserve.",
+          "Na mesma panela, adicione o restante do azeite e doure o bacon. Junte a cebola e refogue até murchar. Acrescente o alho e refogue por 1 minuto.",
+          "Volte a carne para a panela, adicione o extrato de tomate, molho inglês, caldo de limão e a água quente. Misture bem e cozinhe por cerca de 15-20 minutos, até o molho encorpar e a carne ficar macia.",
+          "Finalize com a salsa picada e sirva acompanhado de arroz e legumes."
         ],
-        "id": "bife-de-contrafil-na-chapa-com-molho-chi-87353b"
+        "id": "picadinho-de-fil-mignon-699d5f"
       },
       {
-        "nome": "Salada de Folhas Verdes com Manga e Castanhas",
-        "curso": "entrada",
+        "nome": "Medalhão de Filé Mignon ao Molho Madeira (caseiro e rápido)",
+        "curso": "principal",
         "tempo": "15 min",
-        "url": "https://claudia.abril.com.br/receitas/salada-tropical-de-folhas-simples-com-manga/",
-        "porque": "Uma entrada leve, fresca e rápida de preparar, combinando sabores tropicais e crocância das castanhas.",
+        "url": "https://www.panelinha.com.br/receita/Medalhao-ao-molho-madeira",
+        "porque": "Uma opção sofisticada de carne vermelha, preparada de forma rápida (15 minutos) e ideal para um jantar a dois, com medalhões grelhados sem fritura.",
         "tags": [
-          "salada",
-          "rapido",
-          "vegetariano"
+          "carne_vermelha",
+          "grelhado",
+          "rapido"
         ],
         "rende_sobra": false,
         "ingredientes": [
-          "1 maço de mix de folhas verdes (alface, rúcula, agrião)",
-          "1 manga média madura, cortada em cubos",
-          "1/4 xícara de castanhas (pará ou caju) picadas grosseiramente",
-          "Para o molho:",
-          "3 colheres de sopa de azeite extra virgem",
-          "1 colher de sopa de suco de limão ou vinagre balsâmico",
-          "Sal e pimenta-do-reino a gosto"
+          "2 medalhões de filé mignon (cerca de 150g cada)",
+          "½ colher (sopa) de azeite",
+          "Sal e pimenta-do-reino moída na hora a gosto",
+          "½ colher (sopa) de manteiga",
+          "½ colher (sopa) de farinha de trigo",
+          "½ colher (sopa) de extrato de tomate",
+          "¼ de xícara (chá) de vinho tinto",
+          "½ xícara (chá) de água fervente"
         ],
         "preparo": [
-          "Lave e seque bem as folhas verdes. Rasgue-as grosseiramente e coloque em uma tigela.",
-          "Adicione a manga em cubos e as castanhas picadas às folhas.",
-          "Em uma tigela pequena, misture o azeite, o suco de limão (ou vinagre), sal e pimenta para o molho.",
-          "Regue a salada com o molho e misture delicadamente. Sirva imediatamente."
+          "Retire os medalhões da geladeira e deixe em temperatura ambiente por alguns minutos. Tempere com sal e pimenta-do-reino a gosto.",
+          "Leve uma frigideira ao fogo médio. Quando estiver bem quente, regue com o azeite e disponha os dois medalhões. Doure por 3 minutos de cada lado para ficarem malpassados.",
+          "Transfira os medalhões para um prato e cubra com papel alumínio para mantê-los aquecidos enquanto prepara o molho.",
+          "Na mesma frigideira, derreta a manteiga em fogo baixo. Junte a farinha de trigo e mexa por 1 minuto.",
+          "Adicione o extrato de tomate, o vinho tinto e a água fervente. Mexa continuamente até o molho encorpar. Tempere com sal e pimenta.",
+          "Sirva o molho madeira caseiro sobre os medalhões de filé mignon."
         ],
-        "id": "salada-de-folhas-verdes-com-manga-e-cast-363c27"
+        "id": "medalh-o-de-fil-mignon-ao-molho-madeira--ad8f51"
       },
       {
-        "nome": "Creme de Papaia com Cassis",
+        "nome": "Carne Moída com Refogado de Pimentão",
+        "curso": "principal",
+        "tempo": "35 min",
+        "url": "https://www.panelinha.com.br/receita/Carne-moida-com-refogado-de-pimentao",
+        "porque": "Uma receita versátil e prática para o dia a dia, com boa fonte de proteína e muitos legumes, preparada de forma refogada sem fritura.",
+        "tags": [
+          "carne_vermelha",
+          "rapido",
+          "equilibrado"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "500 g de patinho moído",
+          "1 pimentão vermelho",
+          "1 cebola",
+          "2 dentes de alho",
+          "½ xícara (chá) de água quente",
+          "3 colheres (sopa) de azeite",
+          "Sal e pimenta-do-reino moída na hora a gosto",
+          "Cebolinha fatiada a gosto para servir"
+        ],
+        "preparo": [
+          "Retire a carne moída da geladeira. Lave e corte o pimentão em cubos médios. Descasque e corte a cebola em cubos pequenos e pique o alho fino.",
+          "Em uma panela média (ou frigideira grande), aqueça 2 colheres (sopa) de azeite em fogo baixo. Refogue a cebola com uma pitada de sal por cerca de 10 minutos, até dourar.",
+          "Adicione o pimentão e refogue por mais 2 minutos. Acrescente o alho picado e misture bem.",
+          "Aumente o fogo para médio e afaste o refogado para as laterais da panela. Adicione mais 1 colher (sopa) de azeite no centro e a carne moída. Tempere com sal e pimenta e cozinhe por cerca de 10 minutos, mexendo ocasionalmente para soltar os pedaços e dourar por igual.",
+          "Regue a água quente aos poucos, raspando bem o fundo da frigideira para dissolver os queimadinhos e umedecer o preparo.",
+          "Desligue o fogo, misture a cebolinha fatiada e sirva a seguir."
+        ],
+        "id": "carne-mo-da-com-refogado-de-piment-o-10476d"
+      },
+      {
+        "nome": "Ricota Grelhada com Ervas",
+        "curso": "entrada",
+        "tempo": "10 min",
+        "url": "https://www.panelinha.com.br/receita/Ricota-grelhada",
+        "porque": "Uma entrada simples, chique e saudável, que fica pronta em poucos minutos e é grelhada na frigideira com um fio de azeite, sem fritura.",
+        "tags": [
+          "vegetariano",
+          "grelhado",
+          "rapido"
+        ],
+        "rende_sobra": false,
+        "ingredientes": [
+          "1 ricota fresca (cerca de 400g)",
+          "4 colheres (sopa) de azeite",
+          "8 folhas de manjericão fresco",
+          "8 folhas de hortelã fresca",
+          "8 folhas de salsa crespa fresca",
+          "Sal e pimenta-do-reino moída na hora a gosto",
+          "Grãos de pimenta rosa para perfumar (opcional)"
+        ],
+        "preparo": [
+          "Corte a ricota em fatias de aproximadamente 2 cm de espessura. Lave e seque as ervas frescas.",
+          "Leve uma frigideira antiaderente ao fogo médio. Quando aquecer, junte 1 colher (sopa) de azeite.",
+          "Coloque as fatias de ricota na frigideira (até duas por vez) e deixe dourar por 4 minutos de cada lado, ou até ficarem levemente douradas.",
+          "Transfira a ricota grelhada para um prato. Tempere com sal e pimenta-do-reino a gosto.",
+          "Salpique as ervas frescas picadas e os grãos de pimenta-rosa (se estiver usando) sobre a ricota.",
+          "Regue com um fio de azeite e sirva imediatamente."
+        ],
+        "id": "ricota-grelhada-com-ervas-70fadd"
+      },
+      {
+        "nome": "Mousse de Maracujá Rápida",
         "curso": "sobremesa",
         "tempo": "10 min",
-        "url": "https://chocomellos.com.br/creme-de-papaia-com-cassis/",
-        "porque": "Uma sobremesa clássica, leve, refrescante e muito rápida de preparar, ideal para finalizar a refeição.",
+        "url": "https://simplelivingrecipes.com/mousse-de-maracuja-facil/",
+        "porque": "Uma sobremesa clássica, leve e refrescante, que pode ser feita com poucos ingredientes em cerca de 10 minutos de preparo ativo, necessitando apenas de tempo de geladeira.",
         "tags": [
           "rapido",
-          "vegetariano",
-          "sobremesa"
+          "sobremesa",
+          "leve"
         ],
-        "rende_sobra": false,
+        "rende_sobra": true,
         "ingredientes": [
-          "1 mamão papaia médio (cerca de 300g de polpa)",
-          "4 bolas grandes de sorvete de creme de boa qualidade",
-          "1 a 2 colheres de sopa de licor de cassis (a gosto)",
-          "Folhas de hortelã para decorar (opcional)"
+          "1 lata de leite condensado (cerca de 395g)",
+          "1 caixa de creme de leite (cerca de 200g)",
+          "200 ml de suco concentrado ou polpa de maracujá"
         ],
         "preparo": [
-          "Descasque o mamão papaia, retire as sementes e corte a polpa em pedaços.",
-          "No liquidificador, coloque os pedaços de mamão e o sorvete de creme.",
-          "Bata até obter um creme homogêneo e consistente.",
-          "Transfira o creme para taças individuais.",
-          "Regue cada porção com o licor de cassis a gosto e decore com folhas de hortelã, se desejar. Sirva imediatamente."
+          "No liquidificador, adicione o leite condensado e o creme de leite.",
+          "Acrescente o suco concentrado ou a polpa de maracujá no liquidificador.",
+          "Bata bem por cerca de 3 a 5 minutos, até a mistura ficar homogênea e aerada.",
+          "Despeje a mousse em taças individuais ou em um refratário grande.",
+          "Leve à geladeira por no mínimo 2 horas, ou até que a mousse esteja firme.",
+          "Opcional: decore com algumas sementes de maracujá frescas antes de servir para um toque extra."
         ],
-        "id": "creme-de-papaia-com-cassis-446b9f"
+        "id": "mousse-de-maracuj-r-pida-6a18d0"
       }
     ]
   },
