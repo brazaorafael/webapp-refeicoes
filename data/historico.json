@@ -1,15 +1,5 @@
 [
   {
-    "id": "salada-com-gr-o-de-bico-e-rabanete-assad-edc860",
-    "titulo": "Salada com Grão-de-bico e Rabanete Assados na Airfryer",
-    "tags": [
-      "vegetariano",
-      "airfryer",
-      "rapido"
-    ],
-    "data": "30/07/2026"
-  },
-  {
     "id": "bombom-de-travessa-5d18d2",
     "titulo": "Bombom de Travessa",
     "tags": [
@@ -5074,5 +5064,16 @@
       "leve"
     ],
     "data": "14/10/2026"
+  },
+  {
+    "id": "fil-de-frango-grelhado-com-crosta-de-erv-637c82",
+    "titulo": "Filé de Frango Grelhado com Crosta de Ervas e Limão",
+    "tags": [
+      "frango",
+      "grelhado",
+      "rapido",
+      "low_carb"
+    ],
+    "data": "15/10/2026"
   }
 ]

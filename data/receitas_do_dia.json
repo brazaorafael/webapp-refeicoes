@@ -1,16 +1,16 @@
 {
-  "gerado_em": "14/10/2026",
+  "gerado_em": "15/10/2026",
   "diario": {
     "tipo": "diario",
-    "data": "14/10/2026",
-    "dia_semana": "quarta",
+    "data": "15/10/2026",
+    "dia_semana": "quinta",
     "pratos": [
       {
-        "nome": "Picadinho de Filé Mignon",
+        "nome": "Carne Moída Refogada",
         "curso": "principal",
-        "tempo": "40 min",
-        "url": "https://www.panelinha.com.br/receita/Picadinho-de-file-mignon",
-        "porque": "Um clássico brasileiro prático e rápido, rico em proteína de carne vermelha preferida do casal, e que permite a inclusão de vegetais, ideal para render sobras.",
+        "tempo": "30 min",
+        "url": "https://www.cozinhafacil.com.br/receita/carne-moida-refogada/",
+        "porque": "Prato de carne vermelha clássico, rápido de preparar, rico em proteína e com poucos ingredientes, ideal para o dia a dia.",
         "tags": [
           "carne_vermelha",
           "rapido",
@@ -18,150 +18,114 @@
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "1 kg de filé mignon em cubos",
-          "2 cebolas",
-          "3 dentes de alho",
-          "4 colheres (sopa) de farinha de trigo",
-          "70 g de bacon em cubinhos",
-          "¼ de xícara (chá) de extrato de tomate",
-          "2 colheres (sopa) de molho inglês",
-          "Caldo de ½ limão",
-          "5 colheres (sopa) de azeite",
-          "¼ de xícara (chá) de salsa picada",
-          "3 xícaras (chá) de água quente",
-          "Sal e pimenta-do-reino moída na hora a gosto"
+          "500g de carne moída",
+          "2 dentes de alho picados",
+          "Sal e pimenta-do-reino a gosto",
+          "2 colheres (sopa) de azeite",
+          "1 tablete de caldo de carne esfarelado (opcional)",
+          "4 tomates batidos com 1 cebola",
+          "Cheiro-verde picado a gosto",
+          "1 colher (sopa) de extrato de tomate (opcional)"
         ],
         "preparo": [
-          "Descasque e pique fino a cebola e o alho. Aqueça a água. Corte o filé mignon em cubos e seque bem a carne com um pano limpo.",
-          "Transfira a carne para uma tigela e polvilhe com a farinha de trigo, misturando bem para envolver todos os cubos.",
-          "Em uma panela grande em fogo médio, regue com 2 colheres (sopa) de azeite e doure a carne em etapas para evitar que ela cozinhe em vez de dourar. Tempere com sal e pimenta e reserve.",
-          "Na mesma panela, adicione o restante do azeite e doure o bacon. Junte a cebola e refogue até murchar. Acrescente o alho e refogue por 1 minuto.",
-          "Volte a carne para a panela, adicione o extrato de tomate, molho inglês, caldo de limão e a água quente. Misture bem e cozinhe por cerca de 15-20 minutos, até o molho encorpar e a carne ficar macia.",
-          "Finalize com a salsa picada e sirva acompanhado de arroz e legumes."
+          "Tempere a carne moída com o alho picado, sal e pimenta-do-reino. Deixe marinar por cerca de 10 minutos.",
+          "Em uma panela aquecida com azeite, junte o tablete de caldo de carne (se usar) e adicione a carne moída. Refogue, mexendo sempre, até ficar bem soltinha.",
+          "Acrescente os tomates batidos com a cebola e o extrato de tomate (se usar). Misture e cozinhe em fogo baixo por cerca de 15 minutos.",
+          "Finalize com cheiro-verde picado a gosto, misture e retire do fogo. Sirva quente."
         ],
-        "id": "picadinho-de-fil-mignon-699d5f"
+        "id": "carne-mo-da-refogada-a8b750"
       },
       {
-        "nome": "Medalhão de Filé Mignon ao Molho Madeira (caseiro e rápido)",
+        "nome": "Filé de Frango Grelhado com Crosta de Ervas e Limão",
         "curso": "principal",
-        "tempo": "15 min",
-        "url": "https://www.panelinha.com.br/receita/Medalhao-ao-molho-madeira",
-        "porque": "Uma opção sofisticada de carne vermelha, preparada de forma rápida (15 minutos) e ideal para um jantar a dois, com medalhões grelhados sem fritura.",
+        "tempo": "25 min",
+        "url": "https://www.instagram.com/p/C2X4R34Rj7W/",
+        "porque": "Frango grelhado rápido e saudável, com sabor intenso de limão e ervas, perfeito para uma refeição leve e equilibrada.",
         "tags": [
-          "carne_vermelha",
+          "frango",
           "grelhado",
-          "rapido"
-        ],
-        "rende_sobra": false,
-        "ingredientes": [
-          "2 medalhões de filé mignon (cerca de 150g cada)",
-          "½ colher (sopa) de azeite",
-          "Sal e pimenta-do-reino moída na hora a gosto",
-          "½ colher (sopa) de manteiga",
-          "½ colher (sopa) de farinha de trigo",
-          "½ colher (sopa) de extrato de tomate",
-          "¼ de xícara (chá) de vinho tinto",
-          "½ xícara (chá) de água fervente"
-        ],
-        "preparo": [
-          "Retire os medalhões da geladeira e deixe em temperatura ambiente por alguns minutos. Tempere com sal e pimenta-do-reino a gosto.",
-          "Leve uma frigideira ao fogo médio. Quando estiver bem quente, regue com o azeite e disponha os dois medalhões. Doure por 3 minutos de cada lado para ficarem malpassados.",
-          "Transfira os medalhões para um prato e cubra com papel alumínio para mantê-los aquecidos enquanto prepara o molho.",
-          "Na mesma frigideira, derreta a manteiga em fogo baixo. Junte a farinha de trigo e mexa por 1 minuto.",
-          "Adicione o extrato de tomate, o vinho tinto e a água fervente. Mexa continuamente até o molho encorpar. Tempere com sal e pimenta.",
-          "Sirva o molho madeira caseiro sobre os medalhões de filé mignon."
-        ],
-        "id": "medalh-o-de-fil-mignon-ao-molho-madeira--ad8f51"
-      },
-      {
-        "nome": "Carne Moída com Refogado de Pimentão",
-        "curso": "principal",
-        "tempo": "35 min",
-        "url": "https://www.panelinha.com.br/receita/Carne-moida-com-refogado-de-pimentao",
-        "porque": "Uma receita versátil e prática para o dia a dia, com boa fonte de proteína e muitos legumes, preparada de forma refogada sem fritura.",
-        "tags": [
-          "carne_vermelha",
           "rapido",
-          "equilibrado"
+          "low_carb"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "500 g de patinho moído",
-          "1 pimentão vermelho",
-          "1 cebola",
-          "2 dentes de alho",
-          "½ xícara (chá) de água quente",
-          "3 colheres (sopa) de azeite",
-          "Sal e pimenta-do-reino moída na hora a gosto",
-          "Cebolinha fatiada a gosto para servir"
+          "2 filés de peito de frango",
+          "Suco de 1 limão",
+          "2 dentes de alho picados",
+          "Sal a gosto",
+          "Pimenta a gosto",
+          "Ervas picadas a gosto (salsinha, manjericão, tomilho)",
+          "1 colher (sopa) de farinha de trigo",
+          "1 colher (sopa) de azeite"
         ],
         "preparo": [
-          "Retire a carne moída da geladeira. Lave e corte o pimentão em cubos médios. Descasque e corte a cebola em cubos pequenos e pique o alho fino.",
-          "Em uma panela média (ou frigideira grande), aqueça 2 colheres (sopa) de azeite em fogo baixo. Refogue a cebola com uma pitada de sal por cerca de 10 minutos, até dourar.",
-          "Adicione o pimentão e refogue por mais 2 minutos. Acrescente o alho picado e misture bem.",
-          "Aumente o fogo para médio e afaste o refogado para as laterais da panela. Adicione mais 1 colher (sopa) de azeite no centro e a carne moída. Tempere com sal e pimenta e cozinhe por cerca de 10 minutos, mexendo ocasionalmente para soltar os pedaços e dourar por igual.",
-          "Regue a água quente aos poucos, raspando bem o fundo da frigideira para dissolver os queimadinhos e umedecer o preparo.",
-          "Desligue o fogo, misture a cebolinha fatiada e sirva a seguir."
+          "Tempere os filés de frango com o suco de limão, o alho picado, sal e pimenta. Deixe marinar por 10 minutos.",
+          "Em uma tigela, misture as ervas picadas, a farinha de trigo e 1 colher de sopa de azeite, formando uma farofa úmida.",
+          "Passe essa farofa sobre os filés de frango, pressionando bem para formar a crosta.",
+          "Aqueça uma frigideira antiaderente em fogo médio e grelhe os filés por 4 a 5 minutos de cada lado, até dourar e cozinhar por completo.",
+          "Sirva imediatamente, acompanhado de sua preferência."
         ],
-        "id": "carne-mo-da-com-refogado-de-piment-o-10476d"
+        "id": "fil-de-frango-grelhado-com-crosta-de-erv-637c82"
       },
       {
-        "nome": "Ricota Grelhada com Ervas",
+        "nome": "Salada de Ovos Cremosa Proteica",
         "curso": "entrada",
-        "tempo": "10 min",
-        "url": "https://www.panelinha.com.br/receita/Ricota-grelhada",
-        "porque": "Uma entrada simples, chique e saudável, que fica pronta em poucos minutos e é grelhada na frigideira com um fio de azeite, sem fritura.",
+        "tempo": "15 min",
+        "url": "https://receitas.globo.com/ana-maria-braga/",
+        "porque": "É uma entrada rápida, rica em proteína, sem fritura e com ingredientes acessíveis, perfeita para equilibrar a refeição.",
         "tags": [
-          "vegetariano",
-          "grelhado",
-          "rapido"
-        ],
-        "rende_sobra": false,
-        "ingredientes": [
-          "1 ricota fresca (cerca de 400g)",
-          "4 colheres (sopa) de azeite",
-          "8 folhas de manjericão fresco",
-          "8 folhas de hortelã fresca",
-          "8 folhas de salsa crespa fresca",
-          "Sal e pimenta-do-reino moída na hora a gosto",
-          "Grãos de pimenta rosa para perfumar (opcional)"
-        ],
-        "preparo": [
-          "Corte a ricota em fatias de aproximadamente 2 cm de espessura. Lave e seque as ervas frescas.",
-          "Leve uma frigideira antiaderente ao fogo médio. Quando aquecer, junte 1 colher (sopa) de azeite.",
-          "Coloque as fatias de ricota na frigideira (até duas por vez) e deixe dourar por 4 minutos de cada lado, ou até ficarem levemente douradas.",
-          "Transfira a ricota grelhada para um prato. Tempere com sal e pimenta-do-reino a gosto.",
-          "Salpique as ervas frescas picadas e os grãos de pimenta-rosa (se estiver usando) sobre a ricota.",
-          "Regue com um fio de azeite e sirva imediatamente."
-        ],
-        "id": "ricota-grelhada-com-ervas-70fadd"
-      },
-      {
-        "nome": "Mousse de Maracujá Rápida",
-        "curso": "sobremesa",
-        "tempo": "10 min",
-        "url": "https://simplelivingrecipes.com/mousse-de-maracuja-facil/",
-        "porque": "Uma sobremesa clássica, leve e refrescante, que pode ser feita com poucos ingredientes em cerca de 10 minutos de preparo ativo, necessitando apenas de tempo de geladeira.",
-        "tags": [
+          "ovos",
           "rapido",
-          "sobremesa",
-          "leve"
+          "low_carb"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "1 lata de leite condensado (cerca de 395g)",
-          "1 caixa de creme de leite (cerca de 200g)",
-          "200 ml de suco concentrado ou polpa de maracujá"
+          "4 ovos cozidos e picados",
+          "1 cebola picada",
+          "1 alho espremido",
+          "2 colheres (sopa) de maionese",
+          "1 colher (sopa) de azeite de oliva",
+          "1 colher (sopa) de molho de mostarda",
+          "Salsa picada a gosto",
+          "Sal a gosto",
+          "Pimenta-do-reino a gosto"
         ],
         "preparo": [
-          "No liquidificador, adicione o leite condensado e o creme de leite.",
-          "Acrescente o suco concentrado ou a polpa de maracujá no liquidificador.",
-          "Bata bem por cerca de 3 a 5 minutos, até a mistura ficar homogênea e aerada.",
-          "Despeje a mousse em taças individuais ou em um refratário grande.",
-          "Leve à geladeira por no mínimo 2 horas, ou até que a mousse esteja firme.",
-          "Opcional: decore com algumas sementes de maracujá frescas antes de servir para um toque extra."
+          "Cozinhe os ovos por cerca de 10-12 minutos; resfrie em água gelada, descasque e pique.",
+          "Em uma tigela, coloque os ovos picados, a cebola picada e o alho espremido.",
+          "Adicione a maionese, o azeite de oliva, o molho de mostarda, a salsa, o sal e a pimenta-do-reino.",
+          "Misture delicadamente todos os ingredientes até ficarem bem incorporados.",
+          "Decore a gosto com pedaços de ovos ou salsa fresca e sirva em temperatura ambiente ou gelada."
         ],
-        "id": "mousse-de-maracuj-r-pida-6a18d0"
+        "id": "salada-de-ovos-cremosa-proteica-ca508d"
+      },
+      {
+        "nome": "Moça Gelada",
+        "curso": "sobremesa",
+        "tempo": "20 min",
+        "url": "https://www.tudogostoso.com.br/receita/313828-moca-gelada.html",
+        "porque": "Sobremesa gelada e rápida de montar, com poucos ingredientes e sabor popular, ideal para finalizar a refeição.",
+        "tags": [
+          "rapido",
+          "gelado",
+          "sobremesa"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "1 lata de leite condensado",
+          "1 caixa de creme de leite",
+          "1/2 xícara de leite em pó",
+          "200 ml de chantilly (bem gelado)",
+          "10 biscoitos de chocolate com recheio de baunilha"
+        ],
+        "preparo": [
+          "Em uma batedeira, bata o chantilly bem gelado até ficar firme e reserve.",
+          "Em outra tigela, misture o leite condensado, o creme de leite e o leite em pó até obter um creme homogêneo.",
+          "Incorpore delicadamente o chantilly batido ao creme de leite condensado, misturando de baixo para cima.",
+          "Em um refratário, faça camadas alternadas de creme e biscoitos de chocolate picados.",
+          "Finalize com uma camada de creme e leve à geladeira por, no mínimo, 4 horas para firmar."
+        ],
+        "id": "mo-a-gelada-12bb9b"
       }
     ]
   },
