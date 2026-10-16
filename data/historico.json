@@ -1,35 +1,5 @@
 [
   {
-    "id": "bombom-de-travessa-5d18d2",
-    "titulo": "Bombom de Travessa",
-    "tags": [
-      "rapido",
-      "sem_forno",
-      "doce"
-    ],
-    "data": "30/07/2026"
-  },
-  {
-    "id": "carne-mo-da-com-refogado-de-piment-o-10476d",
-    "titulo": "Carne Moída com Refogado de Pimentão",
-    "tags": [
-      "carne_vermelha",
-      "rapido",
-      "equilibrado"
-    ],
-    "data": "31/07/2026"
-  },
-  {
-    "id": "carne-mo-da-com-vagem-45225c",
-    "titulo": "Carne Moída com Vagem",
-    "tags": [
-      "carne_vermelha",
-      "rapido",
-      "equilibrado"
-    ],
-    "data": "31/07/2026"
-  },
-  {
     "id": "ricota-grelhada-com-ervas-70fadd",
     "titulo": "Ricota Grelhada com Ervas",
     "tags": [
@@ -5075,5 +5045,34 @@
       "low_carb"
     ],
     "data": "15/10/2026"
+  },
+  {
+    "id": "carne-mo-da-de-forno-gratinada-883af3",
+    "titulo": "Carne Moída de Forno Gratinada",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "equilibrado"
+    ],
+    "data": "16/10/2026"
+  },
+  {
+    "id": "salada-de-rabanete-e-gr-o-de-bico-assado-034fd2",
+    "titulo": "Salada de Rabanete e Grão-de-bico Assados na Air Fryer",
+    "tags": [
+      "vegetariano",
+      "airfryer",
+      "low_carb"
+    ],
+    "data": "16/10/2026"
+  },
+  {
+    "id": "pudim-de-leite-sem-forno-c7d231",
+    "titulo": "Pudim de Leite Sem Forno",
+    "tags": [
+      "rapido",
+      "sobremesa"
+    ],
+    "data": "16/10/2026"
   }
 ]

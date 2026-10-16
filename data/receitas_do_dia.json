@@ -1,131 +1,133 @@
 {
-  "gerado_em": "15/10/2026",
+  "gerado_em": "16/10/2026",
   "diario": {
     "tipo": "diario",
-    "data": "15/10/2026",
-    "dia_semana": "quinta",
+    "data": "16/10/2026",
+    "dia_semana": "sexta",
     "pratos": [
       {
-        "nome": "Carne Moída Refogada",
+        "nome": "Bife Grelhado com Vinagrete",
         "curso": "principal",
-        "tempo": "30 min",
-        "url": "https://www.cozinhafacil.com.br/receita/carne-moida-refogada/",
-        "porque": "Prato de carne vermelha clássico, rápido de preparar, rico em proteína e com poucos ingredientes, ideal para o dia a dia.",
+        "tempo": "20 min",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfExdCxifsMobDLy8m5_TrpXhITzvXTFEAnVYDDGuBxc_ZPPZ604cMKeyoSPj-mYDCxf3EVQxUWmZG1onCgx7NTDK3xN6nrYzA-sfrR2mb5ygJyCuWMWitDDWtVncJrz7542jyyoGOw1hyP_uzfzKYpy2xgOiyhQ==",
+        "porque": "É uma receita super-rápida, usa bife grelhado (preferência do casal) e o vinagrete adiciona frescor e vegetais, sendo fácil de equilibrar com um acompanhamento.",
         "tags": [
           "carne_vermelha",
-          "rapido",
+          "grelhado",
+          "rapido"
+        ],
+        "rende_sobra": false,
+        "ingredientes": [
+          "2 bifes de contrafilé (~180g cada)",
+          "1 colher (chá) de azeite",
+          "Sal e pimenta-do-reino moída na hora a gosto",
+          "2 tomates médios em cubos pequenos",
+          "½ cebola-roxa picada fino",
+          "3 colheres (sopa) de azeite para o vinagrete",
+          "1 colher (sopa) de vinagre (de vinho branco ou maçã)",
+          "Salsinha picada a gosto",
+          "Arroz branco cozido para acompanhar",
+          "Brócolis cozido no vapor ou refogado para acompanhar"
+        ],
+        "preparo": [
+          "Retire os bifes da geladeira e deixe em temperatura ambiente por alguns minutos. Tempere com sal e pimenta-do-reino a gosto.",
+          "Para o vinagrete, misture em uma tigela o tomate, a cebola-roxa, as 3 colheres de azeite, o vinagre e a salsinha. Acerte o sal e a pimenta.",
+          "Aqueça uma frigideira grande em fogo alto e regue com 1 colher de chá de azeite. Quando estiver bem quente, adicione os bifes.",
+          "Grelhe por cerca de 2 minutos de cada lado para um ponto malpassado, sem mexer. Sirva imediatamente com o vinagrete, arroz e brócolis."
+        ],
+        "id": "bife-grelhado-com-vinagrete-0cfa78"
+      },
+      {
+        "nome": "Carne Moída de Forno Gratinada",
+        "curso": "principal",
+        "tempo": "40 min",
+        "url": "https://www.youtube.com/watch?v=F0m-J9s456g",
+        "porque": "A carne moída é versátil e a versão de forno é prática, saudável e rende para o dia seguinte, com boa fonte de proteína e equilíbrio de sabores.",
+        "tags": [
+          "carne_vermelha",
+          "forno",
           "equilibrado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "500g de carne moída",
-          "2 dentes de alho picados",
+          "500g de carne moída (patinho ou similar)",
+          "1 cebola média picada",
+          "2 dentes de alho amassados",
+          "1 lata de tomate pelado picado (ou 2 tomates maduros picados)",
+          "½ xícara (chá) de cheiro-verde picado",
           "Sal e pimenta-do-reino a gosto",
-          "2 colheres (sopa) de azeite",
-          "1 tablete de caldo de carne esfarelado (opcional)",
-          "4 tomates batidos com 1 cebola",
-          "Cheiro-verde picado a gosto",
-          "1 colher (sopa) de extrato de tomate (opcional)"
+          "150g de requeijão cremoso",
+          "100g de queijo muçarela ralado",
+          "Purê de batata ou arroz branco para acompanhar",
+          "Salada verde fresca para acompanhar"
         ],
         "preparo": [
-          "Tempere a carne moída com o alho picado, sal e pimenta-do-reino. Deixe marinar por cerca de 10 minutos.",
-          "Em uma panela aquecida com azeite, junte o tablete de caldo de carne (se usar) e adicione a carne moída. Refogue, mexendo sempre, até ficar bem soltinha.",
-          "Acrescente os tomates batidos com a cebola e o extrato de tomate (se usar). Misture e cozinhe em fogo baixo por cerca de 15 minutos.",
-          "Finalize com cheiro-verde picado a gosto, misture e retire do fogo. Sirva quente."
+          "Em uma panela, refogue a cebola e o alho em um fio de azeite até dourarem. Adicione a carne moída e cozinhe, desmanchando os grumos, até dourar.",
+          "Acrescente o tomate pelado (ou tomates picados), sal, pimenta-do-reino e cheiro-verde. Cozinhe por uns 10 minutos, até o molho encorpar.",
+          "Transfira a carne moída para um refratário médio, espalhando bem.",
+          "Cubra a carne com o requeijão cremoso e, por cima, distribua o queijo muçarela ralado. Leve ao forno pré-aquecido a 180°C por cerca de 20-25 minutos, ou até o queijo derreter e gratinar."
         ],
-        "id": "carne-mo-da-refogada-a8b750"
+        "id": "carne-mo-da-de-forno-gratinada-883af3"
       },
       {
-        "nome": "Filé de Frango Grelhado com Crosta de Ervas e Limão",
-        "curso": "principal",
-        "tempo": "25 min",
-        "url": "https://www.instagram.com/p/C2X4R34Rj7W/",
-        "porque": "Frango grelhado rápido e saudável, com sabor intenso de limão e ervas, perfeito para uma refeição leve e equilibrada.",
-        "tags": [
-          "frango",
-          "grelhado",
-          "rapido",
-          "low_carb"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "2 filés de peito de frango",
-          "Suco de 1 limão",
-          "2 dentes de alho picados",
-          "Sal a gosto",
-          "Pimenta a gosto",
-          "Ervas picadas a gosto (salsinha, manjericão, tomilho)",
-          "1 colher (sopa) de farinha de trigo",
-          "1 colher (sopa) de azeite"
-        ],
-        "preparo": [
-          "Tempere os filés de frango com o suco de limão, o alho picado, sal e pimenta. Deixe marinar por 10 minutos.",
-          "Em uma tigela, misture as ervas picadas, a farinha de trigo e 1 colher de sopa de azeite, formando uma farofa úmida.",
-          "Passe essa farofa sobre os filés de frango, pressionando bem para formar a crosta.",
-          "Aqueça uma frigideira antiaderente em fogo médio e grelhe os filés por 4 a 5 minutos de cada lado, até dourar e cozinhar por completo.",
-          "Sirva imediatamente, acompanhado de sua preferência."
-        ],
-        "id": "fil-de-frango-grelhado-com-crosta-de-erv-637c82"
-      },
-      {
-        "nome": "Salada de Ovos Cremosa Proteica",
+        "nome": "Salada de Rabanete e Grão-de-bico Assados na Air Fryer",
         "curso": "entrada",
-        "tempo": "15 min",
-        "url": "https://receitas.globo.com/ana-maria-braga/",
-        "porque": "É uma entrada rápida, rica em proteína, sem fritura e com ingredientes acessíveis, perfeita para equilibrar a refeição.",
+        "tempo": "25 min",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9PLzmzON0A_5Vlk-WFukVijCwHvgtqOhE5EK4a7mKj34n13k4rJehHydEpNpQq6bxwb8TezAdASLKNLAIY5nISo5cfCiXbfvtUcuKrKvOFbCSi4g84oeiwLQSzf3fvJxWzKXorOaoj-iqEtqkotNM9T3tMZvI09jHyXyxl8c8_5jhE6mEJ-JxsxDG",
+        "porque": "Uma entrada leve, nutritiva e prática, com a crocância do grão-de-bico e rabanetes assados na Air Fryer, oferecendo um bom equilíbrio de texturas e sabores.",
         "tags": [
-          "ovos",
-          "rapido",
+          "vegetariano",
+          "airfryer",
           "low_carb"
         ],
-        "rende_sobra": true,
+        "rende_sobra": false,
         "ingredientes": [
-          "4 ovos cozidos e picados",
-          "1 cebola picada",
-          "1 alho espremido",
-          "2 colheres (sopa) de maionese",
-          "1 colher (sopa) de azeite de oliva",
-          "1 colher (sopa) de molho de mostarda",
-          "Salsa picada a gosto",
-          "Sal a gosto",
-          "Pimenta-do-reino a gosto"
+          "1 lata de grão-de-bico cozido (escorrido e seco)",
+          "6 a 8 rabanetes médios",
+          "1 colher (sopa) de azeite",
+          "Sal e pimenta-do-reino a gosto",
+          "1 pitada de páprica doce (opcional)",
+          "Folhas verdes variadas (alface, rúcula)",
+          "2 colheres (sopa) de azeite para o molho",
+          "1 colher (sopa) de vinagre balsâmico",
+          "1 colher (chá) de mel",
+          "Nozes ou castanhas picadas para finalizar (opcional)"
         ],
         "preparo": [
-          "Cozinhe os ovos por cerca de 10-12 minutos; resfrie em água gelada, descasque e pique.",
-          "Em uma tigela, coloque os ovos picados, a cebola picada e o alho espremido.",
-          "Adicione a maionese, o azeite de oliva, o molho de mostarda, a salsa, o sal e a pimenta-do-reino.",
-          "Misture delicadamente todos os ingredientes até ficarem bem incorporados.",
-          "Decore a gosto com pedaços de ovos ou salsa fresca e sirva em temperatura ambiente ou gelada."
+          "Lave e seque bem o grão-de-bico e os rabanetes. Corte os rabanetes ao meio ou em quartos se forem grandes.",
+          "Em uma tigela, misture o grão-de-bico e os rabanetes com 1 colher de sopa de azeite, sal, pimenta e páprica (se usar).",
+          "Pré-aqueça a Air Fryer a 200°C. Coloque o grão-de-bico e os rabanetes no cesto e asse por cerca de 15-20 minutos, mexendo na metade do tempo, até ficarem crocantes e dourados.",
+          "Enquanto assa, prepare o molho misturando o azeite restante, vinagre balsâmico, mel, sal e pimenta em um pote com tampa, chacoalhando bem.",
+          "Em um prato, arrume as folhas verdes, adicione o grão-de-bico e os rabanetes assados. Regue com o molho e, se desejar, finalize com nozes ou castanhas picadas."
         ],
-        "id": "salada-de-ovos-cremosa-proteica-ca508d"
+        "id": "salada-de-rabanete-e-gr-o-de-bico-assado-034fd2"
       },
       {
-        "nome": "Moça Gelada",
+        "nome": "Pudim de Leite Sem Forno",
         "curso": "sobremesa",
-        "tempo": "20 min",
-        "url": "https://www.tudogostoso.com.br/receita/313828-moca-gelada.html",
-        "porque": "Sobremesa gelada e rápida de montar, com poucos ingredientes e sabor popular, ideal para finalizar a refeição.",
+        "tempo": "15 min (preparo) + 3h (geladeira)",
+        "url": "https://vertexaisearch.cloud.com/grounding-api-redirect/AUZIYQElzUOut5r4FX_-FsTWjP7Jz89or1xdSlA1vgJsOgU6O5V0y5scS6Bq-gC0sDtoGOnM_N7nZlSdmVlUuSp0SJX9e6HlePn61rZPteyJbumWMLN0G8noJYvp8b87itknQLEgwCpj2Jk=",
+        "porque": "Uma sobremesa clássica brasileira que dispensa o uso do forno, tornando o preparo mais rápido e prático, ideal para ser feita com antecedência.",
         "tags": [
           "rapido",
-          "gelado",
           "sobremesa"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "1 lata de leite condensado",
-          "1 caixa de creme de leite",
-          "1/2 xícara de leite em pó",
-          "200 ml de chantilly (bem gelado)",
-          "10 biscoitos de chocolate com recheio de baunilha"
+          "2 latas de leite condensado",
+          "2 caixinhas de creme de leite",
+          "1 xícara (chá) de leite",
+          "1 envelope de gelatina em pó sem sabor (12g)",
+          "2 colheres (sopa) de açúcar (para caramelar a forma)"
         ],
         "preparo": [
-          "Em uma batedeira, bata o chantilly bem gelado até ficar firme e reserve.",
-          "Em outra tigela, misture o leite condensado, o creme de leite e o leite em pó até obter um creme homogêneo.",
-          "Incorpore delicadamente o chantilly batido ao creme de leite condensado, misturando de baixo para cima.",
-          "Em um refratário, faça camadas alternadas de creme e biscoitos de chocolate picados.",
-          "Finalize com uma camada de creme e leve à geladeira por, no mínimo, 4 horas para firmar."
+          "Em uma forma de pudim, coloque 2 colheres de sopa de açúcar e leve ao fogo baixo, girando a forma para caramelar o fundo e as laterais. Cuidado para não queimar. Reserve.",
+          "Hidrate e dissolva a gelatina sem sabor em 1 xícara de chá de leite, conforme as instruções da embalagem.",
+          "No liquidificador, bata o leite condensado, o creme de leite e a gelatina já hidratada e dissolvida no leite até obter uma mistura homogênea.",
+          "Despeje a mistura do liquidificador na forma caramelada. Leve à geladeira por, no mínimo, 3 horas ou até firmar.",
+          "Para desenformar, passe uma faca levemente aquecida nas laterais e vire sobre um prato de servir."
         ],
-        "id": "mo-a-gelada-12bb9b"
+        "id": "pudim-de-leite-sem-forno-c7d231"
       }
     ]
   },
