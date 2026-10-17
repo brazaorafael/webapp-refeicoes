@@ -1,45 +1,5 @@
 [
   {
-    "id": "ricota-grelhada-com-ervas-70fadd",
-    "titulo": "Ricota Grelhada com Ervas",
-    "tags": [
-      "vegetariano",
-      "grelhado",
-      "rapido"
-    ],
-    "data": "31/07/2026"
-  },
-  {
-    "id": "picadinho-de-carne-na-press-o-econ-mico-fd41ca",
-    "titulo": "Picadinho de Carne na Pressão (Econômico)",
-    "tags": [
-      "carne_vermelha",
-      "panela",
-      "rapido"
-    ],
-    "data": "01/08/2026"
-  },
-  {
-    "id": "maminha-na-press-o-fc410d",
-    "titulo": "Maminha na Pressão",
-    "tags": [
-      "carne_vermelha",
-      "panela",
-      "rapido"
-    ],
-    "data": "01/08/2026"
-  },
-  {
-    "id": "salada-picadinha-com-molho-oriental-603640",
-    "titulo": "Salada Picadinha com Molho Oriental",
-    "tags": [
-      "salada",
-      "rapido",
-      "vegetariano"
-    ],
-    "data": "01/08/2026"
-  },
-  {
     "id": "mousse-de-chocolate-hiper-f-cil-7daf17",
     "titulo": "Mousse de Chocolate Hiper Fácil",
     "tags": [
@@ -5074,5 +5034,48 @@
       "sobremesa"
     ],
     "data": "16/10/2026"
+  },
+  {
+    "id": "mini-piment-es-recheados-com-cream-chees-edaed8",
+    "titulo": "Mini Pimentões Recheados com Cream Cheese e Ervas",
+    "tags": [
+      "vegetariano",
+      "forno",
+      "airfryer",
+      "rapido"
+    ],
+    "data": "17/10/2026"
+  },
+  {
+    "id": "bife-de-chorizo-grelhado-com-chimichurri-68823b",
+    "titulo": "Bife de Chorizo Grelhado com Chimichurri e Batatas Rústicas",
+    "tags": [
+      "carne_vermelha",
+      "grelhado",
+      "forno",
+      "rapido",
+      "equilibrado"
+    ],
+    "data": "17/10/2026"
+  },
+  {
+    "id": "frango-assado-com-especiarias-e-cuscuz-m-c422c3",
+    "titulo": "Frango Assado com Especiarias e Cuscuz Marroquino",
+    "tags": [
+      "frango",
+      "forno",
+      "rapido",
+      "equilibrado"
+    ],
+    "data": "17/10/2026"
+  },
+  {
+    "id": "mousse-de-coco-r-pida-2-ingredientes-bcc92f",
+    "titulo": "Mousse de Coco Rápida (2 Ingredientes)",
+    "tags": [
+      "rapido",
+      "vegetariano"
+    ],
+    "data": "17/10/2026"
   }
 ]

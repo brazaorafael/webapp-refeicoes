@@ -1,133 +1,142 @@
 {
-  "gerado_em": "16/10/2026",
+  "gerado_em": "17/10/2026",
   "diario": {
     "tipo": "diario",
-    "data": "16/10/2026",
-    "dia_semana": "sexta",
+    "data": "17/10/2026",
+    "dia_semana": "sábado",
     "pratos": [
       {
-        "nome": "Bife Grelhado com Vinagrete",
-        "curso": "principal",
-        "tempo": "20 min",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfExdCxifsMobDLy8m5_TrpXhITzvXTFEAnVYDDGuBxc_ZPPZ604cMKeyoSPj-mYDCxf3EVQxUWmZG1onCgx7NTDK3xN6nrYzA-sfrR2mb5ygJyCuWMWitDDWtVncJrz7542jyyoGOw1hyP_uzfzKYpy2xgOiyhQ==",
-        "porque": "É uma receita super-rápida, usa bife grelhado (preferência do casal) e o vinagrete adiciona frescor e vegetais, sendo fácil de equilibrar com um acompanhamento.",
+        "nome": "Mini Pimentões Recheados com Cream Cheese e Ervas",
+        "curso": "entrada",
+        "tempo": "35 min",
+        "url": "https://nacozinha.com/pimentao-recheado-com-cream-cheese/",
+        "porque": "É uma entrada prática, leve e saborosa, que utiliza mini pimentões assados (sem fritura) e um recheio cremoso, fácil de preparar e que agrada ao paladar.",
         "tags": [
-          "carne_vermelha",
-          "grelhado",
+          "vegetariano",
+          "forno",
+          "airfryer",
           "rapido"
         ],
         "rende_sobra": false,
         "ingredientes": [
-          "2 bifes de contrafilé (~180g cada)",
-          "1 colher (chá) de azeite",
-          "Sal e pimenta-do-reino moída na hora a gosto",
-          "2 tomates médios em cubos pequenos",
-          "½ cebola-roxa picada fino",
-          "3 colheres (sopa) de azeite para o vinagrete",
-          "1 colher (sopa) de vinagre (de vinho branco ou maçã)",
-          "Salsinha picada a gosto",
-          "Arroz branco cozido para acompanhar",
-          "Brócolis cozido no vapor ou refogado para acompanhar"
+          "12 mini pimentões (biquinho ou doces pequenos)",
+          "200g de cream cheese em temperatura ambiente",
+          "2 colheres (sopa) de cebolinha picada",
+          "1 dente de alho amassado (opcional)",
+          "1 colher (sopa) de salsinha picada",
+          "Sal e pimenta-do-reino a gosto",
+          "Azeite para regar",
+          "Opcional: 2 colheres (sopa) de queijo parmesão ralado para gratinar"
         ],
         "preparo": [
-          "Retire os bifes da geladeira e deixe em temperatura ambiente por alguns minutos. Tempere com sal e pimenta-do-reino a gosto.",
-          "Para o vinagrete, misture em uma tigela o tomate, a cebola-roxa, as 3 colheres de azeite, o vinagre e a salsinha. Acerte o sal e a pimenta.",
-          "Aqueça uma frigideira grande em fogo alto e regue com 1 colher de chá de azeite. Quando estiver bem quente, adicione os bifes.",
-          "Grelhe por cerca de 2 minutos de cada lado para um ponto malpassado, sem mexer. Sirva imediatamente com o vinagrete, arroz e brócolis."
+          "Preaqueça o forno a 200°C (ou airfryer a 180°C). Lave os mini pimentões, corte-os ao meio no sentido do comprimento e retire as sementes e membranas internas.",
+          "Em uma tigela, misture o cream cheese, a cebolinha, a salsinha, o alho amassado (se usar), sal e pimenta-do-reino até obter um recheio homogêneo.",
+          "Com uma colher pequena, recheie cada metade de pimentão com a mistura de cream cheese.",
+          "Disponha os pimentões recheados em uma assadeira forrada (ou na cesta da airfryer). Polvilhe com queijo parmesão ralado, se desejar, e regue com um fio de azeite.",
+          "Leve ao forno por 15-20 minutos (ou airfryer por 12-15 minutos), até os pimentões ficarem macios e o recheio levemente dourado.",
+          "Sirva morno como entrada."
         ],
-        "id": "bife-grelhado-com-vinagrete-0cfa78"
+        "id": "mini-piment-es-recheados-com-cream-chees-edaed8"
       },
       {
-        "nome": "Carne Moída de Forno Gratinada",
+        "nome": "Bife de Chorizo Grelhado com Chimichurri e Batatas Rústicas",
         "curso": "principal",
-        "tempo": "40 min",
-        "url": "https://www.youtube.com/watch?v=F0m-J9s456g",
-        "porque": "A carne moída é versátil e a versão de forno é prática, saudável e rende para o dia seguinte, com boa fonte de proteína e equilíbrio de sabores.",
+        "tempo": "45 min",
+        "url": "https://www.clararesorts.com.br/receitas/bife-de-chorizo-com-chimichurri-e-batata-doce/",
+        "porque": "Combina a carne vermelha preferida do casal (bife de chorizo) com um molho saboroso (chimichurri) e um acompanhamento prático e saudável de batatas assadas, tudo preparado de forma rápida e sem fritura.",
         "tags": [
           "carne_vermelha",
+          "grelhado",
           "forno",
+          "rapido",
           "equilibrado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "500g de carne moída (patinho ou similar)",
-          "1 cebola média picada",
-          "2 dentes de alho amassados",
-          "1 lata de tomate pelado picado (ou 2 tomates maduros picados)",
-          "½ xícara (chá) de cheiro-verde picado",
-          "Sal e pimenta-do-reino a gosto",
-          "150g de requeijão cremoso",
-          "100g de queijo muçarela ralado",
-          "Purê de batata ou arroz branco para acompanhar",
-          "Salada verde fresca para acompanhar"
+          "2 bifes de chorizo (~250g cada)",
+          "2 batatas médias (ou batata-doce)",
+          "3 colheres (sopa) de azeite de oliva",
+          "Sal grosso e pimenta-do-reino a gosto",
+          "Para o Chimichurri:",
+          "1/2 cebola roxa picada",
+          "1/2 xícara de salsinha picada",
+          "2 dentes de alho picados",
+          "1/4 xícara de vinagre balsâmico (ou de vinho tinto)",
+          "1/2 xícara de azeite de oliva",
+          "Sal e pimenta do reino a gosto",
+          "Opcional: 1/2 colher (chá) de orégano seco"
         ],
         "preparo": [
-          "Em uma panela, refogue a cebola e o alho em um fio de azeite até dourarem. Adicione a carne moída e cozinhe, desmanchando os grumos, até dourar.",
-          "Acrescente o tomate pelado (ou tomates picados), sal, pimenta-do-reino e cheiro-verde. Cozinhe por uns 10 minutos, até o molho encorpar.",
-          "Transfira a carne moída para um refratário médio, espalhando bem.",
-          "Cubra a carne com o requeijão cremoso e, por cima, distribua o queijo muçarela ralado. Leve ao forno pré-aquecido a 180°C por cerca de 20-25 minutos, ou até o queijo derreter e gratinar."
+          "**Prepare as batatas:** Preaqueça o forno a 200°C. Lave bem as batatas, corte em gomos (tipo rústica) e seque. Em uma tigela, misture as batatas com 2 colheres de sopa de azeite, sal, pimenta e tempere a gosto (páprica, alecrim).",
+          "Disponha as batatas em uma assadeira forrada com papel manteiga, sem sobrepor. Leve ao forno por cerca de 30-40 minutos, virando na metade do tempo, até ficarem macias por dentro e douradas por fora.",
+          "**Prepare o Chimichurri:** Em uma tigela, misture a cebola roxa, a salsinha e o alho picados. Adicione o vinagre, o azeite, sal, pimenta e orégano (se usar). Misture bem e reserve por pelo menos 15 minutos para apurar os sabores.",
+          "**Grelhe o Bife de Chorizo:** Tempere os bifes de chorizo com sal grosso e pimenta-do-reino moída na hora. Aqueça bem uma frigideira de ferro (ou grelha) em fogo alto com um fio de azeite.",
+          "Grelhe os bifes por 3 a 4 minutos de cada lado para um ponto malpassado/ao ponto, ou até atingir o ponto desejado. Deixe a gordura da lateral dourar também.",
+          "Retire os bifes da grelha, deixe-os descansar por 2 minutos antes de fatiar e sirva imediatamente com as batatas rústicas assadas e o molho chimichurri por cima ou ao lado."
         ],
-        "id": "carne-mo-da-de-forno-gratinada-883af3"
+        "id": "bife-de-chorizo-grelhado-com-chimichurri-68823b"
       },
       {
-        "nome": "Salada de Rabanete e Grão-de-bico Assados na Air Fryer",
-        "curso": "entrada",
-        "tempo": "25 min",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9PLzmzON0A_5Vlk-WFukVijCwHvgtqOhE5EK4a7mKj34n13k4rJehHydEpNpQq6bxwb8TezAdASLKNLAIY5nISo5cfCiXbfvtUcuKrKvOFbCSi4g84oeiwLQSzf3fvJxWzKXorOaoj-iqEtqkotNM9T3tMZvI09jHyXyxl8c8_5jhE6mEJ-JxsxDG",
-        "porque": "Uma entrada leve, nutritiva e prática, com a crocância do grão-de-bico e rabanetes assados na Air Fryer, oferecendo um bom equilíbrio de texturas e sabores.",
+        "nome": "Frango Assado com Especiarias e Cuscuz Marroquino",
+        "curso": "principal",
+        "tempo": "45 min",
+        "url": "https://guiadacozinha.com.br/frango-assado-com-cuscuz-marroquino/",
+        "porque": "É uma opção de frango equilibrada e saborosa, com especiarias que remetem à culinária marroquina, e o cuscuz é um acompanhamento prático, rápido e nutritivo, ideal para um jantar leve.",
         "tags": [
-          "vegetariano",
-          "airfryer",
-          "low_carb"
-        ],
-        "rende_sobra": false,
-        "ingredientes": [
-          "1 lata de grão-de-bico cozido (escorrido e seco)",
-          "6 a 8 rabanetes médios",
-          "1 colher (sopa) de azeite",
-          "Sal e pimenta-do-reino a gosto",
-          "1 pitada de páprica doce (opcional)",
-          "Folhas verdes variadas (alface, rúcula)",
-          "2 colheres (sopa) de azeite para o molho",
-          "1 colher (sopa) de vinagre balsâmico",
-          "1 colher (chá) de mel",
-          "Nozes ou castanhas picadas para finalizar (opcional)"
-        ],
-        "preparo": [
-          "Lave e seque bem o grão-de-bico e os rabanetes. Corte os rabanetes ao meio ou em quartos se forem grandes.",
-          "Em uma tigela, misture o grão-de-bico e os rabanetes com 1 colher de sopa de azeite, sal, pimenta e páprica (se usar).",
-          "Pré-aqueça a Air Fryer a 200°C. Coloque o grão-de-bico e os rabanetes no cesto e asse por cerca de 15-20 minutos, mexendo na metade do tempo, até ficarem crocantes e dourados.",
-          "Enquanto assa, prepare o molho misturando o azeite restante, vinagre balsâmico, mel, sal e pimenta em um pote com tampa, chacoalhando bem.",
-          "Em um prato, arrume as folhas verdes, adicione o grão-de-bico e os rabanetes assados. Regue com o molho e, se desejar, finalize com nozes ou castanhas picadas."
-        ],
-        "id": "salada-de-rabanete-e-gr-o-de-bico-assado-034fd2"
-      },
-      {
-        "nome": "Pudim de Leite Sem Forno",
-        "curso": "sobremesa",
-        "tempo": "15 min (preparo) + 3h (geladeira)",
-        "url": "https://vertexaisearch.cloud.com/grounding-api-redirect/AUZIYQElzUOut5r4FX_-FsTWjP7Jz89or1xdSlA1vgJsOgU6O5V0y5scS6Bq-gC0sDtoGOnM_N7nZlSdmVlUuSp0SJX9e6HlePn61rZPteyJbumWMLN0G8noJYvp8b87itknQLEgwCpj2Jk=",
-        "porque": "Uma sobremesa clássica brasileira que dispensa o uso do forno, tornando o preparo mais rápido e prático, ideal para ser feita com antecedência.",
-        "tags": [
+          "frango",
+          "forno",
           "rapido",
-          "sobremesa"
+          "equilibrado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "2 latas de leite condensado",
-          "2 caixinhas de creme de leite",
-          "1 xícara (chá) de leite",
-          "1 envelope de gelatina em pó sem sabor (12g)",
-          "2 colheres (sopa) de açúcar (para caramelar a forma)"
+          "4 coxas e sobrecoxas de frango (ou peito em cubos grandes)",
+          "2 colheres (sopa) de azeite de oliva",
+          "1 dente de alho picado",
+          "1/2 colher (chá) de páprica doce",
+          "1/2 colher (chá) de cominho em pó",
+          "Sal e pimenta-do-reino a gosto",
+          "1 xícara (chá) de cuscuz marroquino (sêmola)",
+          "1 xícara (chá) de caldo de legumes quente",
+          "1/2 cebola picada",
+          "1/2 cenoura média em cubos pequenos",
+          "1/2 abobrinha pequena em cubos pequenos",
+          "Salsinha fresca picada a gosto"
         ],
         "preparo": [
-          "Em uma forma de pudim, coloque 2 colheres de sopa de açúcar e leve ao fogo baixo, girando a forma para caramelar o fundo e as laterais. Cuidado para não queimar. Reserve.",
-          "Hidrate e dissolva a gelatina sem sabor em 1 xícara de chá de leite, conforme as instruções da embalagem.",
-          "No liquidificador, bata o leite condensado, o creme de leite e a gelatina já hidratada e dissolvida no leite até obter uma mistura homogênea.",
-          "Despeje a mistura do liquidificador na forma caramelada. Leve à geladeira por, no mínimo, 3 horas ou até firmar.",
-          "Para desenformar, passe uma faca levemente aquecida nas laterais e vire sobre um prato de servir."
+          "**Prepare o frango:** Preaqueça o forno a 200°C. Em uma tigela, tempere as coxas e sobrecoxas de frango com azeite, alho picado, páprica, cominho, sal e pimenta-do-reino. Misture bem para que os temperos cubram todas as partes.",
+          "Disponha o frango em uma assadeira e leve ao forno por cerca de 35-40 minutos, ou até dourar e cozinhar por completo. Vire as peças na metade do tempo para um cozimento uniforme.",
+          "**Prepare o cuscuz:** Em uma tigela, coloque o cuscuz marroquino. Despeje o caldo de legumes bem quente sobre ele, adicione uma colher de sopa de azeite e misture rapidamente. Tampe e deixe hidratar por 5 a 7 minutos.",
+          "Enquanto o cuscuz hidrata, aqueça um fio de azeite em uma frigideira e refogue a cebola picada até ficar transparente. Adicione a cenoura e a abobrinha em cubos e refogue por alguns minutos, até ficarem macias mas ainda firmes. Tempere com sal e pimenta.",
+          "Solte o cuscuz hidratado com um garfo para deixar os grãos soltinhos. Incorpore os legumes refogados ao cuscuz. Finalize com salsinha fresca picada.",
+          "Sirva o frango assado acompanhado do cuscuz marroquino com legumes."
         ],
-        "id": "pudim-de-leite-sem-forno-c7d231"
+        "id": "frango-assado-com-especiarias-e-cuscuz-m-c422c3"
+      },
+      {
+        "nome": "Mousse de Coco Rápida (2 Ingredientes)",
+        "curso": "sobremesa",
+        "tempo": "10 min + 2h (geladeira)",
+        "url": "https://www.youtube.com/watch?v=k_X_eY7wQzY",
+        "porque": "É uma sobremesa incrivelmente fácil e rápida, com apenas dois ingredientes, popularizada pela Ana Maria Braga no programa Mais Você, e que satisfaz a vontade de doce sem complicação.",
+        "tags": [
+          "rapido",
+          "vegetariano"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "200g de marshmallow branco (tipo rolha)",
+          "1 litro de leite de coco",
+          "Coco queimado ralado a gosto (opcional, para decorar)"
+        ],
+        "preparo": [
+          "Em uma tigela grande, adicione o marshmallow branco.",
+          "Despeje o leite de coco sobre o marshmallow.",
+          "Misture bem até que os ingredientes estejam incorporados.",
+          "Leve à geladeira por no mínimo 2 horas, ou até firmar.",
+          "Sirva gelado, decorado com coco queimado ralado, se desejar."
+        ],
+        "id": "mousse-de-coco-r-pida-2-ingredientes-bcc92f"
       }
     ]
   },
