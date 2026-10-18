@@ -1,55 +1,5 @@
 [
   {
-    "id": "mousse-de-chocolate-hiper-f-cil-7daf17",
-    "titulo": "Mousse de Chocolate Hiper Fácil",
-    "tags": [
-      "rapido",
-      "sem_forno",
-      "sobremesa"
-    ],
-    "data": "01/08/2026"
-  },
-  {
-    "id": "bife-acebolado-na-frigideira-com-arroz-e-7731d9",
-    "titulo": "Bife Acebolado na Frigideira com Arroz e Salada",
-    "tags": [
-      "carne_vermelha",
-      "grelhado",
-      "rapido"
-    ],
-    "data": "02/08/2026"
-  },
-  {
-    "id": "panelinha-de-frango-com-legumes-6664b1",
-    "titulo": "Panelinha de Frango com Legumes",
-    "tags": [
-      "frango",
-      "rapido",
-      "equilibrado"
-    ],
-    "data": "02/08/2026"
-  },
-  {
-    "id": "espetinhos-de-queijo-coalho-com-tomate-c-804070",
-    "titulo": "Espetinhos de Queijo Coalho com Tomate Cereja na Airfryer",
-    "tags": [
-      "vegetariano",
-      "airfryer",
-      "rapido"
-    ],
-    "data": "02/08/2026"
-  },
-  {
-    "id": "salada-de-frutas-assada-com-especiarias-10b176",
-    "titulo": "Salada de Frutas Assada com Especiarias",
-    "tags": [
-      "vegetariano",
-      "forno",
-      "rapido"
-    ],
-    "data": "02/08/2026"
-  },
-  {
     "id": "carne-mo-da-refogada-com-cenoura-e-vagem-3e331d",
     "titulo": "Carne Moída Refogada com Cenoura e Vagem",
     "tags": [
@@ -5077,5 +5027,55 @@
       "vegetariano"
     ],
     "data": "17/10/2026"
+  },
+  {
+    "id": "maminha-na-press-o-com-molho-encorpado-7fcde8",
+    "titulo": "Maminha na Pressão com Molho Encorpado",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "panela_pressao"
+    ],
+    "data": "18/10/2026"
+  },
+  {
+    "id": "alm-ndegas-de-forno-com-molho-de-tomate-b1a4fb",
+    "titulo": "Almôndegas de Forno com Molho de Tomate",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "rapido"
+    ],
+    "data": "18/10/2026"
+  },
+  {
+    "id": "carne-mo-da-refogada-com-legumes-404339",
+    "titulo": "Carne Moída Refogada com Legumes",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "equilibrado"
+    ],
+    "data": "18/10/2026"
+  },
+  {
+    "id": "salada-picadinha-com-molho-oriental-603640",
+    "titulo": "Salada Picadinha com Molho Oriental",
+    "tags": [
+      "salada",
+      "rapido",
+      "vegetariano"
+    ],
+    "data": "18/10/2026"
+  },
+  {
+    "id": "musse-pr-tica-de-chocolate-4dbb8f",
+    "titulo": "Musse Prática de Chocolate",
+    "tags": [
+      "sobremesa",
+      "rapido",
+      "sem_cozimento"
+    ],
+    "data": "18/10/2026"
   }
 ]

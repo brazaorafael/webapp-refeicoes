@@ -1,142 +1,170 @@
 {
-  "gerado_em": "17/10/2026",
+  "gerado_em": "18/10/2026",
   "diario": {
     "tipo": "diario",
-    "data": "17/10/2026",
-    "dia_semana": "sábado",
+    "data": "18/10/2026",
+    "dia_semana": "domingo",
     "pratos": [
       {
-        "nome": "Mini Pimentões Recheados com Cream Cheese e Ervas",
-        "curso": "entrada",
-        "tempo": "35 min",
-        "url": "https://nacozinha.com/pimentao-recheado-com-cream-cheese/",
-        "porque": "É uma entrada prática, leve e saborosa, que utiliza mini pimentões assados (sem fritura) e um recheio cremoso, fácil de preparar e que agrada ao paladar.",
-        "tags": [
-          "vegetariano",
-          "forno",
-          "airfryer",
-          "rapido"
-        ],
-        "rende_sobra": false,
-        "ingredientes": [
-          "12 mini pimentões (biquinho ou doces pequenos)",
-          "200g de cream cheese em temperatura ambiente",
-          "2 colheres (sopa) de cebolinha picada",
-          "1 dente de alho amassado (opcional)",
-          "1 colher (sopa) de salsinha picada",
-          "Sal e pimenta-do-reino a gosto",
-          "Azeite para regar",
-          "Opcional: 2 colheres (sopa) de queijo parmesão ralado para gratinar"
-        ],
-        "preparo": [
-          "Preaqueça o forno a 200°C (ou airfryer a 180°C). Lave os mini pimentões, corte-os ao meio no sentido do comprimento e retire as sementes e membranas internas.",
-          "Em uma tigela, misture o cream cheese, a cebolinha, a salsinha, o alho amassado (se usar), sal e pimenta-do-reino até obter um recheio homogêneo.",
-          "Com uma colher pequena, recheie cada metade de pimentão com a mistura de cream cheese.",
-          "Disponha os pimentões recheados em uma assadeira forrada (ou na cesta da airfryer). Polvilhe com queijo parmesão ralado, se desejar, e regue com um fio de azeite.",
-          "Leve ao forno por 15-20 minutos (ou airfryer por 12-15 minutos), até os pimentões ficarem macios e o recheio levemente dourado.",
-          "Sirva morno como entrada."
-        ],
-        "id": "mini-piment-es-recheados-com-cream-chees-edaed8"
-      },
-      {
-        "nome": "Bife de Chorizo Grelhado com Chimichurri e Batatas Rústicas",
+        "nome": "Maminha na Pressão com Molho Encorpado",
         "curso": "principal",
-        "tempo": "45 min",
-        "url": "https://www.clararesorts.com.br/receitas/bife-de-chorizo-com-chimichurri-e-batata-doce/",
-        "porque": "Combina a carne vermelha preferida do casal (bife de chorizo) com um molho saboroso (chimichurri) e um acompanhamento prático e saudável de batatas assadas, tudo preparado de forma rápida e sem fritura.",
+        "tempo": "35 min",
+        "url": "https://www.guiadacozinha.com.br/receitas/maminha-na-pressao-em-menos-de-40-minutos/",
+        "porque": "Este prato utiliza carne vermelha, é cozido na panela de pressão para garantir maciez e rapidez, e seu molho encorpado é ideal para o gosto do casal.",
         "tags": [
           "carne_vermelha",
-          "grelhado",
-          "forno",
           "rapido",
-          "equilibrado"
+          "panela_pressao"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "2 bifes de chorizo (~250g cada)",
-          "2 batatas médias (ou batata-doce)",
-          "3 colheres (sopa) de azeite de oliva",
-          "Sal grosso e pimenta-do-reino a gosto",
-          "Para o Chimichurri:",
-          "1/2 cebola roxa picada",
-          "1/2 xícara de salsinha picada",
+          "1 kg de maminha (peça limpa)",
+          "3 colheres (sopa) de azeite extra virgem",
+          "1 cebola média picada",
           "2 dentes de alho picados",
-          "1/4 xícara de vinagre balsâmico (ou de vinho tinto)",
-          "1/2 xícara de azeite de oliva",
-          "Sal e pimenta do reino a gosto",
-          "Opcional: 1/2 colher (chá) de orégano seco"
+          "1 cubo de caldo de carne (opcional)",
+          "1 copo americano de vinho tinto seco",
+          "1/2 copo americano de água",
+          "Sal a gosto",
+          "Pimenta-do-reino a gosto"
         ],
         "preparo": [
-          "**Prepare as batatas:** Preaqueça o forno a 200°C. Lave bem as batatas, corte em gomos (tipo rústica) e seque. Em uma tigela, misture as batatas com 2 colheres de sopa de azeite, sal, pimenta e tempere a gosto (páprica, alecrim).",
-          "Disponha as batatas em uma assadeira forrada com papel manteiga, sem sobrepor. Leve ao forno por cerca de 30-40 minutos, virando na metade do tempo, até ficarem macias por dentro e douradas por fora.",
-          "**Prepare o Chimichurri:** Em uma tigela, misture a cebola roxa, a salsinha e o alho picados. Adicione o vinagre, o azeite, sal, pimenta e orégano (se usar). Misture bem e reserve por pelo menos 15 minutos para apurar os sabores.",
-          "**Grelhe o Bife de Chorizo:** Tempere os bifes de chorizo com sal grosso e pimenta-do-reino moída na hora. Aqueça bem uma frigideira de ferro (ou grelha) em fogo alto com um fio de azeite.",
-          "Grelhe os bifes por 3 a 4 minutos de cada lado para um ponto malpassado/ao ponto, ou até atingir o ponto desejado. Deixe a gordura da lateral dourar também.",
-          "Retire os bifes da grelha, deixe-os descansar por 2 minutos antes de fatiar e sirva imediatamente com as batatas rústicas assadas e o molho chimichurri por cima ou ao lado."
+          "Em uma panela de pressão, aqueça o azeite em fogo médio e sele a maminha temperada com sal e pimenta até dourar bem de todos os lados.",
+          "Retire a carne da panela e, na mesma panela, adicione a cebola picada e o alho picado, refogando até dourar.",
+          "Acrescente o vinho tinto, o cubo de caldo de carne (se usar) e a água, raspando o fundo da panela para soltar os sabores.",
+          "Retorne a maminha para a panela, tampe e cozinhe em fogo baixo por 30 minutos após pegar pressão.",
+          "Desligue o fogo, espere a pressão sair naturalmente, fatie a carne e sirva com o molho encorpado formado."
         ],
-        "id": "bife-de-chorizo-grelhado-com-chimichurri-68823b"
+        "id": "maminha-na-press-o-com-molho-encorpado-7fcde8"
       },
       {
-        "nome": "Frango Assado com Especiarias e Cuscuz Marroquino",
+        "nome": "Almôndegas de Forno com Molho de Tomate",
         "curso": "principal",
         "tempo": "45 min",
-        "url": "https://guiadacozinha.com.br/frango-assado-com-cuscuz-marroquino/",
-        "porque": "É uma opção de frango equilibrada e saborosa, com especiarias que remetem à culinária marroquina, e o cuscuz é um acompanhamento prático, rápido e nutritivo, ideal para um jantar leve.",
+        "url": "https://www.tudoreceitas.com/receita-de-almondegas-assadas-no-forno-1428.html",
+        "porque": "É uma forma prática e saudável de consumir carne moída, assada no forno para evitar frituras e com um molho clássico de tomate, que agrada a todos.",
         "tags": [
-          "frango",
+          "carne_vermelha",
           "forno",
+          "rapido"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "500g de carne bovina moída (patinho ou alcatra)",
+          "1 ovo médio",
+          "30g de farinha de rosca (cerca de 3 colheres de sopa)",
+          "100ml de leite (cerca de 1/2 xícara de chá)",
+          "1/2 cebola média picada",
+          "1 dente de alho picado",
+          "2 tomates médios bem maduros (ou 1 lata de tomate pelado)",
+          "Azeite de oliva a gosto",
+          "Sal a gosto",
+          "Pimenta-do-reino a gosto",
+          "Salsinha picada a gosto"
+        ],
+        "preparo": [
+          "Em uma tigela grande, misture a carne moída com o ovo, a farinha de rosca, o leite, sal, pimenta-do-reino e salsinha picada até ficar homogêneo.",
+          "Modele as almôndegas no tamanho desejado e disponha-as em uma assadeira untada com azeite.",
+          "Leve ao forno preaquecido a 180ºC por 18-20 minutos, virando as almôndegas na metade do tempo para dourarem por igual.",
+          "Enquanto as almôndegas assam, refogue a cebola e o alho em um fio de azeite em uma panela, adicione os tomates picados (ou molho) e cozinhe por 5-7 minutos, ajustando o sal.",
+          "Junte as almôndegas assadas ao molho de tomate na panela e cozinhe por mais 5-10 minutos para que os sabores se incorporem."
+        ],
+        "id": "alm-ndegas-de-forno-com-molho-de-tomate-b1a4fb"
+      },
+      {
+        "nome": "Carne Moída Refogada com Legumes",
+        "curso": "principal",
+        "tempo": "30 min",
+        "url": "https://www.guiadacozinha.com.br/receitas/carne-moida-refogada-com-legumes-almoco-pratico/",
+        "porque": "Extremamente versátil e rápida de preparar, esta carne moída refogada com legumes garante o equilíbrio de proteína, carboidratos e vegetais de forma prática e saborosa.",
+        "tags": [
+          "carne_vermelha",
           "rapido",
           "equilibrado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "4 coxas e sobrecoxas de frango (ou peito em cubos grandes)",
-          "2 colheres (sopa) de azeite de oliva",
+          "500g de carne moída",
+          "2 colheres (sopa) de óleo vegetal",
           "1 dente de alho picado",
-          "1/2 colher (chá) de páprica doce",
-          "1/2 colher (chá) de cominho em pó",
-          "Sal e pimenta-do-reino a gosto",
-          "1 xícara (chá) de cuscuz marroquino (sêmola)",
-          "1 xícara (chá) de caldo de legumes quente",
-          "1/2 cebola picada",
-          "1/2 cenoura média em cubos pequenos",
-          "1/2 abobrinha pequena em cubos pequenos",
-          "Salsinha fresca picada a gosto"
+          "1 cebola média picada",
+          "1 batata média cortada em cubos",
+          "1 cenoura média cortada em cubos",
+          "1 tomate médio sem sementes em cubos",
+          "1/2 xícara (chá) de azeitona preta picada",
+          "2 colheres (sopa) de extrato de tomate",
+          "1 xícara (chá) de água",
+          "Sal a gosto",
+          "Pimenta-do-reino a gosto",
+          "Cheiro-verde picado a gosto"
         ],
         "preparo": [
-          "**Prepare o frango:** Preaqueça o forno a 200°C. Em uma tigela, tempere as coxas e sobrecoxas de frango com azeite, alho picado, páprica, cominho, sal e pimenta-do-reino. Misture bem para que os temperos cubram todas as partes.",
-          "Disponha o frango em uma assadeira e leve ao forno por cerca de 35-40 minutos, ou até dourar e cozinhar por completo. Vire as peças na metade do tempo para um cozimento uniforme.",
-          "**Prepare o cuscuz:** Em uma tigela, coloque o cuscuz marroquino. Despeje o caldo de legumes bem quente sobre ele, adicione uma colher de sopa de azeite e misture rapidamente. Tampe e deixe hidratar por 5 a 7 minutos.",
-          "Enquanto o cuscuz hidrata, aqueça um fio de azeite em uma frigideira e refogue a cebola picada até ficar transparente. Adicione a cenoura e a abobrinha em cubos e refogue por alguns minutos, até ficarem macias mas ainda firmes. Tempere com sal e pimenta.",
-          "Solte o cuscuz hidratado com um garfo para deixar os grãos soltinhos. Incorpore os legumes refogados ao cuscuz. Finalize com salsinha fresca picada.",
-          "Sirva o frango assado acompanhado do cuscuz marroquino com legumes."
+          "Aqueça o óleo em uma panela em fogo médio e frite a carne moída por cerca de 5 minutos, ou até secar toda a água.",
+          "Adicione a cebola picada e o alho picado à carne, refogando até que dourem levemente.",
+          "Acrescente o extrato de tomate e refogue por mais 2 minutos, mexendo sempre.",
+          "Despeje a batata, a cenoura, o tomate, a azeitona e a água na panela; tampe e cozinhe por aproximadamente 15 minutos, mexendo ocasionalmente.",
+          "Quando os legumes estiverem macios e o molho encorpado, tempere com sal e pimenta-do-reino a gosto, finalize com cheiro-verde e sirva."
         ],
-        "id": "frango-assado-com-especiarias-e-cuscuz-m-c422c3"
+        "id": "carne-mo-da-refogada-com-legumes-404339"
       },
       {
-        "nome": "Mousse de Coco Rápida (2 Ingredientes)",
-        "curso": "sobremesa",
-        "tempo": "10 min + 2h (geladeira)",
-        "url": "https://www.youtube.com/watch?v=k_X_eY7wQzY",
-        "porque": "É uma sobremesa incrivelmente fácil e rápida, com apenas dois ingredientes, popularizada pela Ana Maria Braga no programa Mais Você, e que satisfaz a vontade de doce sem complicação.",
+        "nome": "Salada Picadinha com Molho Oriental",
+        "curso": "entrada",
+        "tempo": "15 min",
+        "url": "https://www.panelinha.com.br/receita/salada-oriental-de-repolho",
+        "porque": "Uma entrada leve, colorida e cheia de frescor, é rápida de preparar com ingredientes acessíveis e um molho oriental que adiciona um toque especial.",
         "tags": [
+          "salada",
           "rapido",
           "vegetariano"
         ],
-        "rende_sobra": true,
+        "rende_sobra": false,
         "ingredientes": [
-          "200g de marshmallow branco (tipo rolha)",
-          "1 litro de leite de coco",
-          "Coco queimado ralado a gosto (opcional, para decorar)"
+          "1 maço de alface-americana",
+          "1/2 repolho roxo (ou verde) pequeno",
+          "1 cenoura média",
+          "1 pepino médio",
+          "3 colheres (sopa) de shoyu (molho de soja)",
+          "2 colheres (sopa) de vinagre de arroz",
+          "6 colheres (sopa) de óleo vegetal",
+          "1 colher (sopa) de óleo de gergelim torrado",
+          "2 colheres (sopa) de açúcar mascavo",
+          "Gergelim preto torrado a gosto"
         ],
         "preparo": [
-          "Em uma tigela grande, adicione o marshmallow branco.",
-          "Despeje o leite de coco sobre o marshmallow.",
-          "Misture bem até que os ingredientes estejam incorporados.",
-          "Leve à geladeira por no mínimo 2 horas, ou até firmar.",
-          "Sirva gelado, decorado com coco queimado ralado, se desejar."
+          "Corte a alface e o repolho em tiras finas. Rale a cenoura e corte o pepino em fatias finas ou cubos pequenos.",
+          "Lave bem todos os vegetais em água corrente e seque-os com uma centrífuga de saladas ou papel toalha.",
+          "Em um pote de vidro com tampa, misture o shoyu, vinagre de arroz, óleo vegetal, óleo de gergelim e açúcar mascavo, chacoalhando bem para emulsionar o molho.",
+          "Em uma saladeira grande, junte a alface, o repolho, a cenoura e o pepino picados, misturando delicadamente.",
+          "Regue a salada com o molho oriental preparado, misture novamente e salpique gergelim preto torrado por cima antes de servir imediatamente."
         ],
-        "id": "mousse-de-coco-r-pida-2-ingredientes-bcc92f"
+        "id": "salada-picadinha-com-molho-oriental-603640"
+      },
+      {
+        "nome": "Musse Prática de Chocolate",
+        "curso": "sobremesa",
+        "tempo": "10 min",
+        "url": "https://www.receitasdeliciosas.com/mousse-de-chocolate-sem-ovos/",
+        "porque": "Uma sobremesa clássica e indulgente que é simples e rápida de fazer, sem a necessidade de ovos crus e com poucos ingredientes, ideal para preparar com antecedência.",
+        "tags": [
+          "sobremesa",
+          "rapido",
+          "sem_cozimento"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "100g de chocolate meio amargo picado",
+          "120g de creme de leite fresco para bater (bem gelado)",
+          "80g de leite condensado"
+        ],
+        "preparo": [
+          "Pique o chocolate meio amargo em pedaços pequenos e derreta-o em banho-maria ou no micro-ondas em intervalos curtos, mexendo até obter um creme liso.",
+          "Em uma tigela separada e bem gelada, bata o creme de leite fresco até atingir o ponto de chantilly (picos firmes).",
+          "Adicione o leite condensado ao chocolate derretido e misture bem até que os dois ingredientes estejam completamente incorporados.",
+          "Com uma espátula, incorpore delicadamente o chantilly à mistura de chocolate e leite condensado, fazendo movimentos de baixo para cima para manter a aeração.",
+          "Distribua a mousse em taças individuais ou em uma tigela grande e leve à geladeira por no mínimo 2 horas para firmar bem antes de servir."
+        ],
+        "id": "musse-pr-tica-de-chocolate-4dbb8f"
       }
     ]
   },
