@@ -1,170 +1,164 @@
 {
-  "gerado_em": "18/10/2026",
+  "gerado_em": "19/10/2026",
   "diario": {
     "tipo": "diario",
-    "data": "18/10/2026",
-    "dia_semana": "domingo",
+    "data": "19/10/2026",
+    "dia_semana": "segunda",
     "pratos": [
       {
-        "nome": "Maminha na Pressão com Molho Encorpado",
+        "nome": "Rosbife de Filé Mignon",
         "curso": "principal",
-        "tempo": "35 min",
-        "url": "https://www.guiadacozinha.com.br/receitas/maminha-na-pressao-em-menos-de-40-minutos/",
-        "porque": "Este prato utiliza carne vermelha, é cozido na panela de pressão para garantir maciez e rapidez, e seu molho encorpado é ideal para o gosto do casal.",
-        "tags": [
-          "carne_vermelha",
-          "rapido",
-          "panela_pressao"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "1 kg de maminha (peça limpa)",
-          "3 colheres (sopa) de azeite extra virgem",
-          "1 cebola média picada",
-          "2 dentes de alho picados",
-          "1 cubo de caldo de carne (opcional)",
-          "1 copo americano de vinho tinto seco",
-          "1/2 copo americano de água",
-          "Sal a gosto",
-          "Pimenta-do-reino a gosto"
-        ],
-        "preparo": [
-          "Em uma panela de pressão, aqueça o azeite em fogo médio e sele a maminha temperada com sal e pimenta até dourar bem de todos os lados.",
-          "Retire a carne da panela e, na mesma panela, adicione a cebola picada e o alho picado, refogando até dourar.",
-          "Acrescente o vinho tinto, o cubo de caldo de carne (se usar) e a água, raspando o fundo da panela para soltar os sabores.",
-          "Retorne a maminha para a panela, tampe e cozinhe em fogo baixo por 30 minutos após pegar pressão.",
-          "Desligue o fogo, espere a pressão sair naturalmente, fatie a carne e sirva com o molho encorpado formado."
-        ],
-        "id": "maminha-na-press-o-com-molho-encorpado-7fcde8"
-      },
-      {
-        "nome": "Almôndegas de Forno com Molho de Tomate",
-        "curso": "principal",
-        "tempo": "45 min",
-        "url": "https://www.tudoreceitas.com/receita-de-almondegas-assadas-no-forno-1428.html",
-        "porque": "É uma forma prática e saudável de consumir carne moída, assada no forno para evitar frituras e com um molho clássico de tomate, que agrada a todos.",
+        "tempo": "40 min",
+        "url": "https://www.panelinha.com.br/receita/rosbife-de-file-mignon",
+        "porque": "Esta receita é prática, com preparo rápido no forno, e o rosbife é uma carne vermelha preferida do casal, rica em proteína e ideal para sobras.",
         "tags": [
           "carne_vermelha",
           "forno",
-          "rapido"
+          "rapido",
+          "grelhado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "500g de carne bovina moída (patinho ou alcatra)",
-          "1 ovo médio",
-          "30g de farinha de rosca (cerca de 3 colheres de sopa)",
-          "100ml de leite (cerca de 1/2 xícara de chá)",
-          "1/2 cebola média picada",
-          "1 dente de alho picado",
-          "2 tomates médios bem maduros (ou 1 lata de tomate pelado)",
-          "Azeite de oliva a gosto",
+          "1 peça de filé mignon (~800g)",
+          "2 colheres de sopa de azeite",
           "Sal a gosto",
-          "Pimenta-do-reino a gosto",
-          "Salsinha picada a gosto"
+          "Pimenta-do-reino moída na hora a gosto"
         ],
         "preparo": [
-          "Em uma tigela grande, misture a carne moída com o ovo, a farinha de rosca, o leite, sal, pimenta-do-reino e salsinha picada até ficar homogêneo.",
-          "Modele as almôndegas no tamanho desejado e disponha-as em uma assadeira untada com azeite.",
-          "Leve ao forno preaquecido a 180ºC por 18-20 minutos, virando as almôndegas na metade do tempo para dourarem por igual.",
-          "Enquanto as almôndegas assam, refogue a cebola e o alho em um fio de azeite em uma panela, adicione os tomates picados (ou molho) e cozinhe por 5-7 minutos, ajustando o sal.",
-          "Junte as almôndegas assadas ao molho de tomate na panela e cozinhe por mais 5-10 minutos para que os sabores se incorporem."
+          "Preaqueça o forno a 200°C.",
+          "Tempere o filé mignon com sal e pimenta-do-reino por todos os lados.",
+          "Em uma frigideira grande e que possa ir ao forno, aqueça o azeite em fogo alto e sele a carne por cerca de 2 minutos de cada lado, até dourar bem.",
+          "Leve a frigideira com a carne ao forno preaquecido por 15-20 minutos para um ponto malpassado, ou mais, se preferir.",
+          "Retire do forno, cubra com papel alumínio e deixe descansar por 10 minutos antes de fatiar."
         ],
-        "id": "alm-ndegas-de-forno-com-molho-de-tomate-b1a4fb"
+        "id": "rosbife-de-fil-mignon-a380c3"
       },
       {
-        "nome": "Carne Moída Refogada com Legumes",
+        "nome": "Paleta Bovina Assada com Batatas",
         "curso": "principal",
-        "tempo": "30 min",
-        "url": "https://www.guiadacozinha.com.br/receitas/carne-moida-refogada-com-legumes-almoco-pratico/",
-        "porque": "Extremamente versátil e rápida de preparar, esta carne moída refogada com legumes garante o equilíbrio de proteína, carboidratos e vegetais de forma prática e saborosa.",
+        "tempo": "20 min",
+        "url": "https://gshow.globo.com/receitas-gshow/receitas/paleta-de-carne-assada-com-batatas-613093b5a452fc70b8089e37.ghtml",
+        "porque": "A paleta bovina assada é uma excelente fonte de proteína de carne vermelha, com preparo ativo mínimo e que rende muitas porções para sobras.",
         "tags": [
           "carne_vermelha",
-          "rapido",
-          "equilibrado"
+          "forno",
+          "equilibrio"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "500g de carne moída",
-          "2 colheres (sopa) de óleo vegetal",
-          "1 dente de alho picado",
-          "1 cebola média picada",
-          "1 batata média cortada em cubos",
-          "1 cenoura média cortada em cubos",
-          "1 tomate médio sem sementes em cubos",
-          "1/2 xícara (chá) de azeitona preta picada",
-          "2 colheres (sopa) de extrato de tomate",
-          "1 xícara (chá) de água",
+          "1 kg de paleta bovina",
+          "4 batatas grandes",
+          "2 cebolas médias",
+          "4 dentes de alho picados",
+          "1/2 xícara de chá de vinho tinto seco",
+          "1/2 xícara de chá de água",
           "Sal a gosto",
           "Pimenta-do-reino a gosto",
-          "Cheiro-verde picado a gosto"
+          "Cheiro-verde picado a gosto",
+          "Azeite para regar"
         ],
         "preparo": [
-          "Aqueça o óleo em uma panela em fogo médio e frite a carne moída por cerca de 5 minutos, ou até secar toda a água.",
-          "Adicione a cebola picada e o alho picado à carne, refogando até que dourem levemente.",
-          "Acrescente o extrato de tomate e refogue por mais 2 minutos, mexendo sempre.",
-          "Despeje a batata, a cenoura, o tomate, a azeitona e a água na panela; tampe e cozinhe por aproximadamente 15 minutos, mexendo ocasionalmente.",
-          "Quando os legumes estiverem macios e o molho encorpado, tempere com sal e pimenta-do-reino a gosto, finalize com cheiro-verde e sirva."
+          "Tempere a paleta com sal, pimenta, alho e cheiro-verde. Deixe marinar por pelo menos 30 minutos.",
+          "Em uma assadeira, coloque a carne, as batatas e as cebolas cortadas em pedaços grandes.",
+          "Regue com o vinho tinto, a água e um fio de azeite. Cubra com papel alumínio.",
+          "Leve ao forno preaquecido a 180°C por cerca de 1 hora e 30 minutos.",
+          "Retire o papel alumínio e asse por mais 30-40 minutos, ou até a carne e as batatas ficarem macias e douradas."
         ],
-        "id": "carne-mo-da-refogada-com-legumes-404339"
+        "id": "paleta-bovina-assada-com-batatas-2273f0"
       },
       {
-        "nome": "Salada Picadinha com Molho Oriental",
-        "curso": "entrada",
-        "tempo": "15 min",
-        "url": "https://www.panelinha.com.br/receita/salada-oriental-de-repolho",
-        "porque": "Uma entrada leve, colorida e cheia de frescor, é rápida de preparar com ingredientes acessíveis e um molho oriental que adiciona um toque especial.",
+        "nome": "Lasanha de Berinjela Grelhada à Bolonhesa",
+        "curso": "principal",
+        "tempo": "45 min",
+        "url": "https://www.receitas.com/receita/lasanha-de-berinjela-grelhada-com-molho-a-bolonhesa-r100411",
+        "porque": "Esta lasanha combina carne vermelha com legumes grelhados, sendo uma opção equilibrada, saborosa e que rende bem para sobras.",
         "tags": [
-          "salada",
+          "carne_vermelha",
+          "low_carb",
+          "forno"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "2 berinjelas grandes",
+          "300g de carne moída",
+          "1 cebola média picada",
+          "2 dentes de alho picados",
+          "1 lata de molho de tomate pelado",
+          "1/2 xícara de água",
+          "200g de queijo mussarela fatiado",
+          "Queijo parmesão ralado a gosto",
+          "Azeite a gosto",
+          "Sal a gosto",
+          "Pimenta-do-reino a gosto",
+          "Manjericão fresco a gosto"
+        ],
+        "preparo": [
+          "Corte as berinjelas em fatias finas, tempere com sal e grelhe em uma frigideira antiaderente com um fio de azeite até ficarem macias e douradas. Reserve.",
+          "Em outra panela, refogue a cebola e o alho em azeite. Adicione a carne moída e cozinhe até dourar.",
+          "Acrescente o molho de tomate, a água, sal, pimenta e manjericão. Cozinhe por 15 minutos em fogo baixo.",
+          "Em um refratário, intercale camadas de berinjela, molho à bolonhesa e queijo mussarela. Finalize com mussarela e parmesão.",
+          "Leve ao forno preaquecido a 180°C por cerca de 20 minutos, ou até gratinar."
+        ],
+        "id": "lasanha-de-berinjela-grelhada-bolonhesa-664e1d"
+      },
+      {
+        "nome": "Salada Cremosa de Ovos e Ervas",
+        "curso": "entrada",
+        "tempo": "20 min",
+        "url": "https://www.tudogostoso.com.br/receita/184824-salada-de-ovos-cremosa.html",
+        "porque": "É uma entrada rápida, rica em proteína e fácil de preparar, ideal para abrir o jantar de forma nutritiva e saborosa.",
+        "tags": [
+          "ovos",
           "rapido",
-          "vegetariano"
+          "salada"
         ],
         "rende_sobra": false,
         "ingredientes": [
-          "1 maço de alface-americana",
-          "1/2 repolho roxo (ou verde) pequeno",
-          "1 cenoura média",
-          "1 pepino médio",
-          "3 colheres (sopa) de shoyu (molho de soja)",
-          "2 colheres (sopa) de vinagre de arroz",
-          "6 colheres (sopa) de óleo vegetal",
-          "1 colher (sopa) de óleo de gergelim torrado",
-          "2 colheres (sopa) de açúcar mascavo",
-          "Gergelim preto torrado a gosto"
+          "6 ovos cozidos",
+          "1/2 cebola roxa picada finamente",
+          "2 colheres de sopa de maionese light",
+          "1 colher de sopa de mostarda dijon",
+          "1 colher de sopa de azeite extra virgem",
+          "Sal a gosto",
+          "Pimenta-do-reino a gosto",
+          "Salsinha picada a gosto",
+          "Cebolinha picada a gosto"
         ],
         "preparo": [
-          "Corte a alface e o repolho em tiras finas. Rale a cenoura e corte o pepino em fatias finas ou cubos pequenos.",
-          "Lave bem todos os vegetais em água corrente e seque-os com uma centrífuga de saladas ou papel toalha.",
-          "Em um pote de vidro com tampa, misture o shoyu, vinagre de arroz, óleo vegetal, óleo de gergelim e açúcar mascavo, chacoalhando bem para emulsionar o molho.",
-          "Em uma saladeira grande, junte a alface, o repolho, a cenoura e o pepino picados, misturando delicadamente.",
-          "Regue a salada com o molho oriental preparado, misture novamente e salpique gergelim preto torrado por cima antes de servir imediatamente."
+          "Cozinhe os ovos até ficarem firmes (cerca de 10 minutos após a fervura). Resfrie em água gelada e descasque.",
+          "Pique os ovos cozidos em pedaços pequenos.",
+          "Em uma tigela, misture os ovos picados com a cebola roxa, maionese, mostarda, azeite, sal, pimenta, salsinha e cebolinha.",
+          "Misture bem até todos os ingredientes estarem incorporados. Sirva em seguida."
         ],
-        "id": "salada-picadinha-com-molho-oriental-603640"
+        "id": "salada-cremosa-de-ovos-e-ervas-5cb618"
       },
       {
-        "nome": "Musse Prática de Chocolate",
+        "nome": "Frutas Grelhadas com Iogurte e Granola",
         "curso": "sobremesa",
-        "tempo": "10 min",
-        "url": "https://www.receitasdeliciosas.com/mousse-de-chocolate-sem-ovos/",
-        "porque": "Uma sobremesa clássica e indulgente que é simples e rápida de fazer, sem a necessidade de ovos crus e com poucos ingredientes, ideal para preparar com antecedência.",
+        "tempo": "15 min",
+        "url": "https://panelinha.com.br/receita/Frutas-grelhadas",
+        "porque": "Uma sobremesa leve, saudável e rápida de preparar, combinando o frescor das frutas com a cremosidade do iogurte e a crocância da granola.",
         "tags": [
-          "sobremesa",
+          "vegetariano",
           "rapido",
-          "sem_cozimento"
+          "grelhado"
         ],
-        "rende_sobra": true,
+        "rende_sobra": false,
         "ingredientes": [
-          "100g de chocolate meio amargo picado",
-          "120g de creme de leite fresco para bater (bem gelado)",
-          "80g de leite condensado"
+          "1 banana",
+          "1/2 abacaxi em rodelas",
+          "1 pêssego",
+          "1 pote de iogurte natural integral",
+          "2 colheres de sopa de granola",
+          "Mel a gosto (opcional)"
         ],
         "preparo": [
-          "Pique o chocolate meio amargo em pedaços pequenos e derreta-o em banho-maria ou no micro-ondas em intervalos curtos, mexendo até obter um creme liso.",
-          "Em uma tigela separada e bem gelada, bata o creme de leite fresco até atingir o ponto de chantilly (picos firmes).",
-          "Adicione o leite condensado ao chocolate derretido e misture bem até que os dois ingredientes estejam completamente incorporados.",
-          "Com uma espátula, incorpore delicadamente o chantilly à mistura de chocolate e leite condensado, fazendo movimentos de baixo para cima para manter a aeração.",
-          "Distribua a mousse em taças individuais ou em uma tigela grande e leve à geladeira por no mínimo 2 horas para firmar bem antes de servir."
+          "Corte as frutas em rodelas ou metades.",
+          "Aqueça uma frigideira ou chapa e grelhe as frutas por 2-3 minutos de cada lado, até ficarem macias e com marcas de grelha.",
+          "Distribua as frutas grelhadas em pratos.",
+          "Sirva com uma colher de iogurte natural por cima, salpique granola e, se desejar, regue com um fio de mel."
         ],
-        "id": "musse-pr-tica-de-chocolate-4dbb8f"
+        "id": "frutas-grelhadas-com-iogurte-e-granola-c159cd"
       }
     ]
   },

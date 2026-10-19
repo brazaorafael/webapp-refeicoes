@@ -1,45 +1,5 @@
 [
   {
-    "id": "bife-grelhado-com-salada-de-gr-os-e-legu-35ef1e",
-    "titulo": "Bife Grelhado com Salada de Grãos e Legumes",
-    "tags": [
-      "carne_vermelha",
-      "grelhado",
-      "rapido",
-      "low_carb"
-    ],
-    "data": "06/08/2026"
-  },
-  {
-    "id": "bruschettas-de-cogumelos-salteados-aa4f4b",
-    "titulo": "Bruschettas de Cogumelos Salteados",
-    "tags": [
-      "vegetariano",
-      "rapido",
-      "forno"
-    ],
-    "data": "06/08/2026"
-  },
-  {
-    "id": "bolo-de-caneca-de-chocolate-com-calda-r--626ead",
-    "titulo": "Bolo de Caneca de Chocolate com Calda Rápida",
-    "tags": [
-      "rapido",
-      "sobremesa"
-    ],
-    "data": "06/08/2026"
-  },
-  {
-    "id": "pat-de-ricota-com-ervas-e-torradinhas-88fdf3",
-    "titulo": "Patê de Ricota com Ervas e Torradinhas",
-    "tags": [
-      "vegetariano",
-      "rapido",
-      "low_carb"
-    ],
-    "data": "07/08/2026"
-  },
-  {
     "id": "bife-de-panela-de-press-o-com-legumes-391f38",
     "titulo": "Bife de Panela de Pressão com Legumes",
     "tags": [
@@ -5094,5 +5054,45 @@
       "equilibrado"
     ],
     "data": "18/10/2026"
+  },
+  {
+    "id": "paleta-bovina-assada-com-batatas-2273f0",
+    "titulo": "Paleta Bovina Assada com Batatas",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "equilibrio"
+    ],
+    "data": "19/10/2026"
+  },
+  {
+    "id": "lasanha-de-berinjela-grelhada-bolonhesa-664e1d",
+    "titulo": "Lasanha de Berinjela Grelhada à Bolonhesa",
+    "tags": [
+      "carne_vermelha",
+      "low_carb",
+      "forno"
+    ],
+    "data": "19/10/2026"
+  },
+  {
+    "id": "salada-cremosa-de-ovos-e-ervas-5cb618",
+    "titulo": "Salada Cremosa de Ovos e Ervas",
+    "tags": [
+      "ovos",
+      "rapido",
+      "salada"
+    ],
+    "data": "19/10/2026"
+  },
+  {
+    "id": "frutas-grelhadas-com-iogurte-e-granola-c159cd",
+    "titulo": "Frutas Grelhadas com Iogurte e Granola",
+    "tags": [
+      "vegetariano",
+      "rapido",
+      "grelhado"
+    ],
+    "data": "19/10/2026"
   }
 ]
