@@ -1,175 +1,5 @@
 [
   {
-    "id": "carne-mo-da-refogada-com-cenoura-e-vagem-3e331d",
-    "titulo": "Carne Moída Refogada com Cenoura e Vagem",
-    "tags": [
-      "carne_vermelha",
-      "rapido",
-      "equilibrado"
-    ],
-    "data": "02/08/2026"
-  },
-  {
-    "id": "bife-de-alcatra-grelhado-com-pur-de-bata-60aea1",
-    "titulo": "Bife de Alcatra Grelhado com Purê de Batatas e Brócolis",
-    "tags": [
-      "carne_vermelha",
-      "grelhado",
-      "rapido"
-    ],
-    "data": "02/08/2026"
-  },
-  {
-    "id": "salada-de-pepino-e-tomate-com-azeite-e-o-04b070",
-    "titulo": "Salada de Pepino e Tomate com Azeite e Orégano",
-    "tags": [
-      "salada",
-      "rapido",
-      "vegetariano"
-    ],
-    "data": "02/08/2026"
-  },
-  {
-    "id": "salada-de-frutas-simples-0e8b11",
-    "titulo": "Salada de Frutas Simples",
-    "tags": [
-      "rapido",
-      "vegetariano",
-      "low_carb"
-    ],
-    "data": "02/08/2026"
-  },
-  {
-    "id": "escondidinho-de-carne-e-polenta-com-ab-b-2daa08",
-    "titulo": "Escondidinho de Carne e Polenta com Abóbora",
-    "tags": [
-      "carne_vermelha",
-      "forno",
-      "equilibrado"
-    ],
-    "data": "03/08/2026"
-  },
-  {
-    "id": "frango-xadrez-65a865",
-    "titulo": "Frango Xadrez",
-    "tags": [
-      "frango",
-      "rapido",
-      "equilibrado"
-    ],
-    "data": "03/08/2026"
-  },
-  {
-    "id": "salada-caprese-cl-ssica-fac9bb",
-    "titulo": "Salada Caprese Clássica",
-    "tags": [
-      "salada",
-      "rapido",
-      "vegetariano"
-    ],
-    "data": "03/08/2026"
-  },
-  {
-    "id": "fudge-de-chocolate-91145a",
-    "titulo": "Fudge de Chocolate",
-    "tags": [
-      "rapido",
-      "sobremesa",
-      "sem_forno"
-    ],
-    "data": "03/08/2026"
-  },
-  {
-    "id": "alm-ndegas-assadas-ao-molho-de-tomate-co-b2b112",
-    "titulo": "Almôndegas Assadas ao Molho de Tomate com Purê de Batatas",
-    "tags": [
-      "carne_vermelha",
-      "forno",
-      "equilibrado"
-    ],
-    "data": "04/08/2026"
-  },
-  {
-    "id": "frango-cremoso-na-airfryer-com-batata-do-a73cfb",
-    "titulo": "Frango Cremoso na Airfryer com Batata Doce",
-    "tags": [
-      "frango",
-      "airfryer",
-      "rapido"
-    ],
-    "data": "04/08/2026"
-  },
-  {
-    "id": "dadinhos-de-tapioca-na-airfryer-com-gele-339e4d",
-    "titulo": "Dadinhos de Tapioca na Airfryer com Geleia de Pimenta",
-    "tags": [
-      "vegetariano",
-      "airfryer",
-      "rapido"
-    ],
-    "data": "04/08/2026"
-  },
-  {
-    "id": "maminha-assada-na-airfryer-com-azeite-de-9bcb1e",
-    "titulo": "Maminha Assada na Airfryer com Azeite de Ervas",
-    "tags": [
-      "carne_vermelha",
-      "airfryer",
-      "rapido"
-    ],
-    "data": "05/08/2026"
-  },
-  {
-    "id": "frango-em-peda-os-na-airfryer-estilo-pas-b47b2a",
-    "titulo": "Frango em Pedaços na Airfryer (Estilo à Passarinho)",
-    "tags": [
-      "frango",
-      "airfryer",
-      "rapido"
-    ],
-    "data": "05/08/2026"
-  },
-  {
-    "id": "carne-mo-da-refogada-com-batata-e-cenour-fa3ced",
-    "titulo": "Carne Moída Refogada com Batata e Cenoura",
-    "tags": [
-      "carne_vermelha",
-      "refogado",
-      "equilibrado"
-    ],
-    "data": "05/08/2026"
-  },
-  {
-    "id": "p-o-de-alho-recheado-na-airfryer-ef3da9",
-    "titulo": "Pão de Alho Recheado na Airfryer",
-    "tags": [
-      "airfryer",
-      "rapido",
-      "vegetariano"
-    ],
-    "data": "05/08/2026"
-  },
-  {
-    "id": "mousse-de-morango-simples-52e664",
-    "titulo": "Mousse de Morango Simples",
-    "tags": [
-      "doce",
-      "rapido",
-      "sem_forno"
-    ],
-    "data": "05/08/2026"
-  },
-  {
-    "id": "carne-assada-com-batatas-e-legumes-3ec86c",
-    "titulo": "Carne Assada com Batatas e Legumes",
-    "tags": [
-      "carne_vermelha",
-      "forno",
-      "rende_sobra"
-    ],
-    "data": "06/08/2026"
-  },
-  {
     "id": "bife-grelhado-com-salada-de-gr-os-e-legu-35ef1e",
     "titulo": "Bife Grelhado com Salada de Grãos e Legumes",
     "tags": [
@@ -5075,6 +4905,193 @@
       "sobremesa",
       "rapido",
       "sem_cozimento"
+    ],
+    "data": "18/10/2026"
+  },
+  {
+    "id": "picadinho-de-carne-com-arroz-e-couve-ref-934011",
+    "titulo": "Picadinho de Carne com Arroz e Couve Refogada",
+    "tags": [
+      "carne_vermelha",
+      "refogado",
+      "rapido",
+      "equilibrado"
+    ],
+    "data": "18/10/2026"
+  },
+  {
+    "id": "frango-xadrez-light-8e58bc",
+    "titulo": "Frango Xadrez Light",
+    "tags": [
+      "frango",
+      "refogado",
+      "rapido",
+      "equilibrado"
+    ],
+    "data": "18/10/2026"
+  },
+  {
+    "id": "bolo-de-carne-mo-da-simples-no-forno-4b1bc9",
+    "titulo": "Bolo de Carne Moída Simples no Forno",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "proteina",
+      "equilibrado"
+    ],
+    "data": "18/10/2026"
+  },
+  {
+    "id": "picanha-su-na-assada-com-batatas-r-stica-029d51",
+    "titulo": "Picanha Suína Assada com Batatas Rústicas",
+    "tags": [
+      "porco",
+      "forno",
+      "equilibrado",
+      "proteina"
+    ],
+    "data": "18/10/2026"
+  },
+  {
+    "id": "frango-ensopado-com-batatas-e-cenouras-f80475",
+    "titulo": "Frango Ensopado com Batatas e Cenouras",
+    "tags": [
+      "frango",
+      "refogado",
+      "equilibrado",
+      "proteina"
+    ],
+    "data": "18/10/2026"
+  },
+  {
+    "id": "carne-de-panela-com-legumes-na-press-o-258a3c",
+    "titulo": "Carne de Panela com Legumes na Pressão",
+    "tags": [
+      "carne_vermelha",
+      "panela_pressao",
+      "equilibrado",
+      "proteina"
+    ],
+    "data": "18/10/2026"
+  },
+  {
+    "id": "alm-ndegas-de-frango-assadas-ao-sugo-com-7c9cbf",
+    "titulo": "Almôndegas de Frango Assadas ao Sugo com Arroz",
+    "tags": [
+      "frango",
+      "forno",
+      "proteina",
+      "equilibrado"
+    ],
+    "data": "18/10/2026"
+  },
+  {
+    "id": "salm-o-assado-com-legumes-no-forno-nico--52692e",
+    "titulo": "Salmão Assado com Legumes no Forno (ÚNICO PEIXE DA SEMANA)",
+    "tags": [
+      "peixe",
+      "forno",
+      "low_carb",
+      "rapido"
+    ],
+    "data": "18/10/2026"
+  },
+  {
+    "id": "bife-de-alcatra-grelhado-com-pur-de-mand-ef6a77",
+    "titulo": "Bife de Alcatra Grelhado com Purê de Mandioca e Brócolis",
+    "tags": [
+      "carne_vermelha",
+      "grelhado",
+      "equilibrado",
+      "rapido"
+    ],
+    "data": "18/10/2026"
+  },
+  {
+    "id": "espetinhos-de-frango-com-legumes-grelhad-00b479",
+    "titulo": "Espetinhos de Frango com Legumes Grelhados",
+    "tags": [
+      "frango",
+      "grelhado",
+      "rapido",
+      "equilibrado"
+    ],
+    "data": "18/10/2026"
+  },
+  {
+    "id": "bife-de-panela-com-cebola-e-piment-o-ade808",
+    "titulo": "Bife de Panela com Cebola e Pimentão",
+    "tags": [
+      "carne_vermelha",
+      "refogado",
+      "rapido",
+      "proteina"
+    ],
+    "data": "18/10/2026"
+  },
+  {
+    "id": "picanha-assada-com-batatas-recheadas-3d9781",
+    "titulo": "Picanha Assada com Batatas Recheadas",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "grelhado",
+      "proteina"
+    ],
+    "data": "18/10/2026"
+  },
+  {
+    "id": "frango-com-creme-de-milho-cremoso-e-arro-1bf36c",
+    "titulo": "Frango com Creme de Milho Cremoso e Arroz",
+    "tags": [
+      "frango",
+      "refogado",
+      "rapido",
+      "equilibrado"
+    ],
+    "data": "18/10/2026"
+  },
+  {
+    "id": "torta-de-liquidificador-de-atum-com-sala-20021f",
+    "titulo": "Torta de Liquidificador de Atum com Salada",
+    "tags": [
+      "ovos",
+      "rapido",
+      "vegetariano",
+      "forno"
+    ],
+    "data": "18/10/2026"
+  },
+  {
+    "id": "costela-bovina-assada-com-batatas-r-stic-26a5a7",
+    "titulo": "Costela Bovina Assada com Batatas Rústicas",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "proteina",
+      "equilibrado"
+    ],
+    "data": "18/10/2026"
+  },
+  {
+    "id": "frango-assado-com-legumes-na-airfryer-c9c5e3",
+    "titulo": "Frango Assado com Legumes na Airfryer",
+    "tags": [
+      "frango",
+      "airfryer",
+      "rapido",
+      "equilibrado"
+    ],
+    "data": "18/10/2026"
+  },
+  {
+    "id": "fraldinha-na-panela-de-press-o-com-batat-bbce09",
+    "titulo": "Fraldinha na Panela de Pressão com Batatas e Molho",
+    "tags": [
+      "carne_vermelha",
+      "panela_pressao",
+      "proteina",
+      "equilibrado"
     ],
     "data": "18/10/2026"
   }
