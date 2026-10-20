@@ -1,35 +1,5 @@
 [
   {
-    "id": "bife-de-panela-de-press-o-com-legumes-391f38",
-    "titulo": "Bife de Panela de Pressão com Legumes",
-    "tags": [
-      "carne_vermelha",
-      "rapido",
-      "equilibrado"
-    ],
-    "data": "07/08/2026"
-  },
-  {
-    "id": "bife-grelhado-com-chimichurri-fresco-e-b-f3ddb4",
-    "titulo": "Bife Grelhado com Chimichurri Fresco e Batata Doce Assada",
-    "tags": [
-      "carne_vermelha",
-      "grelhado",
-      "equilibrado"
-    ],
-    "data": "07/08/2026"
-  },
-  {
-    "id": "frango-cremoso-com-milho-e-arroz-1dacb5",
-    "titulo": "Frango Cremoso com Milho e Arroz",
-    "tags": [
-      "frango",
-      "rapido",
-      "equilibrado"
-    ],
-    "data": "07/08/2026"
-  },
-  {
     "id": "estrogonofe-de-carne-tradicional-de3732",
     "titulo": "Estrogonofe de Carne Tradicional",
     "tags": [
@@ -5094,5 +5064,35 @@
       "grelhado"
     ],
     "data": "19/10/2026"
+  },
+  {
+    "id": "bife-grelhado-com-salada-de-batata-assad-bed73d",
+    "titulo": "Bife Grelhado com Salada de Batata Assada",
+    "tags": [
+      "carne_vermelha",
+      "grelhado",
+      "rapido"
+    ],
+    "data": "20/10/2026"
+  },
+  {
+    "id": "bolo-de-carne-recheado-com-queijo-no-for-05646f",
+    "titulo": "Bolo de Carne Recheado com Queijo no Forno",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "rapido"
+    ],
+    "data": "20/10/2026"
+  },
+  {
+    "id": "salada-verde-com-tomate-cereja-e-molho-b-0f6167",
+    "titulo": "Salada Verde com Tomate Cereja e Molho Balsâmico",
+    "tags": [
+      "salada",
+      "rapido",
+      "vegetariano"
+    ],
+    "data": "20/10/2026"
   }
 ]

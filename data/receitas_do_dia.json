@@ -1,164 +1,130 @@
 {
-  "gerado_em": "19/10/2026",
+  "gerado_em": "20/10/2026",
   "diario": {
     "tipo": "diario",
-    "data": "19/10/2026",
-    "dia_semana": "segunda",
+    "data": "20/10/2026",
+    "dia_semana": "terça",
     "pratos": [
       {
-        "nome": "Rosbife de Filé Mignon",
+        "nome": "Bife Grelhado com Salada de Batata Assada",
         "curso": "principal",
-        "tempo": "40 min",
-        "url": "https://www.panelinha.com.br/receita/rosbife-de-file-mignon",
-        "porque": "Esta receita é prática, com preparo rápido no forno, e o rosbife é uma carne vermelha preferida do casal, rica em proteína e ideal para sobras.",
+        "tempo": "35 min",
+        "url": "https://www.panelinha.com.br/receita/Salada-de-batata-assada-com-maionese-caseira",
+        "porque": "Carne vermelha preferida do casal, grelhado para pouca fritura, prático e equilibrado com carboidrato e vegetais.",
+        "tags": [
+          "carne_vermelha",
+          "grelhado",
+          "rapido"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "2 bifes de alcatra ou contrafilé (~180g cada)",
+          "500g de batata-bolinha (ou batatas comuns)",
+          "3 colheres (sopa) de azeite",
+          "1/2 cebola roxa pequena picada",
+          "2 colheres (sopa) de cheiro-verde picado (salsinha e cebolinha)",
+          "1 colher (sopa) de mostarda dijon (ou amarela)",
+          "1 colher (sopa) de vinagre de vinho branco (ou suco de limão)",
+          "Sal e pimenta-do-reino moída na hora a gosto"
+        ],
+        "preparo": [
+          "Lave bem as batatas com casca e corte ao meio ou em cubos. Transfira para uma assadeira, regue com 2 colheres de azeite, tempere com sal e pimenta. Asse em forno preaquecido a 200°C por cerca de 25-30 minutos, ou até ficarem macias e levemente douradas.",
+          "Enquanto as batatas assam, tempere os bifes com sal e pimenta-do-reino a gosto. Aqueça uma frigideira ou grelha em fogo alto com 1 colher de azeite.",
+          "Grelhe os bifes por 2-4 minutos de cada lado, dependendo do ponto desejado. Retire e reserve.",
+          "Para a salada, em uma tigela, misture a cebola roxa picada, o cheiro-verde, a mostarda, o vinagre, um fio de azeite, sal e pimenta.",
+          "Quando as batatas estiverem prontas, deixe-as amornar um pouco e adicione à tigela com o molho. Misture delicadamente.",
+          "Sirva o bife grelhado acompanhado da salada de batata assada."
+        ],
+        "id": "bife-grelhado-com-salada-de-batata-assad-bed73d"
+      },
+      {
+        "nome": "Bolo de Carne Recheado com Queijo no Forno",
+        "curso": "principal",
+        "tempo": "50 min",
+        "url": "https://www.guiadacozinha.com.br/receitas/bolo-de-carne-recheado/",
+        "porque": "Carne vermelha preferida, assado no forno (pouca fritura), prático, saboroso e equilibrado.",
         "tags": [
           "carne_vermelha",
           "forno",
-          "rapido",
-          "grelhado"
+          "rapido"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "1 peça de filé mignon (~800g)",
-          "2 colheres de sopa de azeite",
-          "Sal a gosto",
-          "Pimenta-do-reino moída na hora a gosto"
+          "1 kg de carne moída",
+          "1/2 cebola pequena ralada",
+          "1 dente de alho picado",
+          "Sal e cheiro-verde picado a gosto",
+          "Azeite para untar e regar",
+          "300g de queijo muçarela ralado ou fatiado",
+          "1 xícara (chá) de requeijão cremoso (opcional)"
         ],
         "preparo": [
-          "Preaqueça o forno a 200°C.",
-          "Tempere o filé mignon com sal e pimenta-do-reino por todos os lados.",
-          "Em uma frigideira grande e que possa ir ao forno, aqueça o azeite em fogo alto e sele a carne por cerca de 2 minutos de cada lado, até dourar bem.",
-          "Leve a frigideira com a carne ao forno preaquecido por 15-20 minutos para um ponto malpassado, ou mais, se preferir.",
-          "Retire do forno, cubra com papel alumínio e deixe descansar por 10 minutos antes de fatiar."
+          "Em uma tigela, misture a carne moída, a cebola ralada, o alho picado, sal e cheiro-verde a gosto. Amasse bem até incorporar todos os temperos.",
+          "Em um refratário untado com azeite, espalhe metade da carne temperada, formando uma camada uniforme.",
+          "Distribua o queijo muçarela sobre a carne. Se for usar, adicione o requeijão cremoso por cima do queijo.",
+          "Cubra com o restante da carne moída, modelando para fechar o recheio. Regue com um fio de azeite.",
+          "Leve ao forno médio (180-200°C) preaquecido por cerca de 30-40 minutos, ou até dourar e a carne estar cozida.",
+          "Retire do forno e sirva em fatias."
         ],
-        "id": "rosbife-de-fil-mignon-a380c3"
+        "id": "bolo-de-carne-recheado-com-queijo-no-for-05646f"
       },
       {
-        "nome": "Paleta Bovina Assada com Batatas",
-        "curso": "principal",
-        "tempo": "20 min",
-        "url": "https://gshow.globo.com/receitas-gshow/receitas/paleta-de-carne-assada-com-batatas-613093b5a452fc70b8089e37.ghtml",
-        "porque": "A paleta bovina assada é uma excelente fonte de proteína de carne vermelha, com preparo ativo mínimo e que rende muitas porções para sobras.",
-        "tags": [
-          "carne_vermelha",
-          "forno",
-          "equilibrio"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "1 kg de paleta bovina",
-          "4 batatas grandes",
-          "2 cebolas médias",
-          "4 dentes de alho picados",
-          "1/2 xícara de chá de vinho tinto seco",
-          "1/2 xícara de chá de água",
-          "Sal a gosto",
-          "Pimenta-do-reino a gosto",
-          "Cheiro-verde picado a gosto",
-          "Azeite para regar"
-        ],
-        "preparo": [
-          "Tempere a paleta com sal, pimenta, alho e cheiro-verde. Deixe marinar por pelo menos 30 minutos.",
-          "Em uma assadeira, coloque a carne, as batatas e as cebolas cortadas em pedaços grandes.",
-          "Regue com o vinho tinto, a água e um fio de azeite. Cubra com papel alumínio.",
-          "Leve ao forno preaquecido a 180°C por cerca de 1 hora e 30 minutos.",
-          "Retire o papel alumínio e asse por mais 30-40 minutos, ou até a carne e as batatas ficarem macias e douradas."
-        ],
-        "id": "paleta-bovina-assada-com-batatas-2273f0"
-      },
-      {
-        "nome": "Lasanha de Berinjela Grelhada à Bolonhesa",
-        "curso": "principal",
-        "tempo": "45 min",
-        "url": "https://www.receitas.com/receita/lasanha-de-berinjela-grelhada-com-molho-a-bolonhesa-r100411",
-        "porque": "Esta lasanha combina carne vermelha com legumes grelhados, sendo uma opção equilibrada, saborosa e que rende bem para sobras.",
-        "tags": [
-          "carne_vermelha",
-          "low_carb",
-          "forno"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "2 berinjelas grandes",
-          "300g de carne moída",
-          "1 cebola média picada",
-          "2 dentes de alho picados",
-          "1 lata de molho de tomate pelado",
-          "1/2 xícara de água",
-          "200g de queijo mussarela fatiado",
-          "Queijo parmesão ralado a gosto",
-          "Azeite a gosto",
-          "Sal a gosto",
-          "Pimenta-do-reino a gosto",
-          "Manjericão fresco a gosto"
-        ],
-        "preparo": [
-          "Corte as berinjelas em fatias finas, tempere com sal e grelhe em uma frigideira antiaderente com um fio de azeite até ficarem macias e douradas. Reserve.",
-          "Em outra panela, refogue a cebola e o alho em azeite. Adicione a carne moída e cozinhe até dourar.",
-          "Acrescente o molho de tomate, a água, sal, pimenta e manjericão. Cozinhe por 15 minutos em fogo baixo.",
-          "Em um refratário, intercale camadas de berinjela, molho à bolonhesa e queijo mussarela. Finalize com mussarela e parmesão.",
-          "Leve ao forno preaquecido a 180°C por cerca de 20 minutos, ou até gratinar."
-        ],
-        "id": "lasanha-de-berinjela-grelhada-bolonhesa-664e1d"
-      },
-      {
-        "nome": "Salada Cremosa de Ovos e Ervas",
+        "nome": "Salada Verde com Tomate Cereja e Molho Balsâmico",
         "curso": "entrada",
-        "tempo": "20 min",
-        "url": "https://www.tudogostoso.com.br/receita/184824-salada-de-ovos-cremosa.html",
-        "porque": "É uma entrada rápida, rica em proteína e fácil de preparar, ideal para abrir o jantar de forma nutritiva e saborosa.",
+        "tempo": "15 min",
+        "url": "https://www.hellmanns.com/br/receitas/salada-verde-com-tomatinhos-e-lascas-de-parmesao.html",
+        "porque": "Entrada leve, rápida, fresca e com ingredientes acessíveis, ideal para iniciar a refeição.",
         "tags": [
-          "ovos",
+          "salada",
           "rapido",
-          "salada"
+          "vegetariano"
         ],
         "rende_sobra": false,
         "ingredientes": [
-          "6 ovos cozidos",
-          "1/2 cebola roxa picada finamente",
-          "2 colheres de sopa de maionese light",
-          "1 colher de sopa de mostarda dijon",
-          "1 colher de sopa de azeite extra virgem",
-          "Sal a gosto",
-          "Pimenta-do-reino a gosto",
-          "Salsinha picada a gosto",
-          "Cebolinha picada a gosto"
+          "1 maço de alface (crespa ou americana)",
+          "1/2 maço de rúcula",
+          "1 xícara (chá) de tomate cereja",
+          "3 colheres (sopa) de vinagre balsâmico",
+          "8 colheres (sopa) de azeite de oliva extra virgem",
+          "Sal e pimenta-do-reino a gosto"
         ],
         "preparo": [
-          "Cozinhe os ovos até ficarem firmes (cerca de 10 minutos após a fervura). Resfrie em água gelada e descasque.",
-          "Pique os ovos cozidos em pedaços pequenos.",
-          "Em uma tigela, misture os ovos picados com a cebola roxa, maionese, mostarda, azeite, sal, pimenta, salsinha e cebolinha.",
-          "Misture bem até todos os ingredientes estarem incorporados. Sirva em seguida."
+          "Lave bem as folhas de alface e rúcula, seque e rasgue em pedaços menores, se necessário.",
+          "Corte os tomates cereja ao meio.",
+          "Em uma saladeira, junte as folhas e os tomates.",
+          "Em um pote pequeno com tampa, coloque o vinagre balsâmico, o azeite, sal e pimenta-do-reino a gosto.",
+          "Tampe o pote e chacoalhe bem para emulsionar o molho.",
+          "Regue a salada com o molho balsâmico e sirva imediatamente."
         ],
-        "id": "salada-cremosa-de-ovos-e-ervas-5cb618"
+        "id": "salada-verde-com-tomate-cereja-e-molho-b-0f6167"
       },
       {
-        "nome": "Frutas Grelhadas com Iogurte e Granola",
+        "nome": "Mousse de Limão Rápida",
         "curso": "sobremesa",
         "tempo": "15 min",
-        "url": "https://panelinha.com.br/receita/Frutas-grelhadas",
-        "porque": "Uma sobremesa leve, saudável e rápida de preparar, combinando o frescor das frutas com a cremosidade do iogurte e a crocância da granola.",
+        "url": "https://www.tudogostoso.com.br/receita/155693-mousse-de-limao-rapido.html",
+        "porque": "Sobremesa prática, rápida de preparar, refrescante e sem forno, com poucos ingredientes.",
         "tags": [
-          "vegetariano",
           "rapido",
-          "grelhado"
+          "sobremesa",
+          "sem_forno"
         ],
-        "rende_sobra": false,
+        "rende_sobra": true,
         "ingredientes": [
-          "1 banana",
-          "1/2 abacaxi em rodelas",
-          "1 pêssego",
-          "1 pote de iogurte natural integral",
-          "2 colheres de sopa de granola",
-          "Mel a gosto (opcional)"
+          "1 lata de leite condensado (395g)",
+          "1 lata de creme de leite (200g)",
+          "1/2 copo (americano) de suco de limão (aproximadamente 100ml-150ml)",
+          "Raspas de limão para decorar (opcional)"
         ],
         "preparo": [
-          "Corte as frutas em rodelas ou metades.",
-          "Aqueça uma frigideira ou chapa e grelhe as frutas por 2-3 minutos de cada lado, até ficarem macias e com marcas de grelha.",
-          "Distribua as frutas grelhadas em pratos.",
-          "Sirva com uma colher de iogurte natural por cima, salpique granola e, se desejar, regue com um fio de mel."
+          "No liquidificador, coloque o leite condensado e o creme de leite. Bata por cerca de 2-3 minutos até obter uma mistura homogênea.",
+          "Com o liquidificador ainda ligado, adicione o suco de limão aos poucos, em fio. A mistura irá engrossar rapidamente.",
+          "Continue batendo por mais 1 minuto para garantir que tudo esteja bem incorporado e a consistência firme.",
+          "Despeje a mousse em um refratário ou em taças individuais.",
+          "Leve à geladeira por no mínimo 4 horas, ou até firmar bem.",
+          "Na hora de servir, decore com raspas de limão, se desejar."
         ],
-        "id": "frutas-grelhadas-com-iogurte-e-granola-c159cd"
+        "id": "mousse-de-lim-o-r-pida-de62c5"
       }
     ]
   },
