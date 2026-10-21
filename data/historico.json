@@ -1,27 +1,5 @@
 [
   {
-    "id": "estrogonofe-de-carne-tradicional-de3732",
-    "titulo": "Estrogonofe de Carne Tradicional",
-    "tags": [
-      "carne_vermelha",
-      "rapido",
-      "equilibrado",
-      "rende_sobra"
-    ],
-    "data": "08/08/2026"
-  },
-  {
-    "id": "fraldinha-assada-na-cerveja-34892a",
-    "titulo": "Fraldinha Assada na Cerveja",
-    "tags": [
-      "carne_vermelha",
-      "forno",
-      "equilibrado",
-      "rende_sobra"
-    ],
-    "data": "08/08/2026"
-  },
-  {
     "id": "salada-de-ovos-cremosa-e-proteica-1b1a64",
     "titulo": "Salada de Ovos Cremosa e Proteica",
     "tags": [
@@ -5094,5 +5072,25 @@
       "vegetariano"
     ],
     "data": "20/10/2026"
+  },
+  {
+    "id": "lombo-su-no-com-refrigerante-de-laranja-cc9df4",
+    "titulo": "Lombo Suíno com Refrigerante de Laranja",
+    "tags": [
+      "porco",
+      "rapido",
+      "panela_de_pressao"
+    ],
+    "data": "21/10/2026"
+  },
+  {
+    "id": "ricota-grelhada-e9705a",
+    "titulo": "Ricota Grelhada",
+    "tags": [
+      "vegetariano",
+      "rapido",
+      "grelhado"
+    ],
+    "data": "21/10/2026"
   }
 ]

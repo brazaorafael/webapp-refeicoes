@@ -1,130 +1,123 @@
 {
-  "gerado_em": "20/10/2026",
+  "gerado_em": "21/10/2026",
   "diario": {
     "tipo": "diario",
-    "data": "20/10/2026",
-    "dia_semana": "terça",
+    "data": "21/10/2026",
+    "dia_semana": "quarta",
     "pratos": [
       {
-        "nome": "Bife Grelhado com Salada de Batata Assada",
+        "nome": "Rosbife",
         "curso": "principal",
-        "tempo": "35 min",
-        "url": "https://www.panelinha.com.br/receita/Salada-de-batata-assada-com-maionese-caseira",
-        "porque": "Carne vermelha preferida do casal, grelhado para pouca fritura, prático e equilibrado com carboidrato e vegetais.",
+        "tempo": "40 min",
+        "url": "https://www.panelinha.com.br/receita/Rosbife",
+        "porque": "Uma opção elegante de carne vermelha, o rosbife é rápido de preparar no forno e pode ser servido fatiado finamente, rendendo bem para sobras.",
         "tags": [
           "carne_vermelha",
-          "grelhado",
-          "rapido"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "2 bifes de alcatra ou contrafilé (~180g cada)",
-          "500g de batata-bolinha (ou batatas comuns)",
-          "3 colheres (sopa) de azeite",
-          "1/2 cebola roxa pequena picada",
-          "2 colheres (sopa) de cheiro-verde picado (salsinha e cebolinha)",
-          "1 colher (sopa) de mostarda dijon (ou amarela)",
-          "1 colher (sopa) de vinagre de vinho branco (ou suco de limão)",
-          "Sal e pimenta-do-reino moída na hora a gosto"
-        ],
-        "preparo": [
-          "Lave bem as batatas com casca e corte ao meio ou em cubos. Transfira para uma assadeira, regue com 2 colheres de azeite, tempere com sal e pimenta. Asse em forno preaquecido a 200°C por cerca de 25-30 minutos, ou até ficarem macias e levemente douradas.",
-          "Enquanto as batatas assam, tempere os bifes com sal e pimenta-do-reino a gosto. Aqueça uma frigideira ou grelha em fogo alto com 1 colher de azeite.",
-          "Grelhe os bifes por 2-4 minutos de cada lado, dependendo do ponto desejado. Retire e reserve.",
-          "Para a salada, em uma tigela, misture a cebola roxa picada, o cheiro-verde, a mostarda, o vinagre, um fio de azeite, sal e pimenta.",
-          "Quando as batatas estiverem prontas, deixe-as amornar um pouco e adicione à tigela com o molho. Misture delicadamente.",
-          "Sirva o bife grelhado acompanhado da salada de batata assada."
-        ],
-        "id": "bife-grelhado-com-salada-de-batata-assad-bed73d"
-      },
-      {
-        "nome": "Bolo de Carne Recheado com Queijo no Forno",
-        "curso": "principal",
-        "tempo": "50 min",
-        "url": "https://www.guiadacozinha.com.br/receitas/bolo-de-carne-recheado/",
-        "porque": "Carne vermelha preferida, assado no forno (pouca fritura), prático, saboroso e equilibrado.",
-        "tags": [
-          "carne_vermelha",
-          "forno",
-          "rapido"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "1 kg de carne moída",
-          "1/2 cebola pequena ralada",
-          "1 dente de alho picado",
-          "Sal e cheiro-verde picado a gosto",
-          "Azeite para untar e regar",
-          "300g de queijo muçarela ralado ou fatiado",
-          "1 xícara (chá) de requeijão cremoso (opcional)"
-        ],
-        "preparo": [
-          "Em uma tigela, misture a carne moída, a cebola ralada, o alho picado, sal e cheiro-verde a gosto. Amasse bem até incorporar todos os temperos.",
-          "Em um refratário untado com azeite, espalhe metade da carne temperada, formando uma camada uniforme.",
-          "Distribua o queijo muçarela sobre a carne. Se for usar, adicione o requeijão cremoso por cima do queijo.",
-          "Cubra com o restante da carne moída, modelando para fechar o recheio. Regue com um fio de azeite.",
-          "Leve ao forno médio (180-200°C) preaquecido por cerca de 30-40 minutos, ou até dourar e a carne estar cozida.",
-          "Retire do forno e sirva em fatias."
-        ],
-        "id": "bolo-de-carne-recheado-com-queijo-no-for-05646f"
-      },
-      {
-        "nome": "Salada Verde com Tomate Cereja e Molho Balsâmico",
-        "curso": "entrada",
-        "tempo": "15 min",
-        "url": "https://www.hellmanns.com/br/receitas/salada-verde-com-tomatinhos-e-lascas-de-parmesao.html",
-        "porque": "Entrada leve, rápida, fresca e com ingredientes acessíveis, ideal para iniciar a refeição.",
-        "tags": [
-          "salada",
           "rapido",
-          "vegetariano"
+          "forno"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "1 peça de carne para rosbife (filé mignon ou patinho, cerca de 1 kg)",
+          "2 colheres (sopa) de azeite",
+          "Sal a gosto",
+          "Pimenta-do-reino moída na hora a gosto"
+        ],
+        "preparo": [
+          "Preaqueça o forno a 200 ºC.",
+          "Tempere a carne com sal e pimenta-do-reino moída na hora, massageando bem.",
+          "Aqueça uma frigideira grande e antiaderente em fogo alto com o azeite. Doure a peça de carne por todos os lados até formar uma crosta.",
+          "Transfira a carne para uma assadeira e leve ao forno preaquecido por cerca de 25 minutos para um rosbife ao ponto para malpassado (ajuste o tempo se preferir mais bem passado).",
+          "Retire a carne do forno, cubra com papel alumínio e deixe descansar por 10 minutos antes de fatiar para que os sucos se redistribuam.",
+          "Fatie finamente e sirva com o acompanhamento de sua preferência."
+        ],
+        "id": "rosbife-16afb2"
+      },
+      {
+        "nome": "Lombo Suíno com Refrigerante de Laranja",
+        "curso": "principal",
+        "tempo": "30 min",
+        "url": "https://www.anamariabraga.com.br/receitas/lombo-suino-com-refrigerante-de-laranja-e-cebola-caramelizada",
+        "porque": "Esta receita de lombo suíno é uma boa fonte de proteína, utiliza panela de pressão para um preparo rápido e uma carne suculenta, rendendo bem para sobras.",
+        "tags": [
+          "porco",
+          "rapido",
+          "panela_de_pressao"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "1 kg de lombo de porco",
+          "1 gomo de linguiça calabresa defumada (sem pele)",
+          "1 cebola grande picada",
+          "3 dentes de alho amassados",
+          "1 pimentão amarelo picado",
+          "1 lata de refrigerante de laranja (350 ml)",
+          "Sal a gosto",
+          "Pimenta-do-reino a gosto",
+          "Azeite para refogar"
+        ],
+        "preparo": [
+          "Limpe o lombo suíno e faça um corte no centro para rechear. Recheie com a linguiça calabresa sem pele e tempere o lombo com sal e pimenta-do-reino.",
+          "Em uma panela de pressão, aqueça um fio de azeite e doure o lombo por todos os lados até ficar bem selado. Retire e reserve.",
+          "Na mesma panela, refogue a cebola picada até murchar. Adicione o alho amassado e o pimentão amarelo picado, refogando por mais alguns minutos.",
+          "Retorne o lombo à panela. Despeje o refrigerante de laranja sobre a carne. Tampe a panela de pressão.",
+          "Após pegar pressão, cozinhe por cerca de 20 a 25 minutos. Desligue o fogo e espere a pressão sair naturalmente.",
+          "Retire o lombo, fatie e sirva com o molho que se formou na panela."
+        ],
+        "id": "lombo-su-no-com-refrigerante-de-laranja-cc9df4"
+      },
+      {
+        "nome": "Ricota Grelhada",
+        "curso": "entrada",
+        "tempo": "10 min",
+        "url": "https://www.panelinha.com.br/receita/Ricota-grelhada",
+        "porque": "Uma entrada leve, saudável e rica em proteína, muito rápida de fazer na grelha ou frigideira, sem fritura em óleo.",
+        "tags": [
+          "vegetariano",
+          "rapido",
+          "grelhado"
         ],
         "rende_sobra": false,
         "ingredientes": [
-          "1 maço de alface (crespa ou americana)",
-          "1/2 maço de rúcula",
-          "1 xícara (chá) de tomate cereja",
-          "3 colheres (sopa) de vinagre balsâmico",
-          "8 colheres (sopa) de azeite de oliva extra virgem",
-          "Sal e pimenta-do-reino a gosto"
+          "200g de ricota fresca (em fatias grossas)",
+          "2 colheres (sopa) de azeite",
+          "Ervas frescas picadas (tomilho, alecrim, orégano) a gosto",
+          "Sal a gosto",
+          "Pimenta-do-reino moída na hora a gosto"
         ],
         "preparo": [
-          "Lave bem as folhas de alface e rúcula, seque e rasgue em pedaços menores, se necessário.",
-          "Corte os tomates cereja ao meio.",
-          "Em uma saladeira, junte as folhas e os tomates.",
-          "Em um pote pequeno com tampa, coloque o vinagre balsâmico, o azeite, sal e pimenta-do-reino a gosto.",
-          "Tampe o pote e chacoalhe bem para emulsionar o molho.",
-          "Regue a salada com o molho balsâmico e sirva imediatamente."
+          "Corte a ricota fresca em fatias de aproximadamente 1,5 cm de espessura.",
+          "Aqueça uma frigideira ou chapa antiaderente em fogo médio-alto. Regue com um fio de azeite.",
+          "Grelhe as fatias de ricota por 2 a 3 minutos de cada lado, até ficarem douradas e com as marcas da grelha.",
+          "Transfira para um prato, regue com mais um fio de azeite e tempere com sal, pimenta-do-reino e as ervas frescas picadas.",
+          "Sirva imediatamente como entrada."
         ],
-        "id": "salada-verde-com-tomate-cereja-e-molho-b-0f6167"
+        "id": "ricota-grelhada-e9705a"
       },
       {
-        "nome": "Mousse de Limão Rápida",
+        "nome": "Maçã Assada na Air Fryer",
         "curso": "sobremesa",
-        "tempo": "15 min",
-        "url": "https://www.tudogostoso.com.br/receita/155693-mousse-de-limao-rapido.html",
-        "porque": "Sobremesa prática, rápida de preparar, refrescante e sem forno, com poucos ingredientes.",
+        "tempo": "20 min",
+        "url": "https://www.panelinha.com.br/receita/Maca-assada-na-airfryer",
+        "porque": "Uma sobremesa extremamente fácil, rápida e saudável, perfeita para finalizar a refeição de forma leve, utilizando a air fryer para um preparo sem óleo.",
         "tags": [
           "rapido",
-          "sobremesa",
-          "sem_forno"
+          "airfryer"
         ],
-        "rende_sobra": true,
+        "rende_sobra": false,
         "ingredientes": [
-          "1 lata de leite condensado (395g)",
-          "1 lata de creme de leite (200g)",
-          "1/2 copo (americano) de suco de limão (aproximadamente 100ml-150ml)",
-          "Raspas de limão para decorar (opcional)"
+          "2 maçãs médias",
+          "1 colher (sopa) de mel (opcional)",
+          "1 colher (chá) de canela em pó"
         ],
         "preparo": [
-          "No liquidificador, coloque o leite condensado e o creme de leite. Bata por cerca de 2-3 minutos até obter uma mistura homogênea.",
-          "Com o liquidificador ainda ligado, adicione o suco de limão aos poucos, em fio. A mistura irá engrossar rapidamente.",
-          "Continue batendo por mais 1 minuto para garantir que tudo esteja bem incorporado e a consistência firme.",
-          "Despeje a mousse em um refratário ou em taças individuais.",
-          "Leve à geladeira por no mínimo 4 horas, ou até firmar bem.",
-          "Na hora de servir, decore com raspas de limão, se desejar."
+          "Lave bem as maçãs. Com um descaroçador ou uma faca pequena, retire o miolo e as sementes de cada maçã, formando um buraco no centro.",
+          "Em uma tigela pequena, misture o mel (se for usar) com a canela em pó até formar uma pasta.",
+          "Preencha o buraco de cada maçã com a mistura de mel e canela.",
+          "Coloque as maçãs recheadas na cesta da air fryer.",
+          "Asse a 180 °C por 15 a 20 minutos, ou até as maçãs ficarem macias. O tempo pode variar conforme o tamanho da fruta e a potência do aparelho. Sirva quente."
         ],
-        "id": "mousse-de-lim-o-r-pida-de62c5"
+        "id": "ma-assada-na-air-fryer-0f784e"
       }
     ]
   },
