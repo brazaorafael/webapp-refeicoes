@@ -1,36 +1,5 @@
 [
   {
-    "id": "salada-de-ovos-cremosa-e-proteica-1b1a64",
-    "titulo": "Salada de Ovos Cremosa e Proteica",
-    "tags": [
-      "ovos",
-      "rapido",
-      "low_carb"
-    ],
-    "data": "08/08/2026"
-  },
-  {
-    "id": "abacaxi-grelhado-com-coco-4ab063",
-    "titulo": "Abacaxi Grelhado com Coco",
-    "tags": [
-      "grelhado",
-      "rapido",
-      "fruta",
-      "leve"
-    ],
-    "data": "08/08/2026"
-  },
-  {
-    "id": "picadinho-de-carne-cl-ssico-174e25",
-    "titulo": "Picadinho de Carne Clássico",
-    "tags": [
-      "carne_vermelha",
-      "equilibrado",
-      "panela"
-    ],
-    "data": "09/08/2026"
-  },
-  {
     "id": "fil-de-frango-grelhado-com-legumes-ao-va-625aeb",
     "titulo": "Filé de Frango Grelhado com Legumes ao Vapor",
     "tags": [
@@ -5092,5 +5061,35 @@
       "grelhado"
     ],
     "data": "21/10/2026"
+  },
+  {
+    "id": "strogonoff-de-carne-3d2e2e",
+    "titulo": "Strogonoff de Carne",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "refogado"
+    ],
+    "data": "22/10/2026"
+  },
+  {
+    "id": "p-efe-de-carne-mo-da-com-palitos-de-mand-07d9eb",
+    "titulo": "Pê-efe de Carne Moída com Palitos de Mandioca Assada",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "forno"
+    ],
+    "data": "22/10/2026"
+  },
+  {
+    "id": "peras-assadas-no-micro-ondas-com-canela--e27010",
+    "titulo": "Peras Assadas no Micro-ondas com Canela e Laranja",
+    "tags": [
+      "vegetariano",
+      "rapido",
+      "low_carb"
+    ],
+    "data": "22/10/2026"
   }
 ]
