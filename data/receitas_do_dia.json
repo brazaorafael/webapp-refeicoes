@@ -1,111 +1,154 @@
 {
-  "gerado_em": "22/10/2026",
+  "gerado_em": "23/10/2026",
   "diario": {
     "tipo": "diario",
-    "data": "22/10/2026",
-    "dia_semana": "quinta",
+    "data": "23/10/2026",
+    "dia_semana": "sexta",
     "pratos": [
       {
-        "nome": "Strogonoff de Carne",
-        "curso": "principal",
-        "tempo": "20 min",
-        "url": "https://www.panelinha.com.br/receita/Strogonoff-de-carne",
-        "porque": "Um clássico rápido de fazer com carne vermelha, preparado refogado na panela, e pode ser acompanhado por arroz e salada para uma refeição balanceada.",
-        "tags": [
-          "carne_vermelha",
-          "rapido",
-          "refogado"
-        ],
-        "rende_sobra": false,
-        "ingredientes": [
-          "400g de carne (alcatra ou miolo de alcatra) em tiras de 7 cm x 1 cm",
-          "1 cebola pequena picada",
-          "1 dente de alho picado",
-          "2 colheres (sopa) de azeite",
-          "1 xícara (chá) de cogumelos frescos fatiados (opcional)",
-          "½ xícara (chá) de extrato de tomate",
-          "½ xícara (chá) de ketchup",
-          "1 colher (sopa) de mostarda",
-          "1 xícara (chá) de creme de leite fresco",
-          "2 colheres (sopa) de conhaque (opcional)",
-          "Sal e pimenta-do-reino moída na hora a gosto"
-        ],
-        "preparo": [
-          "Corte a carne em tiras e tempere com sal e pimenta-do-reino. Mantenha em temperatura ambiente.",
-          "Em uma panela média, aqueça metade do azeite e doure a carne em etapas, sem amontoar. Transfira para uma tigela.",
-          "Na mesma panela, adicione o restante do azeite, refogue a cebola e depois o alho até murchar. Adicione os cogumelos (se usar) e refogue.",
-          "Junte o extrato de tomate, ketchup e mostarda, misture bem. Se usar, adicione o conhaque e flambe (com cuidado, se for em fogão a gás).",
-          "Volte a carne para a panela, misture o creme de leite e cozinhe por alguns minutos, até aquecer bem. Sirva imediatamente com arroz branco e batata palha (ou salada)."
-        ],
-        "id": "strogonoff-de-carne-3d2e2e"
-      },
-      {
-        "nome": "Pê-efe de Carne Moída com Palitos de Mandioca Assada",
+        "nome": "Bife de Fígado Acebolado com Purê de Batata Doce",
         "curso": "principal",
         "tempo": "40 min",
-        "url": "https://www.panelinha.com.br/receita/Pe-efe-de-carne-moida-com-palitos-de-mandioca-assada",
-        "porque": "Uma refeição completa e balanceada, com carne moída refogada e mandioca assada no forno ou airfryer, oferecendo proteína e carboidrato saudável sem fritura.",
+        "url": "https://ncreceitas.com.br/figado-acebolado/",
+        "porque": "É um prato nutritivo e completo, com proteína de fígado e carboidrato saudável da batata doce, preparado de forma rápida e com pouca gordura.",
         "tags": [
           "carne_vermelha",
           "rapido",
-          "forno"
-        ],
-        "rende_sobra": false,
-        "ingredientes": [
-          "500g de carne moída (acém ou patinho)",
-          "1,5 kg de mandioca (cerca de 1,2 kg descascada)",
-          "1 cebola média picada",
-          "2 dentes de alho picados",
-          "3 colheres (sopa) de azeite",
-          "½ xícara (chá) de água fervente ou caldo de carne",
-          "Sal e pimenta-do-reino moída na hora a gosto",
-          "Cheiro-verde picado a gosto (salsinha e cebolinha)"
-        ],
-        "preparo": [
-          "Pré-aqueça o forno a 220 ºC. Descasque a mandioca, corte em pedaços e cozinhe na panela de pressão com água por 5 minutos após o apito.",
-          "Retire a mandioca, corte em palitos, tempere com azeite, sal e pimenta. Espalhe em uma assadeira e leve ao forno por 20-30 minutos, virando na metade do tempo, até dourar.",
-          "Enquanto a mandioca assa, aqueça 1 colher de azeite em uma panela e doure a carne moída, mexendo para soltar. Tempere com sal e pimenta e reserve.",
-          "Na mesma panela, adicione o restante do azeite, refogue a cebola e o alho até ficarem macios.",
-          "Volte a carne moída para a panela, adicione a água fervente ou caldo, misture e cozinhe por alguns minutos. Finalize com cheiro-verde."
-        ],
-        "id": "p-efe-de-carne-mo-da-com-palitos-de-mand-07d9eb"
-      },
-      {
-        "nome": "Salada Grega",
-        "curso": "entrada",
-        "tempo": "15 min",
-        "url": "https://www.panelinha.com.br/receita/Salada-grega",
-        "porque": "Uma entrada fresca, leve e saudável, rica em vegetais e com a proteína do queijo feta, rápida de montar e sem cozimento.",
-        "tags": [
-          "vegetariano",
-          "salada",
-          "rapido"
+          "equilibrado",
+          "low_carb"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "3 tomates maduros",
-          "1 pepino comum",
-          "1 cebola-roxa pequena",
-          "100g de queijo feta em peça",
-          "⅓ de xícara (chá) de azeitona preta grega",
-          "Azeite a gosto",
-          "Orégano seco a gosto",
-          "Sal e pimenta-do-reino moída na hora a gosto"
+          "500g de fígado bovino em bifes",
+          "2 cebolas grandes cortadas em rodelas",
+          "3 dentes de alho picados",
+          "Suco de 1 limão",
+          "2 colheres de sopa de leite (para marinar)",
+          "2 colheres de sopa de óleo ou azeite",
+          "1 colher de sopa de manteiga",
+          "Sal a gosto",
+          "Pimenta-do-reino a gosto",
+          "Cheiro-verde picado a gosto (para finalizar)",
+          "1 kg de batata doce (laranja ou roxa), descascada e picada em cubos médios",
+          "2 colheres de sopa de manteiga sem sal",
+          "1/2 xícara (chá) de leite",
+          "Sal a gosto"
         ],
         "preparo": [
-          "Corte os tomates em gomos e polvilhe com sal. Reserve para soltar o excesso de água.",
-          "Fatie o pepino em rodelas e a cebola roxa em meias-luas finas. Mergulhe a cebola em água gelada por alguns minutos para suavizar o sabor.",
-          "Escorra a água dos tomates e da cebola. Em uma tigela, junte os tomates, pepino, cebola, azeitonas e o queijo feta cortado em cubos.",
-          "Regue com bastante azeite, tempere com orégano e pimenta-do-reino moída na hora a gosto. Misture delicadamente e sirva."
+          "Comece pelo fígado: retire peles/nervos, coloque os bifes em um recipiente com o leite e deixe marinar por 15-20 minutos para suavizar o sabor e amaciar.",
+          "Enquanto isso, prepare o purê: cozinhe a batata doce em cubos em água com uma pitada de sal por 15-20 minutos até ficar macia. Escorra bem e amasse.",
+          "Retorne a batata amassada à panela em fogo baixo, adicione a manteiga, o leite e sal a gosto, mexendo até obter um purê cremoso e homogêneo. Reserve aquecido.",
+          "Escorra o leite do fígado e tempere com alho, sal, pimenta-do-reino e suco de limão.",
+          "Em uma frigideira grande, aqueça 1 colher de sopa de óleo, refogue as cebolas até dourarem e reserve. Na mesma frigideira, adicione mais óleo se necessário e frite os bifes por 2-3 minutos de cada lado.",
+          "Retorne as cebolas à frigideira com o fígado, misture, finalize com cheiro-verde e sirva imediatamente com o purê de batata doce."
         ],
-        "id": "salada-grega-1e425d"
+        "id": "bife-de-f-gado-acebolado-com-pur-de-bata-238af2"
       },
       {
-        "nome": "Peras Assadas no Micro-ondas com Canela e Laranja",
+        "nome": "Escondidinho de Carne Seca com Mandioca",
+        "curso": "principal",
+        "tempo": "45 min",
+        "url": "https://www.friboi.com.br/receita/escondidinho-de-carne-seca/",
+        "porque": "Um prato clássico e reconfortante, rico em proteínas e carboidratos, que pode ser preparado e gratinado no forno, ideal para um jantar substancioso e com boa frequência de carne vermelha.",
+        "tags": [
+          "carne_vermelha",
+          "forno",
+          "equilibrado",
+          "rende_sobra"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "600g de carne seca dessalgada e desfiada",
+          "1kg de mandioca (macaxeira/aipim) descascada",
+          "500ml de leite integral",
+          "100g de manteiga sem sal",
+          "200g de queijo coalho ralado fino (ou mussarela)",
+          "50ml de azeite",
+          "200g de cebola em tiras",
+          "5 dentes de alho picados",
+          "1/2 xícara de chá de cheiro verde picado",
+          "Sal e pimenta-do-reino branca moída a gosto"
+        ],
+        "preparo": [
+          "Cozinhe a mandioca em água com sal até ficar bem macia (aprox. 20 minutos). Escorra e amasse bem, formando um purê.",
+          "Em uma panela, misture o purê de mandioca com o leite e a manteiga em fogo baixo, mexendo até ficar cremoso e homogêneo. Acerte o sal e a pimenta. Reserve.",
+          "Em uma frigideira, refogue a cebola no azeite até ficar transparente. Adicione o alho picado e, em seguida, a carne seca desfiada. Refogue por alguns minutos.",
+          "Desligue o fogo, misture o cheiro-verde picado à carne seca e reserve.",
+          "Em um refratário que possa ir ao forno, faça uma camada com metade do purê de mandioca, distribua o recheio de carne seca e cubra com o restante do purê.",
+          "Finalize com o queijo ralado por cima e leve ao forno pré-aquecido (alto) para gratinar até dourar."
+        ],
+        "id": "escondidinho-de-carne-seca-com-mandioca-d91f68"
+      },
+      {
+        "nome": "Tiras de Carne com Brócolis e Gengibre",
+        "curso": "principal",
+        "tempo": "30 min",
+        "url": "https://receitasdeliciosas.com/tiras-de-carne-com-brocolis/",
+        "porque": "Uma refeição rápida e saborosa com influência oriental, combinando tiras de carne suculentas com brócolis nutritivos e o toque fresco do gengibre.",
+        "tags": [
+          "carne_vermelha",
+          "rapido",
+          "equilibrado",
+          "grelhado"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "450g de carne bovina (contrafilé, coxão mole ou alcatra) em tiras finas",
+          "450g de brócolis (frescos), separados em floretes",
+          "2 colheres de sopa de azeite extra virgem",
+          "1 colher de chá de gengibre fresco ralado",
+          "2 dentes de alho picados",
+          "6 colheres de sopa de molho de soja (shoyu)",
+          "1 1/2 colher de sopa de amido de milho",
+          "120ml de água (quente)",
+          "Sal e pimenta do reino a gosto",
+          "Sementes de gergelim torradas (opcional, para finalizar)"
+        ],
+        "preparo": [
+          "Corte a carne em tiras finas contra as fibras. Em uma tigela, tempere a carne com 2 colheres de sopa de shoyu, o amido de milho, sal e pimenta. Deixe marinar por 10-15 minutos.",
+          "Enquanto a carne marina, cozinhe os floretes de brócolis no vapor ou em água fervente por 3-5 minutos até ficarem al dente. Escorra e reserve.",
+          "Em uma frigideira grande ou wok, aqueça 1 colher de sopa de azeite em fogo alto. Adicione a carne marinada e salteie por 2-3 minutos até dourar. Retire a carne e reserve.",
+          "Na mesma frigideira, adicione o azeite restante, o alho picado e o gengibre ralado. Refogue por 1 minuto até perfumar.",
+          "Misture o restante do shoyu com a água quente. Adicione os brócolis cozidos e a carne reservada à frigideira. Despeje o molho e mexa bem para incorporar.",
+          "Cozinhe por mais 1-2 minutos, até o molho engrossar levemente. Sirva imediatamente, opcionalmente com sementes de gergelim por cima."
+        ],
+        "id": "tiras-de-carne-com-br-colis-e-gengibre-f21f2f"
+      },
+      {
+        "nome": "Espetinhos de Queijo Coalho com Tomate Cereja",
+        "curso": "entrada",
+        "tempo": "20 min",
+        "url": "https://www.swift.com.br/receita/espetinho-de-queijo-coalho",
+        "porque": "Uma entrada rápida e apetitosa, com o queijo coalho grelhado e a acidez do tomate cereja, perfeita para abrir o apetite e sem fritura.",
+        "tags": [
+          "vegetariano",
+          "grelhado",
+          "rapido"
+        ],
+        "rende_sobra": false,
+        "ingredientes": [
+          "200g de queijo coalho em cubos ou palitos",
+          "1 xícara de tomate cereja",
+          "Fio de azeite",
+          "Orégano a gosto",
+          "Sal e pimenta do reino a gosto",
+          "Palitos de churrasco"
+        ],
+        "preparo": [
+          "Em uma tigela pequena, tempere os tomates cereja com um fio de azeite, sal, pimenta do reino e orégano.",
+          "Monte os espetinhos alternando cubos de queijo coalho com os tomates cereja.",
+          "Aqueça uma chapa, grelha ou frigideira antiaderente (pode ser na airfryer) com um fio de azeite.",
+          "Grelhe os espetinhos por todos os lados até o queijo coalho dourar e o tomate cereja amolecer levemente.",
+          "Sirva os espetinhos imediatamente como entrada."
+        ],
+        "id": "espetinhos-de-queijo-coalho-com-tomate-c-e67dd1"
+      },
+      {
+        "nome": "Salada de Frutas com Iogurte e Granola",
         "curso": "sobremesa",
         "tempo": "10 min",
-        "url": "https://www.panelinha.com.br/receita/Peras-assadas-no-micro-ondas-com-canela-e-laranja",
-        "porque": "Uma sobremesa leve, saudável e com preparo rápido no micro-ondas, sem fritura, ideal para finalizar a refeição de forma aromática.",
+        "url": "https://paladar.estadao.com.br/receitas/salada-de-frutas-com-iogurte-granola-e-mel,10000085810",
+        "porque": "Uma sobremesa leve, refrescante e nutritiva, fácil de montar e ideal para finalizar a refeição sem pesar.",
         "tags": [
           "vegetariano",
           "rapido",
@@ -113,22 +156,23 @@
         ],
         "rende_sobra": false,
         "ingredientes": [
-          "2 peras",
-          "¼ de xícara (chá) de caldo de laranja",
-          "1 colher (sopa) de uva-passa",
-          "2 colheres (sopa) de raspas de laranja",
-          "1 colher (chá) de amido de milho",
-          "¼ de xícara (chá) de água",
-          "1 pitada de canela em pó"
+          "1 pera",
+          "3 bananas médias",
+          "10 bagos de uva",
+          "1 kiwi",
+          "10 morangos",
+          "2 copos de iogurte natural desnatado",
+          "1 xícara de chá de granola sem açúcar",
+          "2 colheres de sopa de mel (opcional)"
         ],
         "preparo": [
-          "Lave bem as peras, corte ao meio no sentido do comprimento e retire as sementes. Disponha as metades em uma assadeira refratária.",
-          "Em uma tigela refratária, misture o caldo de laranja, uva-passa, raspas de laranja, amido de milho, água e canela em pó.",
-          "Leve a mistura ao micro-ondas por 2 minutos em potência alta, até formar uma calda.",
-          "Despeje a calda sobre as peras na assadeira, cubra com tampa plástica própria para micro-ondas.",
-          "Leve as peras ao micro-ondas por 5 minutos em potência alta. Retire e deixe descansar por 5 minutos antes de servir morno."
+          "Lave e higienize todas as frutas. Descasque as bananas e o kiwi.",
+          "Corte todas as frutas em cubos ou rodelas de tamanho similar.",
+          "Distribua as frutas picadas em quatro taças individuais.",
+          "Acrescente o iogurte natural desnatado por cima das frutas.",
+          "Finalize com a granola e, se desejar, um fio de mel em cada taça. Sirva gelado."
         ],
-        "id": "peras-assadas-no-micro-ondas-com-canela--e27010"
+        "id": "salada-de-frutas-com-iogurte-e-granola-7137af"
       }
     ]
   },

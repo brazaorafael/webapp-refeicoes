@@ -1,47 +1,5 @@
 [
   {
-    "id": "fil-de-frango-grelhado-com-legumes-ao-va-625aeb",
-    "titulo": "Filé de Frango Grelhado com Legumes ao Vapor",
-    "tags": [
-      "frango",
-      "grelhado",
-      "rapido",
-      "low_carb"
-    ],
-    "data": "09/08/2026"
-  },
-  {
-    "id": "salada-fresca-de-gr-o-de-bico-com-pepino-69cbb0",
-    "titulo": "Salada Fresca de Grão de Bico com Pepino e Tomate",
-    "tags": [
-      "salada",
-      "vegetariano",
-      "rapido",
-      "low_carb"
-    ],
-    "data": "09/08/2026"
-  },
-  {
-    "id": "carne-mo-da-refogada-com-pur-de-mandioqu-fc1d87",
-    "titulo": "Carne Moída Refogada com Purê de Mandioquinha",
-    "tags": [
-      "carne_vermelha",
-      "rapido",
-      "equilibrio"
-    ],
-    "data": "09/08/2026"
-  },
-  {
-    "id": "bife-de-cox-o-mole-grelhado-com-arroz-br-254c17",
-    "titulo": "Bife de Coxão Mole Grelhado com Arroz Branco e Salada de Rúcula",
-    "tags": [
-      "carne_vermelha",
-      "grelhado",
-      "rapido"
-    ],
-    "data": "09/08/2026"
-  },
-  {
     "id": "salada-simples-de-folhas-verdes-com-toma-6e6ba2",
     "titulo": "Salada Simples de Folhas Verdes com Tomate Cereja",
     "tags": [
@@ -5091,5 +5049,47 @@
       "low_carb"
     ],
     "data": "22/10/2026"
+  },
+  {
+    "id": "bife-de-f-gado-acebolado-com-pur-de-bata-238af2",
+    "titulo": "Bife de Fígado Acebolado com Purê de Batata Doce",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "equilibrado",
+      "low_carb"
+    ],
+    "data": "23/10/2026"
+  },
+  {
+    "id": "tiras-de-carne-com-br-colis-e-gengibre-f21f2f",
+    "titulo": "Tiras de Carne com Brócolis e Gengibre",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "equilibrado",
+      "grelhado"
+    ],
+    "data": "23/10/2026"
+  },
+  {
+    "id": "espetinhos-de-queijo-coalho-com-tomate-c-e67dd1",
+    "titulo": "Espetinhos de Queijo Coalho com Tomate Cereja",
+    "tags": [
+      "vegetariano",
+      "grelhado",
+      "rapido"
+    ],
+    "data": "23/10/2026"
+  },
+  {
+    "id": "salada-de-frutas-com-iogurte-e-granola-7137af",
+    "titulo": "Salada de Frutas com Iogurte e Granola",
+    "tags": [
+      "vegetariano",
+      "rapido",
+      "low_carb"
+    ],
+    "data": "23/10/2026"
   }
 ]
