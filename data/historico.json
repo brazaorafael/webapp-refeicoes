@@ -1,35 +1,5 @@
 [
   {
-    "id": "salada-simples-de-folhas-verdes-com-toma-6e6ba2",
-    "titulo": "Salada Simples de Folhas Verdes com Tomate Cereja",
-    "tags": [
-      "salada",
-      "rapido",
-      "vegetariano"
-    ],
-    "data": "09/08/2026"
-  },
-  {
-    "id": "banana-assada-com-canela-e-mel-644926",
-    "titulo": "Banana Assada com Canela e Mel",
-    "tags": [
-      "rapido",
-      "low_carb",
-      "frutas"
-    ],
-    "data": "09/08/2026"
-  },
-  {
-    "id": "tiras-de-carne-aceboladas-com-arroz-inte-76d02d",
-    "titulo": "Tiras de Carne Aceboladas com Arroz Integral e Brócolis no Vapor",
-    "tags": [
-      "carne_vermelha",
-      "rapido",
-      "equilibrio"
-    ],
-    "data": "09/08/2026"
-  },
-  {
     "id": "salada-de-folhas-verdes-com-tomate-cerej-3764da",
     "titulo": "Salada de Folhas Verdes com Tomate Cereja e Queijo Branco",
     "tags": [
@@ -5091,5 +5061,37 @@
       "low_carb"
     ],
     "data": "23/10/2026"
+  },
+  {
+    "id": "bife-grelhado-com-salada-fresca-fb1eb9",
+    "titulo": "Bife Grelhado com Salada Fresca",
+    "tags": [
+      "carne_vermelha",
+      "grelhado",
+      "rapido",
+      "equilibrado"
+    ],
+    "data": "24/10/2026"
+  },
+  {
+    "id": "carne-mo-da-refogada-simples-c90dc2",
+    "titulo": "Carne Moída Refogada Simples",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "refogado",
+      "rende_sobra"
+    ],
+    "data": "24/10/2026"
+  },
+  {
+    "id": "bruschettas-de-tomate-e-manjeric-o-b56174",
+    "titulo": "Bruschettas de Tomate e Manjericão",
+    "tags": [
+      "vegetariano",
+      "rapido",
+      "entrada"
+    ],
+    "data": "24/10/2026"
   }
 ]

@@ -1,178 +1,129 @@
 {
-  "gerado_em": "23/10/2026",
+  "gerado_em": "24/10/2026",
   "diario": {
     "tipo": "diario",
-    "data": "23/10/2026",
-    "dia_semana": "sexta",
+    "data": "24/10/2026",
+    "dia_semana": "sábado",
     "pratos": [
       {
-        "nome": "Bife de Fígado Acebolado com Purê de Batata Doce",
+        "nome": "Bife Grelhado com Salada Fresca",
         "curso": "principal",
-        "tempo": "40 min",
-        "url": "https://ncreceitas.com.br/figado-acebolado/",
-        "porque": "É um prato nutritivo e completo, com proteína de fígado e carboidrato saudável da batata doce, preparado de forma rápida e com pouca gordura.",
+        "tempo": "20 min",
+        "url": "https://coisasecoisinhas.blogs.sapo.pt/bifes-grelhados-com-salada-fresca-de-24578",
+        "porque": "Uma opção rápida e saborosa de carne vermelha, preferida pelo casal, complementada por uma salada leve e equilibrada.",
+        "tags": [
+          "carne_vermelha",
+          "grelhado",
+          "rapido",
+          "equilibrado"
+        ],
+        "rende_sobra": false,
+        "ingredientes": [
+          "2 bifes de alcatra (ou contrafilé, ~180g cada)",
+          "Sal e pimenta-do-reino a gosto",
+          "1 fio de azeite para grelhar",
+          "2 tomates médios",
+          "1/2 cebola roxa pequena",
+          "Folhas de alface e rúcula a gosto",
+          "1 colher de sopa de azeite extra virgem",
+          "1 colher de chá de vinagre balsâmico (opcional)"
+        ],
+        "preparo": [
+          "Tempere os bifes com sal e pimenta-do-reino dos dois lados.",
+          "Aqueça uma frigideira ou grelha em fogo alto com um fio de azeite.",
+          "Grelhe os bifes por 3-4 minutos de cada lado, ou até o ponto desejado. Retire e deixe descansar por 1 minuto.",
+          "Enquanto isso, corte os tomates em cubos, a cebola em fatias finas e misture com as folhas verdes. Tempere a salada com azeite e vinagre balsâmico.",
+          "Sirva os bifes imediatamente com a salada fresca."
+        ],
+        "id": "bife-grelhado-com-salada-fresca-fb1eb9"
+      },
+      {
+        "nome": "Carne Moída Refogada Simples",
+        "curso": "principal",
+        "tempo": "30 min",
+        "url": "https://www.tudoreceitas.com/receita-de-carne-moida-refogada-e-soltinha-9060.html",
+        "porque": "Prato versátil e rápido, excelente fonte de proteína, com preparo simples e que pode render sobras para o dia seguinte.",
         "tags": [
           "carne_vermelha",
           "rapido",
-          "equilibrado",
-          "low_carb"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "500g de fígado bovino em bifes",
-          "2 cebolas grandes cortadas em rodelas",
-          "3 dentes de alho picados",
-          "Suco de 1 limão",
-          "2 colheres de sopa de leite (para marinar)",
-          "2 colheres de sopa de óleo ou azeite",
-          "1 colher de sopa de manteiga",
-          "Sal a gosto",
-          "Pimenta-do-reino a gosto",
-          "Cheiro-verde picado a gosto (para finalizar)",
-          "1 kg de batata doce (laranja ou roxa), descascada e picada em cubos médios",
-          "2 colheres de sopa de manteiga sem sal",
-          "1/2 xícara (chá) de leite",
-          "Sal a gosto"
-        ],
-        "preparo": [
-          "Comece pelo fígado: retire peles/nervos, coloque os bifes em um recipiente com o leite e deixe marinar por 15-20 minutos para suavizar o sabor e amaciar.",
-          "Enquanto isso, prepare o purê: cozinhe a batata doce em cubos em água com uma pitada de sal por 15-20 minutos até ficar macia. Escorra bem e amasse.",
-          "Retorne a batata amassada à panela em fogo baixo, adicione a manteiga, o leite e sal a gosto, mexendo até obter um purê cremoso e homogêneo. Reserve aquecido.",
-          "Escorra o leite do fígado e tempere com alho, sal, pimenta-do-reino e suco de limão.",
-          "Em uma frigideira grande, aqueça 1 colher de sopa de óleo, refogue as cebolas até dourarem e reserve. Na mesma frigideira, adicione mais óleo se necessário e frite os bifes por 2-3 minutos de cada lado.",
-          "Retorne as cebolas à frigideira com o fígado, misture, finalize com cheiro-verde e sirva imediatamente com o purê de batata doce."
-        ],
-        "id": "bife-de-f-gado-acebolado-com-pur-de-bata-238af2"
-      },
-      {
-        "nome": "Escondidinho de Carne Seca com Mandioca",
-        "curso": "principal",
-        "tempo": "45 min",
-        "url": "https://www.friboi.com.br/receita/escondidinho-de-carne-seca/",
-        "porque": "Um prato clássico e reconfortante, rico em proteínas e carboidratos, que pode ser preparado e gratinado no forno, ideal para um jantar substancioso e com boa frequência de carne vermelha.",
-        "tags": [
-          "carne_vermelha",
-          "forno",
-          "equilibrado",
+          "refogado",
           "rende_sobra"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "600g de carne seca dessalgada e desfiada",
-          "1kg de mandioca (macaxeira/aipim) descascada",
-          "500ml de leite integral",
-          "100g de manteiga sem sal",
-          "200g de queijo coalho ralado fino (ou mussarela)",
-          "50ml de azeite",
-          "200g de cebola em tiras",
-          "5 dentes de alho picados",
-          "1/2 xícara de chá de cheiro verde picado",
-          "Sal e pimenta-do-reino branca moída a gosto"
+          "500g de carne moída (patinho ou acém)",
+          "1 cebola média picada",
+          "2 dentes de alho amassados",
+          "1 tomate médio picado",
+          "2 colheres (sopa) de extrato de tomate (opcional)",
+          "1/2 xícara (chá) de água quente",
+          "Sal e pimenta-do-reino a gosto",
+          "Cheiro-verde picado a gosto",
+          "1 colher (sopa) de óleo"
         ],
         "preparo": [
-          "Cozinhe a mandioca em água com sal até ficar bem macia (aprox. 20 minutos). Escorra e amasse bem, formando um purê.",
-          "Em uma panela, misture o purê de mandioca com o leite e a manteiga em fogo baixo, mexendo até ficar cremoso e homogêneo. Acerte o sal e a pimenta. Reserve.",
-          "Em uma frigideira, refogue a cebola no azeite até ficar transparente. Adicione o alho picado e, em seguida, a carne seca desfiada. Refogue por alguns minutos.",
-          "Desligue o fogo, misture o cheiro-verde picado à carne seca e reserve.",
-          "Em um refratário que possa ir ao forno, faça uma camada com metade do purê de mandioca, distribua o recheio de carne seca e cubra com o restante do purê.",
-          "Finalize com o queijo ralado por cima e leve ao forno pré-aquecido (alto) para gratinar até dourar."
+          "Em uma panela, aqueça o óleo em fogo médio e refogue a cebola e o alho até dourarem.",
+          "Adicione a carne moída e frite, mexendo sempre para soltar, até mudar de cor e secar o líquido. Tempere com sal e pimenta-do-reino.",
+          "Acrescente o tomate picado e o extrato de tomate (se usar), e cozinhe por alguns minutos.",
+          "Despeje a água quente, misture bem e deixe cozinhar em fogo baixo por cerca de 10-15 minutos, ou até o molho encorpar.",
+          "Finalize com cheiro-verde picado e sirva."
         ],
-        "id": "escondidinho-de-carne-seca-com-mandioca-d91f68"
+        "id": "carne-mo-da-refogada-simples-c90dc2"
       },
       {
-        "nome": "Tiras de Carne com Brócolis e Gengibre",
-        "curso": "principal",
-        "tempo": "30 min",
-        "url": "https://receitasdeliciosas.com/tiras-de-carne-com-brocolis/",
-        "porque": "Uma refeição rápida e saborosa com influência oriental, combinando tiras de carne suculentas com brócolis nutritivos e o toque fresco do gengibre.",
+        "nome": "Bruschettas de Tomate e Manjericão",
+        "curso": "entrada",
+        "tempo": "15 min",
+        "url": "https://www.knorr.com/br/receitas/bruschettas-de-tomate-e-manjericao.html",
+        "porque": "Entrada leve e prática, sem cozimento complexo, perfeita para ser preparada rapidamente enquanto o prato principal fica pronto.",
         "tags": [
-          "carne_vermelha",
+          "vegetariano",
           "rapido",
-          "equilibrado",
-          "grelhado"
+          "entrada"
+        ],
+        "rende_sobra": false,
+        "ingredientes": [
+          "1 pão italiano ou baguete fatiado (6-8 fatias)",
+          "3 tomates maduros picados (sem sementes)",
+          "1/4 xícara (chá) de folhas de manjericão fresco picadas",
+          "1 dente de alho",
+          "3 colheres (sopa) de azeite extra virgem",
+          "Sal e pimenta-do-reino a gosto"
+        ],
+        "preparo": [
+          "Em uma tigela, misture os tomates picados, o manjericão, 2 colheres de sopa de azeite, sal e pimenta. Deixe marinar por 10 minutos.",
+          "Fatie o pão e regue as fatias com um fio de azeite. Leve ao forno pré-aquecido a 180°C ou toste numa frigideira por 5-7 minutos, até ficarem levemente douradas.",
+          "Retire o pão do forno e esfregue o dente de alho descascado na superfície de cada fatia ainda quente.",
+          "Distribua a mistura de tomate e manjericão sobre as fatias de pão torradas e sirva imediatamente."
+        ],
+        "id": "bruschettas-de-tomate-e-manjeric-o-b56174"
+      },
+      {
+        "nome": "Mousse de Limão Rápida",
+        "curso": "sobremesa",
+        "tempo": "15 min (preparo) + 2h (geladeira)",
+        "url": "https://www.receiteria.com.br/receitas-de-mousse-de-limao-rapida/",
+        "porque": "Sobremesa refrescante e prática, feita no liquidificador, ideal para finalizar a refeição de forma leve e saborosa.",
+        "tags": [
+          "rapido",
+          "sobremesa",
+          "sem_forno"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "450g de carne bovina (contrafilé, coxão mole ou alcatra) em tiras finas",
-          "450g de brócolis (frescos), separados em floretes",
-          "2 colheres de sopa de azeite extra virgem",
-          "1 colher de chá de gengibre fresco ralado",
-          "2 dentes de alho picados",
-          "6 colheres de sopa de molho de soja (shoyu)",
-          "1 1/2 colher de sopa de amido de milho",
-          "120ml de água (quente)",
-          "Sal e pimenta do reino a gosto",
-          "Sementes de gergelim torradas (opcional, para finalizar)"
+          "1 lata de leite condensado (395g)",
+          "1 lata de creme de leite (200g)",
+          "1/2 xícara (chá) de suco de limão (aproximadamente 3 limões)",
+          "Raspas de limão a gosto para decorar"
         ],
         "preparo": [
-          "Corte a carne em tiras finas contra as fibras. Em uma tigela, tempere a carne com 2 colheres de sopa de shoyu, o amido de milho, sal e pimenta. Deixe marinar por 10-15 minutos.",
-          "Enquanto a carne marina, cozinhe os floretes de brócolis no vapor ou em água fervente por 3-5 minutos até ficarem al dente. Escorra e reserve.",
-          "Em uma frigideira grande ou wok, aqueça 1 colher de sopa de azeite em fogo alto. Adicione a carne marinada e salteie por 2-3 minutos até dourar. Retire a carne e reserve.",
-          "Na mesma frigideira, adicione o azeite restante, o alho picado e o gengibre ralado. Refogue por 1 minuto até perfumar.",
-          "Misture o restante do shoyu com a água quente. Adicione os brócolis cozidos e a carne reservada à frigideira. Despeje o molho e mexa bem para incorporar.",
-          "Cozinhe por mais 1-2 minutos, até o molho engrossar levemente. Sirva imediatamente, opcionalmente com sementes de gergelim por cima."
+          "No liquidificador, bata o leite condensado e o creme de leite por 2-3 minutos, até obter uma mistura homogênea.",
+          "Com o liquidificador ainda ligado, adicione o suco de limão em fio, gradualmente, e bata até a mistura encorpar e ficar cremosa.",
+          "Despeje a mousse em um refratário ou em taças individuais.",
+          "Leve à geladeira por, no mínimo, 2 horas, ou até firmar.",
+          "Decore com raspas de limão antes de servir."
         ],
-        "id": "tiras-de-carne-com-br-colis-e-gengibre-f21f2f"
-      },
-      {
-        "nome": "Espetinhos de Queijo Coalho com Tomate Cereja",
-        "curso": "entrada",
-        "tempo": "20 min",
-        "url": "https://www.swift.com.br/receita/espetinho-de-queijo-coalho",
-        "porque": "Uma entrada rápida e apetitosa, com o queijo coalho grelhado e a acidez do tomate cereja, perfeita para abrir o apetite e sem fritura.",
-        "tags": [
-          "vegetariano",
-          "grelhado",
-          "rapido"
-        ],
-        "rende_sobra": false,
-        "ingredientes": [
-          "200g de queijo coalho em cubos ou palitos",
-          "1 xícara de tomate cereja",
-          "Fio de azeite",
-          "Orégano a gosto",
-          "Sal e pimenta do reino a gosto",
-          "Palitos de churrasco"
-        ],
-        "preparo": [
-          "Em uma tigela pequena, tempere os tomates cereja com um fio de azeite, sal, pimenta do reino e orégano.",
-          "Monte os espetinhos alternando cubos de queijo coalho com os tomates cereja.",
-          "Aqueça uma chapa, grelha ou frigideira antiaderente (pode ser na airfryer) com um fio de azeite.",
-          "Grelhe os espetinhos por todos os lados até o queijo coalho dourar e o tomate cereja amolecer levemente.",
-          "Sirva os espetinhos imediatamente como entrada."
-        ],
-        "id": "espetinhos-de-queijo-coalho-com-tomate-c-e67dd1"
-      },
-      {
-        "nome": "Salada de Frutas com Iogurte e Granola",
-        "curso": "sobremesa",
-        "tempo": "10 min",
-        "url": "https://paladar.estadao.com.br/receitas/salada-de-frutas-com-iogurte-granola-e-mel,10000085810",
-        "porque": "Uma sobremesa leve, refrescante e nutritiva, fácil de montar e ideal para finalizar a refeição sem pesar.",
-        "tags": [
-          "vegetariano",
-          "rapido",
-          "low_carb"
-        ],
-        "rende_sobra": false,
-        "ingredientes": [
-          "1 pera",
-          "3 bananas médias",
-          "10 bagos de uva",
-          "1 kiwi",
-          "10 morangos",
-          "2 copos de iogurte natural desnatado",
-          "1 xícara de chá de granola sem açúcar",
-          "2 colheres de sopa de mel (opcional)"
-        ],
-        "preparo": [
-          "Lave e higienize todas as frutas. Descasque as bananas e o kiwi.",
-          "Corte todas as frutas em cubos ou rodelas de tamanho similar.",
-          "Distribua as frutas picadas em quatro taças individuais.",
-          "Acrescente o iogurte natural desnatado por cima das frutas.",
-          "Finalize com a granola e, se desejar, um fio de mel em cada taça. Sirva gelado."
-        ],
-        "id": "salada-de-frutas-com-iogurte-e-granola-7137af"
+        "id": "mousse-de-lim-o-r-pida-de62c5"
       }
     ]
   },
