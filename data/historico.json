@@ -1,25 +1,5 @@
 [
   {
-    "id": "salada-de-folhas-verdes-com-tomate-cerej-3764da",
-    "titulo": "Salada de Folhas Verdes com Tomate Cereja e Queijo Branco",
-    "tags": [
-      "salada",
-      "vegetariano",
-      "rapido"
-    ],
-    "data": "09/08/2026"
-  },
-  {
-    "id": "iogurte-natural-com-granola-e-frutas-pic-81859f",
-    "titulo": "Iogurte Natural com Granola e Frutas Picadas",
-    "tags": [
-      "rapido",
-      "frutas",
-      "low_carb"
-    ],
-    "data": "09/08/2026"
-  },
-  {
     "id": "panquecas-de-carne-mo-da-massa-integral--904165",
     "titulo": "Panquecas de Carne Moída (massa integral, assadas)",
     "tags": [
@@ -5093,5 +5073,25 @@
       "entrada"
     ],
     "data": "24/10/2026"
+  },
+  {
+    "id": "carne-de-panela-divina-f09607",
+    "titulo": "Carne de Panela Divina",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "equilibrado"
+    ],
+    "data": "25/10/2026"
+  },
+  {
+    "id": "legumes-assados-8a5358",
+    "titulo": "Legumes Assados",
+    "tags": [
+      "vegetariano",
+      "forno",
+      "rapido"
+    ],
+    "data": "25/10/2026"
   }
 ]

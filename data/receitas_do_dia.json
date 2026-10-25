@@ -1,127 +1,164 @@
 {
-  "gerado_em": "24/10/2026",
+  "gerado_em": "25/10/2026",
   "diario": {
     "tipo": "diario",
-    "data": "24/10/2026",
-    "dia_semana": "sábado",
+    "data": "25/10/2026",
+    "dia_semana": "domingo",
     "pratos": [
       {
-        "nome": "Bife Grelhado com Salada Fresca",
+        "nome": "Carne de Panela Divina",
         "curso": "principal",
-        "tempo": "20 min",
-        "url": "https://coisasecoisinhas.blogs.sapo.pt/bifes-grelhados-com-salada-fresca-de-24578",
-        "porque": "Uma opção rápida e saborosa de carne vermelha, preferida pelo casal, complementada por uma salada leve e equilibrada.",
+        "tempo": "45 min",
+        "url": "https://maisvoce.globo.com/receita/carne-de-panela-da-ana-maria-braga-no-mais-voce-de-hoje-20201022.ghtml",
+        "porque": "É um prato de carne vermelha que cozinha na panela de pressão, liberando tempo e rendendo boas sobras, sem fritura profunda.",
         "tags": [
           "carne_vermelha",
-          "grelhado",
           "rapido",
           "equilibrado"
         ],
-        "rende_sobra": false,
+        "rende_sobra": true,
         "ingredientes": [
-          "2 bifes de alcatra (ou contrafilé, ~180g cada)",
-          "Sal e pimenta-do-reino a gosto",
-          "1 fio de azeite para grelhar",
-          "2 tomates médios",
-          "1/2 cebola roxa pequena",
-          "Folhas de alface e rúcula a gosto",
-          "1 colher de sopa de azeite extra virgem",
-          "1 colher de chá de vinagre balsâmico (opcional)"
+          "1 kg de peito bovino (sem gordura, em cubos de 3 cm)",
+          "Sal e pimenta-do-reino moída a gosto",
+          "2 colheres (sopa) de azeite",
+          "2 dentes de alho picados",
+          "120 g de cebola grande picada",
+          "Alecrim debulhado e picado a gosto",
+          "1 xícara (chá) de vinho tinto seco",
+          "3 tomates grandes picados (com pele e semente)",
+          "1 colher (sopa) de extrato de tomate",
+          "3 folhas de louro",
+          "¾ xícara (chá) de água"
         ],
         "preparo": [
-          "Tempere os bifes com sal e pimenta-do-reino dos dois lados.",
-          "Aqueça uma frigideira ou grelha em fogo alto com um fio de azeite.",
-          "Grelhe os bifes por 3-4 minutos de cada lado, ou até o ponto desejado. Retire e deixe descansar por 1 minuto.",
-          "Enquanto isso, corte os tomates em cubos, a cebola em fatias finas e misture com as folhas verdes. Tempere a salada com azeite e vinagre balsâmico.",
-          "Sirva os bifes imediatamente com a salada fresca."
+          "Tempere a carne em cubos com sal e pimenta-do-reino a gosto em uma tigela.",
+          "Em uma panela de pressão em fogo médio, coloque o azeite e doure os cubos de carne, mexendo sempre.",
+          "Adicione o alho picado, a cebola picada e o alecrim; mexa até a cebola murchar.",
+          "Despeje o vinho tinto e mexa para soltar o fundo da panela, depois junte os tomates, o extrato de tomate, o louro e a água.",
+          "Tampe a panela, abaixe o fogo e conte 25 minutos após pegar pressão.",
+          "Desligue o fogo, destampe a panela e sirva com acompanhamentos de sua preferência."
         ],
-        "id": "bife-grelhado-com-salada-fresca-fb1eb9"
+        "id": "carne-de-panela-divina-f09607"
       },
       {
-        "nome": "Carne Moída Refogada Simples",
+        "nome": "Bife Acebolado",
         "curso": "principal",
-        "tempo": "30 min",
-        "url": "https://www.tudoreceitas.com/receita-de-carne-moida-refogada-e-soltinha-9060.html",
-        "porque": "Prato versátil e rápido, excelente fonte de proteína, com preparo simples e que pode render sobras para o dia seguinte.",
+        "tempo": "20 min",
+        "url": "https://www.panelinha.com.br/receita/Bife-acebolado",
+        "porque": "Um clássico de carne vermelha, rápido de preparar na frigideira com pouco azeite, ideal para porções individuais.",
         "tags": [
           "carne_vermelha",
-          "rapido",
-          "refogado",
-          "rende_sobra"
+          "grelhado",
+          "rapido"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "500g de carne moída (patinho ou acém)",
-          "1 cebola média picada",
-          "2 dentes de alho amassados",
-          "1 tomate médio picado",
-          "2 colheres (sopa) de extrato de tomate (opcional)",
-          "1/2 xícara (chá) de água quente",
-          "Sal e pimenta-do-reino a gosto",
-          "Cheiro-verde picado a gosto",
-          "1 colher (sopa) de óleo"
+          "2 bifes de contrafilé (ou alcatra/coxão mole)",
+          "1 cebola grande",
+          "2 colheres (sopa) de água",
+          "2 colheres (chá) de vinagre de vinho branco",
+          "1 colher (chá) de manteiga (opcional)",
+          "Azeite a gosto",
+          "Sal e pimenta-do-reino moída na hora a gosto"
         ],
         "preparo": [
-          "Em uma panela, aqueça o óleo em fogo médio e refogue a cebola e o alho até dourarem.",
-          "Adicione a carne moída e frite, mexendo sempre para soltar, até mudar de cor e secar o líquido. Tempere com sal e pimenta-do-reino.",
-          "Acrescente o tomate picado e o extrato de tomate (se usar), e cozinhe por alguns minutos.",
-          "Despeje a água quente, misture bem e deixe cozinhar em fogo baixo por cerca de 10-15 minutos, ou até o molho encorpar.",
-          "Finalize com cheiro-verde picado e sirva."
+          "Retire os bifes da geladeira 10 minutos antes de cozinhar. Descasque e corte a cebola em meias-luas de 0,5 cm.",
+          "Tempere os bifes com sal e pimenta-do-reino. Em uma tigela pequena, misture a água com o vinagre.",
+          "Leve uma frigideira grande ao fogo médio para aquecer. Regue com 1 colher (chá) de azeite, coloque os bifes e grelhe por cerca de 2 minutos de cada lado, até dourar. Retire e reserve.",
+          "Na mesma frigideira, adicione um pouco mais de azeite (e a manteiga, se usar) e doure a cebola por cerca de 3 minutos.",
+          "Regue a cebola com a mistura de água e vinagre, raspando o fundo da frigideira. Deixe cozinhar por 1 minuto, até a cebola murchar.",
+          "Retorne os bifes à frigideira, misture com a cebola e sirva em seguida."
         ],
-        "id": "carne-mo-da-refogada-simples-c90dc2"
+        "id": "bife-acebolado-8e2e74"
       },
       {
-        "nome": "Bruschettas de Tomate e Manjericão",
-        "curso": "entrada",
-        "tempo": "15 min",
-        "url": "https://www.knorr.com/br/receitas/bruschettas-de-tomate-e-manjericao.html",
-        "porque": "Entrada leve e prática, sem cozimento complexo, perfeita para ser preparada rapidamente enquanto o prato principal fica pronto.",
+        "nome": "Rosbife",
+        "curso": "principal",
+        "tempo": "45 min",
+        "url": "https://www.panelinha.com.br/receita/Rosbife",
+        "porque": "Uma opção elegante e proteica de carne vermelha assada no forno, que pode ser servida quente ou fria, gerando sobras para o dia seguinte.",
         "tags": [
-          "vegetariano",
-          "rapido",
-          "entrada"
+          "carne_vermelha",
+          "forno",
+          "low_carb"
         ],
-        "rende_sobra": false,
+        "rende_sobra": true,
         "ingredientes": [
-          "1 pão italiano ou baguete fatiado (6-8 fatias)",
-          "3 tomates maduros picados (sem sementes)",
-          "1/4 xícara (chá) de folhas de manjericão fresco picadas",
-          "1 dente de alho",
-          "3 colheres (sopa) de azeite extra virgem",
-          "Sal e pimenta-do-reino a gosto"
+          "750 g de filé mignon em peça para rosbife",
+          "1 colher (chá) de mostarda amarela em pó",
+          "1 colher (chá) de páprica defumada",
+          "Azeite a gosto",
+          "Sal e pimenta-do-reino moída na hora a gosto"
         ],
         "preparo": [
-          "Em uma tigela, misture os tomates picados, o manjericão, 2 colheres de sopa de azeite, sal e pimenta. Deixe marinar por 10 minutos.",
-          "Fatie o pão e regue as fatias com um fio de azeite. Leve ao forno pré-aquecido a 180°C ou toste numa frigideira por 5-7 minutos, até ficarem levemente douradas.",
-          "Retire o pão do forno e esfregue o dente de alho descascado na superfície de cada fatia ainda quente.",
-          "Distribua a mistura de tomate e manjericão sobre as fatias de pão torradas e sirva imediatamente."
+          "Preaqueça o forno a 220 ºC (temperatura alta). Retire o filé mignon da geladeira e deixe em temperatura ambiente por 15 minutos.",
+          "Em uma tigela pequena, misture a páprica com a mostarda em pó.",
+          "Tempere a peça de filé mignon com sal, pimenta e a mistura de mostarda e páprica. Regue com ½ colher (sopa) de azeite e espalhe bem.",
+          "Leve a carne a uma assadeira e asse por cerca de 20 a 30 minutos, dependendo do ponto desejado (malpassado a ao ponto).",
+          "Retire do forno e deixe a carne descansar por 5 a 10 minutos antes de fatiar para que os sucos se redistribuam.",
+          "Fatie e sirva imediatamente, ou reserve para servir frio."
         ],
-        "id": "bruschettas-de-tomate-e-manjeric-o-b56174"
+        "id": "rosbife-16afb2"
+      },
+      {
+        "nome": "Legumes Assados",
+        "curso": "entrada",
+        "tempo": "45 min",
+        "url": "https://www.continente.pt/receitas/legumes-assados-no-forno-6188371.html",
+        "porque": "Uma entrada saudável, prática e colorida, que usa o forno e pode ser preparada enquanto o prato principal cozinha.",
+        "tags": [
+          "vegetariano",
+          "forno",
+          "rapido"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "200 g de abóbora (em cubos pequenos)",
+          "2 cenouras (em rodelas finas)",
+          "1 batata-doce (em rodelas finas)",
+          "300 g de couve-flor (em pedaços)",
+          "1 cebola roxa (laminada)",
+          "2 colheres (sopa) de azeite",
+          "1 colher (café) de sal",
+          "Pimenta do reino a gosto",
+          "1 colher (chá) de alho em pó",
+          "Tomilho em pó a gosto",
+          "Orégano fresco a gosto",
+          "Suco de 1 limão"
+        ],
+        "preparo": [
+          "Preaqueça o forno a 180 ºC. Forre um tabuleiro com papel vegetal.",
+          "Disponha a abóbora, cenouras, batata-doce, couve-flor e cebola roxa no tabuleiro.",
+          "Regue os legumes com azeite e tempere com sal, pimenta, alho em pó, tomilho em pó e orégano.",
+          "Acrescente o suco de limão e envolva bem todos os legumes.",
+          "Leve ao forno por cerca de 40 minutos, mexendo os legumes na metade do tempo para assarem uniformemente.",
+          "Retire do forno e sirva, decorando com orégano fresco."
+        ],
+        "id": "legumes-assados-8a5358"
       },
       {
         "nome": "Mousse de Limão Rápida",
         "curso": "sobremesa",
-        "tempo": "15 min (preparo) + 2h (geladeira)",
-        "url": "https://www.receiteria.com.br/receitas-de-mousse-de-limao-rapida/",
-        "porque": "Sobremesa refrescante e prática, feita no liquidificador, ideal para finalizar a refeição de forma leve e saborosa.",
+        "tempo": "15 min (mais tempo de geladeira)",
+        "url": "https://www.tudogostoso.com.br/receita/155693-mousse-de-limao-rapido.html",
+        "porque": "Uma sobremesa leve e refrescante, de preparo muito rápido no liquidificador, sem a necessidade de forno ou fogão.",
         "tags": [
           "rapido",
-          "sobremesa",
-          "sem_forno"
+          "vegetariano"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "1 lata de leite condensado (395g)",
-          "1 lata de creme de leite (200g)",
-          "1/2 xícara (chá) de suco de limão (aproximadamente 3 limões)",
-          "Raspas de limão a gosto para decorar"
+          "1 lata de leite condensado (395 g)",
+          "1 lata de creme de leite (300 g, sem soro)",
+          "½ copo (americano) de suco de limão (cerca de 120 ml)",
+          "Raspas de limão a gosto (para decorar)"
         ],
         "preparo": [
-          "No liquidificador, bata o leite condensado e o creme de leite por 2-3 minutos, até obter uma mistura homogênea.",
-          "Com o liquidificador ainda ligado, adicione o suco de limão em fio, gradualmente, e bata até a mistura encorpar e ficar cremosa.",
-          "Despeje a mousse em um refratário ou em taças individuais.",
-          "Leve à geladeira por, no mínimo, 2 horas, ou até firmar.",
-          "Decore com raspas de limão antes de servir."
+          "No liquidificador, bata o leite condensado e o creme de leite por 3 minutos.",
+          "Acrescente o suco de limão aos poucos, com o liquidificador ligado, e continue batendo até engrossar.",
+          "Despeje a mousse em um refratário ou taças individuais.",
+          "Leve à geladeira por no mínimo 2 horas para firmar.",
+          "Finalize com raspas de limão a gosto antes de servir."
         ],
         "id": "mousse-de-lim-o-r-pida-de62c5"
       }
