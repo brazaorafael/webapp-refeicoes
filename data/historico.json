@@ -1,36 +1,5 @@
 [
   {
-    "id": "bife-parmegiana-assado-e18b08",
-    "titulo": "Bife à Parmegiana Assado",
-    "tags": [
-      "carne_vermelha",
-      "forno",
-      "equilibrado"
-    ],
-    "data": "11/08/2026"
-  },
-  {
-    "id": "fil-mignon-su-no-na-airfryer-com-batatas-920524",
-    "titulo": "Filé Mignon Suíno na Airfryer com Batatas Rústicas",
-    "tags": [
-      "porco",
-      "airfryer",
-      "rapido",
-      "grelhado"
-    ],
-    "data": "11/08/2026"
-  },
-  {
-    "id": "fil-mignon-ao-molho-de-vinho-tinto-na-ai-e90fcf",
-    "titulo": "Filé Mignon ao Molho de Vinho Tinto na Air Fryer",
-    "tags": [
-      "carne_vermelha",
-      "airfryer",
-      "rapido"
-    ],
-    "data": "12/08/2026"
-  },
-  {
     "id": "carne-mo-da-gratinada-com-batatas-ao-for-1615c2",
     "titulo": "Carne Moída Gratinada com Batatas ao Forno",
     "tags": [
@@ -5091,5 +5060,38 @@
       "frutas"
     ],
     "data": "25/10/2026"
+  },
+  {
+    "id": "bife-suculento-na-airfryer-com-batatas-r-16ac6f",
+    "titulo": "Bife Suculento na Airfryer com Batatas Rústicas e Salada Verde",
+    "tags": [
+      "carne_vermelha",
+      "airfryer",
+      "rapido",
+      "grelhado"
+    ],
+    "data": "26/10/2026"
+  },
+  {
+    "id": "rosbife-de-fil-mignon-com-pur-de-batata--d3b10c",
+    "titulo": "Rosbife de Filé Mignon com Purê de Batata Doce e Aspargos Salteados",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "equilibrado",
+      "grelhado"
+    ],
+    "data": "26/10/2026"
+  },
+  {
+    "id": "crudit-s-de-legumes-com-molho-de-iogurte-76b844",
+    "titulo": "Crudités de Legumes com Molho de Iogurte e Hortelã",
+    "tags": [
+      "vegetariano",
+      "rapido",
+      "salada",
+      "low_carb"
+    ],
+    "data": "26/10/2026"
   }
 ]

@@ -1,166 +1,136 @@
 {
-  "gerado_em": "25/10/2026",
+  "gerado_em": "26/10/2026",
   "diario": {
     "tipo": "diario",
-    "data": "25/10/2026",
-    "dia_semana": "domingo",
+    "data": "26/10/2026",
+    "dia_semana": "segunda",
     "pratos": [
       {
-        "nome": "Carne de Panela Divina",
+        "nome": "Bife Suculento na Airfryer com Batatas Rústicas e Salada Verde",
         "curso": "principal",
-        "tempo": "45 min",
-        "url": "https://maisvoce.globo.com/receita/carne-de-panela-da-ana-maria-braga-no-mais-voce-de-hoje-20201022.ghtml",
-        "porque": "É um prato de carne vermelha que cozinha na panela de pressão, liberando tempo e rendendo boas sobras, sem fritura profunda.",
+        "tempo": "30 min",
+        "url": "https://www.youtube.com/watch?v=kYQkYx32T2M",
+        "porque": "Uma opção de carne vermelha rápida e sem sujeira, perfeita para duas pessoas, combinando proteína e carboidrato, e fácil de ajustar para ter uma sobra.",
         "tags": [
           "carne_vermelha",
+          "airfryer",
           "rapido",
-          "equilibrado"
+          "grelhado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "1 kg de peito bovino (sem gordura, em cubos de 3 cm)",
-          "Sal e pimenta-do-reino moída a gosto",
-          "2 colheres (sopa) de azeite",
-          "2 dentes de alho picados",
-          "120 g de cebola grande picada",
-          "Alecrim debulhado e picado a gosto",
-          "1 xícara (chá) de vinho tinto seco",
-          "3 tomates grandes picados (com pele e semente)",
-          "1 colher (sopa) de extrato de tomate",
-          "3 folhas de louro",
-          "¾ xícara (chá) de água"
+          "2 bifes de contrafilé ou alcatra (cerca de 200g cada)",
+          "2 batatas médias (lavadas, com casca)",
+          "1 colher de sopa de azeite",
+          "Sal e pimenta-do-reino a gosto",
+          "Chimichurri a gosto (opcional)",
+          "Folhas verdes para salada (alface, rúcula)",
+          "Tomate cereja (opcional)"
         ],
         "preparo": [
-          "Tempere a carne em cubos com sal e pimenta-do-reino a gosto em uma tigela.",
-          "Em uma panela de pressão em fogo médio, coloque o azeite e doure os cubos de carne, mexendo sempre.",
-          "Adicione o alho picado, a cebola picada e o alecrim; mexa até a cebola murchar.",
-          "Despeje o vinho tinto e mexa para soltar o fundo da panela, depois junte os tomates, o extrato de tomate, o louro e a água.",
-          "Tampe a panela, abaixe o fogo e conte 25 minutos após pegar pressão.",
-          "Desligue o fogo, destampe a panela e sirva com acompanhamentos de sua preferência."
+          "Lave as batatas e corte-as em gomos rústicos. Tempere com azeite, sal, pimenta e chimichurri (se usar).",
+          "Tempere os bifes com azeite, sal e pimenta-do-reino dos dois lados.",
+          "Preaqueça a airfryer a 200°C por 5 minutos. Coloque as batatas no cesto e cozinhe por 15 minutos.",
+          "Após 15 minutos, vire as batatas e adicione os bifes sobre elas. Cozinhe por mais 10-15 minutos a 200°C, virando os bifes na metade do tempo para o ponto desejado.",
+          "Enquanto os bifes e batatas cozinham, prepare uma salada simples com folhas verdes e tomate cereja. Sirva os bifes e batatas com a salada."
         ],
-        "id": "carne-de-panela-divina-f09607"
+        "id": "bife-suculento-na-airfryer-com-batatas-r-16ac6f"
       },
       {
-        "nome": "Bife Acebolado",
-        "curso": "principal",
-        "tempo": "20 min",
-        "url": "https://www.panelinha.com.br/receita/Bife-acebolado",
-        "porque": "Um clássico de carne vermelha, rápido de preparar na frigideira com pouco azeite, ideal para porções individuais.",
-        "tags": [
-          "carne_vermelha",
-          "grelhado",
-          "rapido"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "2 bifes de contrafilé (ou alcatra/coxão mole)",
-          "1 cebola grande",
-          "2 colheres (sopa) de água",
-          "2 colheres (chá) de vinagre de vinho branco",
-          "1 colher (chá) de manteiga (opcional)",
-          "Azeite a gosto",
-          "Sal e pimenta-do-reino moída na hora a gosto"
-        ],
-        "preparo": [
-          "Retire os bifes da geladeira 10 minutos antes de cozinhar. Descasque e corte a cebola em meias-luas de 0,5 cm.",
-          "Tempere os bifes com sal e pimenta-do-reino. Em uma tigela pequena, misture a água com o vinagre.",
-          "Leve uma frigideira grande ao fogo médio para aquecer. Regue com 1 colher (chá) de azeite, coloque os bifes e grelhe por cerca de 2 minutos de cada lado, até dourar. Retire e reserve.",
-          "Na mesma frigideira, adicione um pouco mais de azeite (e a manteiga, se usar) e doure a cebola por cerca de 3 minutos.",
-          "Regue a cebola com a mistura de água e vinagre, raspando o fundo da frigideira. Deixe cozinhar por 1 minuto, até a cebola murchar.",
-          "Retorne os bifes à frigideira, misture com a cebola e sirva em seguida."
-        ],
-        "id": "bife-acebolado-8e2e74"
-      },
-      {
-        "nome": "Rosbife",
+        "nome": "Rosbife de Filé Mignon com Purê de Batata Doce e Aspargos Salteados",
         "curso": "principal",
         "tempo": "45 min",
-        "url": "https://www.panelinha.com.br/receita/Rosbife",
-        "porque": "Uma opção elegante e proteica de carne vermelha assada no forno, que pode ser servida quente ou fria, gerando sobras para o dia seguinte.",
+        "url": "https://www.panelinha.com.br/receita/rosbife",
+        "porque": "Uma excelente opção de carne vermelha assada, magra e saborosa, combinada com purê de batata doce e aspargos para um prato equilibrado e saudável.",
         "tags": [
           "carne_vermelha",
           "forno",
+          "equilibrado",
+          "grelhado"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "1 peça de filé mignon (~750g)",
+          "1 colher de chá de mostarda amarela em pó",
+          "1 colher de chá de páprica defumada",
+          "Azeite a gosto",
+          "Sal e pimenta-do-reino moída na hora a gosto",
+          "2 batatas doces médias",
+          "1/4 xícara de leite (ou creme de leite leve)",
+          "1 colher de sopa de manteiga (ou azeite)",
+          "1 maço de aspargos frescos",
+          "1 dente de alho picado"
+        ],
+        "preparo": [
+          "Pré-aqueça o forno a 220°C. Retire o filé mignon da geladeira 15 min antes. Misture a mostarda e a páprica. Tempere a carne com sal, pimenta, a mistura e um fio de azeite.",
+          "Leve o filé mignon ao forno em uma assadeira por 15 minutos. Diminua a temperatura para 180°C e asse por mais 10 minutos para malpassado ou 15 minutos para ao ponto.",
+          "Enquanto o rosbife assa, cozinhe as batatas doces descascadas e picadas em água fervente até ficarem macias (cerca de 15-20 min). Escorra, amasse e misture com leite, manteiga, sal e pimenta até virar um purê cremoso.",
+          "Limpe os aspargos e corte a parte mais dura do talo. Em uma frigideira, salteie os aspargos com um fio de azeite e alho picado por 5-7 minutos, até ficarem al dente. Tempere com sal e pimenta.",
+          "Retire o rosbife do forno e deixe descansar por 10 minutos antes de fatiar. Sirva as fatias de rosbife com o purê de batata doce e os aspargos salteados."
+        ],
+        "id": "rosbife-de-fil-mignon-com-pur-de-batata--d3b10c"
+      },
+      {
+        "nome": "Crudités de Legumes com Molho de Iogurte e Hortelã",
+        "curso": "entrada",
+        "tempo": "15 min",
+        "url": "https://www.panelinha.com.br/receita/crudites-com-molho-de-iogurte",
+        "porque": "Uma entrada super leve, saudável e refrescante, que não exige cozimento e é muito rápida de preparar, com ingredientes acessíveis.",
+        "tags": [
+          "vegetariano",
+          "rapido",
+          "salada",
           "low_carb"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "750 g de filé mignon em peça para rosbife",
-          "1 colher (chá) de mostarda amarela em pó",
-          "1 colher (chá) de páprica defumada",
-          "Azeite a gosto",
-          "Sal e pimenta-do-reino moída na hora a gosto"
+          "1 xícara de iogurte natural (sem açúcar)",
+          "2 colheres de sopa de azeite",
+          "1 colher de sopa de caldo de limão",
+          "10 folhas de hortelã fresca",
+          "Sal e pimenta-do-reino moída na hora a gosto",
+          "2 cenouras",
+          "2 pepinos japoneses",
+          "2 talos de salsão",
+          "1 pimentão vermelho (opcional)"
         ],
         "preparo": [
-          "Preaqueça o forno a 220 ºC (temperatura alta). Retire o filé mignon da geladeira e deixe em temperatura ambiente por 15 minutos.",
-          "Em uma tigela pequena, misture a páprica com a mostarda em pó.",
-          "Tempere a peça de filé mignon com sal, pimenta e a mistura de mostarda e páprica. Regue com ½ colher (sopa) de azeite e espalhe bem.",
-          "Leve a carne a uma assadeira e asse por cerca de 20 a 30 minutos, dependendo do ponto desejado (malpassado a ao ponto).",
-          "Retire do forno e deixe a carne descansar por 5 a 10 minutos antes de fatiar para que os sucos se redistribuam.",
-          "Fatie e sirva imediatamente, ou reserve para servir frio."
+          "Lave e seque as folhas de hortelã. Pique fino e reserve.",
+          "Em uma tigela, misture o iogurte natural, o azeite, o caldo de limão, a hortelã picada, sal e pimenta-do-reino a gosto. Misture bem e reserve na geladeira.",
+          "Lave e seque todos os legumes. Descasque as cenouras e corte-as em palitos.",
+          "Corte os pepinos, os talos de salsão e o pimentão (se usar) em palitos de tamanho similar.",
+          "Arrume os legumes cortados em um prato ou em copinhos individuais. Sirva com o molho de iogurte e hortelã gelado."
         ],
-        "id": "rosbife-16afb2"
+        "id": "crudit-s-de-legumes-com-molho-de-iogurte-76b844"
       },
       {
-        "nome": "Legumes Assados",
-        "curso": "entrada",
-        "tempo": "45 min",
-        "url": "https://www.continente.pt/receitas/legumes-assados-no-forno-6188371.html",
-        "porque": "Uma entrada saudável, prática e colorida, que usa o forno e pode ser preparada enquanto o prato principal cozinha.",
-        "tags": [
-          "vegetariano",
-          "forno",
-          "rapido"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "200 g de abóbora (em cubos pequenos)",
-          "2 cenouras (em rodelas finas)",
-          "1 batata-doce (em rodelas finas)",
-          "300 g de couve-flor (em pedaços)",
-          "1 cebola roxa (laminada)",
-          "2 colheres (sopa) de azeite",
-          "1 colher (café) de sal",
-          "Pimenta do reino a gosto",
-          "1 colher (chá) de alho em pó",
-          "Tomilho em pó a gosto",
-          "Orégano fresco a gosto",
-          "Suco de 1 limão"
-        ],
-        "preparo": [
-          "Preaqueça o forno a 180 ºC. Forre um tabuleiro com papel vegetal.",
-          "Disponha a abóbora, cenouras, batata-doce, couve-flor e cebola roxa no tabuleiro.",
-          "Regue os legumes com azeite e tempere com sal, pimenta, alho em pó, tomilho em pó e orégano.",
-          "Acrescente o suco de limão e envolva bem todos os legumes.",
-          "Leve ao forno por cerca de 40 minutos, mexendo os legumes na metade do tempo para assarem uniformemente.",
-          "Retire do forno e sirva, decorando com orégano fresco."
-        ],
-        "id": "legumes-assados-8a5358"
-      },
-      {
-        "nome": "Mousse de Limão Rápida",
+        "nome": "Bolo de Caneca de Chocolate",
         "curso": "sobremesa",
-        "tempo": "15 min (mais tempo de geladeira)",
-        "url": "https://www.tudogostoso.com.br/receita/155693-mousse-de-limao-rapido.html",
-        "porque": "Uma sobremesa leve e refrescante, de preparo muito rápido no liquidificador, sem a necessidade de forno ou fogão.",
+        "tempo": "5 min",
+        "url": "https://www.panelinha.com.br/receita/bolo-de-caneca-de-micro-ondas",
+        "porque": "Uma sobremesa deliciosa e surpreendentemente fácil, que leva poucos ingredientes e fica pronta em minutos no micro-ondas, ideal para uma porção individual.",
         "tags": [
           "rapido",
-          "vegetariano"
+          "sobremesa"
         ],
-        "rende_sobra": true,
+        "rende_sobra": false,
         "ingredientes": [
-          "1 lata de leite condensado (395 g)",
-          "1 lata de creme de leite (300 g, sem soro)",
-          "½ copo (americano) de suco de limão (cerca de 120 ml)",
-          "Raspas de limão a gosto (para decorar)"
+          "1 ovo",
+          "4 colheres de sopa de leite",
+          "2 colheres de sopa de óleo ou manteiga derretida",
+          "4 colheres de sopa de açúcar",
+          "3 colheres de sopa de farinha de trigo",
+          "2 colheres de sopa de chocolate em pó (ou achocolatado)",
+          "1/2 colher de chá de fermento em pó"
         ],
         "preparo": [
-          "No liquidificador, bata o leite condensado e o creme de leite por 3 minutos.",
-          "Acrescente o suco de limão aos poucos, com o liquidificador ligado, e continue batendo até engrossar.",
-          "Despeje a mousse em um refratário ou taças individuais.",
-          "Leve à geladeira por no mínimo 2 horas para firmar.",
-          "Finalize com raspas de limão a gosto antes de servir."
+          "Em uma caneca grande (com capacidade para 300-350ml), bata o ovo levemente com um garfo.",
+          "Adicione o leite, o óleo (ou manteiga derretida) e o açúcar. Misture bem até incorporar.",
+          "Acrescente a farinha de trigo, o chocolate em pó e o fermento. Mexa delicadamente até a massa ficar homogênea, sem bater demais.",
+          "Leve a caneca ao micro-ondas em potência alta por 2 a 3 minutos. O tempo pode variar dependendo da potência do seu aparelho.",
+          "O bolo estará pronto quando crescer e as bordas estiverem firmes. Sirva imediatamente."
         ],
-        "id": "mousse-de-lim-o-r-pida-de62c5"
+        "id": "bolo-de-caneca-de-chocolate-8d52a4"
       }
     ]
   },
