@@ -1,247 +1,5 @@
 [
   {
-    "id": "panquecas-de-carne-mo-da-massa-integral--904165",
-    "titulo": "Panquecas de Carne Moída (massa integral, assadas)",
-    "tags": [
-      "carne_vermelha",
-      "massa",
-      "forno"
-    ],
-    "data": "09/08/2026"
-  },
-  {
-    "id": "frango-grelhado-com-arroz-de-br-colis-e--8c1c6a",
-    "titulo": "Frango Grelhado com Arroz de Brócolis e Abobrinha Refogada",
-    "tags": [
-      "frango",
-      "grelhado",
-      "equilibrio"
-    ],
-    "data": "09/08/2026"
-  },
-  {
-    "id": "creme-de-ab-bora-com-gengibre-sem-creme--47cba6",
-    "titulo": "Creme de Abóbora com Gengibre (sem creme de leite)",
-    "tags": [
-      "sopa",
-      "vegetariano",
-      "low_carb"
-    ],
-    "data": "09/08/2026"
-  },
-  {
-    "id": "gelatina-colorida-diet-com-camadas-053953",
-    "titulo": "Gelatina Colorida Diet (com camadas)",
-    "tags": [
-      "rapido",
-      "low_carb",
-      "frutas"
-    ],
-    "data": "09/08/2026"
-  },
-  {
-    "id": "feij-o-tropeiro-light-com-bacon-magro-na-466dd6",
-    "titulo": "Feijão Tropeiro Light (com bacon magro na airfryer)",
-    "tags": [
-      "carne_vermelha",
-      "rapido",
-      "equilibrio"
-    ],
-    "data": "09/08/2026"
-  },
-  {
-    "id": "macarr-o-integral-com-molho-bolonhesa-ca-1e572e",
-    "titulo": "Macarrão Integral com Molho Bolonhesa Caseiro e Cenoura Ralada",
-    "tags": [
-      "carne_vermelha",
-      "massa",
-      "equilibrio"
-    ],
-    "data": "09/08/2026"
-  },
-  {
-    "id": "creme-de-legumes-variados-abobrinha-ceno-4c54a2",
-    "titulo": "Creme de Legumes Variados (abobrinha, cenoura, batata)",
-    "tags": [
-      "sopa",
-      "vegetariano",
-      "equilibrio"
-    ],
-    "data": "09/08/2026"
-  },
-  {
-    "id": "peras-assadas-com-especiarias-canela-cra-cc58e8",
-    "titulo": "Peras Assadas com Especiarias (canela, cravo)",
-    "tags": [
-      "frutas",
-      "forno",
-      "low_carb"
-    ],
-    "data": "09/08/2026"
-  },
-  {
-    "id": "ca-o-ensopado-com-legumes-e-arroz-branco-ebe7ae",
-    "titulo": "Cação Ensopado com Legumes e Arroz Branco",
-    "tags": [
-      "peixe",
-      "equilibrio",
-      "rapido"
-    ],
-    "data": "09/08/2026"
-  },
-  {
-    "id": "fil-mignon-su-no-grelhado-com-arroz-de-c-0d28f5",
-    "titulo": "Filé Mignon Suíno Grelhado com Arroz de Couve-Flor e Ervilhas Frescas",
-    "tags": [
-      "porco",
-      "grelhado",
-      "low_carb"
-    ],
-    "data": "09/08/2026"
-  },
-  {
-    "id": "carpaccio-de-abobrinha-com-lascas-de-par-b3c4fb",
-    "titulo": "Carpaccio de Abobrinha com Lascas de Parmesão e Limão",
-    "tags": [
-      "salada",
-      "vegetariano",
-      "rapido"
-    ],
-    "data": "09/08/2026"
-  },
-  {
-    "id": "pudim-de-chia-com-leite-de-coco-e-manga-6473a5",
-    "titulo": "Pudim de Chia com Leite de Coco e Manga",
-    "tags": [
-      "low_carb",
-      "frutas",
-      "rapido"
-    ],
-    "data": "09/08/2026"
-  },
-  {
-    "id": "risoto-de-cogumelos-com-fil-mignon-grelh-2ff2aa",
-    "titulo": "Risoto de Cogumelos com Filé Mignon Grelhado",
-    "tags": [
-      "carne_vermelha",
-      "massa",
-      "grelhado"
-    ],
-    "data": "09/08/2026"
-  },
-  {
-    "id": "bife-de-chorizo-grelhado-com-farofa-de-o-4c45a3",
-    "titulo": "Bife de Chorizo Grelhado com Farofa de Ovos e Couve Refogada",
-    "tags": [
-      "carne_vermelha",
-      "grelhado",
-      "rapido"
-    ],
-    "data": "09/08/2026"
-  },
-  {
-    "id": "queijo-coalho-grelhado-com-mel-e-pimenta-76a6f6",
-    "titulo": "Queijo Coalho Grelhado com Mel e Pimenta do Reino",
-    "tags": [
-      "grelhado",
-      "rapido",
-      "vegetariano"
-    ],
-    "data": "09/08/2026"
-  },
-  {
-    "id": "cheesecake-de-copo-com-frutas-vermelhas--035004",
-    "titulo": "Cheesecake de Copo com Frutas Vermelhas (sem assar)",
-    "tags": [
-      "rapido",
-      "frutas",
-      "sem_forno"
-    ],
-    "data": "09/08/2026"
-  },
-  {
-    "id": "galinhada-na-panela-de-press-o-com-arroz-59b3e7",
-    "titulo": "Galinhada na Panela de Pressão com Arroz Integral",
-    "tags": [
-      "frango",
-      "rapido",
-      "equilibrio"
-    ],
-    "data": "09/08/2026"
-  },
-  {
-    "id": "fraldinha-grelhada-com-molho-de-ervas-e--f57dd4",
-    "titulo": "Fraldinha Grelhada com Molho de Ervas e Batata Doce Assada",
-    "tags": [
-      "carne_vermelha",
-      "grelhado",
-      "equilibrio"
-    ],
-    "data": "09/08/2026"
-  },
-  {
-    "id": "salada-waldorf-com-iogurte-no-lugar-da-m-666870",
-    "titulo": "Salada Waldorf (com iogurte no lugar da maionese)",
-    "tags": [
-      "salada",
-      "vegetariano",
-      "low_carb"
-    ],
-    "data": "09/08/2026"
-  },
-  {
-    "id": "romeu-e-julieta-fit-queijo-minas-frescal-60e2a6",
-    "titulo": "Romeu e Julieta Fit (queijo minas frescal com goiabada cascão light)",
-    "tags": [
-      "rapido",
-      "low_carb",
-      "vegetariano"
-    ],
-    "data": "09/08/2026"
-  },
-  {
-    "id": "bife-de-fraldinha-na-airfryer-com-alho-e-a767ae",
-    "titulo": "Bife de Fraldinha na Airfryer com Alho e Ervas",
-    "tags": [
-      "carne_vermelha",
-      "airfryer",
-      "rapido",
-      "grelhado"
-    ],
-    "data": "10/08/2026"
-  },
-  {
-    "id": "frango-desfiado-cremoso-com-requeij-o-5cfd3f",
-    "titulo": "Frango Desfiado Cremoso com Requeijão",
-    "tags": [
-      "frango",
-      "rapido",
-      "equilibrado",
-      "panela"
-    ],
-    "data": "10/08/2026"
-  },
-  {
-    "id": "guacamole-com-chips-de-tortilla-assados-a28e6e",
-    "titulo": "Guacamole com Chips de Tortilla Assados",
-    "tags": [
-      "vegetariano",
-      "rapido",
-      "airfryer"
-    ],
-    "data": "10/08/2026"
-  },
-  {
-    "id": "cocada-cremosa-de-panela-350666",
-    "titulo": "Cocada Cremosa de Panela",
-    "tags": [
-      "doce",
-      "rapido",
-      "panela"
-    ],
-    "data": "10/08/2026"
-  },
-  {
     "id": "bife-parmegiana-assado-e18b08",
     "titulo": "Bife à Parmegiana Assado",
     "tags": [
@@ -5091,6 +4849,246 @@
       "vegetariano",
       "forno",
       "rapido"
+    ],
+    "data": "25/10/2026"
+  },
+  {
+    "id": "carne-mo-da-com-refogado-de-piment-o-10476d",
+    "titulo": "Carne Moída com Refogado de Pimentão",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "refogado"
+    ],
+    "data": "25/10/2026"
+  },
+  {
+    "id": "picadinho-de-carne-brasileira-ab8ec9",
+    "titulo": "Picadinho de Carne à Brasileira",
+    "tags": [
+      "carne_vermelha",
+      "panela",
+      "equilibrado"
+    ],
+    "data": "25/10/2026"
+  },
+  {
+    "id": "bife-acebolado-na-frigideira-b33f88",
+    "titulo": "Bife Acebolado na Frigideira",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "grelhado"
+    ],
+    "data": "25/10/2026"
+  },
+  {
+    "id": "salada-de-folhas-verdes-com-vinagrete-b--8c2e7f",
+    "titulo": "Salada de Folhas Verdes com Vinagrete Básico",
+    "tags": [
+      "salada",
+      "rapido",
+      "vegetariano"
+    ],
+    "data": "25/10/2026"
+  },
+  {
+    "id": "bife-rol-assado-no-forno-1b5fcd",
+    "titulo": "Bife à Rolê Assado no Forno",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "equilibrio"
+    ],
+    "data": "25/10/2026"
+  },
+  {
+    "id": "frango-passarinho-de-forno-94f01c",
+    "titulo": "Frango à Passarinho de Forno",
+    "tags": [
+      "frango",
+      "forno",
+      "rapido"
+    ],
+    "data": "25/10/2026"
+  },
+  {
+    "id": "carne-seca-desfiada-com-ab-bora-caboti-n-d6e671",
+    "titulo": "Carne Seca Desfiada com Abóbora Cabotiá no Forno",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "equilibrio"
+    ],
+    "data": "25/10/2026"
+  },
+  {
+    "id": "bife-parmegiana-light-assado-no-forno-c5948d",
+    "titulo": "Bife à Parmegiana Light (Assado no Forno)",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "rapido"
+    ],
+    "data": "25/10/2026"
+  },
+  {
+    "id": "salada-de-repolho-roxo-ma-e-molho-de-iog-5d89f9",
+    "titulo": "Salada de Repolho-Roxo, Maçã e Molho de Iogurte",
+    "tags": [
+      "salada",
+      "vegetariano",
+      "rapido"
+    ],
+    "data": "25/10/2026"
+  },
+  {
+    "id": "bife-ao-molho-de-mostarda-ana-maria-brag-36cbb1",
+    "titulo": "Bife ao Molho de Mostarda (Ana Maria Braga)",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "panela"
+    ],
+    "data": "25/10/2026"
+  },
+  {
+    "id": "frango-assado-com-lim-o-e-ervas-340be6",
+    "titulo": "Frango Assado com Limão e Ervas",
+    "tags": [
+      "frango",
+      "forno",
+      "grelhado"
+    ],
+    "data": "25/10/2026"
+  },
+  {
+    "id": "salada-de-trigo-em-gr-os-com-ricota-e-r--900fb1",
+    "titulo": "Salada de Trigo em Grãos com Ricota e Rúcula",
+    "tags": [
+      "salada",
+      "vegetariano",
+      "low_carb"
+    ],
+    "data": "25/10/2026"
+  },
+  {
+    "id": "doce-de-laranja-molhadinho-f4da96",
+    "titulo": "Doce de Laranja Molhadinho",
+    "tags": [
+      "doce",
+      "rapido",
+      "sem_forno"
+    ],
+    "data": "25/10/2026"
+  },
+  {
+    "id": "bife-rol-no-molho-de-tomate-63ebed",
+    "titulo": "Bife à Rolê no Molho de Tomate",
+    "tags": [
+      "carne_vermelha",
+      "panela",
+      "equilibrio"
+    ],
+    "data": "25/10/2026"
+  },
+  {
+    "id": "alm-ndegas-recheadas-com-queijo-no-forno-5a7afe",
+    "titulo": "Almôndegas Recheadas com Queijo no Forno",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "rapido"
+    ],
+    "data": "25/10/2026"
+  },
+  {
+    "id": "vagem-refogada-com-cominho-lim-o-e-mel-1846c9",
+    "titulo": "Vagem Refogada com Cominho, Limão e Mel",
+    "tags": [
+      "vegetariano",
+      "rapido",
+      "refogado"
+    ],
+    "data": "25/10/2026"
+  },
+  {
+    "id": "raspadinha-de-abacaxi-congelado-549f31",
+    "titulo": "Raspadinha de Abacaxi Congelado",
+    "tags": [
+      "doce",
+      "rapido",
+      "low_carb"
+    ],
+    "data": "25/10/2026"
+  },
+  {
+    "id": "picanha-invertida-recheada-no-forno-4e1444",
+    "titulo": "Picanha Invertida Recheada no Forno",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "grelhado"
+    ],
+    "data": "25/10/2026"
+  },
+  {
+    "id": "saint-peter-til-pia-assado-com-tomate-ce-774ece",
+    "titulo": "Saint Peter (Tilápia) Assado com Tomate Cereja e Azeite",
+    "tags": [
+      "peixe",
+      "forno",
+      "rapido"
+    ],
+    "data": "25/10/2026"
+  },
+  {
+    "id": "salada-de-pepino-ao-murro-com-gergelim-6ed83a",
+    "titulo": "Salada de Pepino ao Murro com Gergelim",
+    "tags": [
+      "salada",
+      "vegetariano",
+      "rapido"
+    ],
+    "data": "25/10/2026"
+  },
+  {
+    "id": "banana-dourada-com-merengue-7df4cd",
+    "titulo": "Banana Dourada com Merengue",
+    "tags": [
+      "doce",
+      "forno",
+      "rapido"
+    ],
+    "data": "25/10/2026"
+  },
+  {
+    "id": "carne-mo-da-com-molho-de-cerveja-preta-616486",
+    "titulo": "Carne Moída com Molho de Cerveja Preta",
+    "tags": [
+      "carne_vermelha",
+      "refogado",
+      "panela"
+    ],
+    "data": "25/10/2026"
+  },
+  {
+    "id": "salada-de-mel-o-com-folhas-verdes-3dd121",
+    "titulo": "Salada de Melão com Folhas Verdes",
+    "tags": [
+      "salada",
+      "vegetariano",
+      "rapido"
+    ],
+    "data": "25/10/2026"
+  },
+  {
+    "id": "salada-de-fruta-assada-com-crumble-fcac4a",
+    "titulo": "Salada de Fruta Assada com Crumble",
+    "tags": [
+      "doce",
+      "forno",
+      "frutas"
     ],
     "data": "25/10/2026"
   }
