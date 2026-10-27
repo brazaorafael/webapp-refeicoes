@@ -1,25 +1,5 @@
 [
   {
-    "id": "carne-mo-da-gratinada-com-batatas-ao-for-1615c2",
-    "titulo": "Carne Moída Gratinada com Batatas ao Forno",
-    "tags": [
-      "carne_vermelha",
-      "forno",
-      "equilibrado"
-    ],
-    "data": "12/08/2026"
-  },
-  {
-    "id": "bife-rol-r-pido-sem-panela-de-press-o-854915",
-    "titulo": "Bife à Rolê Rápido (sem panela de pressão)",
-    "tags": [
-      "carne_vermelha",
-      "rapido",
-      "equilibrado"
-    ],
-    "data": "12/08/2026"
-  },
-  {
     "id": "salada-de-cevadinha-com-legumes-assados-c90602",
     "titulo": "Salada de Cevadinha com Legumes Assados",
     "tags": [
@@ -5093,5 +5073,27 @@
       "low_carb"
     ],
     "data": "26/10/2026"
+  },
+  {
+    "id": "bife-de-alcatra-grelhado-com-arroz-de-br-c0fe0c",
+    "titulo": "Bife de Alcatra Grelhado com Arroz de Brócolis e Cenouras Cozidas",
+    "tags": [
+      "carne_vermelha",
+      "grelhado",
+      "rapido",
+      "equilibrado"
+    ],
+    "data": "27/10/2026"
+  },
+  {
+    "id": "fraldinha-grelhada-com-salada-de-quinoa--5674ba",
+    "titulo": "Fraldinha Grelhada com Salada de Quinoa e Legumes",
+    "tags": [
+      "carne_vermelha",
+      "grelhado",
+      "rapido",
+      "equilibrado"
+    ],
+    "data": "27/10/2026"
   }
 ]
