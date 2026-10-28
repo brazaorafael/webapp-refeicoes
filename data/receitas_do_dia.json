@@ -1,16 +1,16 @@
 {
-  "gerado_em": "27/10/2026",
+  "gerado_em": "28/10/2026",
   "diario": {
     "tipo": "diario",
-    "data": "27/10/2026",
-    "dia_semana": "terça",
+    "data": "28/10/2026",
+    "dia_semana": "quarta",
     "pratos": [
       {
-        "nome": "Escondidinho de Carne Seca",
+        "nome": "Fraldinha Assada na Cerveja",
         "curso": "principal",
-        "tempo": "45 min (preparo ativo)",
-        "url": "https://www.tudogostoso.com.br/receita/2012-escondidinho-de-carne-seca.html",
-        "porque": "É um prato clássico, nutritivo e rico em proteína, com preparo simples e assado no forno, ideal para sobras.",
+        "tempo": "20 min",
+        "url": "https://www.panelinha.com.br/receita/Fraldinha-assada-na-cerveja",
+        "porque": "É uma carne vermelha suculenta assada no forno com molho próprio, ideal para quem busca sabor e praticidade no preparo ativo.",
         "tags": [
           "carne_vermelha",
           "forno",
@@ -18,149 +18,114 @@
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "500g de carne seca dessalgada e cozida",
-          "1 kg de mandioca cozida",
-          "1/2 xícara (chá) de leite",
-          "2 colheres (sopa) de manteiga",
-          "1 cebola média picada",
-          "2 dentes de alho picados",
-          "1 tomate picado",
-          "Cheiro-verde a gosto",
-          "Queijo muçarela ralado a gosto",
-          "Sal e pimenta-do-reino a gosto",
-          "Azeite a gosto"
-        ],
-        "preparo": [
-          "Cozinhe a carne seca dessalgada na panela de pressão por 30 minutos. Desfie e reserve. Refogue a cebola e o alho em azeite, adicione a carne desfiada, o tomate e o cheiro-verde. Acerte o sal e a pimenta.",
-          "Cozinhe a mandioca até ficar macia. Amasse-a ainda quente com um garfo ou espremedor.",
-          "Em uma panela, aqueça a manteiga e adicione a mandioca amassada e o leite, misturando bem até obter um purê homogêneo. Acerte o sal.",
-          "Em um refratário, faça uma camada do purê de mandioca, distribua o recheio de carne seca por cima e cubra com o restante do purê. Polvilhe queijo muçarela.",
-          "Leve ao forno pré-aquecido a 180°C por cerca de 20-25 minutos, ou até gratinar."
-        ],
-        "id": "escondidinho-de-carne-seca-c78c61"
-      },
-      {
-        "nome": "Bife de Alcatra Grelhado com Arroz de Brócolis e Cenouras Cozidas",
-        "curso": "principal",
-        "tempo": "35 min",
-        "url": "https://panelinha.com.br/receita/Bife-grelhado",
-        "porque": "Uma opção rápida e equilibrada de carne vermelha grelhada, com carboidratos e vegetais, perfeita para o dia a dia.",
-        "tags": [
-          "carne_vermelha",
-          "grelhado",
-          "rapido",
-          "equilibrado"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "2 bifes de alcatra (aproximadamente 180g cada)",
-          "Sal e pimenta-do-reino a gosto",
-          "1 fio de azeite",
-          "1 xícara (chá) de arroz branco cozido",
-          "1/2 maço de brócolis picado (florzinhas e talos macios)",
-          "1 dente de alho picado",
-          "1 colher (sopa) de azeite",
-          "2 cenouras médias, cortadas em rodelas ou palitos"
-        ],
-        "preparo": [
-          "Tempere os bifes de alcatra com sal e pimenta-do-reino. Aqueça uma frigideira ou grelha em fogo alto com um fio de azeite.",
-          "Grelhe os bifes por 3-4 minutos de cada lado para um ponto malpassado/ao ponto, ou a gosto. Deixe descansar por alguns minutos antes de servir.",
-          "Cozinhe as cenouras em água fervente com uma pitada de sal até ficarem al dente (cerca de 5-7 minutos). Escorra e reserve.",
-          "Em uma panela pequena, refogue o alho picado em 1 colher de sopa de azeite. Adicione o brócolis picado e refogue por 2-3 minutos. Adicione o arroz cozido, misture bem e acerte o sal.",
-          "Sirva os bifes grelhados acompanhados do arroz de brócolis e das cenouras cozidas."
-        ],
-        "id": "bife-de-alcatra-grelhado-com-arroz-de-br-c0fe0c"
-      },
-      {
-        "nome": "Fraldinha Grelhada com Salada de Quinoa e Legumes",
-        "curso": "principal",
-        "tempo": "40 min",
-        "url": "https://panelinha.com.br/receita/Fraldinha-grelhada",
-        "porque": "Um prato principal saboroso e rápido, com carne vermelha grelhada e uma salada leve e nutritiva, ideal para um jantar equilibrado.",
-        "tags": [
-          "carne_vermelha",
-          "grelhado",
-          "rapido",
-          "equilibrado"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "400g de fraldinha",
-          "Sal grosso e pimenta-do-reino a gosto",
-          "1 xícara (chá) de quinoa em grãos",
-          "2 xícaras (chá) de água",
-          "1/2 pepino picado",
-          "1/2 pimentão vermelho picado",
-          "1/2 cebola roxa picada",
-          "1 tomate picado",
-          "Suco de 1 limão",
+          "1 fraldinha em peça (~1 kg)",
+          "350 ml de cerveja escura (1 lata)",
+          "2 cebolas médias",
+          "2 pimentões vermelhos",
+          "3 dentes de alho picados",
+          "2 colheres (sopa) de açúcar mascavo",
+          "2 colheres (sopa) de extrato de tomate",
+          "1 colher (sopa) de vinagre de vinho tinto",
+          "6 ramos de tomilho fresco",
           "2 colheres (sopa) de azeite",
-          "Salsinha picada a gosto"
+          "Sal e pimenta-do-reino moída na hora a gosto"
         ],
         "preparo": [
-          "Tempere a fraldinha com sal grosso e pimenta-do-reino. Pré-aqueça a grelha ou frigideira em fogo alto.",
-          "Grelhe a fraldinha por 5-7 minutos de cada lado, dependendo da espessura e do ponto desejado. Deixe descansar por alguns minutos antes de fatiar contra as fibras.",
-          "Lave bem a quinoa e cozinhe com 2 xícaras de água e uma pitada de sal por cerca de 15 minutos, ou até a água secar e os grãos ficarem translúcidos. Deixe esfriar.",
-          "Em uma tigela, misture a quinoa cozida e fria com o pepino, pimentão, cebola roxa, tomate e salsinha.",
-          "Prepare o molho com suco de limão, azeite, sal e pimenta-do-reino. Despeje sobre a salada de quinoa e sirva acompanhando a fraldinha fatiada."
+          "Em uma tigela grande, misture o alho, extrato de tomate, açúcar mascavo, vinagre, cerveja, sal e pimenta.",
+          "Faça cortes superficiais na gordura da fraldinha e coloque-a na tigela com a marinada e os ramos de tomilho. Cubra e leve à geladeira por no mínimo 2 horas.",
+          "Preaqueça o forno a 200°C. Transfira a carne com a marinada para uma assadeira, cubra com papel-alumínio e asse por cerca de 1 hora.",
+          "Retire o papel-alumínio e asse por mais 30 minutos ou até dourar, virando a carne na metade do tempo para assar por igual.",
+          "Retire do forno, fatie a carne e sirva com o molho que se formou na assadeira."
         ],
-        "id": "fraldinha-grelhada-com-salada-de-quinoa--5674ba"
+        "id": "fraldinha-assada-na-cerveja-34892a"
       },
       {
-        "nome": "Salada Caprese",
-        "curso": "entrada",
-        "tempo": "10 min",
-        "url": "https://panelinha.com.br/receita/Salada-Caprese",
-        "porque": "Uma entrada fresca, leve e rápida de preparar, com poucos ingredientes e sem cozimento, perfeita para abrir o apetite.",
+        "nome": "Picanha Assada com Sal Grosso",
+        "curso": "principal",
+        "tempo": "15 min",
+        "url": "https://www.panelinha.com.br/receita/Picanha-assada-com-sal-grosso",
+        "porque": "Uma opção de carne vermelha clássica, com preparo rápido e simples no forno, resultando em uma picanha suculenta e saborosa.",
         "tags": [
-          "vegetariano",
+          "carne_vermelha",
+          "forno",
+          "rapido"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "1 peça de picanha (~1,2 kg)",
+          "4 claras de ovo",
+          "1 kg de sal grosso",
+          "½ xícara (chá) de farinha de trigo",
+          "Ramos de tomilho fresco a gosto"
+        ],
+        "preparo": [
+          "Preaqueça o forno a 220 °C (temperatura alta).",
+          "Em uma tigela, misture o sal grosso, as claras e a farinha de trigo até obter uma consistência de areia grossa molhada.",
+          "Em uma assadeira grande, espalhe ⅓ da mistura de sal grosso formando uma camada. Disponha os ramos de tomilho e coloque a picanha sobre ela, com a gordura para cima.",
+          "Cubra toda a picanha com o restante da mistura de sal grosso, pressionando bem para formar uma capa firme.",
+          "Leve ao forno e diminua a temperatura para 200 °C. Asse por cerca de 45 minutos para carne ao ponto.",
+          "Retire do forno, quebre a crosta de sal, raspe o excesso e fatie a picanha para servir."
+        ],
+        "id": "picanha-assada-com-sal-grosso-686788"
+      },
+      {
+        "nome": "Salada Colorida com Ovos de Codorna",
+        "curso": "entrada",
+        "tempo": "15 min",
+        "url": "https://www.receitadevovo.com.br/receitas/saladas/salada-de-legumes-com-ovo-de-codorna-leve-colorida-e-perfeita-para-qualquer-ocasiao",
+        "porque": "Uma entrada leve e refrescante, rica em vegetais coloridos e com a proteína dos ovos de codorna, ideal para um preparo rápido.",
+        "tags": [
           "salada",
           "rapido",
           "low_carb"
         ],
         "rende_sobra": false,
         "ingredientes": [
-          "2 tomates maduros (tipo caqui ou italiano)",
-          "200g de muçarela de búfala (bolinhas ou fatiada)",
-          "Folhas frescas de manjericão",
-          "Azeite extra virgem a gosto",
-          "Sal e pimenta-do-reino moída na hora a gosto"
+          "2 cenouras médias, cozidas e em cubos",
+          "3 batatas médias, cozidas e em cubos",
+          "200 g de tomates cereja, cortados ao meio",
+          "1 cebola roxa, em tiras finas",
+          "100 g de azeitonas (verdes ou pretas), sem caroço",
+          "10 ovos de codorna, cozidos e cortados ao meio",
+          "2 colheres (sopa) de cebolinha picada",
+          "1 colher (chá) de pimenta calabresa (opcional)",
+          "Sal a gosto",
+          "1 colher (chá) de orégano",
+          "4 colheres (sopa) de azeite extra virgem",
+          "Suco de 1 limão"
         ],
         "preparo": [
-          "Lave bem os tomates e as folhas de manjericão. Seque-os delicadamente.",
-          "Fatie os tomates em rodelas de espessura média. Se usar muçarela de búfala em bolinhas, corte ao meio; se for em peça, fatie.",
-          "Em um prato, intercale as fatias de tomate, muçarela e folhas de manjericão, formando um padrão agradável.",
-          "Regue generosamente com azeite extra virgem, tempere com sal e pimenta-do-reino moída na hora. Sirva imediatamente."
+          "Cozinhe as cenouras e batatas em cubos em água com sal até ficarem al dente. Escorra e reserve para esfriar.",
+          "Em uma tigela grande, adicione a cenoura, batata, tomates cereja, cebola roxa, azeitonas, ovos de codorna e cebolinha.",
+          "Tempere com pimenta calabresa (se usar), sal, orégano, suco de limão e azeite.",
+          "Misture delicadamente para incorporar os temperos sem quebrar os ingredientes.",
+          "Leve à geladeira por pelo menos 30 minutos antes de servir para intensificar os sabores."
         ],
-        "id": "salada-caprese-4a024c"
+        "id": "salada-colorida-com-ovos-de-codorna-75de1b"
       },
       {
-        "nome": "Bolo de Caneca de Chocolate",
+        "nome": "Pudim de Caneca (Micro-ondas)",
         "curso": "sobremesa",
         "tempo": "5 min",
-        "url": "https://www.tudogostoso.com.br/receita/162818-bolo-de-caneca-de-chocolate.html",
-        "porque": "Sobremesa individual e ultra-rápida, feita no micro-ondas, ideal para um doce sem complicação.",
+        "url": "https://www.tudogostoso.com.br/receita/304932-pudim-de-caneca",
+        "porque": "Uma sobremesa individual e prática que fica pronta em poucos minutos no micro-ondas, perfeita para um doce rápido.",
         "tags": [
           "rapido",
-          "microondas"
+          "sobremesa"
         ],
         "rende_sobra": false,
         "ingredientes": [
-          "4 colheres (sopa) de farinha de trigo",
-          "4 colheres (sopa) de açúcar",
-          "2 colheres (sopa) de chocolate em pó 50% cacau",
-          "1/2 colher (chá) de fermento em pó",
-          "3 colheres (sopa) de leite",
-          "1 colher (sopa) de óleo",
-          "1 ovo pequeno"
+          "Para a calda: 1 colher (sopa) de açúcar, 1 colher (sopa) de água",
+          "Para o pudim: 1 ovo, 1/2 xícara (chá) de leite, 1/2 xícara (chá) de leite condensado, 1/2 colher (chá) de essência de baunilha"
         ],
         "preparo": [
-          "Em uma caneca grande (300ml), misture a farinha, o açúcar, o chocolate em pó e o fermento.",
-          "Adicione o leite, o óleo e o ovo. Mexa bem com um garfo até a massa ficar homogênea e sem grumos.",
-          "Leve a caneca ao micro-ondas em potência alta por 1 minuto e 30 segundos a 2 minutos, dependendo da potência do seu aparelho.",
-          "Observe para não transbordar. Retire com cuidado e sirva ainda quente."
+          "Para a calda: Em uma caneca, misture o açúcar e a água. Leve ao micro-ondas por 1 minuto em potência alta. Retire, mexa a caneca e retorne ao micro-ondas em intervalos de 30 segundos até caramelizar.",
+          "Para o pudim: Em um bowl, misture o ovo, o leite, o leite condensado e a essência de baunilha com um fouet até ficar homogêneo.",
+          "Despeje a mistura do pudim na caneca com a calda, tomando cuidado para não encher mais da metade.",
+          "Leve ao micro-ondas por 1 a 2 minutos em potência alta (o tempo pode variar, verifique a consistência a cada 30 segundos).",
+          "Retire, tampe e deixe descansar por 5 minutos. Leve à geladeira por pelo menos 2 horas antes de servir."
         ],
-        "id": "bolo-de-caneca-de-chocolate-8d52a4"
+        "id": "pudim-de-caneca-micro-ondas-ce9c50"
       }
     ]
   },

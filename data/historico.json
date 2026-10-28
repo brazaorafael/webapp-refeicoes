@@ -1,25 +1,5 @@
 [
   {
-    "id": "salada-de-cevadinha-com-legumes-assados-c90602",
-    "titulo": "Salada de Cevadinha com Legumes Assados",
-    "tags": [
-      "vegetariano",
-      "salada",
-      "forno"
-    ],
-    "data": "12/08/2026"
-  },
-  {
-    "id": "frango-assado-com-legumes-coloridos-0ada62",
-    "titulo": "Frango Assado com Legumes Coloridos",
-    "tags": [
-      "frango",
-      "airfryer",
-      "equilibrado"
-    ],
-    "data": "13/08/2026"
-  },
-  {
     "id": "carne-de-panela-r-pida-com-batata-e-ceno-91c307",
     "titulo": "Carne de Panela Rápida com Batata e Cenoura",
     "tags": [
@@ -5095,5 +5075,24 @@
       "equilibrado"
     ],
     "data": "27/10/2026"
+  },
+  {
+    "id": "fraldinha-assada-na-cerveja-34892a",
+    "titulo": "Fraldinha Assada na Cerveja",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "equilibrado"
+    ],
+    "data": "28/10/2026"
+  },
+  {
+    "id": "pudim-de-caneca-micro-ondas-ce9c50",
+    "titulo": "Pudim de Caneca (Micro-ondas)",
+    "tags": [
+      "rapido",
+      "sobremesa"
+    ],
+    "data": "28/10/2026"
   }
 ]
