@@ -1,55 +1,5 @@
 [
   {
-    "id": "carne-de-panela-r-pida-com-batata-e-ceno-91c307",
-    "titulo": "Carne de Panela Rápida com Batata e Cenoura",
-    "tags": [
-      "carne_vermelha",
-      "pressao",
-      "equilibrado"
-    ],
-    "data": "13/08/2026"
-  },
-  {
-    "id": "bruschetta-de-tomate-fresco-8f61dd",
-    "titulo": "Bruschetta de Tomate Fresco",
-    "tags": [
-      "vegetariano",
-      "rapido",
-      "grelhado"
-    ],
-    "data": "13/08/2026"
-  },
-  {
-    "id": "mousse-de-maracuj-cremosa-3abda2",
-    "titulo": "Mousse de Maracujá Cremosa",
-    "tags": [
-      "doce",
-      "rapido",
-      "sem_forno"
-    ],
-    "data": "13/08/2026"
-  },
-  {
-    "id": "ensopado-de-carne-com-ab-bora-e-couve-ccffd7",
-    "titulo": "Ensopado de Carne com Abóbora e Couve",
-    "tags": [
-      "carne_vermelha",
-      "rapido",
-      "equilibrado"
-    ],
-    "data": "14/08/2026"
-  },
-  {
-    "id": "tiras-de-carne-com-piment-es-e-cebola-1bf6ae",
-    "titulo": "Tiras de Carne com Pimentões e Cebola",
-    "tags": [
-      "carne_vermelha",
-      "rapido",
-      "refogado"
-    ],
-    "data": "14/08/2026"
-  },
-  {
     "id": "palitos-de-cenoura-e-pepino-com-dip-de-i-d9a8f1",
     "titulo": "Palitos de Cenoura e Pepino com Dip de Iogurte e Hortelã",
     "tags": [
@@ -5094,5 +5044,55 @@
       "sobremesa"
     ],
     "data": "28/10/2026"
+  },
+  {
+    "id": "bife-grelhado-com-molho-de-cerveja-8e8880",
+    "titulo": "Bife Grelhado com Molho de Cerveja",
+    "tags": [
+      "carne_vermelha",
+      "grelhado",
+      "rapido"
+    ],
+    "data": "29/10/2026"
+  },
+  {
+    "id": "bife-grelhado-com-molho-cremoso-de-mosta-2dd27f",
+    "titulo": "Bife Grelhado com Molho Cremoso de Mostarda e Parmesão",
+    "tags": [
+      "carne_vermelha",
+      "grelhado",
+      "rapido"
+    ],
+    "data": "29/10/2026"
+  },
+  {
+    "id": "alcatra-com-legumes-cremosos-48306a",
+    "titulo": "Alcatra com Legumes Cremosos",
+    "tags": [
+      "carne_vermelha",
+      "refogado",
+      "equilibrado"
+    ],
+    "data": "29/10/2026"
+  },
+  {
+    "id": "dadinhos-de-tapioca-na-airfryer-9ed208",
+    "titulo": "Dadinhos de Tapioca na AirFryer",
+    "tags": [
+      "airfryer",
+      "rapido",
+      "vegetariano"
+    ],
+    "data": "29/10/2026"
+  },
+  {
+    "id": "pav-tradicional-simples-15fef5",
+    "titulo": "Pavê Tradicional Simples",
+    "tags": [
+      "gelado",
+      "rapido",
+      "sobremesa"
+    ],
+    "data": "29/10/2026"
   }
 ]

@@ -1,131 +1,162 @@
 {
-  "gerado_em": "28/10/2026",
+  "gerado_em": "29/10/2026",
   "diario": {
     "tipo": "diario",
-    "data": "28/10/2026",
-    "dia_semana": "quarta",
+    "data": "29/10/2026",
+    "dia_semana": "quinta",
     "pratos": [
       {
-        "nome": "Fraldinha Assada na Cerveja",
+        "nome": "Bife Grelhado com Molho de Cerveja",
         "curso": "principal",
-        "tempo": "20 min",
-        "url": "https://www.panelinha.com.br/receita/Fraldinha-assada-na-cerveja",
-        "porque": "É uma carne vermelha suculenta assada no forno com molho próprio, ideal para quem busca sabor e praticidade no preparo ativo.",
+        "tempo": "25 min",
+        "url": "https://www.minervafoods.com/receitas/bife-grelhado-simples-com-molho-de-cerveja/",
+        "porque": "Uma opção de carne vermelha suculenta e rápida, com um molho saboroso e diferente, ideal para um jantar prático.",
         "tags": [
           "carne_vermelha",
-          "forno",
+          "grelhado",
+          "rapido"
+        ],
+        "rende_sobra": false,
+        "ingredientes": [
+          "2 bifes de alcatra (cerca de 1 dedo de espessura cada)",
+          "1 colher de sopa de manteiga",
+          "1 dente de alho picado (ou alho desidratado a gosto)",
+          "1/4 cebola picada (ou cebola desidratada a gosto)",
+          "Pimenta do reino preta moída a gosto",
+          "Pimenta biquinho a gosto (opcional)",
+          "1 copo (200ml) de cerveja clara",
+          "Azeite de oliva a gosto",
+          "Sal a gosto",
+          "Acompanhamento sugerido: Salada verde ou arroz branco"
+        ],
+        "preparo": [
+          "Tempere os bifes com azeite, sal e pimenta-do-reino.",
+          "Aqueça uma frigideira ou grelha em fogo alto e grelhe os bifes até dourar dos dois lados e atingir o ponto desejado. Retire e reserve aquecido.",
+          "Na mesma frigideira, adicione a manteiga e um fio de azeite. Refogue o alho e a cebola por 30 segundos.",
+          "Acrescente a cerveja aos poucos e a pimenta biquinho (se usar). Deixe reduzir em fogo brando até o molho encorpar levemente.",
+          "Sirva os bifes com o molho de cerveja por cima. Acompanhe com uma salada verde ou arroz."
+        ],
+        "id": "bife-grelhado-com-molho-de-cerveja-8e8880"
+      },
+      {
+        "nome": "Bife Grelhado com Molho Cremoso de Mostarda e Parmesão",
+        "curso": "principal",
+        "tempo": "20 min",
+        "url": "https://www.cozinhapratica.com/bife-ao-molho-de-mostarda-e-queijo/",
+        "porque": "Carne vermelha rápida e grelhada, com um molho cremoso e marcante que foge do tradicional.",
+        "tags": [
+          "carne_vermelha",
+          "grelhado",
+          "rapido"
+        ],
+        "rende_sobra": false,
+        "ingredientes": [
+          "2 bifes de contrafilé ou alcatra",
+          "Sal e pimenta-do-reino a gosto",
+          "1 colher de sopa de azeite ou óleo",
+          "Para o molho:",
+          "1 colher de sopa de mostarda (Dijon ou outra de sua preferência)",
+          "1/4 caixa de creme de leite (50g)",
+          "1 colher de sopa de queijo parmesão ralado"
+        ],
+        "preparo": [
+          "Tempere os bifes com sal e pimenta-do-reino.",
+          "Aqueça o azeite em uma frigideira em fogo alto e grelhe os bifes dos dois lados até o ponto desejado. Retire e reserve aquecido.",
+          "Na mesma frigideira, adicione a mostarda, o creme de leite e o queijo parmesão ralado.",
+          "Mexa bem em fogo baixo até o molho aquecer e ficar cremoso.",
+          "Sirva os bifes com o molho cremoso por cima."
+        ],
+        "id": "bife-grelhado-com-molho-cremoso-de-mosta-2dd27f"
+      },
+      {
+        "nome": "Alcatra com Legumes Cremosos",
+        "curso": "principal",
+        "tempo": "35 min",
+        "url": "https://www.vitat.com.br/receitas/alcatra-com-legumes-cremosos-3352",
+        "porque": "Um prato de carne vermelha equilibrado com legumes frescos, refogado de forma rápida e com um toque cremoso.",
+        "tags": [
+          "carne_vermelha",
+          "refogado",
           "equilibrado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "1 fraldinha em peça (~1 kg)",
-          "350 ml de cerveja escura (1 lata)",
-          "2 cebolas médias",
-          "2 pimentões vermelhos",
-          "3 dentes de alho picados",
-          "2 colheres (sopa) de açúcar mascavo",
-          "2 colheres (sopa) de extrato de tomate",
-          "1 colher (sopa) de vinagre de vinho tinto",
-          "6 ramos de tomilho fresco",
-          "2 colheres (sopa) de azeite",
-          "Sal e pimenta-do-reino moída na hora a gosto"
+          "200g de alcatra em tiras finas",
+          "1 colher de sopa de óleo (dividida)",
+          "1/2 abobrinha cortada em tiras finas",
+          "1/4 cebola cortada em pétalas",
+          "1/4 pimentão (verde ou colorido) em tiras finas",
+          "2 colheres de sopa de maionese light",
+          "Sal e pimenta-do-reino a gosto",
+          "Acompanhamento sugerido: Arroz branco"
         ],
         "preparo": [
-          "Em uma tigela grande, misture o alho, extrato de tomate, açúcar mascavo, vinagre, cerveja, sal e pimenta.",
-          "Faça cortes superficiais na gordura da fraldinha e coloque-a na tigela com a marinada e os ramos de tomilho. Cubra e leve à geladeira por no mínimo 2 horas.",
-          "Preaqueça o forno a 200°C. Transfira a carne com a marinada para uma assadeira, cubra com papel-alumínio e asse por cerca de 1 hora.",
-          "Retire o papel-alumínio e asse por mais 30 minutos ou até dourar, virando a carne na metade do tempo para assar por igual.",
-          "Retire do forno, fatie a carne e sirva com o molho que se formou na assadeira."
+          "Aqueça meia colher de sopa de óleo em uma panela e refogue a abobrinha até murchar.",
+          "Junte a cebola e o pimentão, refogue até dourar levemente. Retire os legumes da panela e reserve.",
+          "Na mesma panela, aqueça o restante do óleo e grelhe as tiras de carne até dourarem. Tempere com sal e pimenta.",
+          "Retire a carne do fogo, adicione a maionese light e misture delicadamente.",
+          "Acrescente os legumes reservados à carne, misture bem e sirva imediatamente com arroz branco."
         ],
-        "id": "fraldinha-assada-na-cerveja-34892a"
+        "id": "alcatra-com-legumes-cremosos-48306a"
       },
       {
-        "nome": "Picanha Assada com Sal Grosso",
-        "curso": "principal",
-        "tempo": "15 min",
-        "url": "https://www.panelinha.com.br/receita/Picanha-assada-com-sal-grosso",
-        "porque": "Uma opção de carne vermelha clássica, com preparo rápido e simples no forno, resultando em uma picanha suculenta e saborosa.",
+        "nome": "Dadinhos de Tapioca na AirFryer",
+        "curso": "entrada",
+        "tempo": "45 min",
+        "url": "https://www.tudoreceitas.com/receita-de-dadinho-de-tapioca-na-airfryer-10255.html",
+        "porque": "Uma entrada crocante e saborosa, feita na AirFryer, o que a torna sem fritura em óleo e muito mais saudável.",
         "tags": [
-          "carne_vermelha",
-          "forno",
-          "rapido"
+          "airfryer",
+          "rapido",
+          "vegetariano"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "1 peça de picanha (~1,2 kg)",
-          "4 claras de ovo",
-          "1 kg de sal grosso",
-          "½ xícara (chá) de farinha de trigo",
-          "Ramos de tomilho fresco a gosto"
+          "250g de tapioca granulada",
+          "250g de queijo coalho ralado (ou muçarela)",
+          "500ml de leite",
+          "1 pitada de sal",
+          "1 fio de azeite (opcional, para untar)"
         ],
         "preparo": [
-          "Preaqueça o forno a 220 °C (temperatura alta).",
-          "Em uma tigela, misture o sal grosso, as claras e a farinha de trigo até obter uma consistência de areia grossa molhada.",
-          "Em uma assadeira grande, espalhe ⅓ da mistura de sal grosso formando uma camada. Disponha os ramos de tomilho e coloque a picanha sobre ela, com a gordura para cima.",
-          "Cubra toda a picanha com o restante da mistura de sal grosso, pressionando bem para formar uma capa firme.",
-          "Leve ao forno e diminua a temperatura para 200 °C. Asse por cerca de 45 minutos para carne ao ponto.",
-          "Retire do forno, quebre a crosta de sal, raspe o excesso e fatie a picanha para servir."
+          "Em uma tigela, misture a tapioca granulada, o queijo ralado e o sal.",
+          "Aqueça o leite até levantar fervura (não precisa ferver intensamente) e adicione à mistura de tapioca, mexendo bem até incorporar.",
+          "Transfira a massa para uma assadeira pequena (aprox. 20x25 cm) forrada com papel filme, espalhe e cubra com mais papel filme. Leve à geladeira por pelo menos 3 horas para firmar.",
+          "Após gelar, retire a massa e corte em cubos (dadinhos) de aproximadamente 2,5 cm.",
+          "Pré-aqueça a AirFryer a 200ºC por 5 minutos. Distribua os dadinhos no cesto sem amontoar e asse por 15 minutos, virando na metade do tempo, até dourarem e ficarem crocantes."
         ],
-        "id": "picanha-assada-com-sal-grosso-686788"
+        "id": "dadinhos-de-tapioca-na-airfryer-9ed208"
       },
       {
-        "nome": "Salada Colorida com Ovos de Codorna",
-        "curso": "entrada",
-        "tempo": "15 min",
-        "url": "https://www.receitadevovo.com.br/receitas/saladas/salada-de-legumes-com-ovo-de-codorna-leve-colorida-e-perfeita-para-qualquer-ocasiao",
-        "porque": "Uma entrada leve e refrescante, rica em vegetais coloridos e com a proteína dos ovos de codorna, ideal para um preparo rápido.",
-        "tags": [
-          "salada",
-          "rapido",
-          "low_carb"
-        ],
-        "rende_sobra": false,
-        "ingredientes": [
-          "2 cenouras médias, cozidas e em cubos",
-          "3 batatas médias, cozidas e em cubos",
-          "200 g de tomates cereja, cortados ao meio",
-          "1 cebola roxa, em tiras finas",
-          "100 g de azeitonas (verdes ou pretas), sem caroço",
-          "10 ovos de codorna, cozidos e cortados ao meio",
-          "2 colheres (sopa) de cebolinha picada",
-          "1 colher (chá) de pimenta calabresa (opcional)",
-          "Sal a gosto",
-          "1 colher (chá) de orégano",
-          "4 colheres (sopa) de azeite extra virgem",
-          "Suco de 1 limão"
-        ],
-        "preparo": [
-          "Cozinhe as cenouras e batatas em cubos em água com sal até ficarem al dente. Escorra e reserve para esfriar.",
-          "Em uma tigela grande, adicione a cenoura, batata, tomates cereja, cebola roxa, azeitonas, ovos de codorna e cebolinha.",
-          "Tempere com pimenta calabresa (se usar), sal, orégano, suco de limão e azeite.",
-          "Misture delicadamente para incorporar os temperos sem quebrar os ingredientes.",
-          "Leve à geladeira por pelo menos 30 minutos antes de servir para intensificar os sabores."
-        ],
-        "id": "salada-colorida-com-ovos-de-codorna-75de1b"
-      },
-      {
-        "nome": "Pudim de Caneca (Micro-ondas)",
+        "nome": "Pavê Tradicional Simples",
         "curso": "sobremesa",
-        "tempo": "5 min",
-        "url": "https://www.tudogostoso.com.br/receita/304932-pudim-de-caneca",
-        "porque": "Uma sobremesa individual e prática que fica pronta em poucos minutos no micro-ondas, perfeita para um doce rápido.",
+        "tempo": "30 min",
+        "url": "https://www.panelaterapia.com/2024/11/como-fazer-um-pave-simples-e-saboroso.html",
+        "porque": "Sobremesa clássica e fácil de preparar, que não exige forno, com camadas cremosas e biscoitos, agradando a todos.",
         "tags": [
+          "gelado",
           "rapido",
           "sobremesa"
         ],
-        "rende_sobra": false,
+        "rende_sobra": true,
         "ingredientes": [
-          "Para a calda: 1 colher (sopa) de açúcar, 1 colher (sopa) de água",
-          "Para o pudim: 1 ovo, 1/2 xícara (chá) de leite, 1/2 xícara (chá) de leite condensado, 1/2 colher (chá) de essência de baunilha"
+          "1 pacote de biscoito de maisena (ou champanhe)",
+          "Leite integral (para umedecer os biscoitos)",
+          "Para o creme:",
+          "1 lata de leite condensado",
+          "1 caixa de creme de leite",
+          "1 medida (da lata de leite condensado) de leite integral",
+          "2 colheres de sopa de amido de milho",
+          "1 colher de sopa de manteiga (opcional, para mais cremosidade)"
         ],
         "preparo": [
-          "Para a calda: Em uma caneca, misture o açúcar e a água. Leve ao micro-ondas por 1 minuto em potência alta. Retire, mexa a caneca e retorne ao micro-ondas em intervalos de 30 segundos até caramelizar.",
-          "Para o pudim: Em um bowl, misture o ovo, o leite, o leite condensado e a essência de baunilha com um fouet até ficar homogêneo.",
-          "Despeje a mistura do pudim na caneca com a calda, tomando cuidado para não encher mais da metade.",
-          "Leve ao micro-ondas por 1 a 2 minutos em potência alta (o tempo pode variar, verifique a consistência a cada 30 segundos).",
-          "Retire, tampe e deixe descansar por 5 minutos. Leve à geladeira por pelo menos 2 horas antes de servir."
+          "Prepare o creme: Em uma panela, misture o leite condensado, o leite (com o amido de milho dissolvido) e a manteiga (se usar).",
+          "Leve ao fogo médio, mexendo constantemente, até o creme engrossar e atingir uma consistência cremosa. Desligue o fogo e adicione o creme de leite, misturando bem.",
+          "Monte o pavê: Em um refratário, faça uma camada de biscoitos umedecidos rapidamente no leite.",
+          "Cubra com uma camada do creme. Repita as camadas de biscoito e creme, finalizando com uma camada de creme.",
+          "Leve à geladeira por no mínimo 2 horas (idealmente 4-6 horas ou de um dia para o outro) para firmar. Decore a gosto e sirva gelado."
         ],
-        "id": "pudim-de-caneca-micro-ondas-ce9c50"
+        "id": "pav-tradicional-simples-15fef5"
       }
     ]
   },
