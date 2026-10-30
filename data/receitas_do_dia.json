@@ -1,162 +1,171 @@
 {
-  "gerado_em": "29/10/2026",
+  "gerado_em": "30/10/2026",
   "diario": {
     "tipo": "diario",
-    "data": "29/10/2026",
-    "dia_semana": "quinta",
+    "data": "30/10/2026",
+    "dia_semana": "sexta",
     "pratos": [
       {
-        "nome": "Bife Grelhado com Molho de Cerveja",
-        "curso": "principal",
-        "tempo": "25 min",
-        "url": "https://www.minervafoods.com/receitas/bife-grelhado-simples-com-molho-de-cerveja/",
-        "porque": "Uma opção de carne vermelha suculenta e rápida, com um molho saboroso e diferente, ideal para um jantar prático.",
-        "tags": [
-          "carne_vermelha",
-          "grelhado",
-          "rapido"
-        ],
-        "rende_sobra": false,
-        "ingredientes": [
-          "2 bifes de alcatra (cerca de 1 dedo de espessura cada)",
-          "1 colher de sopa de manteiga",
-          "1 dente de alho picado (ou alho desidratado a gosto)",
-          "1/4 cebola picada (ou cebola desidratada a gosto)",
-          "Pimenta do reino preta moída a gosto",
-          "Pimenta biquinho a gosto (opcional)",
-          "1 copo (200ml) de cerveja clara",
-          "Azeite de oliva a gosto",
-          "Sal a gosto",
-          "Acompanhamento sugerido: Salada verde ou arroz branco"
-        ],
-        "preparo": [
-          "Tempere os bifes com azeite, sal e pimenta-do-reino.",
-          "Aqueça uma frigideira ou grelha em fogo alto e grelhe os bifes até dourar dos dois lados e atingir o ponto desejado. Retire e reserve aquecido.",
-          "Na mesma frigideira, adicione a manteiga e um fio de azeite. Refogue o alho e a cebola por 30 segundos.",
-          "Acrescente a cerveja aos poucos e a pimenta biquinho (se usar). Deixe reduzir em fogo brando até o molho encorpar levemente.",
-          "Sirva os bifes com o molho de cerveja por cima. Acompanhe com uma salada verde ou arroz."
-        ],
-        "id": "bife-grelhado-com-molho-de-cerveja-8e8880"
-      },
-      {
-        "nome": "Bife Grelhado com Molho Cremoso de Mostarda e Parmesão",
+        "nome": "Carne Fatiada com Redução de Molho Teriyaki e Caponata",
         "curso": "principal",
         "tempo": "20 min",
-        "url": "https://www.cozinhapratica.com/bife-ao-molho-de-mostarda-e-queijo/",
-        "porque": "Carne vermelha rápida e grelhada, com um molho cremoso e marcante que foge do tradicional.",
+        "url": "https://www.giallozafferano.com.br/receitas/Carne-fatiada-com-reducao-de-molho-teriyaki-e-caponata.html",
+        "porque": "É um prato principal com carne vermelha, rápido de preparar, e a caponata adiciona vegetais de forma equilibrada, evitando frituras profundas.",
         "tags": [
           "carne_vermelha",
-          "grelhado",
-          "rapido"
+          "rapido",
+          "grelhado"
         ],
-        "rende_sobra": false,
+        "rende_sobra": true,
         "ingredientes": [
-          "2 bifes de contrafilé ou alcatra",
+          "400g de entrecôte ou corte similar de carne vermelha",
+          "1 berinjela média",
+          "1 abobrinha média",
+          "1 pimentão (verde, vermelho ou amarelo)",
+          "1 cebola pequena",
+          "2 dentes de alho",
+          "50ml de molho teriyaki (pronto ou caseiro)",
+          "Azeite de oliva extra virgem a gosto",
           "Sal e pimenta-do-reino a gosto",
-          "1 colher de sopa de azeite ou óleo",
-          "Para o molho:",
-          "1 colher de sopa de mostarda (Dijon ou outra de sua preferência)",
-          "1/4 caixa de creme de leite (50g)",
-          "1 colher de sopa de queijo parmesão ralado"
+          "Folhas de manjericão fresco para decorar (opcional)"
         ],
         "preparo": [
-          "Tempere os bifes com sal e pimenta-do-reino.",
-          "Aqueça o azeite em uma frigideira em fogo alto e grelhe os bifes dos dois lados até o ponto desejado. Retire e reserve aquecido.",
-          "Na mesma frigideira, adicione a mostarda, o creme de leite e o queijo parmesão ralado.",
-          "Mexa bem em fogo baixo até o molho aquecer e ficar cremoso.",
-          "Sirva os bifes com o molho cremoso por cima."
+          "Corte a berinjela, abobrinha, pimentão e cebola em cubos pequenos. Pique o alho. Misture todos os vegetais em uma assadeira, regue com azeite, sal e pimenta e asse em forno pré-aquecido a 200°C por cerca de 15 minutos, ou até ficarem macios e levemente dourados. Reserve (essa será sua caponata).",
+          "Tempere a carne com sal e pimenta-do-reino. Aqueça uma frigideira ou grelha em fogo alto com um fio de azeite.",
+          "Grelhe a carne por 3-4 minutos de cada lado para um ponto malpassado, ou ajuste ao seu gosto. Retire a carne e deixe descansar por alguns minutos antes de fatiar.",
+          "Na mesma frigideira, adicione o molho teriyaki e deixe reduzir em fogo baixo por 1-2 minutos até engrossar levemente.",
+          "Fatie a carne em tiras de aproximadamente 1 cm. Sirva as fatias de carne com a caponata ao lado e regue com a redução de molho teriyaki. Decore com manjericão, se desejar."
         ],
-        "id": "bife-grelhado-com-molho-cremoso-de-mosta-2dd27f"
+        "id": "carne-fatiada-com-redu-o-de-molho-teriya-34f3cd"
       },
       {
-        "nome": "Alcatra com Legumes Cremosos",
+        "nome": "Lomo Saltado",
         "curso": "principal",
         "tempo": "35 min",
-        "url": "https://www.vitat.com.br/receitas/alcatra-com-legumes-cremosos-3352",
-        "porque": "Um prato de carne vermelha equilibrado com legumes frescos, refogado de forma rápida e com um toque cremoso.",
+        "url": "https://www.youtube.com/watch?v=k_l2uX7-S1w",
+        "porque": "Prato de carne vermelha rápido de preparar por meio de refogado intenso, rico em proteína e com vegetais, além de batatas que podem ser feitas na airfryer.",
         "tags": [
           "carne_vermelha",
-          "refogado",
+          "rapido",
+          "refogado"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "600g de filé mignon ou alcatra em tiras",
+          "2 cebolas roxas médias em pétalas",
+          "2 tomates médios em gomos",
+          "2 dentes de alho em lâminas",
+          "1 pimenta dedo de moça sem sementes (opcional)",
+          "6 colheres (sopa) de molho shoyu",
+          "4 colheres (sopa) de vinagre de vinho tinto ou de maçã",
+          "Coentro fresco picado a gosto",
+          "Óleo vegetal para refogar",
+          "Batatas palito (para airfryer ou assar)"
+        ],
+        "preparo": [
+          "Tempere as tiras de carne com sal e pimenta. Prepare as batatas palito na airfryer ou assadas no forno conforme instruções da embalagem para evitar fritura em óleo.",
+          "Em uma wok ou frigideira grande e bem quente, adicione um fio de óleo e sele a carne em pequenas porções para não juntar água. Retire e reserve.",
+          "Na mesma panela, adicione mais um fio de óleo, as lâminas de alho e a cebola roxa em pétalas. Refogue rapidamente até a cebola ficar levemente macia, mas ainda crocante.",
+          "Acrescente os gomos de tomate e a pimenta dedo de moça (se usar). Salteie por mais 1-2 minutos.",
+          "Retorne a carne para a panela, adicione o molho shoyu e o vinagre. Misture bem e cozinhe por mais 2 minutos para que os sabores se incorporem.",
+          "Finalize com coentro fresco picado e sirva imediatamente com as batatas palito."
+        ],
+        "id": "lomo-saltado-a790d8"
+      },
+      {
+        "nome": "Escondidinho de Carne Moída",
+        "curso": "principal",
+        "tempo": "45 min",
+        "url": "https://www.tudoreceitas.com/receita-de-escondidinho-de-carne-moida-12792.html",
+        "porque": "Um clássico reconfortante, feito no forno, rico em proteína e carboidratos, ideal para ter sobras e fácil de fazer sem frituras.",
+        "tags": [
+          "carne_vermelha",
+          "forno",
           "equilibrado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "200g de alcatra em tiras finas",
-          "1 colher de sopa de óleo (dividida)",
-          "1/2 abobrinha cortada em tiras finas",
-          "1/4 cebola cortada em pétalas",
-          "1/4 pimentão (verde ou colorido) em tiras finas",
-          "2 colheres de sopa de maionese light",
-          "Sal e pimenta-do-reino a gosto",
-          "Acompanhamento sugerido: Arroz branco"
+          "500g de carne moída",
+          "1kg de batatas",
+          "200g de queijo muçarela ralado",
+          "1 cebola picada",
+          "1 dente de alho esmagado",
+          "1 lata de tomate pelado picado",
+          "½ xícara (120ml) de leite",
+          "2 colheres (sopa) de manteiga",
+          "Cheiro verde picado a gosto",
+          "Sal e pimenta do reino a gosto",
+          "2 colheres (sopa) de azeite de oliva",
+          "100g de queijo parmesão ralado (para gratinar)"
         ],
         "preparo": [
-          "Aqueça meia colher de sopa de óleo em uma panela e refogue a abobrinha até murchar.",
-          "Junte a cebola e o pimentão, refogue até dourar levemente. Retire os legumes da panela e reserve.",
-          "Na mesma panela, aqueça o restante do óleo e grelhe as tiras de carne até dourarem. Tempere com sal e pimenta.",
-          "Retire a carne do fogo, adicione a maionese light e misture delicadamente.",
-          "Acrescente os legumes reservados à carne, misture bem e sirva imediatamente com arroz branco."
+          "Cozinhe as batatas em água com sal até ficarem bem macias. Escorra, descasque e amasse-as ainda quentes. Misture com o leite e a manteiga até obter um purê liso e cremoso. Tempere com sal e reserve.",
+          "Em uma panela, aqueça o azeite e refogue a cebola e o alho até dourarem. Adicione o tomate pelado picado e cozinhe por 5 minutos.",
+          "Acrescente a carne moída, o cheiro verde, sal e pimenta do reino. Cozinhe em fogo médio, mexendo sempre, até a carne secar e o molho apurar (cerca de 20-30 minutos).",
+          "Em um refratário, espalhe metade do purê de batatas. Cubra com a carne moída, depois com metade do queijo muçarela ralado.",
+          "Espalhe o restante do purê de batatas por cima e finalize com o queijo muçarela e o parmesão ralado. Leve ao forno pré-aquecido a 180°C por cerca de 10-15 minutos, ou até gratinar e dourar."
         ],
-        "id": "alcatra-com-legumes-cremosos-48306a"
+        "id": "escondidinho-de-carne-mo-da-177454"
       },
       {
-        "nome": "Dadinhos de Tapioca na AirFryer",
+        "nome": "Salada de Burrata, Tomate e Manjericão",
         "curso": "entrada",
-        "tempo": "45 min",
-        "url": "https://www.tudoreceitas.com/receita-de-dadinho-de-tapioca-na-airfryer-10255.html",
-        "porque": "Uma entrada crocante e saborosa, feita na AirFryer, o que a torna sem fritura em óleo e muito mais saudável.",
+        "tempo": "10 min",
+        "url": "https://clara.blogs.sapo.pt/receita-de-salada-de-burrata-tomate-e-23230",
+        "porque": "Extremamente rápida e fácil de preparar, sem necessidade de cozimento, é uma entrada fresca, leve e elegante para qualquer ocasião.",
         "tags": [
-          "airfryer",
+          "vegetariano",
           "rapido",
-          "vegetariano"
+          "low_carb"
         ],
-        "rende_sobra": true,
+        "rende_sobra": false,
         "ingredientes": [
-          "250g de tapioca granulada",
-          "250g de queijo coalho ralado (ou muçarela)",
-          "500ml de leite",
-          "1 pitada de sal",
-          "1 fio de azeite (opcional, para untar)"
+          "2 tomates salada maduros",
+          "250g de tomates cereja coloridos",
+          "2 burratas grandes (aproximadamente 200g cada)",
+          "Manjericão fresco a gosto (muitas folhas)",
+          "Azeite extra virgem a gosto",
+          "Creme de vinagre balsâmico a gosto",
+          "Sal e pimenta preta moída na hora a gosto"
         ],
         "preparo": [
-          "Em uma tigela, misture a tapioca granulada, o queijo ralado e o sal.",
-          "Aqueça o leite até levantar fervura (não precisa ferver intensamente) e adicione à mistura de tapioca, mexendo bem até incorporar.",
-          "Transfira a massa para uma assadeira pequena (aprox. 20x25 cm) forrada com papel filme, espalhe e cubra com mais papel filme. Leve à geladeira por pelo menos 3 horas para firmar.",
-          "Após gelar, retire a massa e corte em cubos (dadinhos) de aproximadamente 2,5 cm.",
-          "Pré-aqueça a AirFryer a 200ºC por 5 minutos. Distribua os dadinhos no cesto sem amontoar e asse por 15 minutos, virando na metade do tempo, até dourarem e ficarem crocantes."
+          "Lave e seque os tomates. Corte os tomates salada em fatias finas e os tomates cereja ao meio.",
+          "Em uma travessa ou prato grande, disponha uma camada de rodelas de tomate salada. Por cima, distribua as metades de tomate cereja.",
+          "Corte as burratas ao meio e coloque as metades sobre os tomates, com a parte cremosa voltada para cima.",
+          "Tempere generosamente com sal, pimenta preta moída na hora, um bom fio de azeite extra virgem e um pouco de creme de vinagre balsâmico.",
+          "Finalize com uma boa quantidade de folhas frescas de manjericão. Sirva imediatamente."
         ],
-        "id": "dadinhos-de-tapioca-na-airfryer-9ed208"
+        "id": "salada-de-burrata-tomate-e-manjeric-o-efd579"
       },
       {
-        "nome": "Pavê Tradicional Simples",
+        "nome": "Bombom de Uva na Travessa",
         "curso": "sobremesa",
         "tempo": "30 min",
-        "url": "https://www.panelaterapia.com/2024/11/como-fazer-um-pave-simples-e-saboroso.html",
-        "porque": "Sobremesa clássica e fácil de preparar, que não exige forno, com camadas cremosas e biscoitos, agradando a todos.",
+        "url": "https://www.receitasnestle.com.br/receitas/bombom-de-uva-na-travessa",
+        "porque": "Uma sobremesa clássica e deliciosa, de montagem simples e rápida, combinando o frescor da uva com a doçura do creme e do chocolate.",
         "tags": [
-          "gelado",
           "rapido",
-          "sobremesa"
+          "vegetariano",
+          "doce"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "1 pacote de biscoito de maisena (ou champanhe)",
-          "Leite integral (para umedecer os biscoitos)",
-          "Para o creme:",
-          "1 lata de leite condensado",
-          "1 caixa de creme de leite",
-          "1 medida (da lata de leite condensado) de leite integral",
-          "2 colheres de sopa de amido de milho",
-          "1 colher de sopa de manteiga (opcional, para mais cremosidade)"
+          "1 lata de leite condensado (395g)",
+          "1 caixinha de creme de leite (200g)",
+          "1 xícara (chá) de Leite Ninho Forti+ Integral em pó",
+          "500g de uvas verdes sem sementes",
+          "200g de chocolate meio amargo picado",
+          "1 caixinha de NESTLÉ Creme de Leite (para a ganache)",
+          "Granulado ou raspas de chocolate para decorar (opcional)"
         ],
         "preparo": [
-          "Prepare o creme: Em uma panela, misture o leite condensado, o leite (com o amido de milho dissolvido) e a manteiga (se usar).",
-          "Leve ao fogo médio, mexendo constantemente, até o creme engrossar e atingir uma consistência cremosa. Desligue o fogo e adicione o creme de leite, misturando bem.",
-          "Monte o pavê: Em um refratário, faça uma camada de biscoitos umedecidos rapidamente no leite.",
-          "Cubra com uma camada do creme. Repita as camadas de biscoito e creme, finalizando com uma camada de creme.",
-          "Leve à geladeira por no mínimo 2 horas (idealmente 4-6 horas ou de um dia para o outro) para firmar. Decore a gosto e sirva gelado."
+          "Para o creme branco: Em uma panela, misture o leite condensado, o creme de leite e o Leite Ninho em pó. Leve ao fogo baixo, mexendo sempre, até o creme engrossar e começar a desgrudar do fundo da panela (ponto de brigadeiro mole). Retire do fogo e deixe esfriar completamente.",
+          "Lave e seque bem as uvas. Reserve algumas inteiras para decorar, se desejar, e corte o restante ao meio.",
+          "Em uma travessa, espalhe as uvas cortadas no fundo. Cubra com o creme branco já frio, espalhando uniformemente.",
+          "Para a ganache: Derreta o chocolate meio amargo picado no micro-ondas em intervalos de 30 segundos, mexendo a cada intervalo, ou em banho-maria. Adicione a caixinha de creme de leite e misture bem até obter uma ganache lisa e brilhante.",
+          "Despeje a ganache sobre o creme branco na travessa, espalhando delicadamente. Leve à geladeira por no mínimo 2 horas para firmar. Na hora de servir, decore com as uvas reservadas e granulado ou raspas de chocolate, se usar."
         ],
-        "id": "pav-tradicional-simples-15fef5"
+        "id": "bombom-de-uva-na-travessa-61de20"
       }
     ]
   },

@@ -1,45 +1,5 @@
 [
   {
-    "id": "palitos-de-cenoura-e-pepino-com-dip-de-i-d9a8f1",
-    "titulo": "Palitos de Cenoura e Pepino com Dip de Iogurte e Hortelã",
-    "tags": [
-      "vegetariano",
-      "rapido",
-      "low_carb"
-    ],
-    "data": "14/08/2026"
-  },
-  {
-    "id": "bife-de-contrafil-grelhado-com-batatas-r-530a57",
-    "titulo": "Bife de Contrafilé Grelhado com Batatas Rústicas e Salada Verde",
-    "tags": [
-      "carne_vermelha",
-      "grelhado",
-      "airfryer"
-    ],
-    "data": "15/08/2026"
-  },
-  {
-    "id": "espetinhos-de-carne-com-piment-es-e-cebo-0d2d1a",
-    "titulo": "Espetinhos de Carne com Pimentões e Cebola Grelhados",
-    "tags": [
-      "carne_vermelha",
-      "grelhado",
-      "rapido"
-    ],
-    "data": "15/08/2026"
-  },
-  {
-    "id": "tomates-recheados-com-ricota-e-ervas-ass-70abfe",
-    "titulo": "Tomates Recheados com Ricota e Ervas Assados",
-    "tags": [
-      "vegetariano",
-      "forno",
-      "low_carb"
-    ],
-    "data": "15/08/2026"
-  },
-  {
     "id": "pav-de-bolacha-com-doce-de-leite-e-coco-8d86cf",
     "titulo": "Pavê de Bolacha com Doce de Leite e Coco",
     "tags": [
@@ -5094,5 +5054,45 @@
       "sobremesa"
     ],
     "data": "29/10/2026"
+  },
+  {
+    "id": "carne-fatiada-com-redu-o-de-molho-teriya-34f3cd",
+    "titulo": "Carne Fatiada com Redução de Molho Teriyaki e Caponata",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "grelhado"
+    ],
+    "data": "30/10/2026"
+  },
+  {
+    "id": "lomo-saltado-a790d8",
+    "titulo": "Lomo Saltado",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "refogado"
+    ],
+    "data": "30/10/2026"
+  },
+  {
+    "id": "escondidinho-de-carne-mo-da-177454",
+    "titulo": "Escondidinho de Carne Moída",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "equilibrado"
+    ],
+    "data": "30/10/2026"
+  },
+  {
+    "id": "bombom-de-uva-na-travessa-61de20",
+    "titulo": "Bombom de Uva na Travessa",
+    "tags": [
+      "rapido",
+      "vegetariano",
+      "doce"
+    ],
+    "data": "30/10/2026"
   }
 ]
