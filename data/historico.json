@@ -1,37 +1,5 @@
 [
   {
-    "id": "pav-de-bolacha-com-doce-de-leite-e-coco-8d86cf",
-    "titulo": "Pavê de Bolacha com Doce de Leite e Coco",
-    "tags": [
-      "sobremesa",
-      "rapido",
-      "sem_forno"
-    ],
-    "data": "15/08/2026"
-  },
-  {
-    "id": "costelinha-su-na-assada-com-batatas-e-er-0942d1",
-    "titulo": "Costelinha Suína Assada com Batatas e Ervas Finas na Airfryer",
-    "tags": [
-      "porco",
-      "airfryer",
-      "rapido",
-      "equilibrio"
-    ],
-    "data": "16/08/2026"
-  },
-  {
-    "id": "frango-milanesa-assado-na-airfryer-com-p-1efb1e",
-    "titulo": "Frango à Milanesa Assado na Airfryer com Purê de Couve-Flor",
-    "tags": [
-      "frango",
-      "airfryer",
-      "low_carb",
-      "rapido"
-    ],
-    "data": "16/08/2026"
-  },
-  {
     "id": "tomate-confit-r-pido-com-torradinhas-int-e7e501",
     "titulo": "Tomate Confit Rápido com Torradinhas Integrais",
     "tags": [
@@ -5094,5 +5062,35 @@
       "doce"
     ],
     "data": "30/10/2026"
+  },
+  {
+    "id": "bife-completo-na-panela-de-press-o-ad2f0c",
+    "titulo": "Bife Completo na Panela de Pressão",
+    "tags": [
+      "carne_vermelha",
+      "panela_pressao",
+      "equilibrado"
+    ],
+    "data": "31/10/2026"
+  },
+  {
+    "id": "frango-assado-com-legumes-no-forno-06bf50",
+    "titulo": "Frango Assado com Legumes no Forno",
+    "tags": [
+      "frango",
+      "forno",
+      "equilibrado"
+    ],
+    "data": "31/10/2026"
+  },
+  {
+    "id": "mousse-de-maracuj-cremosa-sem-gelatina-ad995c",
+    "titulo": "Mousse de Maracujá Cremosa (sem gelatina)",
+    "tags": [
+      "sobremesa",
+      "rapido",
+      "sem_forno"
+    ],
+    "data": "31/10/2026"
   }
 ]

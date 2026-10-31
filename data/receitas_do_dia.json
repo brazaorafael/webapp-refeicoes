@@ -1,171 +1,131 @@
 {
-  "gerado_em": "30/10/2026",
+  "gerado_em": "31/10/2026",
   "diario": {
     "tipo": "diario",
-    "data": "30/10/2026",
-    "dia_semana": "sexta",
+    "data": "31/10/2026",
+    "dia_semana": "sábado",
     "pratos": [
       {
-        "nome": "Carne Fatiada com Redução de Molho Teriyaki e Caponata",
+        "nome": "Bife Completo na Panela de Pressão",
         "curso": "principal",
-        "tempo": "20 min",
-        "url": "https://www.giallozafferano.com.br/receitas/Carne-fatiada-com-reducao-de-molho-teriyaki-e-caponata.html",
-        "porque": "É um prato principal com carne vermelha, rápido de preparar, e a caponata adiciona vegetais de forma equilibrada, evitando frituras profundas.",
+        "tempo": "30 min",
+        "url": "https://www.minervafoods.com/receitas/como-fazer-bife-na-panela-de-pressao/",
+        "porque": "É um prato completo e prático de carne vermelha, cozido rapidamente na panela de pressão com legumes e batatas, ideal para um jantar equilibrado.",
         "tags": [
           "carne_vermelha",
-          "rapido",
-          "grelhado"
+          "panela_pressao",
+          "equilibrado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "400g de entrecôte ou corte similar de carne vermelha",
-          "1 berinjela média",
-          "1 abobrinha média",
-          "1 pimentão (verde, vermelho ou amarelo)",
-          "1 cebola pequena",
-          "2 dentes de alho",
-          "50ml de molho teriyaki (pronto ou caseiro)",
-          "Azeite de oliva extra virgem a gosto",
-          "Sal e pimenta-do-reino a gosto",
-          "Folhas de manjericão fresco para decorar (opcional)"
+          "500 gramas de patinho ou lagarto cortado em bifes",
+          "2 cenouras médias em rodelas grossas",
+          "4 batatas médias cortadas em rodelas grossas",
+          "500 gramas de polpa de tomate",
+          "2 cebolas médias picadas",
+          "2 dentes de alho amassados",
+          "1/2 xícara (chá) de azeite ou óleo",
+          "Sal e pimenta-do-reino preta moída (a gosto)",
+          "2 colheres (sopa) de cebolinha picada (para finalizar)"
         ],
         "preparo": [
-          "Corte a berinjela, abobrinha, pimentão e cebola em cubos pequenos. Pique o alho. Misture todos os vegetais em uma assadeira, regue com azeite, sal e pimenta e asse em forno pré-aquecido a 200°C por cerca de 15 minutos, ou até ficarem macios e levemente dourados. Reserve (essa será sua caponata).",
-          "Tempere a carne com sal e pimenta-do-reino. Aqueça uma frigideira ou grelha em fogo alto com um fio de azeite.",
-          "Grelhe a carne por 3-4 minutos de cada lado para um ponto malpassado, ou ajuste ao seu gosto. Retire a carne e deixe descansar por alguns minutos antes de fatiar.",
-          "Na mesma frigideira, adicione o molho teriyaki e deixe reduzir em fogo baixo por 1-2 minutos até engrossar levemente.",
-          "Fatie a carne em tiras de aproximadamente 1 cm. Sirva as fatias de carne com a caponata ao lado e regue com a redução de molho teriyaki. Decore com manjericão, se desejar."
+          "Corte a carne em bifes e tempere com sal, pimenta e alho amassado.",
+          "Em uma panela de pressão, aqueça o azeite e adicione a polpa de tomate no fundo.",
+          "Faça camadas alternadas de bifes, cebola picada, batatas e cenouras na panela. Salpique sal e pimenta entre as camadas.",
+          "Feche a panela de pressão e cozinhe por 15 minutos após o início da pressão.",
+          "Desligue o fogo, espere a pressão sair naturalmente e abra a panela.",
+          "Transfira a carne com o molho e os legumes para uma travessa, salpique cebolinha picada e sirva."
         ],
-        "id": "carne-fatiada-com-redu-o-de-molho-teriya-34f3cd"
+        "id": "bife-completo-na-panela-de-press-o-ad2f0c"
       },
       {
-        "nome": "Lomo Saltado",
+        "nome": "Frango Assado com Legumes no Forno",
         "curso": "principal",
-        "tempo": "35 min",
-        "url": "https://www.youtube.com/watch?v=k_l2uX7-S1w",
-        "porque": "Prato de carne vermelha rápido de preparar por meio de refogado intenso, rico em proteína e com vegetais, além de batatas que podem ser feitas na airfryer.",
+        "tempo": "50 min",
+        "url": "https://receitas.ia.br/receita/frango-assado-com-legumes",
+        "porque": "Uma opção prática e equilibrada de frango assado no forno com legumes, perfeita para um jantar rápido e saudável, sem fritura.",
         "tags": [
-          "carne_vermelha",
-          "rapido",
-          "refogado"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "600g de filé mignon ou alcatra em tiras",
-          "2 cebolas roxas médias em pétalas",
-          "2 tomates médios em gomos",
-          "2 dentes de alho em lâminas",
-          "1 pimenta dedo de moça sem sementes (opcional)",
-          "6 colheres (sopa) de molho shoyu",
-          "4 colheres (sopa) de vinagre de vinho tinto ou de maçã",
-          "Coentro fresco picado a gosto",
-          "Óleo vegetal para refogar",
-          "Batatas palito (para airfryer ou assar)"
-        ],
-        "preparo": [
-          "Tempere as tiras de carne com sal e pimenta. Prepare as batatas palito na airfryer ou assadas no forno conforme instruções da embalagem para evitar fritura em óleo.",
-          "Em uma wok ou frigideira grande e bem quente, adicione um fio de óleo e sele a carne em pequenas porções para não juntar água. Retire e reserve.",
-          "Na mesma panela, adicione mais um fio de óleo, as lâminas de alho e a cebola roxa em pétalas. Refogue rapidamente até a cebola ficar levemente macia, mas ainda crocante.",
-          "Acrescente os gomos de tomate e a pimenta dedo de moça (se usar). Salteie por mais 1-2 minutos.",
-          "Retorne a carne para a panela, adicione o molho shoyu e o vinagre. Misture bem e cozinhe por mais 2 minutos para que os sabores se incorporem.",
-          "Finalize com coentro fresco picado e sirva imediatamente com as batatas palito."
-        ],
-        "id": "lomo-saltado-a790d8"
-      },
-      {
-        "nome": "Escondidinho de Carne Moída",
-        "curso": "principal",
-        "tempo": "45 min",
-        "url": "https://www.tudoreceitas.com/receita-de-escondidinho-de-carne-moida-12792.html",
-        "porque": "Um clássico reconfortante, feito no forno, rico em proteína e carboidratos, ideal para ter sobras e fácil de fazer sem frituras.",
-        "tags": [
-          "carne_vermelha",
+          "frango",
           "forno",
           "equilibrado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "500g de carne moída",
-          "1kg de batatas",
-          "200g de queijo muçarela ralado",
-          "1 cebola picada",
-          "1 dente de alho esmagado",
-          "1 lata de tomate pelado picado",
-          "½ xícara (120ml) de leite",
-          "2 colheres (sopa) de manteiga",
-          "Cheiro verde picado a gosto",
-          "Sal e pimenta do reino a gosto",
+          "4 peitos de frango desossados e sem pele (ou coxas/sobrecoxas)",
+          "4 batatas grandes, cortadas em cubos",
+          "2 cenouras grandes, cortadas em rodelas",
+          "2 abobrinhas médias, cortadas em rodelas",
+          "4 dentes de alho picados",
           "2 colheres (sopa) de azeite de oliva",
-          "100g de queijo parmesão ralado (para gratinar)"
+          "1 colher (sopa) de alecrim fresco picado",
+          "1 colher (sopa) de tomilho fresco picado",
+          "Sal e pimenta (a gosto)"
         ],
         "preparo": [
-          "Cozinhe as batatas em água com sal até ficarem bem macias. Escorra, descasque e amasse-as ainda quentes. Misture com o leite e a manteiga até obter um purê liso e cremoso. Tempere com sal e reserve.",
-          "Em uma panela, aqueça o azeite e refogue a cebola e o alho até dourarem. Adicione o tomate pelado picado e cozinhe por 5 minutos.",
-          "Acrescente a carne moída, o cheiro verde, sal e pimenta do reino. Cozinhe em fogo médio, mexendo sempre, até a carne secar e o molho apurar (cerca de 20-30 minutos).",
-          "Em um refratário, espalhe metade do purê de batatas. Cubra com a carne moída, depois com metade do queijo muçarela ralado.",
-          "Espalhe o restante do purê de batatas por cima e finalize com o queijo muçarela e o parmesão ralado. Leve ao forno pré-aquecido a 180°C por cerca de 10-15 minutos, ou até gratinar e dourar."
+          "Pré-aqueça o forno a 200°C.",
+          "Em uma tigela grande, misture as batatas, cenouras, abobrinhas e alho. Regue com azeite de oliva e tempere com sal, pimenta, alecrim e tomilho. Misture bem.",
+          "Espalhe os legumes em uma assadeira grande.",
+          "Tempere os peitos de frango (ou outros pedaços) com sal e pimenta a gosto e coloque-os sobre os legumes na assadeira.",
+          "Asse no forno pré-aquecido por 45-50 minutos, ou até que os legumes estejam macios e o frango cozido.",
+          "Retire do forno e deixe descansar por alguns minutos antes de servir, regando com os sucos da assadeira."
         ],
-        "id": "escondidinho-de-carne-mo-da-177454"
+        "id": "frango-assado-com-legumes-no-forno-06bf50"
       },
       {
-        "nome": "Salada de Burrata, Tomate e Manjericão",
+        "nome": "Salada Caprese Simples",
         "curso": "entrada",
         "tempo": "10 min",
-        "url": "https://clara.blogs.sapo.pt/receita-de-salada-de-burrata-tomate-e-23230",
-        "porque": "Extremamente rápida e fácil de preparar, sem necessidade de cozimento, é uma entrada fresca, leve e elegante para qualquer ocasião.",
+        "url": "https://www.panelinha.com.br/receita/Salada-caprese-classica",
+        "porque": "Uma entrada fresca e leve, fácil de montar e que não requer cozimento, pronta em poucos minutos.",
         "tags": [
+          "salada",
           "vegetariano",
-          "rapido",
-          "low_carb"
+          "rapido"
         ],
         "rende_sobra": false,
         "ingredientes": [
-          "2 tomates salada maduros",
-          "250g de tomates cereja coloridos",
-          "2 burratas grandes (aproximadamente 200g cada)",
-          "Manjericão fresco a gosto (muitas folhas)",
-          "Azeite extra virgem a gosto",
-          "Creme de vinagre balsâmico a gosto",
-          "Sal e pimenta preta moída na hora a gosto"
+          "2 tomates maduros (preferencialmente italianos ou coração de boi)",
+          "200g de muçarela de búfala (bolinhas ou fatiada)",
+          "10-12 folhas de manjericão fresco",
+          "2 colheres (sopa) de azeite extra virgem",
+          "Sal e pimenta-do-reino moída na hora (a gosto)"
         ],
         "preparo": [
-          "Lave e seque os tomates. Corte os tomates salada em fatias finas e os tomates cereja ao meio.",
-          "Em uma travessa ou prato grande, disponha uma camada de rodelas de tomate salada. Por cima, distribua as metades de tomate cereja.",
-          "Corte as burratas ao meio e coloque as metades sobre os tomates, com a parte cremosa voltada para cima.",
-          "Tempere generosamente com sal, pimenta preta moída na hora, um bom fio de azeite extra virgem e um pouco de creme de vinagre balsâmico.",
-          "Finalize com uma boa quantidade de folhas frescas de manjericão. Sirva imediatamente."
+          "Lave e seque os tomates. Corte cada tomate em 8 gomos ou em rodelas grossas.",
+          "Lave e seque bem as folhas de manjericão.",
+          "Corte a muçarela de búfala em rodelas ou ao meio, se forem bolinhas.",
+          "Em um prato ou travessa, alterne as fatias de tomate com as fatias de muçarela e as folhas de manjericão.",
+          "Regue com azeite extra virgem, tempere com sal e pimenta-do-reino moída na hora e sirva imediatamente."
         ],
-        "id": "salada-de-burrata-tomate-e-manjeric-o-efd579"
+        "id": "salada-caprese-simples-83a6c1"
       },
       {
-        "nome": "Bombom de Uva na Travessa",
+        "nome": "Mousse de Maracujá Cremosa (sem gelatina)",
         "curso": "sobremesa",
-        "tempo": "30 min",
-        "url": "https://www.receitasnestle.com.br/receitas/bombom-de-uva-na-travessa",
-        "porque": "Uma sobremesa clássica e deliciosa, de montagem simples e rápida, combinando o frescor da uva com a doçura do creme e do chocolate.",
+        "tempo": "10 min (preparo) + 4h (geladeira)",
+        "url": "https://www.soubh.com.br/noticias/gastronomia/aprenda-a-fazer-mousse-de-maracuja-cremoso-e-facil-em-poucos-minutos",
+        "porque": "Uma sobremesa refrescante e fácil de preparar, que fica pronta em poucos minutos no liquidificador e não exige forno.",
         "tags": [
+          "sobremesa",
           "rapido",
-          "vegetariano",
-          "doce"
+          "sem_forno"
         ],
         "rende_sobra": true,
         "ingredientes": [
           "1 lata de leite condensado (395g)",
-          "1 caixinha de creme de leite (200g)",
-          "1 xícara (chá) de Leite Ninho Forti+ Integral em pó",
-          "500g de uvas verdes sem sementes",
-          "200g de chocolate meio amargo picado",
-          "1 caixinha de NESTLÉ Creme de Leite (para a ganache)",
-          "Granulado ou raspas de chocolate para decorar (opcional)"
+          "1 caixa de creme de leite (200g)",
+          "1 xícara (chá) de suco concentrado de maracujá (240ml)",
+          "Polpa de 1 maracujá maduro com sementes (para cobertura, opcional)"
         ],
         "preparo": [
-          "Para o creme branco: Em uma panela, misture o leite condensado, o creme de leite e o Leite Ninho em pó. Leve ao fogo baixo, mexendo sempre, até o creme engrossar e começar a desgrudar do fundo da panela (ponto de brigadeiro mole). Retire do fogo e deixe esfriar completamente.",
-          "Lave e seque bem as uvas. Reserve algumas inteiras para decorar, se desejar, e corte o restante ao meio.",
-          "Em uma travessa, espalhe as uvas cortadas no fundo. Cubra com o creme branco já frio, espalhando uniformemente.",
-          "Para a ganache: Derreta o chocolate meio amargo picado no micro-ondas em intervalos de 30 segundos, mexendo a cada intervalo, ou em banho-maria. Adicione a caixinha de creme de leite e misture bem até obter uma ganache lisa e brilhante.",
-          "Despeje a ganache sobre o creme branco na travessa, espalhando delicadamente. Leve à geladeira por no mínimo 2 horas para firmar. Na hora de servir, decore com as uvas reservadas e granulado ou raspas de chocolate, se usar."
+          "No liquidificador, coloque o leite condensado e o creme de leite.",
+          "Bata em velocidade média por cerca de 2 minutos para obter uma base lisa e homogênea.",
+          "Com o liquidificador ainda ligado em baixa velocidade, adicione o suco concentrado de maracujá aos poucos, em fio contínuo.",
+          "Bata apenas até a mistura encorpar e ficar cremosa. Evite bater demais.",
+          "Distribua a mousse em taças individuais ou em uma travessa média.",
+          "Leve à geladeira por no mínimo 4 horas, ou até firmar. Se desejar, decore com a polpa do maracujá antes de servir."
         ],
-        "id": "bombom-de-uva-na-travessa-61de20"
+        "id": "mousse-de-maracuj-cremosa-sem-gelatina-ad995c"
       }
     ]
   },
