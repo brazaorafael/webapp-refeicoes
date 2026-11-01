@@ -1,49 +1,45 @@
 {
-  "gerado_em": "31/10/2026",
+  "gerado_em": "01/11/2026",
   "diario": {
     "tipo": "diario",
-    "data": "31/10/2026",
-    "dia_semana": "sábado",
+    "data": "01/11/2026",
+    "dia_semana": "domingo",
     "pratos": [
       {
-        "nome": "Bife Completo na Panela de Pressão",
+        "nome": "Fraldinha Assada na Air Fryer com Arroz e Salada",
         "curso": "principal",
-        "tempo": "30 min",
-        "url": "https://www.minervafoods.com/receitas/como-fazer-bife-na-panela-de-pressao/",
-        "porque": "É um prato completo e prático de carne vermelha, cozido rapidamente na panela de pressão com legumes e batatas, ideal para um jantar equilibrado.",
+        "tempo": "35 min",
+        "url": "https://www.panelinha.com.br/receita/fraldinha-assada-na-air-fryer",
+        "porque": "É uma carne vermelha preferida pelo casal, feita na Air Fryer para evitar fritura e com preparo rápido e prático, ideal para o dia a dia.",
         "tags": [
           "carne_vermelha",
-          "panela_pressao",
-          "equilibrado"
+          "airfryer",
+          "rapido"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "500 gramas de patinho ou lagarto cortado em bifes",
-          "2 cenouras médias em rodelas grossas",
-          "4 batatas médias cortadas em rodelas grossas",
-          "500 gramas de polpa de tomate",
-          "2 cebolas médias picadas",
-          "2 dentes de alho amassados",
-          "1/2 xícara (chá) de azeite ou óleo",
-          "Sal e pimenta-do-reino preta moída (a gosto)",
-          "2 colheres (sopa) de cebolinha picada (para finalizar)"
+          "1 peça de fraldinha (cerca de 1 kg)",
+          "1 colher (sopa) de sal grosso",
+          "1 colher (sopa) de azeite",
+          "Pimenta-do-reino moída na hora a gosto",
+          "Arroz branco cozido (para acompanhar)",
+          "Folhas verdes para salada (para acompanhar)"
         ],
         "preparo": [
-          "Corte a carne em bifes e tempere com sal, pimenta e alho amassado.",
-          "Em uma panela de pressão, aqueça o azeite e adicione a polpa de tomate no fundo.",
-          "Faça camadas alternadas de bifes, cebola picada, batatas e cenouras na panela. Salpique sal e pimenta entre as camadas.",
-          "Feche a panela de pressão e cozinhe por 15 minutos após o início da pressão.",
-          "Desligue o fogo, espere a pressão sair naturalmente e abra a panela.",
-          "Transfira a carne com o molho e os legumes para uma travessa, salpique cebolinha picada e sirva."
+          "Tempere a fraldinha com sal grosso, azeite e pimenta-do-reino, massageando bem a carne.",
+          "Pré-aqueça a Air Fryer a 200 °C por 5 minutos.",
+          "Coloque a fraldinha na cesta da Air Fryer e asse por 20 minutos de um lado.",
+          "Vire a carne e asse por mais 5 a 10 minutos, dependendo do ponto desejado.",
+          "Retire a fraldinha da Air Fryer, deixe descansar por alguns minutos antes de fatiar e sirva com arroz e uma salada verde para uma refeição completa."
         ],
-        "id": "bife-completo-na-panela-de-press-o-ad2f0c"
+        "id": "fraldinha-assada-na-air-fryer-com-arroz--02363e"
       },
       {
-        "nome": "Frango Assado com Legumes no Forno",
+        "nome": "Coxa e Sobrecoxa Assada com Batatas e Alecrim",
         "curso": "principal",
-        "tempo": "50 min",
-        "url": "https://receitas.ia.br/receita/frango-assado-com-legumes",
-        "porque": "Uma opção prática e equilibrada de frango assado no forno com legumes, perfeita para um jantar rápido e saudável, sem fritura.",
+        "tempo": "45 min",
+        "url": "https://www.receitasnestle.com.br/receitas/coxa-e-sobrecoxa-com-batatas-e-alecrim",
+        "porque": "Uma opção de frango saborosa e prática, assada no forno com batatas e ervas, garantindo uma refeição equilibrada e sem fritura.",
         "tags": [
           "frango",
           "forno",
@@ -51,81 +47,81 @@
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "4 peitos de frango desossados e sem pele (ou coxas/sobrecoxas)",
-          "4 batatas grandes, cortadas em cubos",
-          "2 cenouras grandes, cortadas em rodelas",
-          "2 abobrinhas médias, cortadas em rodelas",
-          "4 dentes de alho picados",
-          "2 colheres (sopa) de azeite de oliva",
-          "1 colher (sopa) de alecrim fresco picado",
-          "1 colher (sopa) de tomilho fresco picado",
-          "Sal e pimenta (a gosto)"
+          "4 unidades de coxa e sobrecoxa de frango",
+          "4 batatas médias",
+          "4 dentes de alho amassados",
+          "2 ramos grandes de alecrim fresco",
+          "4 colheres (sopa) de azeite de oliva",
+          "Suco de 1 limão-siciliano (opcional)",
+          "Sal e pimenta-do-reino a gosto",
+          "Salada verde (para acompanhar)"
         ],
         "preparo": [
-          "Pré-aqueça o forno a 200°C.",
-          "Em uma tigela grande, misture as batatas, cenouras, abobrinhas e alho. Regue com azeite de oliva e tempere com sal, pimenta, alecrim e tomilho. Misture bem.",
-          "Espalhe os legumes em uma assadeira grande.",
-          "Tempere os peitos de frango (ou outros pedaços) com sal e pimenta a gosto e coloque-os sobre os legumes na assadeira.",
-          "Asse no forno pré-aquecido por 45-50 minutos, ou até que os legumes estejam macios e o frango cozido.",
-          "Retire do forno e deixe descansar por alguns minutos antes de servir, regando com os sucos da assadeira."
+          "Pré-aqueça o forno a 200°C. Seque as coxas e sobrecoxas de frango com papel toalha e tempere com sal, pimenta e um fio de azeite.",
+          "Descasque as batatas, corte-as em gomos grandes e espalhe-as em uma assadeira.",
+          "Adicione os dentes de alho amassados e os ramos de alecrim sobre as batatas. Regue com azeite e tempere com sal.",
+          "Disponha as coxas e sobrecoxas sobre as batatas, com a pele para cima. Regue com o suco de limão, se usar.",
+          "Leve ao forno por cerca de 40-45 minutos, virando as batatas na metade do tempo, até o frango dourar e as batatas ficarem macias e crocantes.",
+          "Sirva as coxas e sobrecoxas com as batatas assadas e uma salada verde fresca para complementar."
         ],
-        "id": "frango-assado-com-legumes-no-forno-06bf50"
+        "id": "coxa-e-sobrecoxa-assada-com-batatas-e-al-14e02d"
       },
       {
-        "nome": "Salada Caprese Simples",
+        "nome": "Queijo Camembert no Forno com Mel e Nozes",
         "curso": "entrada",
-        "tempo": "10 min",
-        "url": "https://www.panelinha.com.br/receita/Salada-caprese-classica",
-        "porque": "Uma entrada fresca e leve, fácil de montar e que não requer cozimento, pronta em poucos minutos.",
+        "tempo": "20 min",
+        "url": "https://www.chefluis-machado.com/queijo-camembert-gratinado-com-mel-e-nozes/",
+        "porque": "Uma entrada sofisticada e incrivelmente fácil de preparar no forno, com poucos ingredientes e sem fritura.",
         "tags": [
-          "salada",
           "vegetariano",
+          "forno",
           "rapido"
         ],
         "rende_sobra": false,
         "ingredientes": [
-          "2 tomates maduros (preferencialmente italianos ou coração de boi)",
-          "200g de muçarela de búfala (bolinhas ou fatiada)",
-          "10-12 folhas de manjericão fresco",
-          "2 colheres (sopa) de azeite extra virgem",
-          "Sal e pimenta-do-reino moída na hora (a gosto)"
+          "1 queijo Camembert inteiro (250g)",
+          "2-3 colheres (sopa) de mel",
+          "50g de miolo de nozes picadas grosseiramente",
+          "Raminhos de alecrim fresco (opcional)",
+          "Tostas ou pão para acompanhar"
         ],
         "preparo": [
-          "Lave e seque os tomates. Corte cada tomate em 8 gomos ou em rodelas grossas.",
-          "Lave e seque bem as folhas de manjericão.",
-          "Corte a muçarela de búfala em rodelas ou ao meio, se forem bolinhas.",
-          "Em um prato ou travessa, alterne as fatias de tomate com as fatias de muçarela e as folhas de manjericão.",
-          "Regue com azeite extra virgem, tempere com sal e pimenta-do-reino moída na hora e sirva imediatamente."
+          "Pré-aqueça o forno a 180°C.",
+          "Faça alguns cortes superficiais em forma de xadrez na superfície do queijo Camembert.",
+          "Coloque o queijo em um refratário pequeno que possa ir ao forno.",
+          "Regue o queijo com o mel e espalhe as nozes picadas por cima. Se desejar, adicione alguns raminhos de alecrim.",
+          "Leve ao forno por 10 a 15 minutos, ou até o queijo ficar macio e o mel borbulhar.",
+          "Sirva imediatamente com tostas ou fatias de pão."
         ],
-        "id": "salada-caprese-simples-83a6c1"
+        "id": "queijo-camembert-no-forno-com-mel-e-noze-7c2122"
       },
       {
-        "nome": "Mousse de Maracujá Cremosa (sem gelatina)",
+        "nome": "Abacaxi Grelhado com Coco",
         "curso": "sobremesa",
-        "tempo": "10 min (preparo) + 4h (geladeira)",
-        "url": "https://www.soubh.com.br/noticias/gastronomia/aprenda-a-fazer-mousse-de-maracuja-cremoso-e-facil-em-poucos-minutos",
-        "porque": "Uma sobremesa refrescante e fácil de preparar, que fica pronta em poucos minutos no liquidificador e não exige forno.",
+        "tempo": "20 min",
+        "url": "https://www.panelinha.com.br/receita/Abacaxi-grelhado-com-coco",
+        "porque": "Uma sobremesa leve, refrescante e rápida, utilizando o método de grelhar e combinando frutas com coco, ideal para um final de refeição equilibrado.",
         "tags": [
-          "sobremesa",
-          "rapido",
-          "sem_forno"
+          "frutas",
+          "grelhado",
+          "rapido"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "1 lata de leite condensado (395g)",
-          "1 caixa de creme de leite (200g)",
-          "1 xícara (chá) de suco concentrado de maracujá (240ml)",
-          "Polpa de 1 maracujá maduro com sementes (para cobertura, opcional)"
+          "1 abacaxi médio",
+          "2 colheres (sopa) de açúcar (opcional, para caramelizar)",
+          "2 colheres (sopa) de manteiga (para grelhar)",
+          "Coco ralado fresco ou seco a gosto"
         ],
         "preparo": [
-          "No liquidificador, coloque o leite condensado e o creme de leite.",
-          "Bata em velocidade média por cerca de 2 minutos para obter uma base lisa e homogênea.",
-          "Com o liquidificador ainda ligado em baixa velocidade, adicione o suco concentrado de maracujá aos poucos, em fio contínuo.",
-          "Bata apenas até a mistura encorpar e ficar cremosa. Evite bater demais.",
-          "Distribua a mousse em taças individuais ou em uma travessa média.",
-          "Leve à geladeira por no mínimo 4 horas, ou até firmar. Se desejar, decore com a polpa do maracujá antes de servir."
+          "Descasque o abacaxi e corte-o em rodelas de aproximadamente 1,5 a 2 cm de espessura.",
+          "Retire o miolo central de cada rodela, se desejar.",
+          "Aqueça uma frigideira ou grelha em fogo médio-alto e adicione a manteiga.",
+          "Polvilhe um lado das rodelas de abacaxi com açúcar (se estiver usando) e coloque na frigideira com o lado açucarado para baixo. Grelhe por cerca de 3-5 minutos, até dourar.",
+          "Polvilhe o outro lado com açúcar e vire para dourar por mais 3-5 minutos.",
+          "Transfira as rodelas de abacaxi grelhadas para um prato e polvilhe generosamente com coco ralado. Sirva morno."
         ],
-        "id": "mousse-de-maracuj-cremosa-sem-gelatina-ad995c"
+        "id": "abacaxi-grelhado-com-coco-4ab063"
       }
     ]
   },

@@ -1,45 +1,5 @@
 [
   {
-    "id": "tomate-confit-r-pido-com-torradinhas-int-e7e501",
-    "titulo": "Tomate Confit Rápido com Torradinhas Integrais",
-    "tags": [
-      "vegetariano",
-      "rapido",
-      "low_carb"
-    ],
-    "data": "16/08/2026"
-  },
-  {
-    "id": "creme-de-manga-com-iogurte-natural-e-gra-81a349",
-    "titulo": "Creme de Manga com Iogurte Natural e Granola Caseira",
-    "tags": [
-      "vegetariano",
-      "rapido",
-      "low_carb"
-    ],
-    "data": "16/08/2026"
-  },
-  {
-    "id": "bife-acebolado-na-panela-de-press-o-96c96e",
-    "titulo": "Bife Acebolado na Panela de Pressão",
-    "tags": [
-      "carne_vermelha",
-      "rapido",
-      "panela_pressao"
-    ],
-    "data": "16/08/2026"
-  },
-  {
-    "id": "frango-assado-com-batatas-e-alecrim-76c4ef",
-    "titulo": "Frango Assado com Batatas e Alecrim",
-    "tags": [
-      "frango",
-      "forno",
-      "equilibrio"
-    ],
-    "data": "16/08/2026"
-  },
-  {
     "id": "salada-de-tomate-cereja-com-manjeric-o-e-d33d74",
     "titulo": "Salada de Tomate Cereja com Manjericão e Queijo Branco",
     "tags": [
@@ -5092,5 +5052,45 @@
       "sem_forno"
     ],
     "data": "31/10/2026"
+  },
+  {
+    "id": "fraldinha-assada-na-air-fryer-com-arroz--02363e",
+    "titulo": "Fraldinha Assada na Air Fryer com Arroz e Salada",
+    "tags": [
+      "carne_vermelha",
+      "airfryer",
+      "rapido"
+    ],
+    "data": "01/11/2026"
+  },
+  {
+    "id": "coxa-e-sobrecoxa-assada-com-batatas-e-al-14e02d",
+    "titulo": "Coxa e Sobrecoxa Assada com Batatas e Alecrim",
+    "tags": [
+      "frango",
+      "forno",
+      "equilibrado"
+    ],
+    "data": "01/11/2026"
+  },
+  {
+    "id": "queijo-camembert-no-forno-com-mel-e-noze-7c2122",
+    "titulo": "Queijo Camembert no Forno com Mel e Nozes",
+    "tags": [
+      "vegetariano",
+      "forno",
+      "rapido"
+    ],
+    "data": "01/11/2026"
+  },
+  {
+    "id": "abacaxi-grelhado-com-coco-4ab063",
+    "titulo": "Abacaxi Grelhado com Coco",
+    "tags": [
+      "frutas",
+      "grelhado",
+      "rapido"
+    ],
+    "data": "01/11/2026"
   }
 ]
