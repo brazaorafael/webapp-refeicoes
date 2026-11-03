@@ -1,127 +1,133 @@
 {
-  "gerado_em": "01/11/2026",
+  "gerado_em": "03/11/2026",
   "diario": {
     "tipo": "diario",
-    "data": "01/11/2026",
-    "dia_semana": "domingo",
+    "data": "03/11/2026",
+    "dia_semana": "terça",
     "pratos": [
       {
-        "nome": "Fraldinha Assada na Air Fryer com Arroz e Salada",
+        "nome": "Estrogonofe de Carne",
         "curso": "principal",
         "tempo": "35 min",
-        "url": "https://www.panelinha.com.br/receita/fraldinha-assada-na-air-fryer",
-        "porque": "É uma carne vermelha preferida pelo casal, feita na Air Fryer para evitar fritura e com preparo rápido e prático, ideal para o dia a dia.",
+        "url": "https://www.saboresajinomoto.com.br/receita/estrogonofe-de-carne",
+        "porque": "É um clássico saboroso da culinária brasileira, rápido de fazer e utiliza carne vermelha, a preferência do casal, sendo preparado de forma refogada.",
         "tags": [
           "carne_vermelha",
-          "airfryer",
-          "rapido"
+          "rapido",
+          "equilibrado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "1 peça de fraldinha (cerca de 1 kg)",
-          "1 colher (sopa) de sal grosso",
+          "500g de filé-mignon bovino (ou alcatra) em cubos ou tiras",
           "1 colher (sopa) de azeite",
-          "Pimenta-do-reino moída na hora a gosto",
-          "Arroz branco cozido (para acompanhar)",
-          "Folhas verdes para salada (para acompanhar)"
+          "1 colher (sopa) de manteiga sem sal",
+          "1 cebola média picada",
+          "2 dentes de alho amassados",
+          "1/2 colher (chá) de sal",
+          "Pimenta-do-reino a gosto",
+          "1 e 1/2 colher (sopa) de ketchup",
+          "1 colher (sopa) de mostarda",
+          "1/2 xícara (chá) de cogumelo em conserva fatiado (opcional)",
+          "1 caixinha (200g) de creme de leite"
         ],
         "preparo": [
-          "Tempere a fraldinha com sal grosso, azeite e pimenta-do-reino, massageando bem a carne.",
-          "Pré-aqueça a Air Fryer a 200 °C por 5 minutos.",
-          "Coloque a fraldinha na cesta da Air Fryer e asse por 20 minutos de um lado.",
-          "Vire a carne e asse por mais 5 a 10 minutos, dependendo do ponto desejado.",
-          "Retire a fraldinha da Air Fryer, deixe descansar por alguns minutos antes de fatiar e sirva com arroz e uma salada verde para uma refeição completa."
+          "Tempere a carne com sal e pimenta-do-reino. Em uma panela grande, aqueça o azeite e sele a carne em porções até dourar. Retire e reserve.",
+          "Na mesma panela, adicione a manteiga e refogue a cebola e o alho picados até ficarem transparentes.",
+          "Retorne a carne à panela. Adicione o ketchup, a mostarda e os cogumelos (se usar). Misture bem e cozinhe por 2-3 minutos.",
+          "Desligue o fogo e incorpore o creme de leite, mexendo delicadamente até obter um molho homogêneo e cremoso. Não deixe ferver após adicionar o creme de leite.",
+          "Sirva imediatamente, acompanhado de arroz branco e batata palha ou batatas assadas."
         ],
-        "id": "fraldinha-assada-na-air-fryer-com-arroz--02363e"
+        "id": "estrogonofe-de-carne-f31d88"
       },
       {
-        "nome": "Coxa e Sobrecoxa Assada com Batatas e Alecrim",
+        "nome": "Bolo de Carne e Abobrinha Assado",
         "curso": "principal",
         "tempo": "45 min",
-        "url": "https://www.receitasnestle.com.br/receitas/coxa-e-sobrecoxa-com-batatas-e-alecrim",
-        "porque": "Uma opção de frango saborosa e prática, assada no forno com batatas e ervas, garantindo uma refeição equilibrada e sem fritura.",
+        "url": "https://www.bomgourmet.com.br/receita/bolo-de-carne",
+        "porque": "É uma forma nutritiva e diferente de consumir carne moída e vegetais, assada no forno para um preparo mais saudável e que rende boas sobras.",
         "tags": [
-          "frango",
+          "carne_vermelha",
           "forno",
           "equilibrado"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "4 unidades de coxa e sobrecoxa de frango",
-          "4 batatas médias",
-          "4 dentes de alho amassados",
-          "2 ramos grandes de alecrim fresco",
-          "4 colheres (sopa) de azeite de oliva",
-          "Suco de 1 limão-siciliano (opcional)",
+          "600g de carne moída (bovina)",
+          "1 abobrinha média ralada",
+          "1 cebola média picada",
+          "2 dentes de alho picados",
+          "1 ovo grande",
+          "3/4 xícara (chá) de aveia em flocos pequenos",
+          "2 colheres (sopa) de extrato de tomate",
+          "1 colher (sopa) de molho inglês",
           "Sal e pimenta-do-reino a gosto",
-          "Salada verde (para acompanhar)"
+          "Cheiro-verde picado a gosto (salsinha e cebolinha)"
         ],
         "preparo": [
-          "Pré-aqueça o forno a 200°C. Seque as coxas e sobrecoxas de frango com papel toalha e tempere com sal, pimenta e um fio de azeite.",
-          "Descasque as batatas, corte-as em gomos grandes e espalhe-as em uma assadeira.",
-          "Adicione os dentes de alho amassados e os ramos de alecrim sobre as batatas. Regue com azeite e tempere com sal.",
-          "Disponha as coxas e sobrecoxas sobre as batatas, com a pele para cima. Regue com o suco de limão, se usar.",
-          "Leve ao forno por cerca de 40-45 minutos, virando as batatas na metade do tempo, até o frango dourar e as batatas ficarem macias e crocantes.",
-          "Sirva as coxas e sobrecoxas com as batatas assadas e uma salada verde fresca para complementar."
+          "Preaqueça o forno a 180°C. Rale a abobrinha e esprema bem para retirar o excesso de água.",
+          "Em uma tigela grande, misture a carne moída, a abobrinha ralada, a cebola picada, o alho picado, o ovo, a aveia, o extrato de tomate, o molho inglês, o sal e a pimenta-do-reino. Amasse bem com as mãos até incorporar todos os ingredientes.",
+          "Transfira a mistura para uma forma de bolo inglês ou assadeira refratária untada, pressionando para firmar bem.",
+          "Leve ao forno preaquecido por cerca de 40-50 minutos, ou até que esteja dourado e cozido por completo.",
+          "Deixe o bolo de carne descansar por 5 minutos antes de fatiar e servir, finalizando com cheiro-verde picado."
         ],
-        "id": "coxa-e-sobrecoxa-assada-com-batatas-e-al-14e02d"
+        "id": "bolo-de-carne-e-abobrinha-assado-ada857"
       },
       {
-        "nome": "Queijo Camembert no Forno com Mel e Nozes",
+        "nome": "Salada de Tomate Confit",
         "curso": "entrada",
-        "tempo": "20 min",
-        "url": "https://www.chefluis-machado.com/queijo-camembert-gratinado-com-mel-e-nozes/",
-        "porque": "Uma entrada sofisticada e incrivelmente fácil de preparar no forno, com poucos ingredientes e sem fritura.",
+        "tempo": "15 min",
+        "url": "https://santolegume.com.br/confit-de-tomate-cereja/",
+        "porque": "É uma entrada leve, fresca e saborosa, com preparo simples no forno, que dispensa fritura e pode ser feita com antecedência.",
         "tags": [
           "vegetariano",
           "forno",
           "rapido"
         ],
-        "rende_sobra": false,
-        "ingredientes": [
-          "1 queijo Camembert inteiro (250g)",
-          "2-3 colheres (sopa) de mel",
-          "50g de miolo de nozes picadas grosseiramente",
-          "Raminhos de alecrim fresco (opcional)",
-          "Tostas ou pão para acompanhar"
-        ],
-        "preparo": [
-          "Pré-aqueça o forno a 180°C.",
-          "Faça alguns cortes superficiais em forma de xadrez na superfície do queijo Camembert.",
-          "Coloque o queijo em um refratário pequeno que possa ir ao forno.",
-          "Regue o queijo com o mel e espalhe as nozes picadas por cima. Se desejar, adicione alguns raminhos de alecrim.",
-          "Leve ao forno por 10 a 15 minutos, ou até o queijo ficar macio e o mel borbulhar.",
-          "Sirva imediatamente com tostas ou fatias de pão."
-        ],
-        "id": "queijo-camembert-no-forno-com-mel-e-noze-7c2122"
-      },
-      {
-        "nome": "Abacaxi Grelhado com Coco",
-        "curso": "sobremesa",
-        "tempo": "20 min",
-        "url": "https://www.panelinha.com.br/receita/Abacaxi-grelhado-com-coco",
-        "porque": "Uma sobremesa leve, refrescante e rápida, utilizando o método de grelhar e combinando frutas com coco, ideal para um final de refeição equilibrado.",
-        "tags": [
-          "frutas",
-          "grelhado",
-          "rapido"
-        ],
         "rende_sobra": true,
         "ingredientes": [
-          "1 abacaxi médio",
-          "2 colheres (sopa) de açúcar (opcional, para caramelizar)",
-          "2 colheres (sopa) de manteiga (para grelhar)",
-          "Coco ralado fresco ou seco a gosto"
+          "500g de tomates cereja ou uva",
+          "4 dentes de alho (inteiros com casca ou laminados)",
+          "2 ramos de tomilho fresco (ou alecrim)",
+          "1/2 xícara (chá) de azeite de oliva extra virgem",
+          "1 colher (chá) de sal",
+          "1 pitada de pimenta-do-reino",
+          "1 colher (chá) de açúcar demerara (opcional)"
         ],
         "preparo": [
-          "Descasque o abacaxi e corte-o em rodelas de aproximadamente 1,5 a 2 cm de espessura.",
-          "Retire o miolo central de cada rodela, se desejar.",
-          "Aqueça uma frigideira ou grelha em fogo médio-alto e adicione a manteiga.",
-          "Polvilhe um lado das rodelas de abacaxi com açúcar (se estiver usando) e coloque na frigideira com o lado açucarado para baixo. Grelhe por cerca de 3-5 minutos, até dourar.",
-          "Polvilhe o outro lado com açúcar e vire para dourar por mais 3-5 minutos.",
-          "Transfira as rodelas de abacaxi grelhadas para um prato e polvilhe generosamente com coco ralado. Sirva morno."
+          "Preaqueça o forno a 160°C. Lave bem os tomates cereja.",
+          "Em uma travessa refratária, coloque os tomates, os dentes de alho (inteiros ou laminados) e os ramos de tomilho ou alecrim.",
+          "Regue com o azeite de oliva, tempere com sal, pimenta-do-reino e, se desejar, uma pitada de açúcar. Misture delicadamente.",
+          "Leve ao forno por 40 a 60 minutos, mexendo ocasionalmente, até que os tomates estejam macios e levemente murchos.",
+          "Sirva morno ou em temperatura ambiente, com torradas ou pão fresco. Pode ser armazenado na geladeira por alguns dias."
         ],
-        "id": "abacaxi-grelhado-com-coco-4ab063"
+        "id": "salada-de-tomate-confit-6079aa"
+      },
+      {
+        "nome": "Bananas Assadas com Canela e Mel",
+        "curso": "sobremesa",
+        "tempo": "20 min",
+        "url": "https://panelinha.com.br/receita/banana-assada-na-air-fryer-da-rita-lobo",
+        "porque": "Uma sobremesa incrivelmente prática, rápida e saudável, preparada no forno ou airfryer, com poucos ingredientes e sem fritura.",
+        "tags": [
+          "rapido",
+          "fruta",
+          "forno"
+        ],
+        "rende_sobra": false,
+        "ingredientes": [
+          "2 bananas maduras (prata ou nanica)",
+          "1 colher (sopa) de mel",
+          "1/2 colher (chá) de canela em pó",
+          "1 colher (chá) de manteiga derretida (opcional, para pincelar)"
+        ],
+        "preparo": [
+          "Preaqueça o forno a 180°C (ou a airfryer a 180°C). Lave e seque as bananas.",
+          "Corte cada banana ao meio no sentido do comprimento, mantendo a casca.",
+          "Coloque as metades de banana em uma assadeira untada (ou na cesta da airfryer). Pincele com a manteiga (se usar), regue com o mel e polvilhe generosamente com canela.",
+          "Asse por cerca de 15 a 20 minutos no forno, ou 10-15 minutos na airfryer, até ficarem macias e levemente caramelizadas.",
+          "Sirva quente imediatamente."
+        ],
+        "id": "bananas-assadas-com-canela-e-mel-97d3e1"
       }
     ]
   },
