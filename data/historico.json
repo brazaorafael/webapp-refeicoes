@@ -1,45 +1,5 @@
 [
   {
-    "id": "espetinho-caprese-f97a54",
-    "titulo": "Espetinho Caprese",
-    "tags": [
-      "vegetariano",
-      "rapido",
-      "low_carb"
-    ],
-    "data": "18/08/2026"
-  },
-  {
-    "id": "rosbife-de-fil-mignon-ao-forno-61101a",
-    "titulo": "Rosbife de Filé Mignon ao Forno",
-    "tags": [
-      "carne_vermelha",
-      "forno",
-      "rapido"
-    ],
-    "data": "19/08/2026"
-  },
-  {
-    "id": "peito-bovino-assado-no-forno-com-batatas-7f38ae",
-    "titulo": "Peito Bovino Assado no Forno com Batatas",
-    "tags": [
-      "carne_vermelha",
-      "forno",
-      "equilibrio"
-    ],
-    "data": "19/08/2026"
-  },
-  {
-    "id": "p-o-de-alho-na-air-fryer-be6cd7",
-    "titulo": "Pão de Alho na Air Fryer",
-    "tags": [
-      "airfryer",
-      "rapido",
-      "vegetariano"
-    ],
-    "data": "19/08/2026"
-  },
-  {
     "id": "bife-acebolado-com-batata-saut-51a9ee",
     "titulo": "Bife Acebolado com Batata Sauté",
     "tags": [
@@ -5086,5 +5046,46 @@
       "forno"
     ],
     "data": "03/11/2026"
+  },
+  {
+    "id": "rosbife-de-fil-mignon-com-legumes-saltea-01a7bf",
+    "titulo": "Rosbife de Filé Mignon com Legumes Salteados",
+    "tags": [
+      "carne_vermelha",
+      "forno",
+      "rapido",
+      "low_carb"
+    ],
+    "data": "04/11/2026"
+  },
+  {
+    "id": "carne-mo-da-com-cebola-e-pimenta-s-ria-5ac549",
+    "titulo": "Carne Moída com Cebola e Pimenta Síria",
+    "tags": [
+      "carne_vermelha",
+      "rapido",
+      "refogado"
+    ],
+    "data": "04/11/2026"
+  },
+  {
+    "id": "medalh-es-de-fil-mignon-com-molho-de-erv-407530",
+    "titulo": "Medalhões de Filé Mignon com Molho de Ervas",
+    "tags": [
+      "carne_vermelha",
+      "grelhado",
+      "rapido",
+      "low_carb"
+    ],
+    "data": "04/11/2026"
+  },
+  {
+    "id": "brigadeiro-de-panela-cremoso-14d7ce",
+    "titulo": "Brigadeiro de Panela Cremoso",
+    "tags": [
+      "rapido",
+      "vegetariano"
+    ],
+    "data": "04/11/2026"
   }
 ]

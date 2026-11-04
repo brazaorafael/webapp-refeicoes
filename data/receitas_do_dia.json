@@ -1,133 +1,158 @@
 {
-  "gerado_em": "03/11/2026",
+  "gerado_em": "04/11/2026",
   "diario": {
     "tipo": "diario",
-    "data": "03/11/2026",
-    "dia_semana": "terça",
+    "data": "04/11/2026",
+    "dia_semana": "quarta",
     "pratos": [
       {
-        "nome": "Estrogonofe de Carne",
+        "nome": "Rosbife de Filé Mignon com Legumes Salteados",
         "curso": "principal",
-        "tempo": "35 min",
-        "url": "https://www.saboresajinomoto.com.br/receita/estrogonofe-de-carne",
-        "porque": "É um clássico saboroso da culinária brasileira, rápido de fazer e utiliza carne vermelha, a preferência do casal, sendo preparado de forma refogada.",
-        "tags": [
-          "carne_vermelha",
-          "rapido",
-          "equilibrado"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "500g de filé-mignon bovino (ou alcatra) em cubos ou tiras",
-          "1 colher (sopa) de azeite",
-          "1 colher (sopa) de manteiga sem sal",
-          "1 cebola média picada",
-          "2 dentes de alho amassados",
-          "1/2 colher (chá) de sal",
-          "Pimenta-do-reino a gosto",
-          "1 e 1/2 colher (sopa) de ketchup",
-          "1 colher (sopa) de mostarda",
-          "1/2 xícara (chá) de cogumelo em conserva fatiado (opcional)",
-          "1 caixinha (200g) de creme de leite"
-        ],
-        "preparo": [
-          "Tempere a carne com sal e pimenta-do-reino. Em uma panela grande, aqueça o azeite e sele a carne em porções até dourar. Retire e reserve.",
-          "Na mesma panela, adicione a manteiga e refogue a cebola e o alho picados até ficarem transparentes.",
-          "Retorne a carne à panela. Adicione o ketchup, a mostarda e os cogumelos (se usar). Misture bem e cozinhe por 2-3 minutos.",
-          "Desligue o fogo e incorpore o creme de leite, mexendo delicadamente até obter um molho homogêneo e cremoso. Não deixe ferver após adicionar o creme de leite.",
-          "Sirva imediatamente, acompanhado de arroz branco e batata palha ou batatas assadas."
-        ],
-        "id": "estrogonofe-de-carne-f31d88"
-      },
-      {
-        "nome": "Bolo de Carne e Abobrinha Assado",
-        "curso": "principal",
-        "tempo": "45 min",
-        "url": "https://www.bomgourmet.com.br/receita/bolo-de-carne",
-        "porque": "É uma forma nutritiva e diferente de consumir carne moída e vegetais, assada no forno para um preparo mais saudável e que rende boas sobras.",
+        "tempo": "40 min",
+        "url": "https://www.panelinha.com.br/receita/Rosbife-com-molho-de-mostarda",
+        "porque": "Opção elegante e proteica de carne vermelha, preparada no forno para evitar fritura, e acompanhada de legumes frescos para equilíbrio.",
         "tags": [
           "carne_vermelha",
           "forno",
-          "equilibrado"
+          "rapido",
+          "low_carb"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "600g de carne moída (bovina)",
-          "1 abobrinha média ralada",
-          "1 cebola média picada",
+          "1 peça de filé mignon (~700g a 1kg)",
+          "1 colher de sopa de azeite",
+          "Sal a gosto",
+          "Pimenta-do-reino moída na hora a gosto",
+          "1 brócolis médio, cortado em floretes",
+          "2 cenouras médias, cortadas em rodelas ou palitos",
+          "100g de vagem, picada",
+          "2 dentes de alho picados"
+        ],
+        "preparo": [
+          "Preaqueça o forno a 200°C. Tempere a carne com sal e pimenta-do-reino.",
+          "Aqueça 1 colher de sopa de azeite em uma frigideira que possa ir ao forno (ou use uma assadeira). Doure a carne por todos os lados.",
+          "Transfira a frigideira (ou a carne para a assadeira) para o forno preaquecido. Asse por 20-30 minutos para um ponto malpassado.",
+          "Retire do forno, cubra com papel alumínio e deixe descansar por 10 minutos antes de fatiar.",
+          "Enquanto a carne descansa, cozinhe o brócolis, cenoura e vagem no vapor ou em água fervente por 5-7 minutos, até ficarem al dente. Escorra.",
+          "Em uma frigideira, aqueça 1 colher de sopa de azeite e refogue o alho picado por 1 minuto. Adicione os legumes cozidos e salteie por 3-5 minutos. Tempere com sal e pimenta. Sirva com o rosbife fatiado."
+        ],
+        "id": "rosbife-de-fil-mignon-com-legumes-saltea-01a7bf"
+      },
+      {
+        "nome": "Carne Moída com Cebola e Pimenta Síria",
+        "curso": "principal",
+        "tempo": "25 min",
+        "url": "https://www.panelinha.com.br/receita/Carne-moida-com-cebola-e-pimenta-siria",
+        "porque": "Uma opção de carne vermelha rápida, saborosa e versátil, refogada na frigideira e com temperos que trazem um toque especial.",
+        "tags": [
+          "carne_vermelha",
+          "rapido",
+          "refogado"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "500g de patinho moído",
+          "1 cebola grande, picada",
           "2 dentes de alho picados",
-          "1 ovo grande",
-          "3/4 xícara (chá) de aveia em flocos pequenos",
-          "2 colheres (sopa) de extrato de tomate",
-          "1 colher (sopa) de molho inglês",
-          "Sal e pimenta-do-reino a gosto",
-          "Cheiro-verde picado a gosto (salsinha e cebolinha)"
+          "2 colheres de sopa de azeite",
+          "1 colher de chá de pimenta síria (ou a gosto)",
+          "Sal a gosto",
+          "Salsinha picada a gosto (para finalizar)"
         ],
         "preparo": [
-          "Preaqueça o forno a 180°C. Rale a abobrinha e esprema bem para retirar o excesso de água.",
-          "Em uma tigela grande, misture a carne moída, a abobrinha ralada, a cebola picada, o alho picado, o ovo, a aveia, o extrato de tomate, o molho inglês, o sal e a pimenta-do-reino. Amasse bem com as mãos até incorporar todos os ingredientes.",
-          "Transfira a mistura para uma forma de bolo inglês ou assadeira refratária untada, pressionando para firmar bem.",
-          "Leve ao forno preaquecido por cerca de 40-50 minutos, ou até que esteja dourado e cozido por completo.",
-          "Deixe o bolo de carne descansar por 5 minutos antes de fatiar e servir, finalizando com cheiro-verde picado."
+          "Em uma frigideira grande, aqueça o azeite em fogo médio. Adicione a cebola picada e refogue até ficar macia e translúcida.",
+          "Acrescente o alho picado e refogue por mais 1 minuto, até perfumar.",
+          "Adicione a carne moída à frigideira, quebrando-a com uma colher. Tempere com sal e refogue até dourar e secar a água.",
+          "Misture a pimenta síria e cozinhe por mais 2 minutos.",
+          "Finalize com salsinha picada antes de servir."
         ],
-        "id": "bolo-de-carne-e-abobrinha-assado-ada857"
+        "id": "carne-mo-da-com-cebola-e-pimenta-s-ria-5ac549"
       },
       {
-        "nome": "Salada de Tomate Confit",
-        "curso": "entrada",
-        "tempo": "15 min",
-        "url": "https://santolegume.com.br/confit-de-tomate-cereja/",
-        "porque": "É uma entrada leve, fresca e saborosa, com preparo simples no forno, que dispensa fritura e pode ser feita com antecedência.",
+        "nome": "Medalhões de Filé Mignon com Molho de Ervas",
+        "curso": "principal",
+        "tempo": "30 min",
+        "url": "https://www.panelinha.com.br/receita/Medalhoes-de-File-Mignon-com-Molho-de-Ervas",
+        "porque": "Prato de carne vermelha elegante e rápido de grelhar, com um molho fresco e aromático que complementa o sabor do filé.",
         "tags": [
-          "vegetariano",
-          "forno",
-          "rapido"
-        ],
-        "rende_sobra": true,
-        "ingredientes": [
-          "500g de tomates cereja ou uva",
-          "4 dentes de alho (inteiros com casca ou laminados)",
-          "2 ramos de tomilho fresco (ou alecrim)",
-          "1/2 xícara (chá) de azeite de oliva extra virgem",
-          "1 colher (chá) de sal",
-          "1 pitada de pimenta-do-reino",
-          "1 colher (chá) de açúcar demerara (opcional)"
-        ],
-        "preparo": [
-          "Preaqueça o forno a 160°C. Lave bem os tomates cereja.",
-          "Em uma travessa refratária, coloque os tomates, os dentes de alho (inteiros ou laminados) e os ramos de tomilho ou alecrim.",
-          "Regue com o azeite de oliva, tempere com sal, pimenta-do-reino e, se desejar, uma pitada de açúcar. Misture delicadamente.",
-          "Leve ao forno por 40 a 60 minutos, mexendo ocasionalmente, até que os tomates estejam macios e levemente murchos.",
-          "Sirva morno ou em temperatura ambiente, com torradas ou pão fresco. Pode ser armazenado na geladeira por alguns dias."
-        ],
-        "id": "salada-de-tomate-confit-6079aa"
-      },
-      {
-        "nome": "Bananas Assadas com Canela e Mel",
-        "curso": "sobremesa",
-        "tempo": "20 min",
-        "url": "https://panelinha.com.br/receita/banana-assada-na-air-fryer-da-rita-lobo",
-        "porque": "Uma sobremesa incrivelmente prática, rápida e saudável, preparada no forno ou airfryer, com poucos ingredientes e sem fritura.",
-        "tags": [
+          "carne_vermelha",
+          "grelhado",
           "rapido",
-          "fruta",
-          "forno"
+          "low_carb"
         ],
         "rende_sobra": false,
         "ingredientes": [
-          "2 bananas maduras (prata ou nanica)",
-          "1 colher (sopa) de mel",
-          "1/2 colher (chá) de canela em pó",
-          "1 colher (chá) de manteiga derretida (opcional, para pincelar)"
+          "4 medalhões de filé mignon (~150g cada)",
+          "1 colher de sopa de azeite",
+          "Sal e pimenta-do-reino moída na hora a gosto",
+          "1/2 xícara de salsinha fresca picada",
+          "1/4 xícara de cebolinha fresca picada",
+          "2 dentes de alho picados",
+          "1/4 xícara de azeite extra virgem",
+          "2 colheres de sopa de vinagre de vinho tinto",
+          "1/2 colher de chá de pimenta calabresa (ou a gosto)"
         ],
         "preparo": [
-          "Preaqueça o forno a 180°C (ou a airfryer a 180°C). Lave e seque as bananas.",
-          "Corte cada banana ao meio no sentido do comprimento, mantendo a casca.",
-          "Coloque as metades de banana em uma assadeira untada (ou na cesta da airfryer). Pincele com a manteiga (se usar), regue com o mel e polvilhe generosamente com canela.",
-          "Asse por cerca de 15 a 20 minutos no forno, ou 10-15 minutos na airfryer, até ficarem macias e levemente caramelizadas.",
-          "Sirva quente imediatamente."
+          "Tempere os medalhões com sal e pimenta-do-reino dos dois lados.",
+          "Aqueça 1 colher de sopa de azeite em uma frigideira antiaderente em fogo médio-alto.",
+          "Grelhe os medalhões por 3-4 minutos de cada lado para um ponto malpassado, ou até o ponto desejado. Retire da frigideira e deixe descansar por alguns minutos.",
+          "Para o molho: Em uma tigela pequena, misture a salsinha, cebolinha e alho picados.",
+          "Adicione o azeite, o vinagre de vinho tinto e a pimenta calabresa. Misture bem e tempere com sal e pimenta-do-reino a gosto. Sirva os medalhões com o molho por cima."
         ],
-        "id": "bananas-assadas-com-canela-e-mel-97d3e1"
+        "id": "medalh-es-de-fil-mignon-com-molho-de-erv-407530"
+      },
+      {
+        "nome": "Pão de Alho na Air Fryer",
+        "curso": "entrada",
+        "tempo": "15 min",
+        "url": "https://www.tudogostoso.com.br/receita/236173-pao-de-alho-na-airfryer.html",
+        "porque": "Uma entrada prática e rápida, feita na air fryer, que resulta em um pão de alho crocante e delicioso sem fritura.",
+        "tags": [
+          "rapido",
+          "airfryer",
+          "vegetariano"
+        ],
+        "rende_sobra": false,
+        "ingredientes": [
+          "1 pão francês ou baguete, cortado em fatias",
+          "2 colheres de sopa de manteiga sem sal, em temperatura ambiente",
+          "2 dentes de alho grandes, amassados ou picados finamente",
+          "1 colher de sopa de salsinha fresca picada",
+          "Sal a gosto",
+          "Queijo parmesão ralado (opcional)"
+        ],
+        "preparo": [
+          "Em uma tigela pequena, misture a manteiga, o alho amassado, a salsinha picada e o sal até formar uma pasta homogênea.",
+          "Espalhe generosamente a pasta de alho nas fatias de pão. Se desejar, polvilhe queijo parmesão ralado por cima.",
+          "Pré-aqueça a air fryer a 180°C por 3 minutos.",
+          "Disponha as fatias de pão na cesta da air fryer, sem sobrepor. Asse por 5-8 minutos, ou até ficarem douradas e crocantes. Sirva imediatamente."
+        ],
+        "id": "p-o-de-alho-na-air-fryer-be6cd7"
+      },
+      {
+        "nome": "Brigadeiro de Panela Cremoso",
+        "curso": "sobremesa",
+        "tempo": "20 min",
+        "url": "https://www.tudogostoso.com.br/receita/22749-brigadeiro-de-panela.html",
+        "porque": "Sobremesa clássica brasileira, rápida e fácil de preparar na panela, ideal para satisfazer a vontade de um doce cremoso.",
+        "tags": [
+          "rapido",
+          "vegetariano"
+        ],
+        "rende_sobra": true,
+        "ingredientes": [
+          "1 lata de leite condensado (395g)",
+          "2 colheres de sopa de chocolate em pó 50% cacau",
+          "1 colher de sopa de manteiga sem sal",
+          "Granulado de chocolate para decorar (opcional)"
+        ],
+        "preparo": [
+          "Em uma panela de fundo grosso, adicione o leite condensado, o chocolate em pó e a manteiga.",
+          "Misture bem todos os ingredientes antes de levar ao fogo médio.",
+          "Cozinhe, mexendo sempre com uma colher de pau ou espátula, até a mistura começar a desgrudar do fundo da panela (ponto de brigadeiro de colher).",
+          "Desligue o fogo e transfira o brigadeiro para um prato untado com manteiga para esfriar. Sirva morno ou frio, com granulado se desejar."
+        ],
+        "id": "brigadeiro-de-panela-cremoso-14d7ce"
       }
     ]
   },
