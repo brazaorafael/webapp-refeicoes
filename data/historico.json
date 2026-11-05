@@ -1,35 +1,5 @@
 [
   {
-    "id": "bife-acebolado-com-batata-saut-51a9ee",
-    "titulo": "Bife Acebolado com Batata Sauté",
-    "tags": [
-      "carne_vermelha",
-      "grelhado",
-      "rapido"
-    ],
-    "data": "20/08/2026"
-  },
-  {
-    "id": "escondidinho-de-carne-mo-da-com-pur-de-m-541843",
-    "titulo": "Escondidinho de Carne Moída com Purê de Mandioca",
-    "tags": [
-      "carne_vermelha",
-      "forno",
-      "equilibrado"
-    ],
-    "data": "20/08/2026"
-  },
-  {
-    "id": "strogonoff-de-carne-r-pido-ffc105",
-    "titulo": "Strogonoff de Carne Rápido",
-    "tags": [
-      "carne_vermelha",
-      "rapido",
-      "equilibrado"
-    ],
-    "data": "20/08/2026"
-  },
-  {
     "id": "salada-de-frutas-refrescante-com-hortel-fc5f17",
     "titulo": "Salada de Frutas Refrescante com Hortelã",
     "tags": [
@@ -5087,5 +5057,35 @@
       "vegetariano"
     ],
     "data": "04/11/2026"
+  },
+  {
+    "id": "lombo-de-porco-na-air-fryer-com-batatas--3c9738",
+    "titulo": "Lombo de Porco na Air Fryer com Batatas e Pimentões",
+    "tags": [
+      "carne_vermelha",
+      "airfryer",
+      "rapido"
+    ],
+    "data": "05/11/2026"
+  },
+  {
+    "id": "salada-de-rabanete-e-gr-o-de-bico-assado-a8f926",
+    "titulo": "Salada de Rabanete e Grão-de-Bico Assados na Air Fryer",
+    "tags": [
+      "vegetariano",
+      "airfryer",
+      "salada"
+    ],
+    "data": "05/11/2026"
+  },
+  {
+    "id": "pudim-de-ma-com-3-ingredientes-e-sem-for-ef8848",
+    "titulo": "Pudim de Maçã com 3 Ingredientes e Sem Forno",
+    "tags": [
+      "rapido",
+      "sobremesa",
+      "fruta"
+    ],
+    "data": "05/11/2026"
   }
 ]

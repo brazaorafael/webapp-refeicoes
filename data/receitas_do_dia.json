@@ -1,49 +1,48 @@
 {
-  "gerado_em": "04/11/2026",
+  "gerado_em": "05/11/2026",
   "diario": {
     "tipo": "diario",
-    "data": "04/11/2026",
-    "dia_semana": "quarta",
+    "data": "05/11/2026",
+    "dia_semana": "quinta",
     "pratos": [
       {
-        "nome": "Rosbife de Filé Mignon com Legumes Salteados",
+        "nome": "Lombo de Porco na Air Fryer com Batatas e Pimentões",
         "curso": "principal",
         "tempo": "40 min",
-        "url": "https://www.panelinha.com.br/receita/Rosbife-com-molho-de-mostarda",
-        "porque": "Opção elegante e proteica de carne vermelha, preparada no forno para evitar fritura, e acompanhada de legumes frescos para equilíbrio.",
+        "url": "https://www.tudoreceitas.com/receita-de-lombo-de-porco-na-airfryer-11721.html",
+        "porque": "Usa a Air Fryer, preferida do casal, e é uma carne suína (considerada vermelha) prática e saborosa, com acompanhamentos no mesmo preparo.",
         "tags": [
           "carne_vermelha",
-          "forno",
-          "rapido",
-          "low_carb"
+          "airfryer",
+          "rapido"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "1 peça de filé mignon (~700g a 1kg)",
-          "1 colher de sopa de azeite",
-          "Sal a gosto",
-          "Pimenta-do-reino moída na hora a gosto",
-          "1 brócolis médio, cortado em floretes",
-          "2 cenouras médias, cortadas em rodelas ou palitos",
-          "100g de vagem, picada",
-          "2 dentes de alho picados"
+          "1 peça de lombo de porco (~800g)",
+          "2 batatas médias, cortadas em cubos ou rodelas",
+          "1 cebola média, cortada em pétalas",
+          "1 pimentão verde médio, cortado em tiras",
+          "3 dentes de alho picados",
+          "1/2 xícara de vinho branco seco (opcional)",
+          "1 colher de chá de páprica doce",
+          "Sal e pimenta-do-reino a gosto",
+          "Azeite para regar"
         ],
         "preparo": [
-          "Preaqueça o forno a 200°C. Tempere a carne com sal e pimenta-do-reino.",
-          "Aqueça 1 colher de sopa de azeite em uma frigideira que possa ir ao forno (ou use uma assadeira). Doure a carne por todos os lados.",
-          "Transfira a frigideira (ou a carne para a assadeira) para o forno preaquecido. Asse por 20-30 minutos para um ponto malpassado.",
-          "Retire do forno, cubra com papel alumínio e deixe descansar por 10 minutos antes de fatiar.",
-          "Enquanto a carne descansa, cozinhe o brócolis, cenoura e vagem no vapor ou em água fervente por 5-7 minutos, até ficarem al dente. Escorra.",
-          "Em uma frigideira, aqueça 1 colher de sopa de azeite e refogue o alho picado por 1 minuto. Adicione os legumes cozidos e salteie por 3-5 minutos. Tempere com sal e pimenta. Sirva com o rosbife fatiado."
+          "Tempere o lombo de porco com o alho picado, sal, pimenta-do-reino, páprica e, se usar, o vinho branco. Deixe marinar por 15 minutos.",
+          "Pré-aqueça a Air Fryer a 180°C por 5 minutos.",
+          "Disponha o lombo na cesta da Air Fryer e adicione as batatas, cebola e pimentão ao redor. Regue com um fio de azeite.",
+          "Asse por cerca de 20-25 minutos, virando o lombo na metade do tempo e mexendo os vegetais para dourarem por igual. Verifique o cozimento da carne.",
+          "Sirva o lombo fatiado com os vegetais assados, acompanhado de uma salada verde, se desejar."
         ],
-        "id": "rosbife-de-fil-mignon-com-legumes-saltea-01a7bf"
+        "id": "lombo-de-porco-na-air-fryer-com-batatas--3c9738"
       },
       {
-        "nome": "Carne Moída com Cebola e Pimenta Síria",
+        "nome": "Carne Moída com Canela",
         "curso": "principal",
         "tempo": "25 min",
-        "url": "https://www.panelinha.com.br/receita/Carne-moida-com-cebola-e-pimenta-siria",
-        "porque": "Uma opção de carne vermelha rápida, saborosa e versátil, refogada na frigideira e com temperos que trazem um toque especial.",
+        "url": "https://www.panelinha.com.br/receita/Carne-moida-com-canela",
+        "porque": "Prato de carne vermelha rápido de preparar, refogado e com um toque de especiarias que agrada o paladar.",
         "tags": [
           "carne_vermelha",
           "rapido",
@@ -51,108 +50,78 @@
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "500g de patinho moído",
-          "1 cebola grande, picada",
-          "2 dentes de alho picados",
-          "2 colheres de sopa de azeite",
-          "1 colher de chá de pimenta síria (ou a gosto)",
-          "Sal a gosto",
-          "Salsinha picada a gosto (para finalizar)"
+          "500g de carne moída (patinho)",
+          "1 cebola média picada",
+          "3 dentes de alho picados",
+          "1 colher de chá de canela em pó",
+          "1/2 xícara de salsinha picada",
+          "Azeite a gosto",
+          "Sal e pimenta-do-reino a gosto"
         ],
         "preparo": [
-          "Em uma frigideira grande, aqueça o azeite em fogo médio. Adicione a cebola picada e refogue até ficar macia e translúcida.",
-          "Acrescente o alho picado e refogue por mais 1 minuto, até perfumar.",
-          "Adicione a carne moída à frigideira, quebrando-a com uma colher. Tempere com sal e refogue até dourar e secar a água.",
-          "Misture a pimenta síria e cozinhe por mais 2 minutos.",
-          "Finalize com salsinha picada antes de servir."
+          "Aqueça um fio de azeite em uma panela em fogo médio. Refogue a cebola picada até ficar transparente.",
+          "Adicione o alho picado e refogue por mais 1 minuto, sem deixar dourar.",
+          "Acrescente a carne moída e refogue, desfazendo os grumos, até dourar e secar a água.",
+          "Tempere com sal, pimenta-do-reino e a canela em pó. Misture bem.",
+          "Finalize com a salsinha picada e sirva imediatamente, acompanhado de arroz branco e uma salada de folhas verdes."
         ],
-        "id": "carne-mo-da-com-cebola-e-pimenta-s-ria-5ac549"
+        "id": "carne-mo-da-com-canela-2d1580"
       },
       {
-        "nome": "Medalhões de Filé Mignon com Molho de Ervas",
-        "curso": "principal",
-        "tempo": "30 min",
-        "url": "https://www.panelinha.com.br/receita/Medalhoes-de-File-Mignon-com-Molho-de-Ervas",
-        "porque": "Prato de carne vermelha elegante e rápido de grelhar, com um molho fresco e aromático que complementa o sabor do filé.",
-        "tags": [
-          "carne_vermelha",
-          "grelhado",
-          "rapido",
-          "low_carb"
-        ],
-        "rende_sobra": false,
-        "ingredientes": [
-          "4 medalhões de filé mignon (~150g cada)",
-          "1 colher de sopa de azeite",
-          "Sal e pimenta-do-reino moída na hora a gosto",
-          "1/2 xícara de salsinha fresca picada",
-          "1/4 xícara de cebolinha fresca picada",
-          "2 dentes de alho picados",
-          "1/4 xícara de azeite extra virgem",
-          "2 colheres de sopa de vinagre de vinho tinto",
-          "1/2 colher de chá de pimenta calabresa (ou a gosto)"
-        ],
-        "preparo": [
-          "Tempere os medalhões com sal e pimenta-do-reino dos dois lados.",
-          "Aqueça 1 colher de sopa de azeite em uma frigideira antiaderente em fogo médio-alto.",
-          "Grelhe os medalhões por 3-4 minutos de cada lado para um ponto malpassado, ou até o ponto desejado. Retire da frigideira e deixe descansar por alguns minutos.",
-          "Para o molho: Em uma tigela pequena, misture a salsinha, cebolinha e alho picados.",
-          "Adicione o azeite, o vinagre de vinho tinto e a pimenta calabresa. Misture bem e tempere com sal e pimenta-do-reino a gosto. Sirva os medalhões com o molho por cima."
-        ],
-        "id": "medalh-es-de-fil-mignon-com-molho-de-erv-407530"
-      },
-      {
-        "nome": "Pão de Alho na Air Fryer",
+        "nome": "Salada de Rabanete e Grão-de-Bico Assados na Air Fryer",
         "curso": "entrada",
-        "tempo": "15 min",
-        "url": "https://www.tudogostoso.com.br/receita/236173-pao-de-alho-na-airfryer.html",
-        "porque": "Uma entrada prática e rápida, feita na air fryer, que resulta em um pão de alho crocante e delicioso sem fritura.",
+        "tempo": "25 min",
+        "url": "https://www.panelinha.com.br/receita/Salada-de-rabanete-e-grao-de-bico-assados-na-airfryer",
+        "porque": "Uma entrada leve e saudável que utiliza a Air Fryer, adicionando textura e sabor aos vegetais sem fritura.",
         "tags": [
-          "rapido",
+          "vegetariano",
           "airfryer",
-          "vegetariano"
+          "salada"
         ],
         "rende_sobra": false,
         "ingredientes": [
-          "1 pão francês ou baguete, cortado em fatias",
-          "2 colheres de sopa de manteiga sem sal, em temperatura ambiente",
-          "2 dentes de alho grandes, amassados ou picados finamente",
-          "1 colher de sopa de salsinha fresca picada",
-          "Sal a gosto",
-          "Queijo parmesão ralado (opcional)"
+          "1 xícara de grão-de-bico cozido",
+          "1 maço de rabanetes, cortados em rodelas finas",
+          "Mix de folhas verdes (alface, rúcula, agrião) a gosto",
+          "2 colheres de sopa de azeite",
+          "1 colher de sopa de vinagre de vinho tinto",
+          "1 colher de chá de mostarda Dijon",
+          "Sal e pimenta-do-reino a gosto"
         ],
         "preparo": [
-          "Em uma tigela pequena, misture a manteiga, o alho amassado, a salsinha picada e o sal até formar uma pasta homogênea.",
-          "Espalhe generosamente a pasta de alho nas fatias de pão. Se desejar, polvilhe queijo parmesão ralado por cima.",
-          "Pré-aqueça a air fryer a 180°C por 3 minutos.",
-          "Disponha as fatias de pão na cesta da air fryer, sem sobrepor. Asse por 5-8 minutos, ou até ficarem douradas e crocantes. Sirva imediatamente."
+          "Pré-aqueça a Air Fryer a 200°C por 5 minutos.",
+          "Em uma tigela, misture o grão-de-bico com 1 colher de sopa de azeite, sal e pimenta-do-reino.",
+          "Disponha o grão-de-bico na cesta da Air Fryer e asse por 15-20 minutos, sacudindo a cesta ocasionalmente, até ficar crocante.",
+          "Enquanto o grão-de-bico assa, prepare o molho misturando o azeite restante, vinagre, mostarda, sal e pimenta-do-reino.",
+          "Em uma saladeira, junte as folhas verdes, o rabanete fatiado e o grão-de-bico crocante. Regue com o molho e sirva imediatamente."
         ],
-        "id": "p-o-de-alho-na-air-fryer-be6cd7"
+        "id": "salada-de-rabanete-e-gr-o-de-bico-assado-a8f926"
       },
       {
-        "nome": "Brigadeiro de Panela Cremoso",
+        "nome": "Pudim de Maçã com 3 Ingredientes e Sem Forno",
         "curso": "sobremesa",
-        "tempo": "20 min",
-        "url": "https://www.tudogostoso.com.br/receita/22749-brigadeiro-de-panela.html",
-        "porque": "Sobremesa clássica brasileira, rápida e fácil de preparar na panela, ideal para satisfazer a vontade de um doce cremoso.",
+        "tempo": "15 min",
+        "url": "https://www.minhavida.com.br/receitas/18579-pudim-de-maca-com-3-ingredientes-e-sem-forno",
+        "porque": "Sobremesa prática, leve e rápida de preparar, utilizando apenas três ingredientes e sem a necessidade de forno.",
         "tags": [
           "rapido",
-          "vegetariano"
+          "sobremesa",
+          "fruta"
         ],
         "rende_sobra": true,
         "ingredientes": [
-          "1 lata de leite condensado (395g)",
-          "2 colheres de sopa de chocolate em pó 50% cacau",
-          "1 colher de sopa de manteiga sem sal",
-          "Granulado de chocolate para decorar (opcional)"
+          "2 maçãs grandes, descascadas e picadas",
+          "1 lata de leite condensado",
+          "1 caixa de creme de leite",
+          "Opcional: canela em pó para polvilhar"
         ],
         "preparo": [
-          "Em uma panela de fundo grosso, adicione o leite condensado, o chocolate em pó e a manteiga.",
-          "Misture bem todos os ingredientes antes de levar ao fogo médio.",
-          "Cozinhe, mexendo sempre com uma colher de pau ou espátula, até a mistura começar a desgrudar do fundo da panela (ponto de brigadeiro de colher).",
-          "Desligue o fogo e transfira o brigadeiro para um prato untado com manteiga para esfriar. Sirva morno ou frio, com granulado se desejar."
+          "No liquidificador, bata as maçãs picadas com o leite condensado até obter um creme homogêneo.",
+          "Adicione o creme de leite e bata novamente por cerca de 1 minuto, até incorporar bem.",
+          "Despeje a mistura em um refratário pequeno ou em taças individuais.",
+          "Leve à geladeira por pelo menos 4 horas, ou até firmar. Sirva gelado, opcionalmente polvilhado com canela em pó."
         ],
-        "id": "brigadeiro-de-panela-cremoso-14d7ce"
+        "id": "pudim-de-ma-com-3-ingredientes-e-sem-for-ef8848"
       }
     ]
   },
